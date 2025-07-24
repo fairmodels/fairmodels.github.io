@@ -16,5 +16,4 @@ permalink: /
  loop>
 </dotlottie-wc>
 
-The data used to train modern AI models often contains strong hidden biases, shaping — and limiting — what we recognize as knowledge. In today's world, where large language models (LLMs) influence nearly every field, these biases matter more than ever. <a href="https://fairtrain.github.io">FairTrain</a> addresses this crucial challenge by collecting diverse texts, audio recordings, and videos in each of the 7,000+ human languages, helping ensure AI systems reflect the rich diversity of global human knowledge.
-
+Modern AI systems are trained on datasets that exclude more than 99% of the world’s living languages. As large language models increasingly shape research, education, industry, and policy, this imbalance determines whose knowledge is visible — and whose is erased. [Fairtrain](https://fairtrain.github.io/) is envisioned as an open‑source, community‑owned project that crowdsources and curates openly licensed text, audio, and video across more than 7000 living human languages, building training corpora that reflect the full diversity of human knowledge. By expanding linguistic representation at scale, we work toward AI systems that are more equitable, reliable, and responsive to every human community.
