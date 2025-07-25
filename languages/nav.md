@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Navajo  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: 0.44  
-**Digitality Score**: 2.47  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 2.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Navajo*
+*Help us collect text resources for Navajo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Navajo*
+*Help us collect audio resources for Navajo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Navajo*
+*Help us collect video resources for Navajo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Piaroa  
 **Region/Area**: South America, Americas  
 **Family**: Sálivan  
-**Vitality Score**: 0.28  
-**Digitality Score**: 0.31  
+**Grassroots Presence (z-score)**: 0.28  
+**Web Presence (z-score)**: 0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Piaroa*
+*Help us collect text resources for Piaroa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Piaroa*
+*Help us collect audio resources for Piaroa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Piaroa*
+*Help us collect video resources for Piaroa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

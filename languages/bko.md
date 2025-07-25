@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nsiteu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.32  
-**Digitality Score**: -0.65  
+**Grassroots Presence (z-score)**: -0.32  
+**Web Presence (z-score)**: -0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nsiteu*
+*Help us collect text resources for Nsiteu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nsiteu*
+*Help us collect audio resources for Nsiteu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nsiteu*
+*Help us collect video resources for Nsiteu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

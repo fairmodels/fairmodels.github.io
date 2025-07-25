@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mekmek  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Yuat  
-**Vitality Score**: -0.01  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mekmek*
+*Help us collect text resources for Mekmek*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mekmek*
+*Help us collect audio resources for Mekmek*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mekmek*
+*Help us collect video resources for Mekmek*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

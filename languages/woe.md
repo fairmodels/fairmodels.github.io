@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Woleaian  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.01  
-**Digitality Score**: -0.30  
+**Grassroots Presence (z-score)**: 0.01  
+**Web Presence (z-score)**: -0.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Woleaian*
+*Help us collect text resources for Woleaian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Woleaian*
+*Help us collect audio resources for Woleaian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Woleaian*
+*Help us collect video resources for Woleaian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

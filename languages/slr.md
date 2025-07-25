@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Salar  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Turkic  
-**Vitality Score**: 0.33  
-**Digitality Score**: 0.41  
+**Grassroots Presence (z-score)**: 0.33  
+**Web Presence (z-score)**: 0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Salar*
+*Help us collect text resources for Salar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Salar*
+*Help us collect audio resources for Salar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Salar*
+*Help us collect video resources for Salar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bonan  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Mongolic  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.66  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bonan*
+*Help us collect text resources for Bonan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bonan*
+*Help us collect audio resources for Bonan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bonan*
+*Help us collect video resources for Bonan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ohlone, Southern
+title: Southern Ohlone
 parent: Languages
 ---
 
-# Ohlone, Southern (css)
+# Southern Ohlone (css)
 
 ## Overview
 
-**Language**: Ohlone, Southern  
+**Language**: Southern Ohlone  
 **Region/Area**: Northern America, Americas  
 **Family**: Miwok-Costanoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.41  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ohlone, Southern*
+*Help us collect text resources for Southern Ohlone*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ohlone, Southern*
+*Help us collect audio resources for Southern Ohlone*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ohlone, Southern*
+*Help us collect video resources for Southern Ohlone*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wahgi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.72  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: 0.72  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wahgi*
+*Help us collect text resources for Wahgi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wahgi*
+*Help us collect audio resources for Wahgi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wahgi*
+*Help us collect video resources for Wahgi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

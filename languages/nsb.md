@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lower Nossob  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Tuu  
-**Vitality Score**: -2.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lower Nossob*
+*Help us collect text resources for Lower Nossob*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lower Nossob*
+*Help us collect audio resources for Lower Nossob*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lower Nossob*
+*Help us collect video resources for Lower Nossob*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

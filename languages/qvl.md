@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Cajatambo North Lima
+title: Cajatambo North Lima Quechua
 parent: Languages
 ---
 
-# Quechua, Cajatambo North Lima (qvl)
+# Cajatambo North Lima Quechua (qvl)
 
 ## Overview
 
-**Language**: Quechua, Cajatambo North Lima  
+**Language**: Cajatambo North Lima Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -0.12  
-**Digitality Score**: 0.42  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: 0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Cajatambo North Lima*
+*Help us collect text resources for Cajatambo North Lima Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Cajatambo North Lima*
+*Help us collect audio resources for Cajatambo North Lima Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Cajatambo North Lima*
+*Help us collect video resources for Cajatambo North Lima Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

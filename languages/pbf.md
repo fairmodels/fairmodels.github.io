@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Popoloca, Coyotepec
+title: Coyotepec Popoloca
 parent: Languages
 ---
 
-# Popoloca, Coyotepec (pbf)
+# Coyotepec Popoloca (pbf)
 
 ## Overview
 
-**Language**: Popoloca, Coyotepec  
+**Language**: Coyotepec Popoloca  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.77  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.77  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Popoloca, Coyotepec*
+*Help us collect text resources for Coyotepec Popoloca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Popoloca, Coyotepec*
+*Help us collect audio resources for Coyotepec Popoloca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Popoloca, Coyotepec*
+*Help us collect video resources for Coyotepec Popoloca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

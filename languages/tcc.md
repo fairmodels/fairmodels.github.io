@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Datooga  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.90  
-**Digitality Score**: 0.83  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: 0.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Datooga*
+*Help us collect text resources for Datooga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Datooga*
+*Help us collect audio resources for Datooga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Datooga*
+*Help us collect video resources for Datooga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

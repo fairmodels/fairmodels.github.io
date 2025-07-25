@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Buang, Central
+title: Central Buang
 parent: Languages
 ---
 
-# Buang, Central (bzh)
+# Central Buang (bzh)
 
 ## Overview
 
-**Language**: Buang, Central  
+**Language**: Central Buang  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.03  
-**Digitality Score**: 1.00  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: 1.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Buang, Central*
+*Help us collect text resources for Central Buang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Buang, Central*
+*Help us collect audio resources for Central Buang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Buang, Central*
+*Help us collect video resources for Central Buang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

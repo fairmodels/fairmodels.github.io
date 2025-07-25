@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kabuverdianu  
 **Region/Area**: Western Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 1.73  
-**Digitality Score**: 2.18  
+**Grassroots Presence (z-score)**: 1.73  
+**Web Presence (z-score)**: 2.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kabuverdianu*
+*Help us collect text resources for Kabuverdianu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kabuverdianu*
+*Help us collect audio resources for Kabuverdianu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kabuverdianu*
+*Help us collect video resources for Kabuverdianu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

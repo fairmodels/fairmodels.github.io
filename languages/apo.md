@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ambul  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.03  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ambul*
+*Help us collect text resources for Ambul*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ambul*
+*Help us collect audio resources for Ambul*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ambul*
+*Help us collect video resources for Ambul*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

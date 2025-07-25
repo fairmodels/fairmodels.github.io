@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Muria, Far Western
+title: Far Western Muria
 parent: Languages
 ---
 
-# Muria, Far Western (fmu)
+# Far Western Muria (fmu)
 
 ## Overview
 
-**Language**: Muria, Far Western  
+**Language**: Far Western Muria  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 1.02  
-**Digitality Score**: -0.06  
+**Grassroots Presence (z-score)**: 1.02  
+**Web Presence (z-score)**: -0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Muria, Far Western*
+*Help us collect text resources for Far Western Muria*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Muria, Far Western*
+*Help us collect audio resources for Far Western Muria*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Muria, Far Western*
+*Help us collect video resources for Far Western Muria*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

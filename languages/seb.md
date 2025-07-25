@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sénoufo, Shempire
+title: Shempire Sénoufo
 parent: Languages
 ---
 
-# Sénoufo, Shempire (seb)
+# Shempire Sénoufo (seb)
 
 ## Overview
 
-**Language**: Sénoufo, Shempire  
+**Language**: Shempire Sénoufo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.66  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.66  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sénoufo, Shempire*
+*Help us collect text resources for Shempire Sénoufo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sénoufo, Shempire*
+*Help us collect audio resources for Shempire Sénoufo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sénoufo, Shempire*
+*Help us collect video resources for Shempire Sénoufo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

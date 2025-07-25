@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixe, North Central
+title: North Central Mixe
 parent: Languages
 ---
 
-# Mixe, North Central (neq)
+# North Central Mixe (neq)
 
 ## Overview
 
-**Language**: Mixe, North Central  
+**Language**: North Central Mixe  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: 0.58  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixe, North Central*
+*Help us collect text resources for North Central Mixe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixe, North Central*
+*Help us collect audio resources for North Central Mixe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixe, North Central*
+*Help us collect video resources for North Central Mixe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

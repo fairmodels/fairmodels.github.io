@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bontok, Eastern
+title: Eastern Bontok
 parent: Languages
 ---
 
-# Bontok, Eastern (ebk)
+# Eastern Bontok (ebk)
 
 ## Overview
 
-**Language**: Bontok, Eastern  
+**Language**: Eastern Bontok  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.49  
-**Digitality Score**: 0.50  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: 0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bontok, Eastern*
+*Help us collect text resources for Eastern Bontok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bontok, Eastern*
+*Help us collect audio resources for Eastern Bontok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bontok, Eastern*
+*Help us collect video resources for Eastern Bontok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

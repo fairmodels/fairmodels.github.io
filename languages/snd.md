@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sindhi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.22  
-**Digitality Score**: 3.57  
+**Grassroots Presence (z-score)**: 2.22  
+**Web Presence (z-score)**: 3.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sindhi*
+*Help us collect text resources for Sindhi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sindhi*
+*Help us collect audio resources for Sindhi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sindhi*
+*Help us collect video resources for Sindhi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

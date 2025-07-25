@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Teiwa  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.12  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Teiwa*
+*Help us collect text resources for Teiwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Teiwa*
+*Help us collect audio resources for Teiwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Teiwa*
+*Help us collect video resources for Teiwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

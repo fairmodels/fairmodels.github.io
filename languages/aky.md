@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aka-Kol  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Andamanese  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aka-Kol*
+*Help us collect text resources for Aka-Kol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aka-Kol*
+*Help us collect audio resources for Aka-Kol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aka-Kol*
+*Help us collect video resources for Aka-Kol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

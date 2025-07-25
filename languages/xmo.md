@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Morerebi  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -0.50  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.50  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Morerebi*
+*Help us collect text resources for Morerebi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Morerebi*
+*Help us collect audio resources for Morerebi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Morerebi*
+*Help us collect video resources for Morerebi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: French, Cajun
+title: Cajun French
 parent: Languages
 ---
 
-# French, Cajun (frc)
+# Cajun French (frc)
 
 ## Overview
 
-**Language**: French, Cajun  
+**Language**: Cajun French  
 **Region/Area**: Northern America, Americas  
 **Family**: Indo-European  
-**Vitality Score**: -0.04  
-**Digitality Score**: 0.04  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: 0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for French, Cajun*
+*Help us collect text resources for Cajun French*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for French, Cajun*
+*Help us collect audio resources for Cajun French*
 
 ### Video Resources
-*Coming soon - help us collect video resources for French, Cajun*
+*Help us collect video resources for Cajun French*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

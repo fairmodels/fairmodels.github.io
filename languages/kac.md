@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jingpho  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.76  
-**Digitality Score**: 2.65  
+**Grassroots Presence (z-score)**: 1.76  
+**Web Presence (z-score)**: 2.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jingpho*
+*Help us collect text resources for Jingpho*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jingpho*
+*Help us collect audio resources for Jingpho*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jingpho*
+*Help us collect video resources for Jingpho*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

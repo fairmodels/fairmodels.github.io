@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Juba
+title: Juba Arabic
 parent: Languages
 ---
 
-# Arabic, Juba (pga)
+# Juba Arabic (pga)
 
 ## Overview
 
-**Language**: Arabic, Juba  
+**Language**: Juba Arabic  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 1.81  
-**Digitality Score**: 2.21  
+**Grassroots Presence (z-score)**: 1.81  
+**Web Presence (z-score)**: 2.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Juba*
+*Help us collect text resources for Juba Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Juba*
+*Help us collect audio resources for Juba Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Juba*
+*Help us collect video resources for Juba Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

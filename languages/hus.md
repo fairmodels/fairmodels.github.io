@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Huastec  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.91  
-**Digitality Score**: 1.65  
+**Grassroots Presence (z-score)**: 0.91  
+**Web Presence (z-score)**: 1.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Huastec*
+*Help us collect text resources for Huastec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Huastec*
+*Help us collect audio resources for Huastec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Huastec*
+*Help us collect video resources for Huastec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

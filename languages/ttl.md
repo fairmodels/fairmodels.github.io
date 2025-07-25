@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Totela  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.20  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.20  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Totela*
+*Help us collect text resources for Totela*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Totela*
+*Help us collect audio resources for Totela*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Totela*
+*Help us collect video resources for Totela*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

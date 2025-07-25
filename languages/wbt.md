@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Warnman  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.42  
-**Digitality Score**: -0.72  
+**Grassroots Presence (z-score)**: -1.42  
+**Web Presence (z-score)**: -0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Warnman*
+*Help us collect text resources for Warnman*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Warnman*
+*Help us collect audio resources for Warnman*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Warnman*
+*Help us collect video resources for Warnman*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

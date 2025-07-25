@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Urum  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: -0.37  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Urum*
+*Help us collect text resources for Urum*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Urum*
+*Help us collect audio resources for Urum*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Urum*
+*Help us collect video resources for Urum*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

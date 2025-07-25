@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yugur, West
+title: West Yugur
 parent: Languages
 ---
 
-# Yugur, West (ybe)
+# West Yugur (ybe)
 
 ## Overview
 
-**Language**: Yugur, West  
+**Language**: West Yugur  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Turkic  
-**Vitality Score**: -0.49  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: -0.49  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yugur, West*
+*Help us collect text resources for West Yugur*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yugur, West*
+*Help us collect audio resources for West Yugur*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yugur, West*
+*Help us collect video resources for West Yugur*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

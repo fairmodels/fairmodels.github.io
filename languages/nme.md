@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Mzieme
+title: Mzieme Naga
 parent: Languages
 ---
 
-# Naga, Mzieme (nme)
+# Mzieme Naga (nme)
 
 ## Overview
 
-**Language**: Naga, Mzieme  
+**Language**: Mzieme Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.69  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Mzieme*
+*Help us collect text resources for Mzieme Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Mzieme*
+*Help us collect audio resources for Mzieme Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Mzieme*
+*Help us collect video resources for Mzieme Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

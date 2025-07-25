@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Matlatzinca, San Francisco
+title: San Francisco Matlatzinca
 parent: Languages
 ---
 
-# Matlatzinca, San Francisco (mat)
+# San Francisco Matlatzinca (mat)
 
 ## Overview
 
-**Language**: Matlatzinca, San Francisco  
+**Language**: San Francisco Matlatzinca  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.74  
-**Digitality Score**: 0.38  
+**Grassroots Presence (z-score)**: -0.74  
+**Web Presence (z-score)**: 0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Matlatzinca, San Francisco*
+*Help us collect text resources for San Francisco Matlatzinca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Matlatzinca, San Francisco*
+*Help us collect audio resources for San Francisco Matlatzinca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Matlatzinca, San Francisco*
+*Help us collect video resources for San Francisco Matlatzinca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

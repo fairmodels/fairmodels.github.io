@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Ata
+title: Ata Manobo
 parent: Languages
 ---
 
-# Manobo, Ata (atd)
+# Ata Manobo (atd)
 
 ## Overview
 
-**Language**: Manobo, Ata  
+**Language**: Ata Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.57  
-**Digitality Score**: 0.87  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: 0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Ata*
+*Help us collect text resources for Ata Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Ata*
+*Help us collect audio resources for Ata Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Ata*
+*Help us collect video resources for Ata Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

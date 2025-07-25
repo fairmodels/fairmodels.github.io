@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karankawa  
 **Region/Area**: Northern America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karankawa*
+*Help us collect text resources for Karankawa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karankawa*
+*Help us collect audio resources for Karankawa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karankawa*
+*Help us collect video resources for Karankawa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

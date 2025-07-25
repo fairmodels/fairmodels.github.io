@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mandahuaca  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mandahuaca*
+*Help us collect text resources for Mandahuaca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mandahuaca*
+*Help us collect audio resources for Mandahuaca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mandahuaca*
+*Help us collect video resources for Mandahuaca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

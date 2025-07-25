@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tharu, Kathariya
+title: Kathariya Tharu
 parent: Languages
 ---
 
-# Tharu, Kathariya (tkt)
+# Kathariya Tharu (tkt)
 
 ## Overview
 
-**Language**: Tharu, Kathariya  
+**Language**: Kathariya Tharu  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.57  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tharu, Kathariya*
+*Help us collect text resources for Kathariya Tharu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tharu, Kathariya*
+*Help us collect audio resources for Kathariya Tharu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tharu, Kathariya*
+*Help us collect video resources for Kathariya Tharu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

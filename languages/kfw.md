@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Kharam
+title: Kharam Naga
 parent: Languages
 ---
 
-# Naga, Kharam (kfw)
+# Kharam Naga (kfw)
 
 ## Overview
 
-**Language**: Naga, Kharam  
+**Language**: Kharam Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.30  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Kharam*
+*Help us collect text resources for Kharam Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Kharam*
+*Help us collect audio resources for Kharam Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Kharam*
+*Help us collect video resources for Kharam Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ravula  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.68  
-**Digitality Score**: 0.11  
+**Grassroots Presence (z-score)**: 0.68  
+**Web Presence (z-score)**: 0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ravula*
+*Help us collect text resources for Ravula*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ravula*
+*Help us collect audio resources for Ravula*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ravula*
+*Help us collect video resources for Ravula*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Slavey, North
+title: North Slavey
 parent: Languages
 ---
 
-# Slavey, North (scs)
+# North Slavey (scs)
 
 ## Overview
 
-**Language**: Slavey, North  
+**Language**: North Slavey  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.32  
-**Digitality Score**: 0.20  
+**Grassroots Presence (z-score)**: -0.32  
+**Web Presence (z-score)**: 0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Slavey, North*
+*Help us collect text resources for North Slavey*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Slavey, North*
+*Help us collect audio resources for North Slavey*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Slavey, North*
+*Help us collect video resources for North Slavey*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

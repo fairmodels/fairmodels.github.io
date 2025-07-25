@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Yatee
+title: Yatee Zapotec
 parent: Languages
 ---
 
-# Zapotec, Yatee (zty)
+# Yatee Zapotec (zty)
 
 ## Overview
 
-**Language**: Zapotec, Yatee  
+**Language**: Yatee Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.46  
-**Digitality Score**: 0.98  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 0.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Yatee*
+*Help us collect text resources for Yatee Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Yatee*
+*Help us collect audio resources for Yatee Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Yatee*
+*Help us collect video resources for Yatee Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

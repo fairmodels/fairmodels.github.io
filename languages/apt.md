@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Apatani  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.27  
-**Digitality Score**: 0.22  
+**Grassroots Presence (z-score)**: 0.27  
+**Web Presence (z-score)**: 0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Apatani*
+*Help us collect text resources for Apatani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Apatani*
+*Help us collect audio resources for Apatani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Apatani*
+*Help us collect video resources for Apatani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

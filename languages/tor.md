@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Banda, Togbo-Vara
+title: Togbo-Vara Banda
 parent: Languages
 ---
 
-# Banda, Togbo-Vara (tor)
+# Togbo-Vara Banda (tor)
 
 ## Overview
 
-**Language**: Banda, Togbo-Vara  
+**Language**: Togbo-Vara Banda  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.35  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Banda, Togbo-Vara*
+*Help us collect text resources for Togbo-Vara Banda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Banda, Togbo-Vara*
+*Help us collect audio resources for Togbo-Vara Banda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Banda, Togbo-Vara*
+*Help us collect video resources for Togbo-Vara Banda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

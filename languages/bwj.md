@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bwamu, Láá Láá
+title: Láá Láá Bwamu
 parent: Languages
 ---
 
-# Bwamu, Láá Láá (bwj)
+# Láá Láá Bwamu (bwj)
 
 ## Overview
 
-**Language**: Bwamu, Láá Láá  
+**Language**: Láá Láá Bwamu  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.80  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bwamu, Láá Láá*
+*Help us collect text resources for Láá Láá Bwamu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bwamu, Láá Láá*
+*Help us collect audio resources for Láá Láá Bwamu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bwamu, Láá Láá*
+*Help us collect video resources for Láá Láá Bwamu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Munit  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.07  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Munit*
+*Help us collect text resources for Munit*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Munit*
+*Help us collect audio resources for Munit*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Munit*
+*Help us collect video resources for Munit*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

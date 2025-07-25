@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Pu-Xian
+title: Pu-Xian Chinese
 parent: Languages
 ---
 
-# Chinese, Pu-Xian (cpx)
+# Pu-Xian Chinese (cpx)
 
 ## Overview
 
-**Language**: Chinese, Pu-Xian  
+**Language**: Pu-Xian Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.28  
-**Digitality Score**: 3.52  
+**Grassroots Presence (z-score)**: 1.28  
+**Web Presence (z-score)**: 3.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Pu-Xian*
+*Help us collect text resources for Pu-Xian Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Pu-Xian*
+*Help us collect audio resources for Pu-Xian Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Pu-Xian*
+*Help us collect video resources for Pu-Xian Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

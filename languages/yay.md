@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Agwagwune  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.64  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Agwagwune*
+*Help us collect text resources for Agwagwune*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Agwagwune*
+*Help us collect audio resources for Agwagwune*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Agwagwune*
+*Help us collect video resources for Agwagwune*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

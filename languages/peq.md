@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pomo, Southern
+title: Southern Pomo
 parent: Languages
 ---
 
-# Pomo, Southern (peq)
+# Southern Pomo (peq)
 
 ## Overview
 
-**Language**: Pomo, Southern  
+**Language**: Southern Pomo  
 **Region/Area**: Northern America, Americas  
 **Family**: Pomoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.15  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pomo, Southern*
+*Help us collect text resources for Southern Pomo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pomo, Southern*
+*Help us collect audio resources for Southern Pomo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pomo, Southern*
+*Help us collect video resources for Southern Pomo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

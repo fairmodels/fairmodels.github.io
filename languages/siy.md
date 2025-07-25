@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sivandi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sivandi*
+*Help us collect text resources for Sivandi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sivandi*
+*Help us collect audio resources for Sivandi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sivandi*
+*Help us collect video resources for Sivandi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

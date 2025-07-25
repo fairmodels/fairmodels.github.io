@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mahican  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mahican*
+*Help us collect text resources for Mahican*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mahican*
+*Help us collect audio resources for Mahican*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mahican*
+*Help us collect video resources for Mahican*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

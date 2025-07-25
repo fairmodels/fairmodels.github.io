@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Inga, Jungle
+title: Jungle Inga
 parent: Languages
 ---
 
-# Inga, Jungle (inj)
+# Jungle Inga (inj)
 
 ## Overview
 
-**Language**: Inga, Jungle  
+**Language**: Jungle Inga  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.25  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: 0.25  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Inga, Jungle*
+*Help us collect text resources for Jungle Inga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Inga, Jungle*
+*Help us collect audio resources for Jungle Inga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Inga, Jungle*
+*Help us collect video resources for Jungle Inga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

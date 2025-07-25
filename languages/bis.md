@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bislama  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Creole  
-**Vitality Score**: 2.13  
-**Digitality Score**: 3.05  
+**Grassroots Presence (z-score)**: 2.13  
+**Web Presence (z-score)**: 3.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bislama*
+*Help us collect text resources for Bislama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bislama*
+*Help us collect audio resources for Bislama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bislama*
+*Help us collect video resources for Bislama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

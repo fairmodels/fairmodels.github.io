@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Scottish Gaelic  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.75  
-**Digitality Score**: 3.75  
+**Grassroots Presence (z-score)**: 1.75  
+**Web Presence (z-score)**: 3.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Scottish Gaelic*
+*Help us collect text resources for Scottish Gaelic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Scottish Gaelic*
+*Help us collect audio resources for Scottish Gaelic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Scottish Gaelic*
+*Help us collect video resources for Scottish Gaelic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

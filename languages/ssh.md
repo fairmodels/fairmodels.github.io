@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Shihhi
+title: Shihhi Arabic
 parent: Languages
 ---
 
-# Arabic, Shihhi (ssh)
+# Shihhi Arabic (ssh)
 
 ## Overview
 
-**Language**: Arabic, Shihhi  
+**Language**: Shihhi Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.41  
-**Digitality Score**: 1.87  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: 1.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Shihhi*
+*Help us collect text resources for Shihhi Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Shihhi*
+*Help us collect audio resources for Shihhi Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Shihhi*
+*Help us collect video resources for Shihhi Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

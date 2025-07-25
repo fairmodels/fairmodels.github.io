@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Romano-Greek  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Mixed language  
-**Vitality Score**: -1.28  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -1.28  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romano-Greek*
+*Help us collect text resources for Romano-Greek*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romano-Greek*
+*Help us collect audio resources for Romano-Greek*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romano-Greek*
+*Help us collect video resources for Romano-Greek*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

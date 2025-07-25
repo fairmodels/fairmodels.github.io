@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Asunción Mixtepec
+title: Asunción Mixtepec Zapotec
 parent: Languages
 ---
 
-# Zapotec, Asunción Mixtepec (zoo)
+# Asunción Mixtepec Zapotec (zoo)
 
 ## Overview
 
-**Language**: Zapotec, Asunción Mixtepec  
+**Language**: Asunción Mixtepec Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -1.13  
-**Digitality Score**: 0.87  
+**Grassroots Presence (z-score)**: -1.13  
+**Web Presence (z-score)**: 0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Asunción Mixtepec*
+*Help us collect text resources for Asunción Mixtepec Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Asunción Mixtepec*
+*Help us collect audio resources for Asunción Mixtepec Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Asunción Mixtepec*
+*Help us collect video resources for Asunción Mixtepec Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

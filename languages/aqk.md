@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aninka  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.14  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aninka*
+*Help us collect text resources for Aninka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aninka*
+*Help us collect audio resources for Aninka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aninka*
+*Help us collect video resources for Aninka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

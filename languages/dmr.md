@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Damar, East
+title: East Damar
 parent: Languages
 ---
 
-# Damar, East (dmr)
+# East Damar (dmr)
 
 ## Overview
 
-**Language**: Damar, East  
+**Language**: East Damar  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.13  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Damar, East*
+*Help us collect text resources for East Damar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Damar, East*
+*Help us collect audio resources for East Damar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Damar, East*
+*Help us collect video resources for East Damar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

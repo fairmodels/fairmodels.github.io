@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Soninke  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.24  
-**Digitality Score**: 1.17  
+**Grassroots Presence (z-score)**: 1.24  
+**Web Presence (z-score)**: 1.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Soninke*
+*Help us collect text resources for Soninke*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Soninke*
+*Help us collect audio resources for Soninke*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Soninke*
+*Help us collect video resources for Soninke*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

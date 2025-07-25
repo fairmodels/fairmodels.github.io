@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bidayuh, Tringgus-Sembaan
+title: Tringgus-Sembaan Bidayuh
 parent: Languages
 ---
 
-# Bidayuh, Tringgus-Sembaan (trx)
+# Tringgus-Sembaan Bidayuh (trx)
 
 ## Overview
 
-**Language**: Bidayuh, Tringgus-Sembaan  
+**Language**: Tringgus-Sembaan Bidayuh  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.03  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bidayuh, Tringgus-Sembaan*
+*Help us collect text resources for Tringgus-Sembaan Bidayuh*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bidayuh, Tringgus-Sembaan*
+*Help us collect audio resources for Tringgus-Sembaan Bidayuh*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bidayuh, Tringgus-Sembaan*
+*Help us collect video resources for Tringgus-Sembaan Bidayuh*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

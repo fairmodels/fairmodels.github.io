@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nuer  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.52  
-**Digitality Score**: 2.11  
+**Grassroots Presence (z-score)**: 1.52  
+**Web Presence (z-score)**: 2.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nuer*
+*Help us collect text resources for Nuer*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nuer*
+*Help us collect audio resources for Nuer*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nuer*
+*Help us collect video resources for Nuer*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

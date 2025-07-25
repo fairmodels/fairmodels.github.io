@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tamazight, Standard Moroccan
+title: Standard Moroccan Tamazight
 parent: Languages
 ---
 
-# Tamazight, Standard Moroccan (zgh)
+# Standard Moroccan Tamazight (zgh)
 
 ## Overview
 
-**Language**: Tamazight, Standard Moroccan  
+**Language**: Standard Moroccan Tamazight  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.64  
-**Digitality Score**: 1.65  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 1.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tamazight, Standard Moroccan*
+*Help us collect text resources for Standard Moroccan Tamazight*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tamazight, Standard Moroccan*
+*Help us collect audio resources for Standard Moroccan Tamazight*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tamazight, Standard Moroccan*
+*Help us collect video resources for Standard Moroccan Tamazight*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

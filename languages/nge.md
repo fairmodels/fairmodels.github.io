@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ngemba  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.63  
-**Digitality Score**: 0.47  
+**Grassroots Presence (z-score)**: 0.63  
+**Web Presence (z-score)**: 0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ngemba*
+*Help us collect text resources for Ngemba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ngemba*
+*Help us collect audio resources for Ngemba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ngemba*
+*Help us collect video resources for Ngemba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

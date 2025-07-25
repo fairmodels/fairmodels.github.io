@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kohin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.05  
-**Digitality Score**: -0.65  
+**Grassroots Presence (z-score)**: 0.05  
+**Web Presence (z-score)**: -0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kohin*
+*Help us collect text resources for Kohin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kohin*
+*Help us collect audio resources for Kohin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kohin*
+*Help us collect video resources for Kohin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

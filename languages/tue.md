@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tuyuca  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: -0.17  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tuyuca*
+*Help us collect text resources for Tuyuca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tuyuca*
+*Help us collect audio resources for Tuyuca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tuyuca*
+*Help us collect video resources for Tuyuca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

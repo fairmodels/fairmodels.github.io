@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Muji, Northern
+title: Northern Muji
 parent: Languages
 ---
 
-# Muji, Northern (ymx)
+# Northern Muji (ymx)
 
 ## Overview
 
-**Language**: Muji, Northern  
+**Language**: Northern Muji  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.09  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.09  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Muji, Northern*
+*Help us collect text resources for Northern Muji*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Muji, Northern*
+*Help us collect audio resources for Northern Muji*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Muji, Northern*
+*Help us collect video resources for Northern Muji*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gwa  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gwa*
+*Help us collect text resources for Gwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gwa*
+*Help us collect audio resources for Gwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gwa*
+*Help us collect video resources for Gwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

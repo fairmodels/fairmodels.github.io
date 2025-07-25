@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mandaya  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.50  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mandaya*
+*Help us collect text resources for Mandaya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mandaya*
+*Help us collect audio resources for Mandaya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mandaya*
+*Help us collect video resources for Mandaya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

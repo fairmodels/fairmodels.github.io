@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Southern Lushootseed  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Southern Lushootseed*
+*Help us collect text resources for Southern Lushootseed*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Southern Lushootseed*
+*Help us collect audio resources for Southern Lushootseed*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Southern Lushootseed*
+*Help us collect video resources for Southern Lushootseed*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

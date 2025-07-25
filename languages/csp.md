@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pinghua, Southern
+title: Southern Pinghua
 parent: Languages
 ---
 
-# Pinghua, Southern (csp)
+# Southern Pinghua (csp)
 
 ## Overview
 
-**Language**: Pinghua, Southern  
+**Language**: Southern Pinghua  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.24  
-**Digitality Score**: 3.15  
+**Grassroots Presence (z-score)**: 1.24  
+**Web Presence (z-score)**: 3.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pinghua, Southern*
+*Help us collect text resources for Southern Pinghua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pinghua, Southern*
+*Help us collect audio resources for Southern Pinghua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pinghua, Southern*
+*Help us collect video resources for Southern Pinghua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

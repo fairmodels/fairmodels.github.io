@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Javanese  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.99  
-**Digitality Score**: 4.23  
+**Grassroots Presence (z-score)**: 1.99  
+**Web Presence (z-score)**: 4.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Javanese*
+*Help us collect text resources for Javanese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Javanese*
+*Help us collect audio resources for Javanese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Javanese*
+*Help us collect video resources for Javanese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

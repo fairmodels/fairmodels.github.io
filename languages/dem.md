@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dem  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dem*
+*Help us collect text resources for Dem*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dem*
+*Help us collect audio resources for Dem*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dem*
+*Help us collect video resources for Dem*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

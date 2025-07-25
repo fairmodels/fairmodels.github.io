@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dinka, Southeastern
+title: Southeastern Dinka
 parent: Languages
 ---
 
-# Dinka, Southeastern (dks)
+# Southeastern Dinka (dks)
 
 ## Overview
 
-**Language**: Dinka, Southeastern  
+**Language**: Southeastern Dinka  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.14  
-**Digitality Score**: 1.67  
+**Grassroots Presence (z-score)**: 1.14  
+**Web Presence (z-score)**: 1.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dinka, Southeastern*
+*Help us collect text resources for Southeastern Dinka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dinka, Southeastern*
+*Help us collect audio resources for Southeastern Dinka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dinka, Southeastern*
+*Help us collect video resources for Southeastern Dinka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

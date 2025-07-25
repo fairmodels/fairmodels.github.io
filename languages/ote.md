@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Otomi, Mezquital
+title: Mezquital Otomi
 parent: Languages
 ---
 
-# Otomi, Mezquital (ote)
+# Mezquital Otomi (ote)
 
 ## Overview
 
-**Language**: Otomi, Mezquital  
+**Language**: Mezquital Otomi  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.83  
-**Digitality Score**: 1.23  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: 1.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Otomi, Mezquital*
+*Help us collect text resources for Mezquital Otomi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Otomi, Mezquital*
+*Help us collect audio resources for Mezquital Otomi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Otomi, Mezquital*
+*Help us collect video resources for Mezquital Otomi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

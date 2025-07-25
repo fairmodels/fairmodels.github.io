@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Goodenough, West
+title: West Goodenough
 parent: Languages
 ---
 
-# Goodenough, West (ddi)
+# West Goodenough (ddi)
 
 ## Overview
 
-**Language**: Goodenough, West  
+**Language**: West Goodenough  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Goodenough, West*
+*Help us collect text resources for West Goodenough*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Goodenough, West*
+*Help us collect audio resources for West Goodenough*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Goodenough, West*
+*Help us collect video resources for West Goodenough*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

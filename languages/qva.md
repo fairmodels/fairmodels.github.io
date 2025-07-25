@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Ambo-Pasco
+title: Ambo-Pasco Quechua
 parent: Languages
 ---
 
-# Quechua, Ambo-Pasco (qva)
+# Ambo-Pasco Quechua (qva)
 
 ## Overview
 
-**Language**: Quechua, Ambo-Pasco  
+**Language**: Ambo-Pasco Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.16  
-**Digitality Score**: 1.24  
+**Grassroots Presence (z-score)**: 0.16  
+**Web Presence (z-score)**: 1.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Ambo-Pasco*
+*Help us collect text resources for Ambo-Pasco Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Ambo-Pasco*
+*Help us collect audio resources for Ambo-Pasco Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Ambo-Pasco*
+*Help us collect video resources for Ambo-Pasco Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

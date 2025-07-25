@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dinka, Southwestern
+title: Southwestern Dinka
 parent: Languages
 ---
 
-# Dinka, Southwestern (dik)
+# Southwestern Dinka (dik)
 
 ## Overview
 
-**Language**: Dinka, Southwestern  
+**Language**: Southwestern Dinka  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.17  
-**Digitality Score**: 2.61  
+**Grassroots Presence (z-score)**: 1.17  
+**Web Presence (z-score)**: 2.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dinka, Southwestern*
+*Help us collect text resources for Southwestern Dinka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dinka, Southwestern*
+*Help us collect audio resources for Southwestern Dinka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dinka, Southwestern*
+*Help us collect video resources for Southwestern Dinka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

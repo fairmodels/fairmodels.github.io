@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kanauji  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.89  
-**Digitality Score**: 0.82  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 0.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanauji*
+*Help us collect text resources for Kanauji*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanauji*
+*Help us collect audio resources for Kanauji*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanauji*
+*Help us collect video resources for Kanauji*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

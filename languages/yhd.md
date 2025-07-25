@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Judeo-Iraqi
+title: Judeo-Iraqi Arabic
 parent: Languages
 ---
 
-# Arabic, Judeo-Iraqi (yhd)
+# Judeo-Iraqi Arabic (yhd)
 
 ## Overview
 
-**Language**: Arabic, Judeo-Iraqi  
+**Language**: Judeo-Iraqi Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.34  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Judeo-Iraqi*
+*Help us collect text resources for Judeo-Iraqi Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Judeo-Iraqi*
+*Help us collect audio resources for Judeo-Iraqi Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Judeo-Iraqi*
+*Help us collect video resources for Judeo-Iraqi Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

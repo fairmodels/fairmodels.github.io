@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Guaraní, Ava
+title: Ava Guaraní
 parent: Languages
 ---
 
-# Guaraní, Ava (nhd)
+# Ava Guaraní (nhd)
 
 ## Overview
 
-**Language**: Guaraní, Ava  
+**Language**: Ava Guaraní  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: 0.14  
-**Digitality Score**: 0.57  
+**Grassroots Presence (z-score)**: 0.14  
+**Web Presence (z-score)**: 0.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Guaraní, Ava*
+*Help us collect text resources for Ava Guaraní*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Guaraní, Ava*
+*Help us collect audio resources for Ava Guaraní*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Guaraní, Ava*
+*Help us collect video resources for Ava Guaraní*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

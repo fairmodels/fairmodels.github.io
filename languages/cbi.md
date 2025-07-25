@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chachi  
 **Region/Area**: South America, Americas  
 **Family**: Barbacoan  
-**Vitality Score**: 0.01  
-**Digitality Score**: 0.94  
+**Grassroots Presence (z-score)**: 0.01  
+**Web Presence (z-score)**: 0.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chachi*
+*Help us collect text resources for Chachi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chachi*
+*Help us collect audio resources for Chachi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chachi*
+*Help us collect video resources for Chachi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

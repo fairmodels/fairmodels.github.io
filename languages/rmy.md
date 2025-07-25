@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Romani, Vlax
+title: Vlax Romani
 parent: Languages
 ---
 
-# Romani, Vlax (rmy)
+# Vlax Romani (rmy)
 
 ## Overview
 
-**Language**: Romani, Vlax  
+**Language**: Vlax Romani  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.39  
-**Digitality Score**: 2.20  
+**Grassroots Presence (z-score)**: 1.39  
+**Web Presence (z-score)**: 2.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romani, Vlax*
+*Help us collect text resources for Vlax Romani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romani, Vlax*
+*Help us collect audio resources for Vlax Romani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romani, Vlax*
+*Help us collect video resources for Vlax Romani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

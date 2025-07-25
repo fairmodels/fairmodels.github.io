@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Piro  
 **Region/Area**: Northern America, Americas  
 **Family**: Kiowa-Tanoan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Piro*
+*Help us collect text resources for Piro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Piro*
+*Help us collect audio resources for Piro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Piro*
+*Help us collect video resources for Piro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

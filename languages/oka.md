@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Okanagan  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -0.50  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: -0.50  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Okanagan*
+*Help us collect text resources for Okanagan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Okanagan*
+*Help us collect audio resources for Okanagan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Okanagan*
+*Help us collect video resources for Okanagan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

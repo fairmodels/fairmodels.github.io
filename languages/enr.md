@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Emem  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Pauwasi  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Emem*
+*Help us collect text resources for Emem*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Emem*
+*Help us collect audio resources for Emem*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Emem*
+*Help us collect video resources for Emem*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

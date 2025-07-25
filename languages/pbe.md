@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Popoloca, Mezontla
+title: Mezontla Popoloca
 parent: Languages
 ---
 
-# Popoloca, Mezontla (pbe)
+# Mezontla Popoloca (pbe)
 
 ## Overview
 
-**Language**: Popoloca, Mezontla  
+**Language**: Mezontla Popoloca  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.60  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.60  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Popoloca, Mezontla*
+*Help us collect text resources for Mezontla Popoloca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Popoloca, Mezontla*
+*Help us collect audio resources for Mezontla Popoloca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Popoloca, Mezontla*
+*Help us collect video resources for Mezontla Popoloca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bareli, Palya
+title: Palya Bareli
 parent: Languages
 ---
 
-# Bareli, Palya (bpx)
+# Palya Bareli (bpx)
 
 ## Overview
 
-**Language**: Bareli, Palya  
+**Language**: Palya Bareli  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.55  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bareli, Palya*
+*Help us collect text resources for Palya Bareli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bareli, Palya*
+*Help us collect audio resources for Palya Bareli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bareli, Palya*
+*Help us collect video resources for Palya Bareli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

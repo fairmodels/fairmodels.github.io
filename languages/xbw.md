@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kambiwá  
 **Region/Area**: South America, Americas  
 **Family**: Unclassified  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kambiwá*
+*Help us collect text resources for Kambiwá*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kambiwá*
+*Help us collect audio resources for Kambiwá*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kambiwá*
+*Help us collect video resources for Kambiwá*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

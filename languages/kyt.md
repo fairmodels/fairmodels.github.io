@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kayagar  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayagar*
+*Help us collect text resources for Kayagar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayagar*
+*Help us collect audio resources for Kayagar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayagar*
+*Help us collect video resources for Kayagar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

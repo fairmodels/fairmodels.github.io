@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tai Daeng  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.53  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tai Daeng*
+*Help us collect text resources for Tai Daeng*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tai Daeng*
+*Help us collect audio resources for Tai Daeng*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tai Daeng*
+*Help us collect video resources for Tai Daeng*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

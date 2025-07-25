@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jakalteko  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.70  
-**Digitality Score**: 1.67  
+**Grassroots Presence (z-score)**: 0.70  
+**Web Presence (z-score)**: 1.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jakalteko*
+*Help us collect text resources for Jakalteko*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jakalteko*
+*Help us collect audio resources for Jakalteko*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jakalteko*
+*Help us collect video resources for Jakalteko*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

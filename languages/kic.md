@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kickapoo  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -0.31  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: -0.31  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kickapoo*
+*Help us collect text resources for Kickapoo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kickapoo*
+*Help us collect audio resources for Kickapoo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kickapoo*
+*Help us collect video resources for Kickapoo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

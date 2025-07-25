@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quichua, Calderón Highland
+title: Calderón Highland Quichua
 parent: Languages
 ---
 
-# Quichua, Calderón Highland (qud)
+# Calderón Highland Quichua (qud)
 
 ## Overview
 
-**Language**: Quichua, Calderón Highland  
+**Language**: Calderón Highland Quichua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.29  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quichua, Calderón Highland*
+*Help us collect text resources for Calderón Highland Quichua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quichua, Calderón Highland*
+*Help us collect audio resources for Calderón Highland Quichua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quichua, Calderón Highland*
+*Help us collect video resources for Calderón Highland Quichua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

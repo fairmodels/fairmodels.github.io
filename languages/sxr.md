@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Saaroa  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.30  
-**Digitality Score**: 0.18  
+**Grassroots Presence (z-score)**: -1.30  
+**Web Presence (z-score)**: 0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saaroa*
+*Help us collect text resources for Saaroa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saaroa*
+*Help us collect audio resources for Saaroa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saaroa*
+*Help us collect video resources for Saaroa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

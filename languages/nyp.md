@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyang’i  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyang’i*
+*Help us collect text resources for Nyang’i*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyang’i*
+*Help us collect audio resources for Nyang’i*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyang’i*
+*Help us collect video resources for Nyang’i*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

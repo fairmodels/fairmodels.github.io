@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zizilivakan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.18  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.18  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zizilivakan*
+*Help us collect text resources for Zizilivakan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zizilivakan*
+*Help us collect audio resources for Zizilivakan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zizilivakan*
+*Help us collect video resources for Zizilivakan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

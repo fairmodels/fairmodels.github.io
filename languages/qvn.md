@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, North Junín
+title: North Junín Quechua
 parent: Languages
 ---
 
-# Quechua, North Junín (qvn)
+# North Junín Quechua (qvn)
 
 ## Overview
 
-**Language**: Quechua, North Junín  
+**Language**: North Junín Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.13  
-**Digitality Score**: 1.20  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: 1.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, North Junín*
+*Help us collect text resources for North Junín Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, North Junín*
+*Help us collect audio resources for North Junín Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, North Junín*
+*Help us collect video resources for North Junín Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

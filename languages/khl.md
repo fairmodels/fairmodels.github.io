@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lusi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.04  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: 0.04  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lusi*
+*Help us collect text resources for Lusi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lusi*
+*Help us collect audio resources for Lusi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lusi*
+*Help us collect video resources for Lusi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

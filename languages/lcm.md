@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tungag  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.30  
-**Digitality Score**: 0.97  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: 0.97  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tungag*
+*Help us collect text resources for Tungag*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tungag*
+*Help us collect audio resources for Tungag*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tungag*
+*Help us collect video resources for Tungag*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

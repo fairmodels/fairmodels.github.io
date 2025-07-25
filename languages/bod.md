@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tibetan, Central
+title: Central Tibetan
 parent: Languages
 ---
 
-# Tibetan, Central (bod)
+# Central Tibetan (bod)
 
 ## Overview
 
-**Language**: Tibetan, Central  
+**Language**: Central Tibetan  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 2.10  
-**Digitality Score**: 3.42  
+**Grassroots Presence (z-score)**: 2.10  
+**Web Presence (z-score)**: 3.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tibetan, Central*
+*Help us collect text resources for Central Tibetan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tibetan, Central*
+*Help us collect audio resources for Central Tibetan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tibetan, Central*
+*Help us collect video resources for Central Tibetan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

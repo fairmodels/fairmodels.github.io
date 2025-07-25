@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Otomi, Tilapa
+title: Tilapa Otomi
 parent: Languages
 ---
 
-# Otomi, Tilapa (otl)
+# Tilapa Otomi (otl)
 
 ## Overview
 
-**Language**: Otomi, Tilapa  
+**Language**: Tilapa Otomi  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.97  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.97  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Otomi, Tilapa*
+*Help us collect text resources for Tilapa Otomi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Otomi, Tilapa*
+*Help us collect audio resources for Tilapa Otomi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Otomi, Tilapa*
+*Help us collect video resources for Tilapa Otomi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

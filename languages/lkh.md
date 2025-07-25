@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lakha  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.05  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: 0.05  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lakha*
+*Help us collect text resources for Lakha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lakha*
+*Help us collect audio resources for Lakha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lakha*
+*Help us collect video resources for Lakha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

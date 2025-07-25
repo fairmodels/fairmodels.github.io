@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Albanian, Arvanitika
+title: Arvanitika Albanian
 parent: Languages
 ---
 
-# Albanian, Arvanitika (aat)
+# Arvanitika Albanian (aat)
 
 ## Overview
 
-**Language**: Albanian, Arvanitika  
+**Language**: Arvanitika Albanian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -0.19  
-**Digitality Score**: 0.93  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: 0.93  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Albanian, Arvanitika*
+*Help us collect text resources for Arvanitika Albanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Albanian, Arvanitika*
+*Help us collect audio resources for Arvanitika Albanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Albanian, Arvanitika*
+*Help us collect video resources for Arvanitika Albanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

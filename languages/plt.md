@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malagasy, Merina
+title: Merina Malagasy
 parent: Languages
 ---
 
-# Malagasy, Merina (plt)
+# Merina Malagasy (plt)
 
 ## Overview
 
-**Language**: Malagasy, Merina  
+**Language**: Merina Malagasy  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Austronesian  
-**Vitality Score**: 2.65  
-**Digitality Score**: 2.94  
+**Grassroots Presence (z-score)**: 2.65  
+**Web Presence (z-score)**: 2.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malagasy, Merina*
+*Help us collect text resources for Merina Malagasy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malagasy, Merina*
+*Help us collect audio resources for Merina Malagasy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malagasy, Merina*
+*Help us collect video resources for Merina Malagasy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

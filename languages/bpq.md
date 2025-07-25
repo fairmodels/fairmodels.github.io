@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Banda
+title: Banda Malay
 parent: Languages
 ---
 
-# Malay, Banda (bpq)
+# Banda Malay (bpq)
 
 ## Overview
 
-**Language**: Malay, Banda  
+**Language**: Banda Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: 0.16  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: 0.16  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Banda*
+*Help us collect text resources for Banda Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Banda*
+*Help us collect audio resources for Banda Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Banda*
+*Help us collect video resources for Banda Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

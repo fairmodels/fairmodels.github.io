@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Western Juxtlahuaca
+title: Western Juxtlahuaca Mixtec
 parent: Languages
 ---
 
-# Mixtec, Western Juxtlahuaca (jmx)
+# Western Juxtlahuaca Mixtec (jmx)
 
 ## Overview
 
-**Language**: Mixtec, Western Juxtlahuaca  
+**Language**: Western Juxtlahuaca Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.32  
-**Digitality Score**: 0.77  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Western Juxtlahuaca*
+*Help us collect text resources for Western Juxtlahuaca Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Western Juxtlahuaca*
+*Help us collect audio resources for Western Juxtlahuaca Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Western Juxtlahuaca*
+*Help us collect video resources for Western Juxtlahuaca Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

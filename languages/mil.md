@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Peñoles
+title: Peñoles Mixtec
 parent: Languages
 ---
 
-# Mixtec, Peñoles (mil)
+# Peñoles Mixtec (mil)
 
 ## Overview
 
-**Language**: Mixtec, Peñoles  
+**Language**: Peñoles Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.48  
-**Digitality Score**: 0.72  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: 0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Peñoles*
+*Help us collect text resources for Peñoles Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Peñoles*
+*Help us collect audio resources for Peñoles Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Peñoles*
+*Help us collect video resources for Peñoles Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

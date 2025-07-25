@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Traveller Scottish  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Unclassified  
-**Vitality Score**: -0.31  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.31  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Traveller Scottish*
+*Help us collect text resources for Traveller Scottish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Traveller Scottish*
+*Help us collect audio resources for Traveller Scottish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Traveller Scottish*
+*Help us collect video resources for Traveller Scottish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

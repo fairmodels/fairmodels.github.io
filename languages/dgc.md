@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Agta, Casiguran Dumagat
+title: Casiguran Dumagat Agta
 parent: Languages
 ---
 
-# Agta, Casiguran Dumagat (dgc)
+# Casiguran Dumagat Agta (dgc)
 
 ## Overview
 
-**Language**: Agta, Casiguran Dumagat  
+**Language**: Casiguran Dumagat Agta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.20  
-**Digitality Score**: 0.87  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: 0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Agta, Casiguran Dumagat*
+*Help us collect text resources for Casiguran Dumagat Agta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Agta, Casiguran Dumagat*
+*Help us collect audio resources for Casiguran Dumagat Agta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Agta, Casiguran Dumagat*
+*Help us collect video resources for Casiguran Dumagat Agta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

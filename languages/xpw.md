@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tasmanian, Northwestern
+title: Northwestern Tasmanian
 parent: Languages
 ---
 
-# Tasmanian, Northwestern (xpw)
+# Northwestern Tasmanian (xpw)
 
 ## Overview
 
-**Language**: Tasmanian, Northwestern  
+**Language**: Northwestern Tasmanian  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tasmanian, Northwestern*
+*Help us collect text resources for Northwestern Tasmanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tasmanian, Northwestern*
+*Help us collect audio resources for Northwestern Tasmanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tasmanian, Northwestern*
+*Help us collect video resources for Northwestern Tasmanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

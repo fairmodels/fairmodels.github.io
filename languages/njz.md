@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyishi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.98  
-**Digitality Score**: 0.27  
+**Grassroots Presence (z-score)**: 0.98  
+**Web Presence (z-score)**: 0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyishi*
+*Help us collect text resources for Nyishi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyishi*
+*Help us collect audio resources for Nyishi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyishi*
+*Help us collect video resources for Nyishi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bru, Western
+title: Western Bru
 parent: Languages
 ---
 
-# Bru, Western (brv)
+# Western Bru (brv)
 
 ## Overview
 
-**Language**: Bru, Western  
+**Language**: Western Bru  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.42  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bru, Western*
+*Help us collect text resources for Western Bru*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bru, Western*
+*Help us collect audio resources for Western Bru*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bru, Western*
+*Help us collect video resources for Western Bru*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

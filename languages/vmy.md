@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mazatec, Ayautla
+title: Ayautla Mazatec
 parent: Languages
 ---
 
-# Mazatec, Ayautla (vmy)
+# Ayautla Mazatec (vmy)
 
 ## Overview
 
-**Language**: Mazatec, Ayautla  
+**Language**: Ayautla Mazatec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.43  
-**Digitality Score**: 0.57  
+**Grassroots Presence (z-score)**: 0.43  
+**Web Presence (z-score)**: 0.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mazatec, Ayautla*
+*Help us collect text resources for Ayautla Mazatec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mazatec, Ayautla*
+*Help us collect audio resources for Ayautla Mazatec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mazatec, Ayautla*
+*Help us collect video resources for Ayautla Mazatec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

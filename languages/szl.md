@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Silesian  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.04  
-**Digitality Score**: 2.45  
+**Grassroots Presence (z-score)**: 1.04  
+**Web Presence (z-score)**: 2.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Silesian*
+*Help us collect text resources for Silesian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Silesian*
+*Help us collect audio resources for Silesian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Silesian*
+*Help us collect video resources for Silesian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

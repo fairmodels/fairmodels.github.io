@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rotokas  
 **Region/Area**: Melanesia, Pacific  
 **Family**: North Bougainville  
-**Vitality Score**: 0.10  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rotokas*
+*Help us collect text resources for Rotokas*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rotokas*
+*Help us collect audio resources for Rotokas*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rotokas*
+*Help us collect video resources for Rotokas*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

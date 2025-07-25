@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miwok, Central Sierra
+title: Central Sierra Miwok
 parent: Languages
 ---
 
-# Miwok, Central Sierra (csm)
+# Central Sierra Miwok (csm)
 
 ## Overview
 
-**Language**: Miwok, Central Sierra  
+**Language**: Central Sierra Miwok  
 **Region/Area**: Northern America, Americas  
 **Family**: Miwok-Costanoan  
-**Vitality Score**: -1.39  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: -1.39  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miwok, Central Sierra*
+*Help us collect text resources for Central Sierra Miwok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miwok, Central Sierra*
+*Help us collect audio resources for Central Sierra Miwok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miwok, Central Sierra*
+*Help us collect video resources for Central Sierra Miwok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

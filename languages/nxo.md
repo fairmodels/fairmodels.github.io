@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ndambomo  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.37  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ndambomo*
+*Help us collect text resources for Ndambomo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ndambomo*
+*Help us collect audio resources for Ndambomo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ndambomo*
+*Help us collect video resources for Ndambomo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

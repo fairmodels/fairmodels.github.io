@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Uzbek, Southern
+title: Southern Uzbek
 parent: Languages
 ---
 
-# Uzbek, Southern (uzs)
+# Southern Uzbek (uzs)
 
 ## Overview
 
-**Language**: Uzbek, Southern  
+**Language**: Southern Uzbek  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Turkic  
-**Vitality Score**: 2.28  
-**Digitality Score**: 1.13  
+**Grassroots Presence (z-score)**: 2.28  
+**Web Presence (z-score)**: 1.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Uzbek, Southern*
+*Help us collect text resources for Southern Uzbek*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Uzbek, Southern*
+*Help us collect audio resources for Southern Uzbek*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Uzbek, Southern*
+*Help us collect video resources for Southern Uzbek*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

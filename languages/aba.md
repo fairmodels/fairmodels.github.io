@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Abé  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.67  
-**Digitality Score**: -0.08  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: -0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Abé*
+*Help us collect text resources for Abé*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Abé*
+*Help us collect audio resources for Abé*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Abé*
+*Help us collect video resources for Abé*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

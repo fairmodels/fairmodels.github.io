@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Fataluku  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.44  
-**Digitality Score**: 1.10  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 1.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fataluku*
+*Help us collect text resources for Fataluku*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fataluku*
+*Help us collect audio resources for Fataluku*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fataluku*
+*Help us collect video resources for Fataluku*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

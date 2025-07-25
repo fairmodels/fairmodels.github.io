@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wamesa  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.01  
-**Digitality Score**: 0.25  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: 0.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wamesa*
+*Help us collect text resources for Wamesa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wamesa*
+*Help us collect audio resources for Wamesa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wamesa*
+*Help us collect video resources for Wamesa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

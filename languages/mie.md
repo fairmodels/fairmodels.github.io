@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Ocotepec
+title: Ocotepec Mixtec
 parent: Languages
 ---
 
-# Mixtec, Ocotepec (mie)
+# Ocotepec Mixtec (mie)
 
 ## Overview
 
-**Language**: Mixtec, Ocotepec  
+**Language**: Ocotepec Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.18  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.18  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Ocotepec*
+*Help us collect text resources for Ocotepec Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Ocotepec*
+*Help us collect audio resources for Ocotepec Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Ocotepec*
+*Help us collect video resources for Ocotepec Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

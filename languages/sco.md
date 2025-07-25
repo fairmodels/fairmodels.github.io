@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Scots  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.19  
-**Digitality Score**: 2.58  
+**Grassroots Presence (z-score)**: 1.19  
+**Web Presence (z-score)**: 2.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Scots*
+*Help us collect text resources for Scots*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Scots*
+*Help us collect audio resources for Scots*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Scots*
+*Help us collect video resources for Scots*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Meskwaki  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -0.86  
-**Digitality Score**: 0.10  
+**Grassroots Presence (z-score)**: -0.86  
+**Web Presence (z-score)**: 0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Meskwaki*
+*Help us collect text resources for Meskwaki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Meskwaki*
+*Help us collect audio resources for Meskwaki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Meskwaki*
+*Help us collect video resources for Meskwaki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yogad  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.15  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yogad*
+*Help us collect text resources for Yogad*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yogad*
+*Help us collect audio resources for Yogad*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yogad*
+*Help us collect video resources for Yogad*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

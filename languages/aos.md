@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Taikat  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Border  
-**Vitality Score**: -0.30  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.30  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Taikat*
+*Help us collect text resources for Taikat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Taikat*
+*Help us collect audio resources for Taikat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Taikat*
+*Help us collect video resources for Taikat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

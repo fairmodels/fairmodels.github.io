@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Toba-Maskoy  
 **Region/Area**: South America, Americas  
 **Family**: Mascoyan  
-**Vitality Score**: -0.18  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: -0.18  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Toba-Maskoy*
+*Help us collect text resources for Toba-Maskoy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Toba-Maskoy*
+*Help us collect audio resources for Toba-Maskoy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Toba-Maskoy*
+*Help us collect video resources for Toba-Maskoy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

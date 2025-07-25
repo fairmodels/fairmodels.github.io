@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Djeebbana  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.34  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: -0.34  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Djeebbana*
+*Help us collect text resources for Djeebbana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Djeebbana*
+*Help us collect audio resources for Djeebbana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Djeebbana*
+*Help us collect video resources for Djeebbana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

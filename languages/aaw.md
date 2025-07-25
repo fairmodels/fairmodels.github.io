@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Solong  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Solong*
+*Help us collect text resources for Solong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Solong*
+*Help us collect audio resources for Solong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Solong*
+*Help us collect video resources for Solong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

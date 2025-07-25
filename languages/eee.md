@@ -11,20 +11,20 @@ parent: Languages
 **Language**: E  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Mixed language  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for E*
+*Help us collect text resources for E*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for E*
+*Help us collect audio resources for E*
 
 ### Video Resources
-*Coming soon - help us collect video resources for E*
+*Help us collect video resources for E*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

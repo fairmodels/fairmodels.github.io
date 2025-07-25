@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pingelapese  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.14  
-**Digitality Score**: 0.05  
+**Grassroots Presence (z-score)**: 0.14  
+**Web Presence (z-score)**: 0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pingelapese*
+*Help us collect text resources for Pingelapese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pingelapese*
+*Help us collect audio resources for Pingelapese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pingelapese*
+*Help us collect video resources for Pingelapese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

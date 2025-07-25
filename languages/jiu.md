@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Jinuo, Youle
+title: Youle Jinuo
 parent: Languages
 ---
 
-# Jinuo, Youle (jiu)
+# Youle Jinuo (jiu)
 
 ## Overview
 
-**Language**: Jinuo, Youle  
+**Language**: Youle Jinuo  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jinuo, Youle*
+*Help us collect text resources for Youle Jinuo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jinuo, Youle*
+*Help us collect audio resources for Youle Jinuo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jinuo, Youle*
+*Help us collect video resources for Youle Jinuo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

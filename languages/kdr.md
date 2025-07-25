@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karaim  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: -0.95  
-**Digitality Score**: 0.19  
+**Grassroots Presence (z-score)**: -0.95  
+**Web Presence (z-score)**: 0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karaim*
+*Help us collect text resources for Karaim*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karaim*
+*Help us collect audio resources for Karaim*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karaim*
+*Help us collect video resources for Karaim*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

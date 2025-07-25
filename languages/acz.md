@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Acheron  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.64  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Acheron*
+*Help us collect text resources for Acheron*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Acheron*
+*Help us collect audio resources for Acheron*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Acheron*
+*Help us collect video resources for Acheron*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Tabaa
+title: Tabaa Zapotec
 parent: Languages
 ---
 
-# Zapotec, Tabaa (zat)
+# Tabaa Zapotec (zat)
 
 ## Overview
 
-**Language**: Zapotec, Tabaa  
+**Language**: Tabaa Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.12  
-**Digitality Score**: 1.24  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: 1.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Tabaa*
+*Help us collect text resources for Tabaa Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Tabaa*
+*Help us collect audio resources for Tabaa Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Tabaa*
+*Help us collect video resources for Tabaa Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

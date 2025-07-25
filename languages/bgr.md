@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Bawm
+title: Bawm Chin
 parent: Languages
 ---
 
-# Chin, Bawm (bgr)
+# Bawm Chin (bgr)
 
 ## Overview
 
-**Language**: Chin, Bawm  
+**Language**: Bawm Chin  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.60  
-**Digitality Score**: 0.49  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: 0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Bawm*
+*Help us collect text resources for Bawm Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Bawm*
+*Help us collect audio resources for Bawm Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Bawm*
+*Help us collect video resources for Bawm Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

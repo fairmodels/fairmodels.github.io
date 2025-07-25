@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Gan
+title: Gan Chinese
 parent: Languages
 ---
 
-# Chinese, Gan (gan)
+# Gan Chinese (gan)
 
 ## Overview
 
-**Language**: Chinese, Gan  
+**Language**: Gan Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.53  
-**Digitality Score**: 3.82  
+**Grassroots Presence (z-score)**: 1.53  
+**Web Presence (z-score)**: 3.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Gan*
+*Help us collect text resources for Gan Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Gan*
+*Help us collect audio resources for Gan Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Gan*
+*Help us collect video resources for Gan Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

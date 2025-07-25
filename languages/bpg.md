@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bonggo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.71  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.71  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bonggo*
+*Help us collect text resources for Bonggo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bonggo*
+*Help us collect audio resources for Bonggo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bonggo*
+*Help us collect video resources for Bonggo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

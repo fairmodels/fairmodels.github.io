@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wajarri  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.33  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -1.33  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wajarri*
+*Help us collect text resources for Wajarri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wajarri*
+*Help us collect audio resources for Wajarri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wajarri*
+*Help us collect video resources for Wajarri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pyam  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.22  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pyam*
+*Help us collect text resources for Pyam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pyam*
+*Help us collect audio resources for Pyam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pyam*
+*Help us collect video resources for Pyam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

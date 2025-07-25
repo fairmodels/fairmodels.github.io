@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Juxtlahuaca
+title: Juxtlahuaca Mixtec
 parent: Languages
 ---
 
-# Mixtec, Juxtlahuaca (vmc)
+# Juxtlahuaca Mixtec (vmc)
 
 ## Overview
 
-**Language**: Mixtec, Juxtlahuaca  
+**Language**: Juxtlahuaca Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.30  
-**Digitality Score**: -0.34  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: -0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Juxtlahuaca*
+*Help us collect text resources for Juxtlahuaca Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Juxtlahuaca*
+*Help us collect audio resources for Juxtlahuaca Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Juxtlahuaca*
+*Help us collect video resources for Juxtlahuaca Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

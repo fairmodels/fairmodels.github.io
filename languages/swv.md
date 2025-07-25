@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shekhawati  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.27  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: 1.27  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shekhawati*
+*Help us collect text resources for Shekhawati*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shekhawati*
+*Help us collect audio resources for Shekhawati*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shekhawati*
+*Help us collect video resources for Shekhawati*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

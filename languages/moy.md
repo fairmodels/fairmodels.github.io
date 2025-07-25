@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shekkacho  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.82  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shekkacho*
+*Help us collect text resources for Shekkacho*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shekkacho*
+*Help us collect audio resources for Shekkacho*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shekkacho*
+*Help us collect video resources for Shekkacho*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

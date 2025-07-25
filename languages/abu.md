@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Abure  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.54  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 0.54  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Abure*
+*Help us collect text resources for Abure*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Abure*
+*Help us collect audio resources for Abure*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Abure*
+*Help us collect video resources for Abure*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

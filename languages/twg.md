@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tereweng  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.24  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.24  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tereweng*
+*Help us collect text resources for Tereweng*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tereweng*
+*Help us collect audio resources for Tereweng*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tereweng*
+*Help us collect video resources for Tereweng*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

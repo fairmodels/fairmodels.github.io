@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Waurá  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 0.12  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Waurá*
+*Help us collect text resources for Waurá*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Waurá*
+*Help us collect audio resources for Waurá*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Waurá*
+*Help us collect video resources for Waurá*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

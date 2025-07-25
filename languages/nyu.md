@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyungwe  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.67  
-**Digitality Score**: 1.47  
+**Grassroots Presence (z-score)**: 1.67  
+**Web Presence (z-score)**: 1.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyungwe*
+*Help us collect text resources for Nyungwe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyungwe*
+*Help us collect audio resources for Nyungwe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyungwe*
+*Help us collect video resources for Nyungwe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

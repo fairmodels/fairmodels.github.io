@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kazakh  
 **Region/Area**: Central Asia, Asia  
 **Family**: Turkic  
-**Vitality Score**: 2.78  
-**Digitality Score**: 4.11  
+**Grassroots Presence (z-score)**: 2.78  
+**Web Presence (z-score)**: 4.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kazakh*
+*Help us collect text resources for Kazakh*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kazakh*
+*Help us collect audio resources for Kazakh*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kazakh*
+*Help us collect video resources for Kazakh*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

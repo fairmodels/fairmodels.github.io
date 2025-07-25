@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Choni  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.27  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: 0.27  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Choni*
+*Help us collect text resources for Choni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Choni*
+*Help us collect audio resources for Choni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Choni*
+*Help us collect video resources for Choni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

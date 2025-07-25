@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Burmeso  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: East Bird’s Head-Sentani  
-**Vitality Score**: -0.23  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Burmeso*
+*Help us collect text resources for Burmeso*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Burmeso*
+*Help us collect audio resources for Burmeso*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Burmeso*
+*Help us collect video resources for Burmeso*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

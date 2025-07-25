@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chuj  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.78  
-**Digitality Score**: 1.48  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 1.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chuj*
+*Help us collect text resources for Chuj*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chuj*
+*Help us collect audio resources for Chuj*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chuj*
+*Help us collect video resources for Chuj*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

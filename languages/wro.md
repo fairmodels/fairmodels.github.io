@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Worrorra  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.44  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: -1.44  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Worrorra*
+*Help us collect text resources for Worrorra*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Worrorra*
+*Help us collect audio resources for Worrorra*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Worrorra*
+*Help us collect video resources for Worrorra*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

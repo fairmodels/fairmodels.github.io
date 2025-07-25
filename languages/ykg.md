@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yukaghir, Northern
+title: Northern Yukaghir
 parent: Languages
 ---
 
-# Yukaghir, Northern (ykg)
+# Northern Yukaghir (ykg)
 
 ## Overview
 
-**Language**: Yukaghir, Northern  
+**Language**: Northern Yukaghir  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Yukaghir  
-**Vitality Score**: -0.81  
-**Digitality Score**: 0.28  
+**Grassroots Presence (z-score)**: -0.81  
+**Web Presence (z-score)**: 0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yukaghir, Northern*
+*Help us collect text resources for Northern Yukaghir*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yukaghir, Northern*
+*Help us collect audio resources for Northern Yukaghir*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yukaghir, Northern*
+*Help us collect video resources for Northern Yukaghir*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

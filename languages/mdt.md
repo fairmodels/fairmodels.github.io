@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbere  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.58  
-**Digitality Score**: -0.15  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: -0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbere*
+*Help us collect text resources for Mbere*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbere*
+*Help us collect audio resources for Mbere*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbere*
+*Help us collect video resources for Mbere*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

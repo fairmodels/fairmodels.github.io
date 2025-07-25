@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Buang, Mangga
+title: Mangga Buang
 parent: Languages
 ---
 
-# Buang, Mangga (mmo)
+# Mangga Buang (mmo)
 
 ## Overview
 
-**Language**: Buang, Mangga  
+**Language**: Mangga Buang  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.16  
-**Digitality Score**: 0.71  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: 0.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Buang, Mangga*
+*Help us collect text resources for Mangga Buang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Buang, Mangga*
+*Help us collect audio resources for Mangga Buang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Buang, Mangga*
+*Help us collect video resources for Mangga Buang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Minamanwa  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.44  
-**Digitality Score**: 0.76  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 0.76  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Minamanwa*
+*Help us collect text resources for Minamanwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Minamanwa*
+*Help us collect audio resources for Minamanwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Minamanwa*
+*Help us collect video resources for Minamanwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

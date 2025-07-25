@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Luang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.63  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: 0.63  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Luang*
+*Help us collect text resources for Luang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Luang*
+*Help us collect audio resources for Luang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Luang*
+*Help us collect video resources for Luang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

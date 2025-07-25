@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ososo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ososo*
+*Help us collect text resources for Ososo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ososo*
+*Help us collect audio resources for Ososo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ososo*
+*Help us collect video resources for Ososo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

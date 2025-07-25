@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zoque, Francisco León
+title: Francisco León Zoque
 parent: Languages
 ---
 
-# Zoque, Francisco León (zos)
+# Francisco León Zoque (zos)
 
 ## Overview
 
-**Language**: Zoque, Francisco León  
+**Language**: Francisco León Zoque  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: 0.32  
-**Digitality Score**: 0.45  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zoque, Francisco León*
+*Help us collect text resources for Francisco León Zoque*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zoque, Francisco León*
+*Help us collect audio resources for Francisco León Zoque*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zoque, Francisco León*
+*Help us collect video resources for Francisco León Zoque*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

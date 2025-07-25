@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pomo, Southeastern
+title: Southeastern Pomo
 parent: Languages
 ---
 
-# Pomo, Southeastern (pom)
+# Southeastern Pomo (pom)
 
 ## Overview
 
-**Language**: Pomo, Southeastern  
+**Language**: Southeastern Pomo  
 **Region/Area**: Northern America, Americas  
 **Family**: Pomoan  
-**Vitality Score**: -1.63  
-**Digitality Score**: 0.27  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: 0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pomo, Southeastern*
+*Help us collect text resources for Southeastern Pomo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pomo, Southeastern*
+*Help us collect audio resources for Southeastern Pomo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pomo, Southeastern*
+*Help us collect video resources for Southeastern Pomo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kurumba, Attapady
+title: Attapady Kurumba
 parent: Languages
 ---
 
-# Kurumba, Attapady (pkr)
+# Attapady Kurumba (pkr)
 
 ## Overview
 
-**Language**: Kurumba, Attapady  
+**Language**: Attapady Kurumba  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.30  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kurumba, Attapady*
+*Help us collect text resources for Attapady Kurumba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kurumba, Attapady*
+*Help us collect audio resources for Attapady Kurumba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kurumba, Attapady*
+*Help us collect video resources for Attapady Kurumba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

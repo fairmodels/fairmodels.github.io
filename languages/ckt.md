@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chukchi  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Chukotko-Kamchatkan  
-**Vitality Score**: -0.09  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: -0.09  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chukchi*
+*Help us collect text resources for Chukchi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chukchi*
+*Help us collect audio resources for Chukchi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chukchi*
+*Help us collect video resources for Chukchi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

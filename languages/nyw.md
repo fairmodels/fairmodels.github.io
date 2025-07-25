@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyaw  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.50  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyaw*
+*Help us collect text resources for Nyaw*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyaw*
+*Help us collect audio resources for Nyaw*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyaw*
+*Help us collect video resources for Nyaw*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kanuri, Manga
+title: Manga Kanuri
 parent: Languages
 ---
 
-# Kanuri, Manga (kby)
+# Manga Kanuri (kby)
 
 ## Overview
 
-**Language**: Kanuri, Manga  
+**Language**: Manga Kanuri  
 **Region/Area**: Western Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.16  
-**Digitality Score**: 1.14  
+**Grassroots Presence (z-score)**: 1.16  
+**Web Presence (z-score)**: 1.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanuri, Manga*
+*Help us collect text resources for Manga Kanuri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanuri, Manga*
+*Help us collect audio resources for Manga Kanuri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanuri, Manga*
+*Help us collect video resources for Manga Kanuri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

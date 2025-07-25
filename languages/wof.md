@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Wolof, Gambian
+title: Gambian Wolof
 parent: Languages
 ---
 
-# Wolof, Gambian (wof)
+# Gambian Wolof (wof)
 
 ## Overview
 
-**Language**: Wolof, Gambian  
+**Language**: Gambian Wolof  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.65  
-**Digitality Score**: 0.06  
+**Grassroots Presence (z-score)**: 1.65  
+**Web Presence (z-score)**: 0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wolof, Gambian*
+*Help us collect text resources for Gambian Wolof*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wolof, Gambian*
+*Help us collect audio resources for Gambian Wolof*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wolof, Gambian*
+*Help us collect video resources for Gambian Wolof*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

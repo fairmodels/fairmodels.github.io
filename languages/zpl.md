@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Lachixío
+title: Lachixío Zapotec
 parent: Languages
 ---
 
-# Zapotec, Lachixío (zpl)
+# Lachixío Zapotec (zpl)
 
 ## Overview
 
-**Language**: Zapotec, Lachixío  
+**Language**: Lachixío Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.50  
-**Digitality Score**: 1.50  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: 1.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Lachixío*
+*Help us collect text resources for Lachixío Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Lachixío*
+*Help us collect audio resources for Lachixío Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Lachixío*
+*Help us collect video resources for Lachixío Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

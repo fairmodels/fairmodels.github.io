@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lango  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.58  
-**Digitality Score**: 1.28  
+**Grassroots Presence (z-score)**: 1.58  
+**Web Presence (z-score)**: 1.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lango*
+*Help us collect text resources for Lango*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lango*
+*Help us collect audio resources for Lango*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lango*
+*Help us collect video resources for Lango*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kewapi, West
+title: West Kewapi
 parent: Languages
 ---
 
-# Kewapi, West (kew)
+# West Kewapi (kew)
 
 ## Overview
 
-**Language**: Kewapi, West  
+**Language**: West Kewapi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.74  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: 0.74  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kewapi, West*
+*Help us collect text resources for West Kewapi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kewapi, West*
+*Help us collect audio resources for West Kewapi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kewapi, West*
+*Help us collect video resources for West Kewapi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

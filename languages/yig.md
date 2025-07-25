@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nasu, Wusa
+title: Wusa Nasu
 parent: Languages
 ---
 
-# Nasu, Wusa (yig)
+# Wusa Nasu (yig)
 
 ## Overview
 
-**Language**: Nasu, Wusa  
+**Language**: Wusa Nasu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.07  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: 1.07  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nasu, Wusa*
+*Help us collect text resources for Wusa Nasu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nasu, Wusa*
+*Help us collect audio resources for Wusa Nasu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nasu, Wusa*
+*Help us collect video resources for Wusa Nasu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

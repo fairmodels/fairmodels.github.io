@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Uru  
 **Region/Area**: South America, Americas  
 **Family**: Chipaya-Uru  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Uru*
+*Help us collect text resources for Uru*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Uru*
+*Help us collect audio resources for Uru*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Uru*
+*Help us collect video resources for Uru*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

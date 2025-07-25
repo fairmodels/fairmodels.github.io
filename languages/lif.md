@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Limbu  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.34  
-**Digitality Score**: 1.33  
+**Grassroots Presence (z-score)**: 1.34  
+**Web Presence (z-score)**: 1.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Limbu*
+*Help us collect text resources for Limbu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Limbu*
+*Help us collect audio resources for Limbu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Limbu*
+*Help us collect video resources for Limbu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

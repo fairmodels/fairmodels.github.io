@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hozo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -0.14  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hozo*
+*Help us collect text resources for Hozo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hozo*
+*Help us collect audio resources for Hozo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hozo*
+*Help us collect video resources for Hozo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

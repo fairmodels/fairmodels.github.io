@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ket  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Yeniseian  
-**Vitality Score**: -1.04  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: -1.04  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ket*
+*Help us collect text resources for Ket*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ket*
+*Help us collect audio resources for Ket*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ket*
+*Help us collect video resources for Ket*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

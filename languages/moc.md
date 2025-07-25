@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mocoví  
 **Region/Area**: South America, Americas  
 **Family**: Guaykuruan  
-**Vitality Score**: -0.08  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mocoví*
+*Help us collect text resources for Mocoví*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mocoví*
+*Help us collect audio resources for Mocoví*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mocoví*
+*Help us collect video resources for Mocoví*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

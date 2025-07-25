@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mazatec, Soyaltepec
+title: Soyaltepec Mazatec
 parent: Languages
 ---
 
-# Mazatec, Soyaltepec (vmp)
+# Soyaltepec Mazatec (vmp)
 
 ## Overview
 
-**Language**: Mazatec, Soyaltepec  
+**Language**: Soyaltepec Mazatec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.37  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mazatec, Soyaltepec*
+*Help us collect text resources for Soyaltepec Mazatec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mazatec, Soyaltepec*
+*Help us collect audio resources for Soyaltepec Mazatec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mazatec, Soyaltepec*
+*Help us collect video resources for Soyaltepec Mazatec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

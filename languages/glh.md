@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pashai, Northwest
+title: Northwest Pashai
 parent: Languages
 ---
 
-# Pashai, Northwest (glh)
+# Northwest Pashai (glh)
 
 ## Overview
 
-**Language**: Pashai, Northwest  
+**Language**: Northwest Pashai  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.48  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pashai, Northwest*
+*Help us collect text resources for Northwest Pashai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pashai, Northwest*
+*Help us collect audio resources for Northwest Pashai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pashai, Northwest*
+*Help us collect video resources for Northwest Pashai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

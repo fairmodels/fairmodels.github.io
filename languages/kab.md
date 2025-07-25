@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kabyle  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.03  
-**Digitality Score**: 2.82  
+**Grassroots Presence (z-score)**: 2.03  
+**Web Presence (z-score)**: 2.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kabyle*
+*Help us collect text resources for Kabyle*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kabyle*
+*Help us collect audio resources for Kabyle*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kabyle*
+*Help us collect video resources for Kabyle*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

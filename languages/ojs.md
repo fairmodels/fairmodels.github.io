@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Oji-Cree  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: 0.13  
-**Digitality Score**: 0.73  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: 0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Oji-Cree*
+*Help us collect text resources for Oji-Cree*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Oji-Cree*
+*Help us collect audio resources for Oji-Cree*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Oji-Cree*
+*Help us collect video resources for Oji-Cree*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

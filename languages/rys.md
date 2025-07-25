@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yaeyama  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Japonic  
-**Vitality Score**: -1.24  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -1.24  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yaeyama*
+*Help us collect text resources for Yaeyama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yaeyama*
+*Help us collect audio resources for Yaeyama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yaeyama*
+*Help us collect video resources for Yaeyama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

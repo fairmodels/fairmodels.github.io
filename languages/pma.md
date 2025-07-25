@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Paama  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.49  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Paama*
+*Help us collect text resources for Paama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Paama*
+*Help us collect audio resources for Paama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Paama*
+*Help us collect video resources for Paama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

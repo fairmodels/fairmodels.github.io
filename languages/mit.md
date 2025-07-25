@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Southern Puebla
+title: Southern Puebla Mixtec
 parent: Languages
 ---
 
-# Mixtec, Southern Puebla (mit)
+# Southern Puebla Mixtec (mit)
 
 ## Overview
 
-**Language**: Mixtec, Southern Puebla  
+**Language**: Southern Puebla Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.22  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: -0.22  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Southern Puebla*
+*Help us collect text resources for Southern Puebla Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Southern Puebla*
+*Help us collect audio resources for Southern Puebla Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Southern Puebla*
+*Help us collect video resources for Southern Puebla Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

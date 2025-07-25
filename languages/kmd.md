@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kalinga, Majukayang
+title: Majukayang Kalinga
 parent: Languages
 ---
 
-# Kalinga, Majukayang (kmd)
+# Majukayang Kalinga (kmd)
 
 ## Overview
 
-**Language**: Kalinga, Majukayang  
+**Language**: Majukayang Kalinga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.31  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalinga, Majukayang*
+*Help us collect text resources for Majukayang Kalinga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalinga, Majukayang*
+*Help us collect audio resources for Majukayang Kalinga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalinga, Majukayang*
+*Help us collect video resources for Majukayang Kalinga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Korwa  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.21  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Korwa*
+*Help us collect text resources for Korwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Korwa*
+*Help us collect audio resources for Korwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Korwa*
+*Help us collect video resources for Korwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

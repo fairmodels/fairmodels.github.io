@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pumpokol  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Yeniseian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.98  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pumpokol*
+*Help us collect text resources for Pumpokol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pumpokol*
+*Help us collect audio resources for Pumpokol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pumpokol*
+*Help us collect video resources for Pumpokol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

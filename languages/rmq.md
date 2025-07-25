@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Caló  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Mixed language  
-**Vitality Score**: 1.04  
-**Digitality Score**: 0.36  
+**Grassroots Presence (z-score)**: 1.04  
+**Web Presence (z-score)**: 0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Caló*
+*Help us collect text resources for Caló*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Caló*
+*Help us collect audio resources for Caló*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Caló*
+*Help us collect video resources for Caló*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gondi, Northern
+title: Northern Gondi
 parent: Languages
 ---
 
-# Gondi, Northern (gno)
+# Northern Gondi (gno)
 
 ## Overview
 
-**Language**: Gondi, Northern  
+**Language**: Northern Gondi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 1.23  
-**Digitality Score**: 0.11  
+**Grassroots Presence (z-score)**: 1.23  
+**Web Presence (z-score)**: 0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gondi, Northern*
+*Help us collect text resources for Northern Gondi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gondi, Northern*
+*Help us collect audio resources for Northern Gondi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gondi, Northern*
+*Help us collect video resources for Northern Gondi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

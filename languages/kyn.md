@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Binukidnon, Northern
+title: Northern Binukidnon
 parent: Languages
 ---
 
-# Binukidnon, Northern (kyn)
+# Northern Binukidnon (kyn)
 
 ## Overview
 
-**Language**: Binukidnon, Northern  
+**Language**: Northern Binukidnon  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Binukidnon, Northern*
+*Help us collect text resources for Northern Binukidnon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Binukidnon, Northern*
+*Help us collect audio resources for Northern Binukidnon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Binukidnon, Northern*
+*Help us collect video resources for Northern Binukidnon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

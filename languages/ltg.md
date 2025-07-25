@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Latgalian  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.93  
-**Digitality Score**: 2.38  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 2.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Latgalian*
+*Help us collect text resources for Latgalian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Latgalian*
+*Help us collect audio resources for Latgalian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Latgalian*
+*Help us collect video resources for Latgalian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

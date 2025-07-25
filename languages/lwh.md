@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lachi, White
+title: White Lachi
 parent: Languages
 ---
 
-# Lachi, White (lwh)
+# White Lachi (lwh)
 
 ## Overview
 
-**Language**: Lachi, White  
+**Language**: White Lachi  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: -0.31  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.31  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lachi, White*
+*Help us collect text resources for White Lachi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lachi, White*
+*Help us collect audio resources for White Lachi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lachi, White*
+*Help us collect video resources for White Lachi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

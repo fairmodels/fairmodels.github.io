@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Cacaloxtepec
+title: Cacaloxtepec Mixtec
 parent: Languages
 ---
 
-# Mixtec, Cacaloxtepec (miu)
+# Cacaloxtepec Mixtec (miu)
 
 ## Overview
 
-**Language**: Mixtec, Cacaloxtepec  
+**Language**: Cacaloxtepec Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.78  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: -0.78  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Cacaloxtepec*
+*Help us collect text resources for Cacaloxtepec Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Cacaloxtepec*
+*Help us collect audio resources for Cacaloxtepec Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Cacaloxtepec*
+*Help us collect video resources for Cacaloxtepec Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

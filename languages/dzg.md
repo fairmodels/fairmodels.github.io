@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dazaga  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.74  
-**Digitality Score**: 0.41  
+**Grassroots Presence (z-score)**: 1.74  
+**Web Presence (z-score)**: 0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dazaga*
+*Help us collect text resources for Dazaga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dazaga*
+*Help us collect audio resources for Dazaga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dazaga*
+*Help us collect video resources for Dazaga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

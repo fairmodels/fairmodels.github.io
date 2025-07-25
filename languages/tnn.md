@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tanna, North
+title: North Tanna
 parent: Languages
 ---
 
-# Tanna, North (tnn)
+# North Tanna (tnn)
 
 ## Overview
 
-**Language**: Tanna, North  
+**Language**: North Tanna  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.46  
-**Digitality Score**: 0.62  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tanna, North*
+*Help us collect text resources for North Tanna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tanna, North*
+*Help us collect audio resources for North Tanna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tanna, North*
+*Help us collect video resources for North Tanna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

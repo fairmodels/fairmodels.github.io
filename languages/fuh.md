@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fulfulde, Western Niger
+title: Western Niger Fulfulde
 parent: Languages
 ---
 
-# Fulfulde, Western Niger (fuh)
+# Western Niger Fulfulde (fuh)
 
 ## Overview
 
-**Language**: Fulfulde, Western Niger  
+**Language**: Western Niger Fulfulde  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.28  
-**Digitality Score**: 1.41  
+**Grassroots Presence (z-score)**: 1.28  
+**Web Presence (z-score)**: 1.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fulfulde, Western Niger*
+*Help us collect text resources for Western Niger Fulfulde*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fulfulde, Western Niger*
+*Help us collect audio resources for Western Niger Fulfulde*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fulfulde, Western Niger*
+*Help us collect video resources for Western Niger Fulfulde*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Garhwali  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.25  
-**Digitality Score**: 1.47  
+**Grassroots Presence (z-score)**: 1.25  
+**Web Presence (z-score)**: 1.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Garhwali*
+*Help us collect text resources for Garhwali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Garhwali*
+*Help us collect audio resources for Garhwali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Garhwali*
+*Help us collect video resources for Garhwali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

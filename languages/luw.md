@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kasabe  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Unclassified  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kasabe*
+*Help us collect text resources for Kasabe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kasabe*
+*Help us collect audio resources for Kasabe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kasabe*
+*Help us collect video resources for Kasabe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

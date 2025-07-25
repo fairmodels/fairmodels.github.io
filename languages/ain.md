@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ainu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Language isolate  
-**Vitality Score**: -1.58  
-**Digitality Score**: 1.06  
+**Grassroots Presence (z-score)**: -1.58  
+**Web Presence (z-score)**: 1.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ainu*
+*Help us collect text resources for Ainu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ainu*
+*Help us collect audio resources for Ainu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ainu*
+*Help us collect video resources for Ainu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

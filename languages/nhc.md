@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Tabasco
+title: Tabasco Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Tabasco (nhc)
+# Tabasco Nahuatl (nhc)
 
 ## Overview
 
-**Language**: Nahuatl, Tabasco  
+**Language**: Tabasco Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -1.28  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -1.28  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Tabasco*
+*Help us collect text resources for Tabasco Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Tabasco*
+*Help us collect audio resources for Tabasco Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Tabasco*
+*Help us collect video resources for Tabasco Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

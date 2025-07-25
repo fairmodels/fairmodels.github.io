@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Khmer, Northern
+title: Northern Khmer
 parent: Languages
 ---
 
-# Khmer, Northern (kxm)
+# Northern Khmer (kxm)
 
 ## Overview
 
-**Language**: Khmer, Northern  
+**Language**: Northern Khmer  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 1.19  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: 1.19  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Khmer, Northern*
+*Help us collect text resources for Northern Khmer*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Khmer, Northern*
+*Help us collect audio resources for Northern Khmer*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Khmer, Northern*
+*Help us collect video resources for Northern Khmer*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

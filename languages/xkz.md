@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kurtokha  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.13  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kurtokha*
+*Help us collect text resources for Kurtokha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kurtokha*
+*Help us collect audio resources for Kurtokha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kurtokha*
+*Help us collect video resources for Kurtokha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

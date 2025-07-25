@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Katang, Southern
+title: Southern Katang
 parent: Languages
 ---
 
-# Katang, Southern (sct)
+# Southern Katang (sct)
 
 ## Overview
 
-**Language**: Katang, Southern  
+**Language**: Southern Katang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Katang, Southern*
+*Help us collect text resources for Southern Katang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Katang, Southern*
+*Help us collect audio resources for Southern Katang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Katang, Southern*
+*Help us collect video resources for Southern Katang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

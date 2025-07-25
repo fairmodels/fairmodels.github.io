@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bimin  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.36  
-**Digitality Score**: 0.76  
+**Grassroots Presence (z-score)**: 0.36  
+**Web Presence (z-score)**: 0.76  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bimin*
+*Help us collect text resources for Bimin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bimin*
+*Help us collect audio resources for Bimin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bimin*
+*Help us collect video resources for Bimin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

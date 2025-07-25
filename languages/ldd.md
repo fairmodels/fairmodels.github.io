@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Luri  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Luri*
+*Help us collect text resources for Luri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Luri*
+*Help us collect audio resources for Luri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Luri*
+*Help us collect video resources for Luri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

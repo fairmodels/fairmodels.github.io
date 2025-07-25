@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yupik, Pacific Gulf
+title: Pacific Gulf Yupik
 parent: Languages
 ---
 
-# Yupik, Pacific Gulf (ems)
+# Pacific Gulf Yupik (ems)
 
 ## Overview
 
-**Language**: Yupik, Pacific Gulf  
+**Language**: Pacific Gulf Yupik  
 **Region/Area**: Northern America, Americas  
 **Family**: Eskimo-Aleut  
-**Vitality Score**: -1.00  
-**Digitality Score**: 0.41  
+**Grassroots Presence (z-score)**: -1.00  
+**Web Presence (z-score)**: 0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yupik, Pacific Gulf*
+*Help us collect text resources for Pacific Gulf Yupik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yupik, Pacific Gulf*
+*Help us collect audio resources for Pacific Gulf Yupik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yupik, Pacific Gulf*
+*Help us collect video resources for Pacific Gulf Yupik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

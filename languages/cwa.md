@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kabwa  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.59  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: 0.59  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kabwa*
+*Help us collect text resources for Kabwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kabwa*
+*Help us collect audio resources for Kabwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kabwa*
+*Help us collect video resources for Kabwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Machinga  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.40  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Machinga*
+*Help us collect text resources for Machinga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Machinga*
+*Help us collect audio resources for Machinga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Machinga*
+*Help us collect video resources for Machinga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

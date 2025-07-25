@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bali  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.29  
-**Digitality Score**: 2.95  
+**Grassroots Presence (z-score)**: 1.29  
+**Web Presence (z-score)**: 2.95  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bali*
+*Help us collect text resources for Bali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bali*
+*Help us collect audio resources for Bali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bali*
+*Help us collect video resources for Bali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

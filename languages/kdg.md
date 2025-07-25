@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Seba  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Seba*
+*Help us collect text resources for Seba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Seba*
+*Help us collect audio resources for Seba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Seba*
+*Help us collect video resources for Seba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

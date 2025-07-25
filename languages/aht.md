@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ahtena  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -1.21  
-**Digitality Score**: 0.14  
+**Grassroots Presence (z-score)**: -1.21  
+**Web Presence (z-score)**: 0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ahtena*
+*Help us collect text resources for Ahtena*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ahtena*
+*Help us collect audio resources for Ahtena*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ahtena*
+*Help us collect video resources for Ahtena*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

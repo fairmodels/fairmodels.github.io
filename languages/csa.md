@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Chiltepec
+title: Chiltepec Chinantec
 parent: Languages
 ---
 
-# Chinantec, Chiltepec (csa)
+# Chiltepec Chinantec (csa)
 
 ## Overview
 
-**Language**: Chinantec, Chiltepec  
+**Language**: Chiltepec Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -1.72  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: -1.72  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Chiltepec*
+*Help us collect text resources for Chiltepec Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Chiltepec*
+*Help us collect audio resources for Chiltepec Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Chiltepec*
+*Help us collect video resources for Chiltepec Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

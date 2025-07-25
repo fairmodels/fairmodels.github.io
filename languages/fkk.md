@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kirya-Konzel  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.17  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kirya-Konzel*
+*Help us collect text resources for Kirya-Konzel*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kirya-Konzel*
+*Help us collect audio resources for Kirya-Konzel*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kirya-Konzel*
+*Help us collect video resources for Kirya-Konzel*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

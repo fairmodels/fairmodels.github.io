@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kunama  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.23  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: 1.23  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kunama*
+*Help us collect text resources for Kunama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kunama*
+*Help us collect audio resources for Kunama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kunama*
+*Help us collect video resources for Kunama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bareli, Rathwi
+title: Rathwi Bareli
 parent: Languages
 ---
 
-# Bareli, Rathwi (bgd)
+# Rathwi Bareli (bgd)
 
 ## Overview
 
-**Language**: Bareli, Rathwi  
+**Language**: Rathwi Bareli  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.01  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: 1.01  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bareli, Rathwi*
+*Help us collect text resources for Rathwi Bareli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bareli, Rathwi*
+*Help us collect audio resources for Rathwi Bareli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bareli, Rathwi*
+*Help us collect video resources for Rathwi Bareli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

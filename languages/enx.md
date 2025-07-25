@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Enxet  
 **Region/Area**: South America, Americas  
 **Family**: Mascoyan  
-**Vitality Score**: 0.12  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Enxet*
+*Help us collect text resources for Enxet*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Enxet*
+*Help us collect audio resources for Enxet*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Enxet*
+*Help us collect video resources for Enxet*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Itza’  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: -0.80  
-**Digitality Score**: 0.17  
+**Grassroots Presence (z-score)**: -0.80  
+**Web Presence (z-score)**: 0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Itza’*
+*Help us collect text resources for Itza’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Itza’*
+*Help us collect audio resources for Itza’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Itza’*
+*Help us collect video resources for Itza’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

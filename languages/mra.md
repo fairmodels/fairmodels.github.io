@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mlabri  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: -0.32  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.32  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mlabri*
+*Help us collect text resources for Mlabri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mlabri*
+*Help us collect audio resources for Mlabri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mlabri*
+*Help us collect video resources for Mlabri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

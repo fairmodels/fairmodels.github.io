@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pear  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: -0.62  
-**Digitality Score**: -0.04  
+**Grassroots Presence (z-score)**: -0.62  
+**Web Presence (z-score)**: -0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pear*
+*Help us collect text resources for Pear*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pear*
+*Help us collect audio resources for Pear*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pear*
+*Help us collect video resources for Pear*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

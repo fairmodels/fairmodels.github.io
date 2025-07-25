@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Chayuco
+title: Chayuco Mixtec
 parent: Languages
 ---
 
-# Mixtec, Chayuco (mih)
+# Chayuco Mixtec (mih)
 
 ## Overview
 
-**Language**: Mixtec, Chayuco  
+**Language**: Chayuco Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.08  
-**Digitality Score**: 0.79  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: 0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Chayuco*
+*Help us collect text resources for Chayuco Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Chayuco*
+*Help us collect audio resources for Chayuco Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Chayuco*
+*Help us collect video resources for Chayuco Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

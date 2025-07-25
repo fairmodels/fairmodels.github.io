@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gaa  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gaa*
+*Help us collect text resources for Gaa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gaa*
+*Help us collect audio resources for Gaa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gaa*
+*Help us collect video resources for Gaa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

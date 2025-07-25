@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Hindustani, Sarnami
+title: Sarnami Hindustani
 parent: Languages
 ---
 
-# Hindustani, Sarnami (hns)
+# Sarnami Hindustani (hns)
 
 ## Overview
 
-**Language**: Hindustani, Sarnami  
+**Language**: Sarnami Hindustani  
 **Region/Area**: South America, Americas  
 **Family**: Indo-European  
-**Vitality Score**: 1.00  
-**Digitality Score**: 1.46  
+**Grassroots Presence (z-score)**: 1.00  
+**Web Presence (z-score)**: 1.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hindustani, Sarnami*
+*Help us collect text resources for Sarnami Hindustani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hindustani, Sarnami*
+*Help us collect audio resources for Sarnami Hindustani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hindustani, Sarnami*
+*Help us collect video resources for Sarnami Hindustani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

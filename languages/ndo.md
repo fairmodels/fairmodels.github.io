@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ndonga  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.29  
-**Digitality Score**: 1.58  
+**Grassroots Presence (z-score)**: 1.29  
+**Web Presence (z-score)**: 1.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ndonga*
+*Help us collect text resources for Ndonga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ndonga*
+*Help us collect audio resources for Ndonga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ndonga*
+*Help us collect video resources for Ndonga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

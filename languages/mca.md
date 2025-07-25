@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maka  
 **Region/Area**: South America, Americas  
 **Family**: Matacoan  
-**Vitality Score**: 0.27  
-**Digitality Score**: 0.56  
+**Grassroots Presence (z-score)**: 0.27  
+**Web Presence (z-score)**: 0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maka*
+*Help us collect text resources for Maka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maka*
+*Help us collect audio resources for Maka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maka*
+*Help us collect video resources for Maka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

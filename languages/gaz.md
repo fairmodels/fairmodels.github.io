@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Oromo, West Central
+title: West Central Oromo
 parent: Languages
 ---
 
-# Oromo, West Central (gaz)
+# West Central Oromo (gaz)
 
 ## Overview
 
-**Language**: Oromo, West Central  
+**Language**: West Central Oromo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.18  
-**Digitality Score**: 2.65  
+**Grassroots Presence (z-score)**: 2.18  
+**Web Presence (z-score)**: 2.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Oromo, West Central*
+*Help us collect text resources for West Central Oromo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Oromo, West Central*
+*Help us collect audio resources for West Central Oromo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Oromo, West Central*
+*Help us collect video resources for West Central Oromo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

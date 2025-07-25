@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, San Martín
+title: San Martín Quechua
 parent: Languages
 ---
 
-# Quechua, San Martín (qvs)
+# San Martín Quechua (qvs)
 
 ## Overview
 
-**Language**: Quechua, San Martín  
+**Language**: San Martín Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.13  
-**Digitality Score**: 1.28  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: 1.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, San Martín*
+*Help us collect text resources for San Martín Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, San Martín*
+*Help us collect audio resources for San Martín Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, San Martín*
+*Help us collect video resources for San Martín Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

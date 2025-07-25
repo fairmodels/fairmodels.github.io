@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Monsang
+title: Monsang Naga
 parent: Languages
 ---
 
-# Naga, Monsang (nmh)
+# Monsang Naga (nmh)
 
 ## Overview
 
-**Language**: Naga, Monsang  
+**Language**: Monsang Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.41  
-**Digitality Score**: 0.27  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: 0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Monsang*
+*Help us collect text resources for Monsang Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Monsang*
+*Help us collect audio resources for Monsang Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Monsang*
+*Help us collect video resources for Monsang Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Moroccan
+title: Moroccan Arabic
 parent: Languages
 ---
 
-# Arabic, Moroccan (ary)
+# Moroccan Arabic (ary)
 
 ## Overview
 
-**Language**: Arabic, Moroccan  
+**Language**: Moroccan Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.23  
-**Digitality Score**: 3.67  
+**Grassroots Presence (z-score)**: 2.23  
+**Web Presence (z-score)**: 3.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Moroccan*
+*Help us collect text resources for Moroccan Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Moroccan*
+*Help us collect audio resources for Moroccan Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Moroccan*
+*Help us collect video resources for Moroccan Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

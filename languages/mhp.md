@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Balinese
+title: Balinese Malay
 parent: Languages
 ---
 
-# Malay, Balinese (mhp)
+# Balinese Malay (mhp)
 
 ## Overview
 
-**Language**: Malay, Balinese  
+**Language**: Balinese Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: 0.16  
-**Digitality Score**: -0.12  
+**Grassroots Presence (z-score)**: 0.16  
+**Web Presence (z-score)**: -0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Balinese*
+*Help us collect text resources for Balinese Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Balinese*
+*Help us collect audio resources for Balinese Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Balinese*
+*Help us collect video resources for Balinese Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

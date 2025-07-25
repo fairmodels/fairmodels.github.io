@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maori  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.48  
-**Digitality Score**: 3.95  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: 3.95  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maori*
+*Help us collect text resources for Maori*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maori*
+*Help us collect audio resources for Maori*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maori*
+*Help us collect video resources for Maori*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

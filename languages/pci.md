@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Duruwa  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.10  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Duruwa*
+*Help us collect text resources for Duruwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Duruwa*
+*Help us collect audio resources for Duruwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Duruwa*
+*Help us collect video resources for Duruwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

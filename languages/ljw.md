@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yirandali  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yirandali*
+*Help us collect text resources for Yirandali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yirandali*
+*Help us collect audio resources for Yirandali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yirandali*
+*Help us collect video resources for Yirandali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

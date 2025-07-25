@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mesme  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.71  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mesme*
+*Help us collect text resources for Mesme*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mesme*
+*Help us collect audio resources for Mesme*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mesme*
+*Help us collect video resources for Mesme*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

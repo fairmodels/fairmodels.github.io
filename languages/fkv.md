@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Finnish, Kven
+title: Kven Finnish
 parent: Languages
 ---
 
-# Finnish, Kven (fkv)
+# Kven Finnish (fkv)
 
 ## Overview
 
-**Language**: Finnish, Kven  
+**Language**: Kven Finnish  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -0.63  
-**Digitality Score**: 0.91  
+**Grassroots Presence (z-score)**: -0.63  
+**Web Presence (z-score)**: 0.91  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Finnish, Kven*
+*Help us collect text resources for Kven Finnish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Finnish, Kven*
+*Help us collect audio resources for Kven Finnish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Finnish, Kven*
+*Help us collect video resources for Kven Finnish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

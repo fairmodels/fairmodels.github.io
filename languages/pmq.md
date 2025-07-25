@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pame, Northern
+title: Northern Pame
 parent: Languages
 ---
 
-# Pame, Northern (pmq)
+# Northern Pame (pmq)
 
 ## Overview
 
-**Language**: Pame, Northern  
+**Language**: Northern Pame  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.35  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: -0.35  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pame, Northern*
+*Help us collect text resources for Northern Pame*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pame, Northern*
+*Help us collect audio resources for Northern Pame*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pame, Northern*
+*Help us collect video resources for Northern Pame*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

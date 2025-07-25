@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Q’anjob’al  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.92  
-**Digitality Score**: 1.09  
+**Grassroots Presence (z-score)**: 0.92  
+**Web Presence (z-score)**: 1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Q’anjob’al*
+*Help us collect text resources for Q’anjob’al*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Q’anjob’al*
+*Help us collect audio resources for Q’anjob’al*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Q’anjob’al*
+*Help us collect video resources for Q’anjob’al*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

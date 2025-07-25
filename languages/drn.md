@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Damar, West
+title: West Damar
 parent: Languages
 ---
 
-# Damar, West (drn)
+# West Damar (drn)
 
 ## Overview
 
-**Language**: Damar, West  
+**Language**: West Damar  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.08  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Damar, West*
+*Help us collect text resources for West Damar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Damar, West*
+*Help us collect audio resources for West Damar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Damar, West*
+*Help us collect video resources for West Damar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

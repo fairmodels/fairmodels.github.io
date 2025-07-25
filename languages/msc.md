@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Maninka, Sankaran
+title: Sankaran Maninka
 parent: Languages
 ---
 
-# Maninka, Sankaran (msc)
+# Sankaran Maninka (msc)
 
 ## Overview
 
-**Language**: Maninka, Sankaran  
+**Language**: Sankaran Maninka  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.37  
-**Digitality Score**: 0.26  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: 0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maninka, Sankaran*
+*Help us collect text resources for Sankaran Maninka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maninka, Sankaran*
+*Help us collect audio resources for Sankaran Maninka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maninka, Sankaran*
+*Help us collect video resources for Sankaran Maninka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

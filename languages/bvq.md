@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Birri  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -0.89  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.89  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Birri*
+*Help us collect text resources for Birri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Birri*
+*Help us collect audio resources for Birri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Birri*
+*Help us collect video resources for Birri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

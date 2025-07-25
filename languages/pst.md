@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pashto, Central
+title: Central Pashto
 parent: Languages
 ---
 
-# Pashto, Central (pst)
+# Central Pashto (pst)
 
 ## Overview
 
-**Language**: Pashto, Central  
+**Language**: Central Pashto  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.07  
-**Digitality Score**: 1.04  
+**Grassroots Presence (z-score)**: 1.07  
+**Web Presence (z-score)**: 1.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pashto, Central*
+*Help us collect text resources for Central Pashto*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pashto, Central*
+*Help us collect audio resources for Central Pashto*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pashto, Central*
+*Help us collect video resources for Central Pashto*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

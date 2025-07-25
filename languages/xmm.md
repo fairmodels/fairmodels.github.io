@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Manado
+title: Manado Malay
 parent: Languages
 ---
 
-# Malay, Manado (xmm)
+# Manado Malay (xmm)
 
 ## Overview
 
-**Language**: Malay, Manado  
+**Language**: Manado Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: 1.92  
-**Digitality Score**: 2.11  
+**Grassroots Presence (z-score)**: 1.92  
+**Web Presence (z-score)**: 2.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Manado*
+*Help us collect text resources for Manado Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Manado*
+*Help us collect audio resources for Manado Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Manado*
+*Help us collect video resources for Manado Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

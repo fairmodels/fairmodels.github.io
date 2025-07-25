@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Qiang, Southern
+title: Southern Qiang
 parent: Languages
 ---
 
-# Qiang, Southern (qxs)
+# Southern Qiang (qxs)
 
 ## Overview
 
-**Language**: Qiang, Southern  
+**Language**: Southern Qiang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.40  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Qiang, Southern*
+*Help us collect text resources for Southern Qiang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Qiang, Southern*
+*Help us collect audio resources for Southern Qiang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Qiang, Southern*
+*Help us collect video resources for Southern Qiang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

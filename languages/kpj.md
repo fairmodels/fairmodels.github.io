@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karajá  
 **Region/Area**: South America, Americas  
 **Family**: Karajá  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.64  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karajá*
+*Help us collect text resources for Karajá*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karajá*
+*Help us collect audio resources for Karajá*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karajá*
+*Help us collect video resources for Karajá*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lalo, Dongshanba
+title: Dongshanba Lalo
 parent: Languages
 ---
 
-# Lalo, Dongshanba (yik)
+# Dongshanba Lalo (yik)
 
 ## Overview
 
-**Language**: Lalo, Dongshanba  
+**Language**: Dongshanba Lalo  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lalo, Dongshanba*
+*Help us collect text resources for Dongshanba Lalo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lalo, Dongshanba*
+*Help us collect audio resources for Dongshanba Lalo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lalo, Dongshanba*
+*Help us collect video resources for Dongshanba Lalo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

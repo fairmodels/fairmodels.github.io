@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Palaung, Rumai
+title: Rumai Palaung
 parent: Languages
 ---
 
-# Palaung, Rumai (rbb)
+# Rumai Palaung (rbb)
 
 ## Overview
 
-**Language**: Palaung, Rumai  
+**Language**: Rumai Palaung  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.90  
-**Digitality Score**: 0.11  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: 0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Palaung, Rumai*
+*Help us collect text resources for Rumai Palaung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Palaung, Rumai*
+*Help us collect audio resources for Rumai Palaung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Palaung, Rumai*
+*Help us collect video resources for Rumai Palaung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

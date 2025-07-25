@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kanuri, Yerwa
+title: Yerwa Kanuri
 parent: Languages
 ---
 
-# Kanuri, Yerwa (knc)
+# Yerwa Kanuri (knc)
 
 ## Overview
 
-**Language**: Kanuri, Yerwa  
+**Language**: Yerwa Kanuri  
 **Region/Area**: Western Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 2.05  
-**Digitality Score**: 2.34  
+**Grassroots Presence (z-score)**: 2.05  
+**Web Presence (z-score)**: 2.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanuri, Yerwa*
+*Help us collect text resources for Yerwa Kanuri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanuri, Yerwa*
+*Help us collect audio resources for Yerwa Kanuri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanuri, Yerwa*
+*Help us collect video resources for Yerwa Kanuri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

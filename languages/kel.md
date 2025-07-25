@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kela  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.60  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kela*
+*Help us collect text resources for Kela*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kela*
+*Help us collect audio resources for Kela*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kela*
+*Help us collect video resources for Kela*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

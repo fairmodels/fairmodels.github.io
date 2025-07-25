@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sidaama  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.65  
-**Digitality Score**: 1.13  
+**Grassroots Presence (z-score)**: 1.65  
+**Web Presence (z-score)**: 1.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sidaama*
+*Help us collect text resources for Sidaama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sidaama*
+*Help us collect audio resources for Sidaama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sidaama*
+*Help us collect video resources for Sidaama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mehináku  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -0.26  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.26  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mehináku*
+*Help us collect text resources for Mehináku*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mehináku*
+*Help us collect audio resources for Mehináku*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mehináku*
+*Help us collect video resources for Mehináku*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

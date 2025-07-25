@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bai, Central
+title: Central Bai
 parent: Languages
 ---
 
-# Bai, Central (bca)
+# Central Bai (bca)
 
 ## Overview
 
-**Language**: Bai, Central  
+**Language**: Central Bai  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.79  
-**Digitality Score**: 0.02  
+**Grassroots Presence (z-score)**: 0.79  
+**Web Presence (z-score)**: 0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bai, Central*
+*Help us collect text resources for Central Bai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bai, Central*
+*Help us collect audio resources for Central Bai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bai, Central*
+*Help us collect video resources for Central Bai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

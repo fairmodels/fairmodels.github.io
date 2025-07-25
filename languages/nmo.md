@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Moyon
+title: Moyon Naga
 parent: Languages
 ---
 
-# Naga, Moyon (nmo)
+# Moyon Naga (nmo)
 
 ## Overview
 
-**Language**: Naga, Moyon  
+**Language**: Moyon Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.43  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: 0.43  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Moyon*
+*Help us collect text resources for Moyon Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Moyon*
+*Help us collect audio resources for Moyon Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Moyon*
+*Help us collect video resources for Moyon Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

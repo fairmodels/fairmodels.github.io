@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Somali  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.80  
-**Digitality Score**: 3.83  
+**Grassroots Presence (z-score)**: 2.80  
+**Web Presence (z-score)**: 3.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Somali*
+*Help us collect text resources for Somali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Somali*
+*Help us collect audio resources for Somali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Somali*
+*Help us collect video resources for Somali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

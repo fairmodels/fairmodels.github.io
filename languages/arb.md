@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Standard
+title: Standard Arabic
 parent: Languages
 ---
 
-# Arabic, Standard (arb)
+# Standard Arabic (arb)
 
 ## Overview
 
-**Language**: Arabic, Standard  
+**Language**: Standard Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 3.45  
-**Digitality Score**: 4.52  
+**Grassroots Presence (z-score)**: 3.45  
+**Web Presence (z-score)**: 4.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Standard*
+*Help us collect text resources for Standard Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Standard*
+*Help us collect audio resources for Standard Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Standard*
+*Help us collect video resources for Standard Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

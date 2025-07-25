@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Minyag, Western
+title: Western Minyag
 parent: Languages
 ---
 
-# Minyag, Western (wmg)
+# Western Minyag (wmg)
 
 ## Overview
 
-**Language**: Minyag, Western  
+**Language**: Western Minyag  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.10  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Minyag, Western*
+*Help us collect text resources for Western Minyag*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Minyag, Western*
+*Help us collect audio resources for Western Minyag*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Minyag, Western*
+*Help us collect video resources for Western Minyag*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

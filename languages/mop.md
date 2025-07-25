@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Maya, Mopán
+title: Mopán Maya
 parent: Languages
 ---
 
-# Maya, Mopán (mop)
+# Mopán Maya (mop)
 
 ## Overview
 
-**Language**: Maya, Mopán  
+**Language**: Mopán Maya  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.58  
-**Digitality Score**: 1.08  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 1.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maya, Mopán*
+*Help us collect text resources for Mopán Maya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maya, Mopán*
+*Help us collect audio resources for Mopán Maya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maya, Mopán*
+*Help us collect video resources for Mopán Maya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

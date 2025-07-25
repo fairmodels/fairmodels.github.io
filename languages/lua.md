@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Luba-Kasai  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.01  
-**Digitality Score**: 2.11  
+**Grassroots Presence (z-score)**: 2.01  
+**Web Presence (z-score)**: 2.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Luba-Kasai*
+*Help us collect text resources for Luba-Kasai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Luba-Kasai*
+*Help us collect audio resources for Luba-Kasai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Luba-Kasai*
+*Help us collect video resources for Luba-Kasai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

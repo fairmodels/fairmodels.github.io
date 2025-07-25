@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chatino, Zenzontepec
+title: Zenzontepec Chatino
 parent: Languages
 ---
 
-# Chatino, Zenzontepec (czn)
+# Zenzontepec Chatino (czn)
 
 ## Overview
 
-**Language**: Chatino, Zenzontepec  
+**Language**: Zenzontepec Chatino  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chatino, Zenzontepec*
+*Help us collect text resources for Zenzontepec Chatino*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chatino, Zenzontepec*
+*Help us collect audio resources for Zenzontepec Chatino*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chatino, Zenzontepec*
+*Help us collect video resources for Zenzontepec Chatino*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

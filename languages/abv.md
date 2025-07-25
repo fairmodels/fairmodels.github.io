@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Baharna
+title: Baharna Arabic
 parent: Languages
 ---
 
-# Arabic, Baharna (abv)
+# Baharna Arabic (abv)
 
 ## Overview
 
-**Language**: Arabic, Baharna  
+**Language**: Baharna Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.73  
-**Digitality Score**: 1.83  
+**Grassroots Presence (z-score)**: 1.73  
+**Web Presence (z-score)**: 1.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Baharna*
+*Help us collect text resources for Baharna Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Baharna*
+*Help us collect audio resources for Baharna Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Baharna*
+*Help us collect video resources for Baharna Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

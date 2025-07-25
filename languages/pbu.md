@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pashto, Northern
+title: Northern Pashto
 parent: Languages
 ---
 
-# Pashto, Northern (pbu)
+# Northern Pashto (pbu)
 
 ## Overview
 
-**Language**: Pashto, Northern  
+**Language**: Northern Pashto  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.18  
-**Digitality Score**: 1.24  
+**Grassroots Presence (z-score)**: 2.18  
+**Web Presence (z-score)**: 1.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pashto, Northern*
+*Help us collect text resources for Northern Pashto*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pashto, Northern*
+*Help us collect audio resources for Northern Pashto*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pashto, Northern*
+*Help us collect video resources for Northern Pashto*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

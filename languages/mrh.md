@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mara  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.18  
-**Digitality Score**: 0.29  
+**Grassroots Presence (z-score)**: 1.18  
+**Web Presence (z-score)**: 0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mara*
+*Help us collect text resources for Mara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mara*
+*Help us collect audio resources for Mara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mara*
+*Help us collect video resources for Mara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

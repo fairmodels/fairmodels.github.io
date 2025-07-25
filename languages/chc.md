@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Catawba  
 **Region/Area**: Northern America, Americas  
 **Family**: Siouan-Catawban  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Catawba*
+*Help us collect text resources for Catawba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Catawba*
+*Help us collect audio resources for Catawba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Catawba*
+*Help us collect video resources for Catawba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

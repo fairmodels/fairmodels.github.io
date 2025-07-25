@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixe, Quetzaltepec
+title: Quetzaltepec Mixe
 parent: Languages
 ---
 
-# Mixe, Quetzaltepec (pxm)
+# Quetzaltepec Mixe (pxm)
 
 ## Overview
 
-**Language**: Mixe, Quetzaltepec  
+**Language**: Quetzaltepec Mixe  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: 0.05  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: 0.05  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixe, Quetzaltepec*
+*Help us collect text resources for Quetzaltepec Mixe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixe, Quetzaltepec*
+*Help us collect audio resources for Quetzaltepec Mixe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixe, Quetzaltepec*
+*Help us collect video resources for Quetzaltepec Mixe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

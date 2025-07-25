@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karawa  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -1.19  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -1.19  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karawa*
+*Help us collect text resources for Karawa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karawa*
+*Help us collect audio resources for Karawa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karawa*
+*Help us collect video resources for Karawa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

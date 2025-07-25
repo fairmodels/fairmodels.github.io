@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mongolian, Peripheral
+title: Peripheral Mongolian
 parent: Languages
 ---
 
-# Mongolian, Peripheral (mvf)
+# Peripheral Mongolian (mvf)
 
 ## Overview
 
-**Language**: Mongolian, Peripheral  
+**Language**: Peripheral Mongolian  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Mongolic  
-**Vitality Score**: 1.23  
-**Digitality Score**: 1.07  
+**Grassroots Presence (z-score)**: 1.23  
+**Web Presence (z-score)**: 1.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mongolian, Peripheral*
+*Help us collect text resources for Peripheral Mongolian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mongolian, Peripheral*
+*Help us collect audio resources for Peripheral Mongolian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mongolian, Peripheral*
+*Help us collect video resources for Peripheral Mongolian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

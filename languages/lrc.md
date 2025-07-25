@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Luri, Northern
+title: Northern Luri
 parent: Languages
 ---
 
-# Luri, Northern (lrc)
+# Northern Luri (lrc)
 
 ## Overview
 
-**Language**: Luri, Northern  
+**Language**: Northern Luri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.95  
-**Digitality Score**: 1.68  
+**Grassroots Presence (z-score)**: 0.95  
+**Web Presence (z-score)**: 1.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Luri, Northern*
+*Help us collect text resources for Northern Luri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Luri, Northern*
+*Help us collect audio resources for Northern Luri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Luri, Northern*
+*Help us collect video resources for Northern Luri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

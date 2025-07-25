@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Dhofari
+title: Dhofari Arabic
 parent: Languages
 ---
 
-# Arabic, Dhofari (adf)
+# Dhofari Arabic (adf)
 
 ## Overview
 
-**Language**: Arabic, Dhofari  
+**Language**: Dhofari Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.56  
-**Digitality Score**: 1.69  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: 1.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Dhofari*
+*Help us collect text resources for Dhofari Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Dhofari*
+*Help us collect audio resources for Dhofari Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Dhofari*
+*Help us collect video resources for Dhofari Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

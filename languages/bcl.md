@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bikol, Central
+title: Central Bikol
 parent: Languages
 ---
 
-# Bikol, Central (bcl)
+# Central Bikol (bcl)
 
 ## Overview
 
-**Language**: Bikol, Central  
+**Language**: Central Bikol  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.88  
-**Digitality Score**: 2.15  
+**Grassroots Presence (z-score)**: 1.88  
+**Web Presence (z-score)**: 2.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bikol, Central*
+*Help us collect text resources for Central Bikol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bikol, Central*
+*Help us collect audio resources for Central Bikol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bikol, Central*
+*Help us collect video resources for Central Bikol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

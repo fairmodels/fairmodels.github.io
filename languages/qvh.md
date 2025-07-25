@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Huamalíes-Dos de Mayo
+title: Huamalíes-Dos de Mayo Quechua
 parent: Languages
 ---
 
-# Quechua, Huamalíes-Dos de Mayo (qvh)
+# Huamalíes-Dos de Mayo Quechua (qvh)
 
 ## Overview
 
-**Language**: Quechua, Huamalíes-Dos de Mayo  
+**Language**: Huamalíes-Dos de Mayo Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.74  
-**Digitality Score**: 1.36  
+**Grassroots Presence (z-score)**: 0.74  
+**Web Presence (z-score)**: 1.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Huamalíes-Dos de Mayo*
+*Help us collect text resources for Huamalíes-Dos de Mayo Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Huamalíes-Dos de Mayo*
+*Help us collect audio resources for Huamalíes-Dos de Mayo Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Huamalíes-Dos de Mayo*
+*Help us collect video resources for Huamalíes-Dos de Mayo Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

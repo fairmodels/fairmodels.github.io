@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kembra  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Unclassified  
-**Vitality Score**: -1.17  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.17  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kembra*
+*Help us collect text resources for Kembra*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kembra*
+*Help us collect audio resources for Kembra*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kembra*
+*Help us collect video resources for Kembra*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

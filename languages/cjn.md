@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chenapian  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -0.43  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.43  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chenapian*
+*Help us collect text resources for Chenapian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chenapian*
+*Help us collect audio resources for Chenapian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chenapian*
+*Help us collect video resources for Chenapian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Masela, Central
+title: Central Masela
 parent: Languages
 ---
 
-# Masela, Central (mxz)
+# Central Masela (mxz)
 
 ## Overview
 
-**Language**: Masela, Central  
+**Language**: Central Masela  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.77  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.77  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Masela, Central*
+*Help us collect text resources for Central Masela*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Masela, Central*
+*Help us collect audio resources for Central Masela*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Masela, Central*
+*Help us collect video resources for Central Masela*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

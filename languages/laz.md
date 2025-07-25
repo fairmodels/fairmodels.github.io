@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aribwatsa  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.65  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aribwatsa*
+*Help us collect text resources for Aribwatsa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aribwatsa*
+*Help us collect audio resources for Aribwatsa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aribwatsa*
+*Help us collect video resources for Aribwatsa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

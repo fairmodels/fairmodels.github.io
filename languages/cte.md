@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Tepinapa
+title: Tepinapa Chinantec
 parent: Languages
 ---
 
-# Chinantec, Tepinapa (cte)
+# Tepinapa Chinantec (cte)
 
 ## Overview
 
-**Language**: Chinantec, Tepinapa  
+**Language**: Tepinapa Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.26  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Tepinapa*
+*Help us collect text resources for Tepinapa Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Tepinapa*
+*Help us collect audio resources for Tepinapa Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Tepinapa*
+*Help us collect video resources for Tepinapa Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

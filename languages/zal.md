@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zauzou  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zauzou*
+*Help us collect text resources for Zauzou*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zauzou*
+*Help us collect audio resources for Zauzou*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zauzou*
+*Help us collect video resources for Zauzou*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chilisso  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: -0.84  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.84  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chilisso*
+*Help us collect text resources for Chilisso*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chilisso*
+*Help us collect audio resources for Chilisso*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chilisso*
+*Help us collect video resources for Chilisso*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maijuna  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: -0.58  
-**Digitality Score**: 0.22  
+**Grassroots Presence (z-score)**: -0.58  
+**Web Presence (z-score)**: 0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maijuna*
+*Help us collect text resources for Maijuna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maijuna*
+*Help us collect audio resources for Maijuna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maijuna*
+*Help us collect video resources for Maijuna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tamahaq, Tahaggart
+title: Tahaggart Tamahaq
 parent: Languages
 ---
 
-# Tamahaq, Tahaggart (thv)
+# Tahaggart Tamahaq (thv)
 
 ## Overview
 
-**Language**: Tamahaq, Tahaggart  
+**Language**: Tahaggart Tamahaq  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.41  
-**Digitality Score**: 1.13  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: 1.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tamahaq, Tahaggart*
+*Help us collect text resources for Tahaggart Tamahaq*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tamahaq, Tahaggart*
+*Help us collect audio resources for Tahaggart Tamahaq*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tamahaq, Tahaggart*
+*Help us collect video resources for Tahaggart Tamahaq*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

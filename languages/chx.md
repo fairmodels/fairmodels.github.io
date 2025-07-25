@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chantyal  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.02  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chantyal*
+*Help us collect text resources for Chantyal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chantyal*
+*Help us collect audio resources for Chantyal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chantyal*
+*Help us collect video resources for Chantyal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

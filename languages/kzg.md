@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kikai  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Japonic  
-**Vitality Score**: -1.24  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -1.24  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kikai*
+*Help us collect text resources for Kikai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kikai*
+*Help us collect audio resources for Kikai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kikai*
+*Help us collect video resources for Kikai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

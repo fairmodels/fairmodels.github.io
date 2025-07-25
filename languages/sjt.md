@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saami, Ter
+title: Ter Saami
 parent: Languages
 ---
 
-# Saami, Ter (sjt)
+# Ter Saami (sjt)
 
 ## Overview
 
-**Language**: Saami, Ter  
+**Language**: Ter Saami  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -1.58  
-**Digitality Score**: -0.23  
+**Grassroots Presence (z-score)**: -1.58  
+**Web Presence (z-score)**: -0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saami, Ter*
+*Help us collect text resources for Ter Saami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saami, Ter*
+*Help us collect audio resources for Ter Saami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saami, Ter*
+*Help us collect video resources for Ter Saami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

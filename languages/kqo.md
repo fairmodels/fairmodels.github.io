@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Krahn, Eastern
+title: Eastern Krahn
 parent: Languages
 ---
 
-# Krahn, Eastern (kqo)
+# Eastern Krahn (kqo)
 
 ## Overview
 
-**Language**: Krahn, Eastern  
+**Language**: Eastern Krahn  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.86  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: 0.86  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Krahn, Eastern*
+*Help us collect text resources for Eastern Krahn*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Krahn, Eastern*
+*Help us collect audio resources for Eastern Krahn*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Krahn, Eastern*
+*Help us collect video resources for Eastern Krahn*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

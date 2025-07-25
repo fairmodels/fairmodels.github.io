@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Puoc  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Puoc*
+*Help us collect text resources for Puoc*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Puoc*
+*Help us collect audio resources for Puoc*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Puoc*
+*Help us collect video resources for Puoc*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

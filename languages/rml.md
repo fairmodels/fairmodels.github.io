@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Romani, Baltic
+title: Baltic Romani
 parent: Languages
 ---
 
-# Romani, Baltic (rml)
+# Baltic Romani (rml)
 
 ## Overview
 
-**Language**: Romani, Baltic  
+**Language**: Baltic Romani  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.68  
-**Digitality Score**: 1.28  
+**Grassroots Presence (z-score)**: 0.68  
+**Web Presence (z-score)**: 1.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romani, Baltic*
+*Help us collect text resources for Baltic Romani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romani, Baltic*
+*Help us collect audio resources for Baltic Romani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romani, Baltic*
+*Help us collect video resources for Baltic Romani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

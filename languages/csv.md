@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Sumtu
+title: Sumtu Chin
 parent: Languages
 ---
 
-# Chin, Sumtu (csv)
+# Sumtu Chin (csv)
 
 ## Overview
 
-**Language**: Chin, Sumtu  
+**Language**: Sumtu Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.59  
-**Digitality Score**: -0.51  
+**Grassroots Presence (z-score)**: 0.59  
+**Web Presence (z-score)**: -0.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Sumtu*
+*Help us collect text resources for Sumtu Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Sumtu*
+*Help us collect audio resources for Sumtu Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Sumtu*
+*Help us collect video resources for Sumtu Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

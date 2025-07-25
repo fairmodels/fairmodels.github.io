@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Guarequena  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -0.92  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: -0.92  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Guarequena*
+*Help us collect text resources for Guarequena*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Guarequena*
+*Help us collect audio resources for Guarequena*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Guarequena*
+*Help us collect video resources for Guarequena*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

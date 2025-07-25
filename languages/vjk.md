@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bajjika  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.46  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 1.46  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bajjika*
+*Help us collect text resources for Bajjika*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bajjika*
+*Help us collect audio resources for Bajjika*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bajjika*
+*Help us collect video resources for Bajjika*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

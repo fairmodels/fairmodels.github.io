@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dema  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.09  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.09  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dema*
+*Help us collect text resources for Dema*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dema*
+*Help us collect audio resources for Dema*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dema*
+*Help us collect video resources for Dema*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

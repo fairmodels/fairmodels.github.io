@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Te’un  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Te’un*
+*Help us collect text resources for Te’un*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Te’un*
+*Help us collect audio resources for Te’un*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Te’un*
+*Help us collect video resources for Te’un*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

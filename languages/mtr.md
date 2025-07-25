@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mewari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.32  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: 1.32  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mewari*
+*Help us collect text resources for Mewari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mewari*
+*Help us collect audio resources for Mewari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mewari*
+*Help us collect video resources for Mewari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

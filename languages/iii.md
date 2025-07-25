@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nuosu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.54  
-**Digitality Score**: 1.89  
+**Grassroots Presence (z-score)**: 1.54  
+**Web Presence (z-score)**: 1.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nuosu*
+*Help us collect text resources for Nuosu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nuosu*
+*Help us collect audio resources for Nuosu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nuosu*
+*Help us collect video resources for Nuosu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

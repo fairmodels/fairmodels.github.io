@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ifè  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.91  
-**Digitality Score**: 0.97  
+**Grassroots Presence (z-score)**: 0.91  
+**Web Presence (z-score)**: 0.97  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ifè*
+*Help us collect text resources for Ifè*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ifè*
+*Help us collect audio resources for Ifè*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ifè*
+*Help us collect video resources for Ifè*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

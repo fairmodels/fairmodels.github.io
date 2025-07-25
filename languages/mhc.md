@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mocho  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: -0.94  
-**Digitality Score**: 0.30  
+**Grassroots Presence (z-score)**: -0.94  
+**Web Presence (z-score)**: 0.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mocho*
+*Help us collect text resources for Mocho*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mocho*
+*Help us collect audio resources for Mocho*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mocho*
+*Help us collect video resources for Mocho*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

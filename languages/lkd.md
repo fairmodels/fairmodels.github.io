@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lakondê  
 **Region/Area**: South America, Americas  
 **Family**: Nambikwara  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lakondê*
+*Help us collect text resources for Lakondê*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lakondê*
+*Help us collect audio resources for Lakondê*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lakondê*
+*Help us collect video resources for Lakondê*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bunu, Bu-Nao
+title: Bu-Nao Bunu
 parent: Languages
 ---
 
-# Bunu, Bu-Nao (bwx)
+# Bu-Nao Bunu (bwx)
 
 ## Overview
 
-**Language**: Bunu, Bu-Nao  
+**Language**: Bu-Nao Bunu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.55  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bunu, Bu-Nao*
+*Help us collect text resources for Bu-Nao Bunu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bunu, Bu-Nao*
+*Help us collect audio resources for Bu-Nao Bunu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bunu, Bu-Nao*
+*Help us collect video resources for Bu-Nao Bunu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dadiya  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.48  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dadiya*
+*Help us collect text resources for Dadiya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dadiya*
+*Help us collect audio resources for Dadiya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dadiya*
+*Help us collect video resources for Dadiya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

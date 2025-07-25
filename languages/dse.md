@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sign Language of the Netherlands  
 **Region/Area**: Western Europe, Europe  
 **Family**: Sign language  
-**Vitality Score**: 0.66  
-**Digitality Score**: -0.90  
+**Grassroots Presence (z-score)**: 0.66  
+**Web Presence (z-score)**: -0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sign Language of the Netherlands*
+*Help us collect text resources for Sign Language of the Netherlands*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sign Language of the Netherlands*
+*Help us collect audio resources for Sign Language of the Netherlands*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sign Language of the Netherlands*
+*Help us collect video resources for Sign Language of the Netherlands*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Albanian, Arbëreshë
+title: Arbëreshë Albanian
 parent: Languages
 ---
 
-# Albanian, Arbëreshë (aae)
+# Arbëreshë Albanian (aae)
 
 ## Overview
 
-**Language**: Albanian, Arbëreshë  
+**Language**: Arbëreshë Albanian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.37  
-**Digitality Score**: 1.20  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: 1.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Albanian, Arbëreshë*
+*Help us collect text resources for Arbëreshë Albanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Albanian, Arbëreshë*
+*Help us collect audio resources for Arbëreshë Albanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Albanian, Arbëreshë*
+*Help us collect video resources for Arbëreshë Albanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

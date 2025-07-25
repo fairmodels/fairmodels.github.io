@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tiyaa  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.49  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tiyaa*
+*Help us collect text resources for Tiyaa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tiyaa*
+*Help us collect audio resources for Tiyaa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tiyaa*
+*Help us collect video resources for Tiyaa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

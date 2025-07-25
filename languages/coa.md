@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Cocos Islands
+title: Cocos Islands Malay
 parent: Languages
 ---
 
-# Malay, Cocos Islands (coa)
+# Cocos Islands Malay (coa)
 
 ## Overview
 
-**Language**: Malay, Cocos Islands  
+**Language**: Cocos Islands Malay  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Creole  
-**Vitality Score**: -0.09  
-**Digitality Score**: 0.94  
+**Grassroots Presence (z-score)**: -0.09  
+**Web Presence (z-score)**: 0.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Cocos Islands*
+*Help us collect text resources for Cocos Islands Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Cocos Islands*
+*Help us collect audio resources for Cocos Islands Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Cocos Islands*
+*Help us collect video resources for Cocos Islands Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

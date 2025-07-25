@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pahari, Mahasu
+title: Mahasu Pahari
 parent: Languages
 ---
 
-# Pahari, Mahasu (bfz)
+# Mahasu Pahari (bfz)
 
 ## Overview
 
-**Language**: Pahari, Mahasu  
+**Language**: Mahasu Pahari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.14  
-**Digitality Score**: 0.36  
+**Grassroots Presence (z-score)**: 1.14  
+**Web Presence (z-score)**: 0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pahari, Mahasu*
+*Help us collect text resources for Mahasu Pahari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pahari, Mahasu*
+*Help us collect audio resources for Mahasu Pahari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pahari, Mahasu*
+*Help us collect video resources for Mahasu Pahari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Delaware, Pidgin
+title: Pidgin Delaware
 parent: Languages
 ---
 
-# Delaware, Pidgin (dep)
+# Pidgin Delaware (dep)
 
 ## Overview
 
-**Language**: Delaware, Pidgin  
+**Language**: Pidgin Delaware  
 **Region/Area**: Northern America, Americas  
 **Family**: Pidgin  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Delaware, Pidgin*
+*Help us collect text resources for Pidgin Delaware*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Delaware, Pidgin*
+*Help us collect audio resources for Pidgin Delaware*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Delaware, Pidgin*
+*Help us collect video resources for Pidgin Delaware*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

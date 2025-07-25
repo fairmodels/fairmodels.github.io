@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Busuu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Busuu*
+*Help us collect text resources for Busuu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Busuu*
+*Help us collect audio resources for Busuu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Busuu*
+*Help us collect video resources for Busuu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

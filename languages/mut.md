@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Muria, Western
+title: Western Muria
 parent: Languages
 ---
 
-# Muria, Western (mut)
+# Western Muria (mut)
 
 ## Overview
 
-**Language**: Muria, Western  
+**Language**: Western Muria  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.70  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: 0.70  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Muria, Western*
+*Help us collect text resources for Western Muria*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Muria, Western*
+*Help us collect audio resources for Western Muria*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Muria, Western*
+*Help us collect video resources for Western Muria*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Helong  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.12  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Helong*
+*Help us collect text resources for Helong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Helong*
+*Help us collect audio resources for Helong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Helong*
+*Help us collect video resources for Helong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

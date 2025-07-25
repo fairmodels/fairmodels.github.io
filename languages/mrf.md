@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Elseng  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Language isolate  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Elseng*
+*Help us collect text resources for Elseng*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Elseng*
+*Help us collect audio resources for Elseng*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Elseng*
+*Help us collect video resources for Elseng*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Uda  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Uda*
+*Help us collect text resources for Uda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Uda*
+*Help us collect audio resources for Uda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Uda*
+*Help us collect video resources for Uda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

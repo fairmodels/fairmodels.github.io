@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cofán  
 **Region/Area**: South America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: 0.26  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cofán*
+*Help us collect text resources for Cofán*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cofán*
+*Help us collect audio resources for Cofán*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cofán*
+*Help us collect video resources for Cofán*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

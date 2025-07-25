@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Majhwar  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Unclassified  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Majhwar*
+*Help us collect text resources for Majhwar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Majhwar*
+*Help us collect audio resources for Majhwar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Majhwar*
+*Help us collect video resources for Majhwar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

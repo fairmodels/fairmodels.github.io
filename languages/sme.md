@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saami, North
+title: North Saami
 parent: Languages
 ---
 
-# Saami, North (sme)
+# North Saami (sme)
 
 ## Overview
 
-**Language**: Saami, North  
+**Language**: North Saami  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: 1.62  
-**Digitality Score**: 2.75  
+**Grassroots Presence (z-score)**: 1.62  
+**Web Presence (z-score)**: 2.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saami, North*
+*Help us collect text resources for North Saami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saami, North*
+*Help us collect audio resources for North Saami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saami, North*
+*Help us collect video resources for North Saami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Grebo, Barclayville
+title: Barclayville Grebo
 parent: Languages
 ---
 
-# Grebo, Barclayville (gry)
+# Barclayville Grebo (gry)
 
 ## Overview
 
-**Language**: Grebo, Barclayville  
+**Language**: Barclayville Grebo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Grebo, Barclayville*
+*Help us collect text resources for Barclayville Grebo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Grebo, Barclayville*
+*Help us collect audio resources for Barclayville Grebo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Grebo, Barclayville*
+*Help us collect video resources for Barclayville Grebo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

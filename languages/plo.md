@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Popoluca, Oluta
+title: Oluta Popoluca
 parent: Languages
 ---
 
-# Popoluca, Oluta (plo)
+# Oluta Popoluca (plo)
 
 ## Overview
 
-**Language**: Popoluca, Oluta  
+**Language**: Oluta Popoluca  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Popoluca, Oluta*
+*Help us collect text resources for Oluta Popoluca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Popoluca, Oluta*
+*Help us collect audio resources for Oluta Popoluca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Popoluca, Oluta*
+*Help us collect video resources for Oluta Popoluca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

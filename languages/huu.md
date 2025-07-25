@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Witoto, Murui
+title: Murui Witoto
 parent: Languages
 ---
 
-# Witoto, Murui (huu)
+# Murui Witoto (huu)
 
 ## Overview
 
-**Language**: Witoto, Murui  
+**Language**: Murui Witoto  
 **Region/Area**: South America, Americas  
 **Family**: Witotoan  
-**Vitality Score**: -0.37  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Witoto, Murui*
+*Help us collect text resources for Murui Witoto*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Witoto, Murui*
+*Help us collect audio resources for Murui Witoto*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Witoto, Murui*
+*Help us collect video resources for Murui Witoto*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

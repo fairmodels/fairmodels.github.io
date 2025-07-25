@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Palatinate Franconian  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.02  
-**Digitality Score**: 1.13  
+**Grassroots Presence (z-score)**: 1.02  
+**Web Presence (z-score)**: 1.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Palatinate Franconian*
+*Help us collect text resources for Palatinate Franconian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Palatinate Franconian*
+*Help us collect audio resources for Palatinate Franconian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Palatinate Franconian*
+*Help us collect video resources for Palatinate Franconian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bit  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.06  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.06  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bit*
+*Help us collect text resources for Bit*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bit*
+*Help us collect audio resources for Bit*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bit*
+*Help us collect video resources for Bit*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

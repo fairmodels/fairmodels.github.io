@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kpelle, Liberia
+title: Liberia Kpelle
 parent: Languages
 ---
 
-# Kpelle, Liberia (xpe)
+# Liberia Kpelle (xpe)
 
 ## Overview
 
-**Language**: Kpelle, Liberia  
+**Language**: Liberia Kpelle  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.12  
-**Digitality Score**: 0.87  
+**Grassroots Presence (z-score)**: 1.12  
+**Web Presence (z-score)**: 0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kpelle, Liberia*
+*Help us collect text resources for Liberia Kpelle*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kpelle, Liberia*
+*Help us collect audio resources for Liberia Kpelle*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kpelle, Liberia*
+*Help us collect video resources for Liberia Kpelle*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

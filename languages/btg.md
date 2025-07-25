@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bété, Gagnoa
+title: Gagnoa Bété
 parent: Languages
 ---
 
-# Bété, Gagnoa (btg)
+# Gagnoa Bété (btg)
 
 ## Overview
 
-**Language**: Bété, Gagnoa  
+**Language**: Gagnoa Bété  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.68  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: 0.68  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bété, Gagnoa*
+*Help us collect text resources for Gagnoa Bété*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bété, Gagnoa*
+*Help us collect audio resources for Gagnoa Bété*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bété, Gagnoa*
+*Help us collect video resources for Gagnoa Bété*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

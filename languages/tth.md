@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ta’oih, Upper
+title: Upper Ta’oih
 parent: Languages
 ---
 
-# Ta’oih, Upper (tth)
+# Upper Ta’oih (tth)
 
 ## Overview
 
-**Language**: Ta’oih, Upper  
+**Language**: Upper Ta’oih  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ta’oih, Upper*
+*Help us collect text resources for Upper Ta’oih*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ta’oih, Upper*
+*Help us collect audio resources for Upper Ta’oih*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ta’oih, Upper*
+*Help us collect video resources for Upper Ta’oih*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

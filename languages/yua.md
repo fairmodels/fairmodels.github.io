@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Maya, Yucatec
+title: Yucatec Maya
 parent: Languages
 ---
 
-# Maya, Yucatec (yua)
+# Yucatec Maya (yua)
 
 ## Overview
 
-**Language**: Maya, Yucatec  
+**Language**: Yucatec Maya  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 1.11  
-**Digitality Score**: 2.29  
+**Grassroots Presence (z-score)**: 1.11  
+**Web Presence (z-score)**: 2.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maya, Yucatec*
+*Help us collect text resources for Yucatec Maya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maya, Yucatec*
+*Help us collect audio resources for Yucatec Maya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maya, Yucatec*
+*Help us collect video resources for Yucatec Maya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

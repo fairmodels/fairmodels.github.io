@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ojibwa, Central
+title: Central Ojibwa
 parent: Languages
 ---
 
-# Ojibwa, Central (ojc)
+# Central Ojibwa (ojc)
 
 ## Overview
 
-**Language**: Ojibwa, Central  
+**Language**: Central Ojibwa  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: 0.05  
-**Digitality Score**: 0.02  
+**Grassroots Presence (z-score)**: 0.05  
+**Web Presence (z-score)**: 0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ojibwa, Central*
+*Help us collect text resources for Central Ojibwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ojibwa, Central*
+*Help us collect audio resources for Central Ojibwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ojibwa, Central*
+*Help us collect video resources for Central Ojibwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lahu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.70  
-**Digitality Score**: 1.73  
+**Grassroots Presence (z-score)**: 1.70  
+**Web Presence (z-score)**: 1.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lahu*
+*Help us collect text resources for Lahu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lahu*
+*Help us collect audio resources for Lahu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lahu*
+*Help us collect video resources for Lahu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Koraga, Korra
+title: Korra Koraga
 parent: Languages
 ---
 
-# Koraga, Korra (kfd)
+# Korra Koraga (kfd)
 
 ## Overview
 
-**Language**: Koraga, Korra  
+**Language**: Korra Koraga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.12  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koraga, Korra*
+*Help us collect text resources for Korra Koraga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koraga, Korra*
+*Help us collect audio resources for Korra Koraga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koraga, Korra*
+*Help us collect video resources for Korra Koraga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

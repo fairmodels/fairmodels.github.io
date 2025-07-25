@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Makian, East
+title: East Makian
 parent: Languages
 ---
 
-# Makian, East (mky)
+# East Makian (mky)
 
 ## Overview
 
-**Language**: Makian, East  
+**Language**: East Makian  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.20  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Makian, East*
+*Help us collect text resources for East Makian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Makian, East*
+*Help us collect audio resources for East Makian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Makian, East*
+*Help us collect video resources for East Makian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

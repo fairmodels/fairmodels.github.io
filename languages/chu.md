@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Slavonic, Church
+title: Church Slavonic
 parent: Languages
 ---
 
-# Slavonic, Church (chu)
+# Church Slavonic (chu)
 
 ## Overview
 
-**Language**: Slavonic, Church  
+**Language**: Church Slavonic  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -1.87  
-**Digitality Score**: 2.06  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: 2.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Slavonic, Church*
+*Help us collect text resources for Church Slavonic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Slavonic, Church*
+*Help us collect audio resources for Church Slavonic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Slavonic, Church*
+*Help us collect video resources for Church Slavonic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

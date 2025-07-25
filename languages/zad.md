@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Cajonos
+title: Cajonos Zapotec
 parent: Languages
 ---
 
-# Zapotec, Cajonos (zad)
+# Cajonos Zapotec (zad)
 
 ## Overview
 
-**Language**: Zapotec, Cajonos  
+**Language**: Cajonos Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.46  
-**Digitality Score**: 1.58  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 1.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Cajonos*
+*Help us collect text resources for Cajonos Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Cajonos*
+*Help us collect audio resources for Cajonos Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Cajonos*
+*Help us collect video resources for Cajonos Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

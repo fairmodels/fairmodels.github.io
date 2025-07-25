@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Awing  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.59  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: 0.59  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Awing*
+*Help us collect text resources for Awing*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Awing*
+*Help us collect audio resources for Awing*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Awing*
+*Help us collect video resources for Awing*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ifugao, Tuwali
+title: Tuwali Ifugao
 parent: Languages
 ---
 
-# Ifugao, Tuwali (ifk)
+# Tuwali Ifugao (ifk)
 
 ## Overview
 
-**Language**: Ifugao, Tuwali  
+**Language**: Tuwali Ifugao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.69  
-**Digitality Score**: 0.85  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 0.85  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ifugao, Tuwali*
+*Help us collect text resources for Tuwali Ifugao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ifugao, Tuwali*
+*Help us collect audio resources for Tuwali Ifugao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ifugao, Tuwali*
+*Help us collect video resources for Tuwali Ifugao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

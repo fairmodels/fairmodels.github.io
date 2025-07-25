@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Chothe
+title: Chothe Naga
 parent: Languages
 ---
 
-# Naga, Chothe (nct)
+# Chothe Naga (nct)
 
 ## Overview
 
-**Language**: Naga, Chothe  
+**Language**: Chothe Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.42  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Chothe*
+*Help us collect text resources for Chothe Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Chothe*
+*Help us collect audio resources for Chothe Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Chothe*
+*Help us collect video resources for Chothe Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

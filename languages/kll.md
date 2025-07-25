@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kalagan, Kagan
+title: Kagan Kalagan
 parent: Languages
 ---
 
-# Kalagan, Kagan (kll)
+# Kagan Kalagan (kll)
 
 ## Overview
 
-**Language**: Kalagan, Kagan  
+**Language**: Kagan Kalagan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.30  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: -0.30  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalagan, Kagan*
+*Help us collect text resources for Kagan Kalagan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalagan, Kagan*
+*Help us collect audio resources for Kagan Kalagan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalagan, Kagan*
+*Help us collect video resources for Kagan Kalagan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

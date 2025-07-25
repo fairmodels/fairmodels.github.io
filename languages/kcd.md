@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kanum, Ngkâlmpw
+title: Ngkâlmpw Kanum
 parent: Languages
 ---
 
-# Kanum, Ngkâlmpw (kcd)
+# Ngkâlmpw Kanum (kcd)
 
 ## Overview
 
-**Language**: Kanum, Ngkâlmpw  
+**Language**: Ngkâlmpw Kanum  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: South-Central Papuan  
-**Vitality Score**: -0.50  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: -0.50  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanum, Ngkâlmpw*
+*Help us collect text resources for Ngkâlmpw Kanum*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanum, Ngkâlmpw*
+*Help us collect audio resources for Ngkâlmpw Kanum*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanum, Ngkâlmpw*
+*Help us collect video resources for Ngkâlmpw Kanum*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

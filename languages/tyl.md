@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Thu Lao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: -0.42  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.42  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Thu Lao*
+*Help us collect text resources for Thu Lao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Thu Lao*
+*Help us collect audio resources for Thu Lao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Thu Lao*
+*Help us collect video resources for Thu Lao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

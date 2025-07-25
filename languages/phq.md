@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Phana’  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.33  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: -0.33  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Phana’*
+*Help us collect text resources for Phana’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Phana’*
+*Help us collect audio resources for Phana’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Phana’*
+*Help us collect video resources for Phana’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

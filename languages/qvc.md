@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Cajamarca
+title: Cajamarca Quechua
 parent: Languages
 ---
 
-# Quechua, Cajamarca (qvc)
+# Cajamarca Quechua (qvc)
 
 ## Overview
 
-**Language**: Quechua, Cajamarca  
+**Language**: Cajamarca Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -0.01  
-**Digitality Score**: 1.81  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: 1.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Cajamarca*
+*Help us collect text resources for Cajamarca Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Cajamarca*
+*Help us collect audio resources for Cajamarca Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Cajamarca*
+*Help us collect video resources for Cajamarca Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

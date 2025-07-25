@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Fijian  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 1.31  
-**Digitality Score**: 3.19  
+**Grassroots Presence (z-score)**: 1.31  
+**Web Presence (z-score)**: 3.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fijian*
+*Help us collect text resources for Fijian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fijian*
+*Help us collect audio resources for Fijian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fijian*
+*Help us collect video resources for Fijian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

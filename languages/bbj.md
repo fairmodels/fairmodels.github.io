@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ghomálá’  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.00  
-**Digitality Score**: 1.54  
+**Grassroots Presence (z-score)**: 1.00  
+**Web Presence (z-score)**: 1.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ghomálá’*
+*Help us collect text resources for Ghomálá’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ghomálá’*
+*Help us collect audio resources for Ghomálá’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ghomálá’*
+*Help us collect video resources for Ghomálá’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nii  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.57  
-**Digitality Score**: 0.81  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: 0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nii*
+*Help us collect text resources for Nii*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nii*
+*Help us collect audio resources for Nii*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nii*
+*Help us collect video resources for Nii*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

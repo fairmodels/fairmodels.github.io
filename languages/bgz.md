@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Banggai  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.20  
-**Digitality Score**: 1.14  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: 1.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Banggai*
+*Help us collect text resources for Banggai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Banggai*
+*Help us collect audio resources for Banggai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Banggai*
+*Help us collect video resources for Banggai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

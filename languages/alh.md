@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Alawa  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.49  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: -1.49  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Alawa*
+*Help us collect text resources for Alawa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Alawa*
+*Help us collect audio resources for Alawa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Alawa*
+*Help us collect video resources for Alawa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

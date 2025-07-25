@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ewage-Notu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.57  
-**Digitality Score**: 0.60  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: 0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ewage-Notu*
+*Help us collect text resources for Ewage-Notu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ewage-Notu*
+*Help us collect audio resources for Ewage-Notu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ewage-Notu*
+*Help us collect video resources for Ewage-Notu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

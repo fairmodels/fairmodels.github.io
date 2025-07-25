@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Banda, Mid-Southern
+title: Mid-Southern Banda
 parent: Languages
 ---
 
-# Banda, Mid-Southern (bjo)
+# Mid-Southern Banda (bjo)
 
 ## Overview
 
-**Language**: Banda, Mid-Southern  
+**Language**: Mid-Southern Banda  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.53  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Banda, Mid-Southern*
+*Help us collect text resources for Mid-Southern Banda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Banda, Mid-Southern*
+*Help us collect audio resources for Mid-Southern Banda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Banda, Mid-Southern*
+*Help us collect video resources for Mid-Southern Banda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

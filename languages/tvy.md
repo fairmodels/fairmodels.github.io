@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pidgin, Timor
+title: Timor Pidgin
 parent: Languages
 ---
 
-# Pidgin, Timor (tvy)
+# Timor Pidgin (tvy)
 
 ## Overview
 
-**Language**: Pidgin, Timor  
+**Language**: Timor Pidgin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pidgin, Timor*
+*Help us collect text resources for Timor Pidgin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pidgin, Timor*
+*Help us collect audio resources for Timor Pidgin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pidgin, Timor*
+*Help us collect video resources for Timor Pidgin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Lao
+title: Lao Naga
 parent: Languages
 ---
 
-# Naga, Lao (nlq)
+# Lao Naga (nlq)
 
 ## Overview
 
-**Language**: Naga, Lao  
+**Language**: Lao Naga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Lao*
+*Help us collect text resources for Lao Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Lao*
+*Help us collect audio resources for Lao Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Lao*
+*Help us collect video resources for Lao Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

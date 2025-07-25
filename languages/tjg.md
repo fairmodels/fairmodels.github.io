@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tunjung  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.25  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: 0.25  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tunjung*
+*Help us collect text resources for Tunjung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tunjung*
+*Help us collect audio resources for Tunjung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tunjung*
+*Help us collect video resources for Tunjung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

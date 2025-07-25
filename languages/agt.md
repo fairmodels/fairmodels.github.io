@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Agta, Central Cagayan
+title: Central Cagayan Agta
 parent: Languages
 ---
 
-# Agta, Central Cagayan (agt)
+# Central Cagayan Agta (agt)
 
 ## Overview
 
-**Language**: Agta, Central Cagayan  
+**Language**: Central Cagayan Agta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.23  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: 0.23  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Agta, Central Cagayan*
+*Help us collect text resources for Central Cagayan Agta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Agta, Central Cagayan*
+*Help us collect audio resources for Central Cagayan Agta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Agta, Central Cagayan*
+*Help us collect video resources for Central Cagayan Agta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lezgi  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: 1.05  
-**Digitality Score**: 1.88  
+**Grassroots Presence (z-score)**: 1.05  
+**Web Presence (z-score)**: 1.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lezgi*
+*Help us collect text resources for Lezgi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lezgi*
+*Help us collect audio resources for Lezgi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lezgi*
+*Help us collect video resources for Lezgi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

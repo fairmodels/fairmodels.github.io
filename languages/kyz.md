@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kayabí  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -0.21  
-**Digitality Score**: 0.62  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: 0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayabí*
+*Help us collect text resources for Kayabí*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayabí*
+*Help us collect audio resources for Kayabí*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayabí*
+*Help us collect video resources for Kayabí*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Yongnan
+title: Yongnan Zhuang
 parent: Languages
 ---
 
-# Zhuang, Yongnan (zyn)
+# Yongnan Zhuang (zyn)
 
 ## Overview
 
-**Language**: Zhuang, Yongnan  
+**Language**: Yongnan Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.90  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Yongnan*
+*Help us collect text resources for Yongnan Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Yongnan*
+*Help us collect audio resources for Yongnan Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Yongnan*
+*Help us collect video resources for Yongnan Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

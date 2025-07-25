@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kayan, Rejang
+title: Rejang Kayan
 parent: Languages
 ---
 
-# Kayan, Rejang (ree)
+# Rejang Kayan (ree)
 
 ## Overview
 
-**Language**: Kayan, Rejang  
+**Language**: Rejang Kayan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.12  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayan, Rejang*
+*Help us collect text resources for Rejang Kayan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayan, Rejang*
+*Help us collect audio resources for Rejang Kayan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayan, Rejang*
+*Help us collect video resources for Rejang Kayan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

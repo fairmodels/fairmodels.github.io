@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Polish  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.88  
-**Digitality Score**: 6.37  
+**Grassroots Presence (z-score)**: 2.88  
+**Web Presence (z-score)**: 6.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Polish*
+*Help us collect text resources for Polish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Polish*
+*Help us collect audio resources for Polish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Polish*
+*Help us collect video resources for Polish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

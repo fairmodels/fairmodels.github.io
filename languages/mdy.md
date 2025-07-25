@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Male  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.85  
-**Digitality Score**: 0.54  
+**Grassroots Presence (z-score)**: 0.85  
+**Web Presence (z-score)**: 0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Male*
+*Help us collect text resources for Male*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Male*
+*Help us collect audio resources for Male*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Male*
+*Help us collect video resources for Male*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

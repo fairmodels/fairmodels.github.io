@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Min Dong
+title: Min Dong Chinese
 parent: Languages
 ---
 
-# Chinese, Min Dong (cdo)
+# Min Dong Chinese (cdo)
 
 ## Overview
 
-**Language**: Chinese, Min Dong  
+**Language**: Min Dong Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.44  
-**Digitality Score**: 4.06  
+**Grassroots Presence (z-score)**: 1.44  
+**Web Presence (z-score)**: 4.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Min Dong*
+*Help us collect text resources for Min Dong Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Min Dong*
+*Help us collect audio resources for Min Dong Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Min Dong*
+*Help us collect video resources for Min Dong Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

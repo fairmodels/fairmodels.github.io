@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Yalálag
+title: Yalálag Zapotec
 parent: Languages
 ---
 
-# Zapotec, Yalálag (zpu)
+# Yalálag Zapotec (zpu)
 
 ## Overview
 
-**Language**: Zapotec, Yalálag  
+**Language**: Yalálag Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.42  
-**Digitality Score**: 1.55  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 1.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Yalálag*
+*Help us collect text resources for Yalálag Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Yalálag*
+*Help us collect audio resources for Yalálag Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Yalálag*
+*Help us collect video resources for Yalálag Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

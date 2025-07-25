@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Mombo
+title: Mombo Dogon
 parent: Languages
 ---
 
-# Dogon, Mombo (dmb)
+# Mombo Dogon (dmb)
 
 ## Overview
 
-**Language**: Dogon, Mombo  
+**Language**: Mombo Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Mombo*
+*Help us collect text resources for Mombo Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Mombo*
+*Help us collect audio resources for Mombo Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Mombo*
+*Help us collect video resources for Mombo Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

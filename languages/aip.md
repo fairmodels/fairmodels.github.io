@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Burumakok  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -1.25  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.25  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Burumakok*
+*Help us collect text resources for Burumakok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Burumakok*
+*Help us collect audio resources for Burumakok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Burumakok*
+*Help us collect video resources for Burumakok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

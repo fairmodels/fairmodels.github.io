@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ishkashimi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.13  
-**Digitality Score**: 0.02  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: 0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ishkashimi*
+*Help us collect text resources for Ishkashimi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ishkashimi*
+*Help us collect audio resources for Ishkashimi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ishkashimi*
+*Help us collect video resources for Ishkashimi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

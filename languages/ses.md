@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Songhay, Koyraboro Senni
+title: Koyraboro Senni Songhay
 parent: Languages
 ---
 
-# Songhay, Koyraboro Senni (ses)
+# Koyraboro Senni Songhay (ses)
 
 ## Overview
 
-**Language**: Songhay, Koyraboro Senni  
+**Language**: Koyraboro Senni Songhay  
 **Region/Area**: Western Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.03  
-**Digitality Score**: 1.26  
+**Grassroots Presence (z-score)**: 1.03  
+**Web Presence (z-score)**: 1.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Songhay, Koyraboro Senni*
+*Help us collect text resources for Koyraboro Senni Songhay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Songhay, Koyraboro Senni*
+*Help us collect audio resources for Koyraboro Senni Songhay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Songhay, Koyraboro Senni*
+*Help us collect video resources for Koyraboro Senni Songhay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

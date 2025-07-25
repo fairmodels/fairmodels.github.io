@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ghayavi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.39  
-**Digitality Score**: 1.00  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: 1.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ghayavi*
+*Help us collect text resources for Ghayavi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ghayavi*
+*Help us collect audio resources for Ghayavi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ghayavi*
+*Help us collect video resources for Ghayavi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

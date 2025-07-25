@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pawaia  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.50  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pawaia*
+*Help us collect text resources for Pawaia*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pawaia*
+*Help us collect audio resources for Pawaia*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pawaia*
+*Help us collect video resources for Pawaia*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

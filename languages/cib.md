@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gbe, Ci
+title: Ci Gbe
 parent: Languages
 ---
 
-# Gbe, Ci (cib)
+# Ci Gbe (cib)
 
 ## Overview
 
-**Language**: Gbe, Ci  
+**Language**: Ci Gbe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.35  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbe, Ci*
+*Help us collect text resources for Ci Gbe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbe, Ci*
+*Help us collect audio resources for Ci Gbe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbe, Ci*
+*Help us collect video resources for Ci Gbe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

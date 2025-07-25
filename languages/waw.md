@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Waiwai  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: 0.36  
-**Digitality Score**: -0.00  
+**Grassroots Presence (z-score)**: 0.36  
+**Web Presence (z-score)**: -0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Waiwai*
+*Help us collect text resources for Waiwai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Waiwai*
+*Help us collect audio resources for Waiwai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Waiwai*
+*Help us collect video resources for Waiwai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

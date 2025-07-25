@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gondi, Aheri
+title: Aheri Gondi
 parent: Languages
 ---
 
-# Gondi, Aheri (esg)
+# Aheri Gondi (esg)
 
 ## Overview
 
-**Language**: Gondi, Aheri  
+**Language**: Aheri Gondi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.89  
-**Digitality Score**: 0.14  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gondi, Aheri*
+*Help us collect text resources for Aheri Gondi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gondi, Aheri*
+*Help us collect audio resources for Aheri Gondi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gondi, Aheri*
+*Help us collect video resources for Aheri Gondi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

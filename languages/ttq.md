@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tamajaq, Tawallammat
+title: Tawallammat Tamajaq
 parent: Languages
 ---
 
-# Tamajaq, Tawallammat (ttq)
+# Tawallammat Tamajaq (ttq)
 
 ## Overview
 
-**Language**: Tamajaq, Tawallammat  
+**Language**: Tawallammat Tamajaq  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.18  
-**Digitality Score**: 1.08  
+**Grassroots Presence (z-score)**: 1.18  
+**Web Presence (z-score)**: 1.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tamajaq, Tawallammat*
+*Help us collect text resources for Tawallammat Tamajaq*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tamajaq, Tawallammat*
+*Help us collect audio resources for Tawallammat Tamajaq*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tamajaq, Tawallammat*
+*Help us collect video resources for Tawallammat Tamajaq*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

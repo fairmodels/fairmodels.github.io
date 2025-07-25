@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Ampari
+title: Ampari Dogon
 parent: Languages
 ---
 
-# Dogon, Ampari (aqd)
+# Ampari Dogon (aqd)
 
 ## Overview
 
-**Language**: Dogon, Ampari  
+**Language**: Ampari Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Ampari*
+*Help us collect text resources for Ampari Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Ampari*
+*Help us collect audio resources for Ampari Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Ampari*
+*Help us collect video resources for Ampari Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

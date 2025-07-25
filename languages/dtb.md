@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kadazan, Labuk-Kinabatangan
+title: Labuk-Kinabatangan Kadazan
 parent: Languages
 ---
 
-# Kadazan, Labuk-Kinabatangan (dtb)
+# Labuk-Kinabatangan Kadazan (dtb)
 
 ## Overview
 
-**Language**: Kadazan, Labuk-Kinabatangan  
+**Language**: Labuk-Kinabatangan Kadazan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.24  
-**Digitality Score**: 0.22  
+**Grassroots Presence (z-score)**: -1.24  
+**Web Presence (z-score)**: 0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kadazan, Labuk-Kinabatangan*
+*Help us collect text resources for Labuk-Kinabatangan Kadazan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kadazan, Labuk-Kinabatangan*
+*Help us collect audio resources for Labuk-Kinabatangan Kadazan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kadazan, Labuk-Kinabatangan*
+*Help us collect video resources for Labuk-Kinabatangan Kadazan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

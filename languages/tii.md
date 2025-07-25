@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tiene  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.67  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tiene*
+*Help us collect text resources for Tiene*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tiene*
+*Help us collect audio resources for Tiene*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tiene*
+*Help us collect video resources for Tiene*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

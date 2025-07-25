@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maklew  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: South-Central Papuan  
-**Vitality Score**: -0.48  
-**Digitality Score**: -0.12  
+**Grassroots Presence (z-score)**: -0.48  
+**Web Presence (z-score)**: -0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maklew*
+*Help us collect text resources for Maklew*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maklew*
+*Help us collect audio resources for Maklew*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maklew*
+*Help us collect video resources for Maklew*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

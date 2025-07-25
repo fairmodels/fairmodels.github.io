@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nooksack  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.64  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nooksack*
+*Help us collect text resources for Nooksack*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nooksack*
+*Help us collect audio resources for Nooksack*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nooksack*
+*Help us collect video resources for Nooksack*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

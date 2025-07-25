@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kein  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.14  
-**Digitality Score**: 0.46  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: 0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kein*
+*Help us collect text resources for Kein*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kein*
+*Help us collect audio resources for Kein*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kein*
+*Help us collect video resources for Kein*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

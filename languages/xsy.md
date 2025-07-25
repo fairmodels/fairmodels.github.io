@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Saisiyat  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saisiyat*
+*Help us collect text resources for Saisiyat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saisiyat*
+*Help us collect audio resources for Saisiyat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saisiyat*
+*Help us collect video resources for Saisiyat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

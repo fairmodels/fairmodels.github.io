@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quichua, Santiago del Estero
+title: Santiago del Estero Quichua
 parent: Languages
 ---
 
-# Quichua, Santiago del Estero (qus)
+# Santiago del Estero Quichua (qus)
 
 ## Overview
 
-**Language**: Quichua, Santiago del Estero  
+**Language**: Santiago del Estero Quichua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.46  
-**Digitality Score**: 1.13  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 1.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quichua, Santiago del Estero*
+*Help us collect text resources for Santiago del Estero Quichua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quichua, Santiago del Estero*
+*Help us collect audio resources for Santiago del Estero Quichua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quichua, Santiago del Estero*
+*Help us collect video resources for Santiago del Estero Quichua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

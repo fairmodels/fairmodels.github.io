@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aka-Cari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Andamanese  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aka-Cari*
+*Help us collect text resources for Aka-Cari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aka-Cari*
+*Help us collect audio resources for Aka-Cari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aka-Cari*
+*Help us collect video resources for Aka-Cari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

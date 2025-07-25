@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dii  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.76  
-**Digitality Score**: 0.28  
+**Grassroots Presence (z-score)**: 0.76  
+**Web Presence (z-score)**: 0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dii*
+*Help us collect text resources for Dii*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dii*
+*Help us collect audio resources for Dii*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dii*
+*Help us collect video resources for Dii*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

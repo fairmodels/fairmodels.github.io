@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ajumbu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.42  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: -0.42  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ajumbu*
+*Help us collect text resources for Ajumbu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ajumbu*
+*Help us collect audio resources for Ajumbu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ajumbu*
+*Help us collect video resources for Ajumbu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

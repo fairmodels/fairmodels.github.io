@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Babar, North
+title: North Babar
 parent: Languages
 ---
 
-# Babar, North (bcd)
+# North Babar (bcd)
 
 ## Overview
 
-**Language**: Babar, North  
+**Language**: North Babar  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.78  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.78  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Babar, North*
+*Help us collect text resources for North Babar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Babar, North*
+*Help us collect audio resources for North Babar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Babar, North*
+*Help us collect video resources for North Babar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

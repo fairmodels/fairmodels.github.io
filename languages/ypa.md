@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Phala  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.10  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Phala*
+*Help us collect text resources for Phala*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Phala*
+*Help us collect audio resources for Phala*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Phala*
+*Help us collect video resources for Phala*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Kota Bangun Kutai
+title: Kota Bangun Kutai Malay
 parent: Languages
 ---
 
-# Malay, Kota Bangun Kutai (mqg)
+# Kota Bangun Kutai Malay (mqg)
 
 ## Overview
 
-**Language**: Malay, Kota Bangun Kutai  
+**Language**: Kota Bangun Kutai Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.32  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Kota Bangun Kutai*
+*Help us collect text resources for Kota Bangun Kutai Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Kota Bangun Kutai*
+*Help us collect audio resources for Kota Bangun Kutai Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Kota Bangun Kutai*
+*Help us collect video resources for Kota Bangun Kutai Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

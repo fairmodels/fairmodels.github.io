@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Konyak
+title: Konyak Naga
 parent: Languages
 ---
 
-# Naga, Konyak (nbe)
+# Konyak Naga (nbe)
 
 ## Overview
 
-**Language**: Naga, Konyak  
+**Language**: Konyak Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.96  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: 0.96  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Konyak*
+*Help us collect text resources for Konyak Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Konyak*
+*Help us collect audio resources for Konyak Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Konyak*
+*Help us collect video resources for Konyak Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

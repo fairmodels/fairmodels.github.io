@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kanum, Bädi
+title: Bädi Kanum
 parent: Languages
 ---
 
-# Kanum, Bädi (khd)
+# Bädi Kanum (khd)
 
 ## Overview
 
-**Language**: Kanum, Bädi  
+**Language**: Bädi Kanum  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: South-Central Papuan  
-**Vitality Score**: -1.49  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -1.49  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanum, Bädi*
+*Help us collect text resources for Bädi Kanum*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanum, Bädi*
+*Help us collect audio resources for Bädi Kanum*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanum, Bädi*
+*Help us collect video resources for Bädi Kanum*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

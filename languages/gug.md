@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Guaraní, Paraguayan
+title: Paraguayan Guaraní
 parent: Languages
 ---
 
-# Guaraní, Paraguayan (gug)
+# Paraguayan Guaraní (gug)
 
 ## Overview
 
-**Language**: Guaraní, Paraguayan  
+**Language**: Paraguayan Guaraní  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: 2.63  
-**Digitality Score**: 2.20  
+**Grassroots Presence (z-score)**: 2.63  
+**Web Presence (z-score)**: 2.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Guaraní, Paraguayan*
+*Help us collect text resources for Paraguayan Guaraní*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Guaraní, Paraguayan*
+*Help us collect audio resources for Paraguayan Guaraní*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Guaraní, Paraguayan*
+*Help us collect video resources for Paraguayan Guaraní*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

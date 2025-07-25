@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bomu  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.01  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 1.01  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bomu*
+*Help us collect text resources for Bomu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bomu*
+*Help us collect audio resources for Bomu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bomu*
+*Help us collect video resources for Bomu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

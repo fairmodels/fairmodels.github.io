@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cheyenne  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -0.81  
-**Digitality Score**: 1.32  
+**Grassroots Presence (z-score)**: -0.81  
+**Web Presence (z-score)**: 1.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cheyenne*
+*Help us collect text resources for Cheyenne*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cheyenne*
+*Help us collect audio resources for Cheyenne*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cheyenne*
+*Help us collect video resources for Cheyenne*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

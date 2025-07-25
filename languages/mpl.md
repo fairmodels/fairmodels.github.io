@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kodut, Middle
+title: Middle Kodut
 parent: Languages
 ---
 
-# Kodut, Middle (mpl)
+# Middle Kodut (mpl)
 
 ## Overview
 
-**Language**: Kodut, Middle  
+**Language**: Middle Kodut  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.01  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: 0.01  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kodut, Middle*
+*Help us collect text resources for Middle Kodut*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kodut, Middle*
+*Help us collect audio resources for Middle Kodut*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kodut, Middle*
+*Help us collect video resources for Middle Kodut*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

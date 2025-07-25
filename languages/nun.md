@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Anong  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.79  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: -0.79  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Anong*
+*Help us collect text resources for Anong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Anong*
+*Help us collect audio resources for Anong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Anong*
+*Help us collect video resources for Anong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

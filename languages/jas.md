@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Javanese, New Caledonian
+title: New Caledonian Javanese
 parent: Languages
 ---
 
-# Javanese, New Caledonian (jas)
+# New Caledonian Javanese (jas)
 
 ## Overview
 
-**Language**: Javanese, New Caledonian  
+**Language**: New Caledonian Javanese  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.20  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.20  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Javanese, New Caledonian*
+*Help us collect text resources for New Caledonian Javanese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Javanese, New Caledonian*
+*Help us collect audio resources for New Caledonian Javanese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Javanese, New Caledonian*
+*Help us collect video resources for New Caledonian Javanese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

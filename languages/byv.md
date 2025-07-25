@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Medumba  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.57  
-**Digitality Score**: 0.63  
+**Grassroots Presence (z-score)**: 1.57  
+**Web Presence (z-score)**: 0.63  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Medumba*
+*Help us collect text resources for Medumba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Medumba*
+*Help us collect audio resources for Medumba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Medumba*
+*Help us collect video resources for Medumba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

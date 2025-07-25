@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hadiyya  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.55  
-**Digitality Score**: 0.59  
+**Grassroots Presence (z-score)**: 1.55  
+**Web Presence (z-score)**: 0.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hadiyya*
+*Help us collect text resources for Hadiyya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hadiyya*
+*Help us collect audio resources for Hadiyya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hadiyya*
+*Help us collect video resources for Hadiyya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chopechop  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.56  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chopechop*
+*Help us collect text resources for Chopechop*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chopechop*
+*Help us collect audio resources for Chopechop*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chopechop*
+*Help us collect video resources for Chopechop*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

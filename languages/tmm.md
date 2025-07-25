@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tai Thanh  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tai Thanh*
+*Help us collect text resources for Tai Thanh*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tai Thanh*
+*Help us collect audio resources for Tai Thanh*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tai Thanh*
+*Help us collect video resources for Tai Thanh*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

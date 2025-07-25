@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wutung  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Skou  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wutung*
+*Help us collect text resources for Wutung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wutung*
+*Help us collect audio resources for Wutung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wutung*
+*Help us collect video resources for Wutung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Jamiltepec
+title: Jamiltepec Mixtec
 parent: Languages
 ---
 
-# Mixtec, Jamiltepec (mxt)
+# Jamiltepec Mixtec (mxt)
 
 ## Overview
 
-**Language**: Mixtec, Jamiltepec  
+**Language**: Jamiltepec Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.23  
-**Digitality Score**: 0.87  
+**Grassroots Presence (z-score)**: 0.23  
+**Web Presence (z-score)**: 0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Jamiltepec*
+*Help us collect text resources for Jamiltepec Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Jamiltepec*
+*Help us collect audio resources for Jamiltepec Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Jamiltepec*
+*Help us collect video resources for Jamiltepec Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

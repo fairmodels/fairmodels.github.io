@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Taruma  
 **Region/Area**: South America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -1.54  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.54  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Taruma*
+*Help us collect text resources for Taruma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Taruma*
+*Help us collect audio resources for Taruma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Taruma*
+*Help us collect video resources for Taruma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

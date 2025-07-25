@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bobongko  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.04  
-**Digitality Score**: -0.72  
+**Grassroots Presence (z-score)**: 0.04  
+**Web Presence (z-score)**: -0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bobongko*
+*Help us collect text resources for Bobongko*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bobongko*
+*Help us collect audio resources for Bobongko*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bobongko*
+*Help us collect video resources for Bobongko*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

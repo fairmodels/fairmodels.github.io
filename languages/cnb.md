@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Uppu
+title: Uppu Chin
 parent: Languages
 ---
 
-# Chin, Uppu (cnb)
+# Uppu Chin (cnb)
 
 ## Overview
 
-**Language**: Chin, Uppu  
+**Language**: Uppu Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.43  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.43  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Uppu*
+*Help us collect text resources for Uppu Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Uppu*
+*Help us collect audio resources for Uppu Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Uppu*
+*Help us collect video resources for Uppu Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

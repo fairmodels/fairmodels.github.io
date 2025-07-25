@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyali  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.50  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyali*
+*Help us collect text resources for Nyali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyali*
+*Help us collect audio resources for Nyali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyali*
+*Help us collect video resources for Nyali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

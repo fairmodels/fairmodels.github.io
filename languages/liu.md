@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Logorik  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Logorik*
+*Help us collect text resources for Logorik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Logorik*
+*Help us collect audio resources for Logorik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Logorik*
+*Help us collect video resources for Logorik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

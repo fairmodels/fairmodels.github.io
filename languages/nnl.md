@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Northern Rengma
+title: Northern Rengma Naga
 parent: Languages
 ---
 
-# Naga, Northern Rengma (nnl)
+# Northern Rengma Naga (nnl)
 
 ## Overview
 
-**Language**: Naga, Northern Rengma  
+**Language**: Northern Rengma Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.58  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Northern Rengma*
+*Help us collect text resources for Northern Rengma Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Northern Rengma*
+*Help us collect audio resources for Northern Rengma Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Northern Rengma*
+*Help us collect video resources for Northern Rengma Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

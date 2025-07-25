@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mizo  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.44  
-**Digitality Score**: 2.30  
+**Grassroots Presence (z-score)**: 1.44  
+**Web Presence (z-score)**: 2.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mizo*
+*Help us collect text resources for Mizo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mizo*
+*Help us collect audio resources for Mizo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mizo*
+*Help us collect video resources for Mizo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

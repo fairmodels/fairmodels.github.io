@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Madura  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.40  
-**Digitality Score**: 2.22  
+**Grassroots Presence (z-score)**: 1.40  
+**Web Presence (z-score)**: 2.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Madura*
+*Help us collect text resources for Madura*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Madura*
+*Help us collect audio resources for Madura*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Madura*
+*Help us collect video resources for Madura*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

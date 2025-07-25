@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Balkan Gagauz Turkish  
 **Region/Area**: Western Asia, Asia  
 **Family**: Turkic  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.06  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Balkan Gagauz Turkish*
+*Help us collect text resources for Balkan Gagauz Turkish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Balkan Gagauz Turkish*
+*Help us collect audio resources for Balkan Gagauz Turkish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Balkan Gagauz Turkish*
+*Help us collect video resources for Balkan Gagauz Turkish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

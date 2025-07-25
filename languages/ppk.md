@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Uma  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.16  
-**Digitality Score**: 1.27  
+**Grassroots Presence (z-score)**: 0.16  
+**Web Presence (z-score)**: 1.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Uma*
+*Help us collect text resources for Uma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Uma*
+*Help us collect audio resources for Uma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Uma*
+*Help us collect video resources for Uma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yahang  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.17  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yahang*
+*Help us collect text resources for Yahang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yahang*
+*Help us collect audio resources for Yahang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yahang*
+*Help us collect video resources for Yahang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

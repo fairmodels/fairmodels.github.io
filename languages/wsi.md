@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.15  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.15  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jo*
+*Help us collect text resources for Jo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jo*
+*Help us collect audio resources for Jo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jo*
+*Help us collect video resources for Jo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

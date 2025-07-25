@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyindrou  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.46  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyindrou*
+*Help us collect text resources for Nyindrou*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyindrou*
+*Help us collect audio resources for Nyindrou*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyindrou*
+*Help us collect video resources for Nyindrou*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

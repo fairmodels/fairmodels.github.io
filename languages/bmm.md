@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malagasy, Northern Betsimisaraka
+title: Northern Betsimisaraka Malagasy
 parent: Languages
 ---
 
-# Malagasy, Northern Betsimisaraka (bmm)
+# Northern Betsimisaraka Malagasy (bmm)
 
 ## Overview
 
-**Language**: Malagasy, Northern Betsimisaraka  
+**Language**: Northern Betsimisaraka Malagasy  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Austronesian  
-**Vitality Score**: 0.85  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: 0.85  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malagasy, Northern Betsimisaraka*
+*Help us collect text resources for Northern Betsimisaraka Malagasy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malagasy, Northern Betsimisaraka*
+*Help us collect audio resources for Northern Betsimisaraka Malagasy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malagasy, Northern Betsimisaraka*
+*Help us collect video resources for Northern Betsimisaraka Malagasy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mattokki  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.08  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mattokki*
+*Help us collect text resources for Mattokki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mattokki*
+*Help us collect audio resources for Mattokki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mattokki*
+*Help us collect video resources for Mattokki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

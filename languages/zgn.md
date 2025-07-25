@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Guibian
+title: Guibian Zhuang
 parent: Languages
 ---
 
-# Zhuang, Guibian (zgn)
+# Guibian Zhuang (zgn)
 
 ## Overview
 
-**Language**: Zhuang, Guibian  
+**Language**: Guibian Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 1.76  
-**Digitality Score**: 0.82  
+**Grassroots Presence (z-score)**: 1.76  
+**Web Presence (z-score)**: 0.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Guibian*
+*Help us collect text resources for Guibian Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Guibian*
+*Help us collect audio resources for Guibian Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Guibian*
+*Help us collect video resources for Guibian Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

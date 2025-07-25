@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Medebur  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.14  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Medebur*
+*Help us collect text resources for Medebur*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Medebur*
+*Help us collect audio resources for Medebur*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Medebur*
+*Help us collect video resources for Medebur*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

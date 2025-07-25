@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kham, Western Parbate
+title: Western Parbate Kham
 parent: Languages
 ---
 
-# Kham, Western Parbate (kjl)
+# Western Parbate Kham (kjl)
 
 ## Overview
 
-**Language**: Kham, Western Parbate  
+**Language**: Western Parbate Kham  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.80  
-**Digitality Score**: 0.30  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: 0.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kham, Western Parbate*
+*Help us collect text resources for Western Parbate Kham*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kham, Western Parbate*
+*Help us collect audio resources for Western Parbate Kham*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kham, Western Parbate*
+*Help us collect video resources for Western Parbate Kham*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

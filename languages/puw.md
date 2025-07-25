@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Puluwatese  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.00  
-**Digitality Score**: -0.54  
+**Grassroots Presence (z-score)**: -0.00  
+**Web Presence (z-score)**: -0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Puluwatese*
+*Help us collect text resources for Puluwatese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Puluwatese*
+*Help us collect audio resources for Puluwatese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Puluwatese*
+*Help us collect video resources for Puluwatese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

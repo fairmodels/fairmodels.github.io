@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Biao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.50  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Biao*
+*Help us collect text resources for Biao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Biao*
+*Help us collect audio resources for Biao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Biao*
+*Help us collect video resources for Biao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

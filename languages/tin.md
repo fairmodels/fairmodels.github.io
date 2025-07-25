@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tindi  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: -0.02  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tindi*
+*Help us collect text resources for Tindi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tindi*
+*Help us collect audio resources for Tindi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tindi*
+*Help us collect video resources for Tindi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sénoufo, Cebaara
+title: Cebaara Sénoufo
 parent: Languages
 ---
 
-# Sénoufo, Cebaara (sef)
+# Cebaara Sénoufo (sef)
 
 ## Overview
 
-**Language**: Sénoufo, Cebaara  
+**Language**: Cebaara Sénoufo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.19  
-**Digitality Score**: 0.40  
+**Grassroots Presence (z-score)**: 1.19  
+**Web Presence (z-score)**: 0.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sénoufo, Cebaara*
+*Help us collect text resources for Cebaara Sénoufo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sénoufo, Cebaara*
+*Help us collect audio resources for Cebaara Sénoufo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sénoufo, Cebaara*
+*Help us collect video resources for Cebaara Sénoufo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

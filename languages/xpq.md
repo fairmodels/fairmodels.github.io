@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mohegan-Pequot  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mohegan-Pequot*
+*Help us collect text resources for Mohegan-Pequot*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mohegan-Pequot*
+*Help us collect audio resources for Mohegan-Pequot*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mohegan-Pequot*
+*Help us collect video resources for Mohegan-Pequot*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

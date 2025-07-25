@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Muruwari  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Muruwari*
+*Help us collect text resources for Muruwari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Muruwari*
+*Help us collect audio resources for Muruwari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Muruwari*
+*Help us collect video resources for Muruwari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

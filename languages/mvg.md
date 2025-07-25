@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Yucuañe
+title: Yucuañe Mixtec
 parent: Languages
 ---
 
-# Mixtec, Yucuañe (mvg)
+# Yucuañe Mixtec (mvg)
 
 ## Overview
 
-**Language**: Mixtec, Yucuañe  
+**Language**: Yucuañe Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.41  
-**Digitality Score**: -0.34  
+**Grassroots Presence (z-score)**: -0.41  
+**Web Presence (z-score)**: -0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Yucuañe*
+*Help us collect text resources for Yucuañe Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Yucuañe*
+*Help us collect audio resources for Yucuañe Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Yucuañe*
+*Help us collect video resources for Yucuañe Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

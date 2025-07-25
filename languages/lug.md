@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ganda  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.09  
-**Digitality Score**: 3.39  
+**Grassroots Presence (z-score)**: 2.09  
+**Web Presence (z-score)**: 3.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ganda*
+*Help us collect text resources for Ganda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ganda*
+*Help us collect audio resources for Ganda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ganda*
+*Help us collect video resources for Ganda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

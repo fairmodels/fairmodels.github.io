@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Asmat, Central
+title: Central Asmat
 parent: Languages
 ---
 
-# Asmat, Central (cns)
+# Central Asmat (cns)
 
 ## Overview
 
-**Language**: Asmat, Central  
+**Language**: Central Asmat  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.03  
-**Digitality Score**: 0.37  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: 0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Asmat, Central*
+*Help us collect text resources for Central Asmat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Asmat, Central*
+*Help us collect audio resources for Central Asmat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Asmat, Central*
+*Help us collect video resources for Central Asmat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

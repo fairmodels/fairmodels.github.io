@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Xanaguía
+title: Xanaguía Zapotec
 parent: Languages
 ---
 
-# Zapotec, Xanaguía (ztg)
+# Xanaguía Zapotec (ztg)
 
 ## Overview
 
-**Language**: Zapotec, Xanaguía  
+**Language**: Xanaguía Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.06  
-**Digitality Score**: 1.28  
+**Grassroots Presence (z-score)**: 0.06  
+**Web Presence (z-score)**: 1.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Xanaguía*
+*Help us collect text resources for Xanaguía Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Xanaguía*
+*Help us collect audio resources for Xanaguía Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Xanaguía*
+*Help us collect video resources for Xanaguía Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

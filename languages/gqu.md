@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Qau  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: -0.75  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.75  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Qau*
+*Help us collect text resources for Qau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Qau*
+*Help us collect audio resources for Qau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Qau*
+*Help us collect video resources for Qau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

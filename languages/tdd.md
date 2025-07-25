@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tai Nüa  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 1.09  
-**Digitality Score**: 0.43  
+**Grassroots Presence (z-score)**: 1.09  
+**Web Presence (z-score)**: 0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tai Nüa*
+*Help us collect text resources for Tai Nüa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tai Nüa*
+*Help us collect audio resources for Tai Nüa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tai Nüa*
+*Help us collect video resources for Tai Nüa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

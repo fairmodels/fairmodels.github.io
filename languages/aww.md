@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Awun  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -0.33  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -0.33  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Awun*
+*Help us collect text resources for Awun*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Awun*
+*Help us collect audio resources for Awun*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Awun*
+*Help us collect video resources for Awun*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bunu, Younuo
+title: Younuo Bunu
 parent: Languages
 ---
 
-# Bunu, Younuo (buh)
+# Younuo Bunu (buh)
 
 ## Overview
 
-**Language**: Bunu, Younuo  
+**Language**: Younuo Bunu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: -0.18  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.18  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bunu, Younuo*
+*Help us collect text resources for Younuo Bunu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bunu, Younuo*
+*Help us collect audio resources for Younuo Bunu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bunu, Younuo*
+*Help us collect video resources for Younuo Bunu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

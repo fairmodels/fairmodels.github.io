@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Grebo, Northern
+title: Northern Grebo
 parent: Languages
 ---
 
-# Grebo, Northern (gbo)
+# Northern Grebo (gbo)
 
 ## Overview
 
-**Language**: Grebo, Northern  
+**Language**: Northern Grebo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.89  
-**Digitality Score**: 0.57  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 0.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Grebo, Northern*
+*Help us collect text resources for Northern Grebo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Grebo, Northern*
+*Help us collect audio resources for Northern Grebo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Grebo, Northern*
+*Help us collect video resources for Northern Grebo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

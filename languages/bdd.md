@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bunama  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.44  
-**Digitality Score**: 0.48  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 0.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bunama*
+*Help us collect text resources for Bunama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bunama*
+*Help us collect audio resources for Bunama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bunama*
+*Help us collect video resources for Bunama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

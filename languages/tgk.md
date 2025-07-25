@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tajik  
 **Region/Area**: Central Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.69  
-**Digitality Score**: 3.56  
+**Grassroots Presence (z-score)**: 2.69  
+**Web Presence (z-score)**: 3.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tajik*
+*Help us collect text resources for Tajik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tajik*
+*Help us collect audio resources for Tajik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tajik*
+*Help us collect video resources for Tajik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

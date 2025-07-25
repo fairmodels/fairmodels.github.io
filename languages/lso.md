@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Laos Sign Language  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sign language  
-**Vitality Score**: 0.40  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Laos Sign Language*
+*Help us collect text resources for Laos Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Laos Sign Language*
+*Help us collect audio resources for Laos Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Laos Sign Language*
+*Help us collect video resources for Laos Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

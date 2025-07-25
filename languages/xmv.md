@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malagasy, Antankarana
+title: Antankarana Malagasy
 parent: Languages
 ---
 
-# Malagasy, Antankarana (xmv)
+# Antankarana Malagasy (xmv)
 
 ## Overview
 
-**Language**: Malagasy, Antankarana  
+**Language**: Antankarana Malagasy  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Austronesian  
-**Vitality Score**: 0.58  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malagasy, Antankarana*
+*Help us collect text resources for Antankarana Malagasy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malagasy, Antankarana*
+*Help us collect audio resources for Antankarana Malagasy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malagasy, Antankarana*
+*Help us collect video resources for Antankarana Malagasy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

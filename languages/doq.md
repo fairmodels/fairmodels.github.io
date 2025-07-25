@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dominican Sign Language  
 **Region/Area**: Caribbean, Americas  
 **Family**: Sign language  
-**Vitality Score**: 0.70  
-**Digitality Score**: -0.64  
+**Grassroots Presence (z-score)**: 0.70  
+**Web Presence (z-score)**: -0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dominican Sign Language*
+*Help us collect text resources for Dominican Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dominican Sign Language*
+*Help us collect audio resources for Dominican Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dominican Sign Language*
+*Help us collect video resources for Dominican Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

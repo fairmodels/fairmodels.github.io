@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miwok, Coast
+title: Coast Miwok
 parent: Languages
 ---
 
-# Miwok, Coast (csi)
+# Coast Miwok (csi)
 
 ## Overview
 
-**Language**: Miwok, Coast  
+**Language**: Coast Miwok  
 **Region/Area**: Northern America, Americas  
 **Family**: Miwok-Costanoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miwok, Coast*
+*Help us collect text resources for Coast Miwok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miwok, Coast*
+*Help us collect audio resources for Coast Miwok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miwok, Coast*
+*Help us collect video resources for Coast Miwok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mawes  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Language isolate  
-**Vitality Score**: -0.23  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mawes*
+*Help us collect text resources for Mawes*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mawes*
+*Help us collect audio resources for Mawes*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mawes*
+*Help us collect video resources for Mawes*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

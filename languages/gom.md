@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Konkani, Goan
+title: Goan Konkani
 parent: Languages
 ---
 
-# Konkani, Goan (gom)
+# Goan Konkani (gom)
 
 ## Overview
 
-**Language**: Konkani, Goan  
+**Language**: Goan Konkani  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.30  
-**Digitality Score**: 1.87  
+**Grassroots Presence (z-score)**: 1.30  
+**Web Presence (z-score)**: 1.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Konkani, Goan*
+*Help us collect text resources for Goan Konkani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Konkani, Goan*
+*Help us collect audio resources for Goan Konkani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Konkani, Goan*
+*Help us collect video resources for Goan Konkani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

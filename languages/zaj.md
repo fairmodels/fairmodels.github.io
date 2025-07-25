@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zaramo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.51  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zaramo*
+*Help us collect text resources for Zaramo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zaramo*
+*Help us collect audio resources for Zaramo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zaramo*
+*Help us collect video resources for Zaramo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

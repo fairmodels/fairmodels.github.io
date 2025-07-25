@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Caquinte  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 0.16  
-**Digitality Score**: 1.28  
+**Grassroots Presence (z-score)**: 0.16  
+**Web Presence (z-score)**: 1.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Caquinte*
+*Help us collect text resources for Caquinte*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Caquinte*
+*Help us collect audio resources for Caquinte*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Caquinte*
+*Help us collect video resources for Caquinte*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

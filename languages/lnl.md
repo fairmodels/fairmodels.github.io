@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Banda, South Central
+title: South Central Banda
 parent: Languages
 ---
 
-# Banda, South Central (lnl)
+# South Central Banda (lnl)
 
 ## Overview
 
-**Language**: Banda, South Central  
+**Language**: South Central Banda  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.90  
-**Digitality Score**: -0.28  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: -0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Banda, South Central*
+*Help us collect text resources for South Central Banda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Banda, South Central*
+*Help us collect audio resources for South Central Banda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Banda, South Central*
+*Help us collect video resources for South Central Banda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dinka, South Central
+title: South Central Dinka
 parent: Languages
 ---
 
-# Dinka, South Central (dib)
+# South Central Dinka (dib)
 
 ## Overview
 
-**Language**: Dinka, South Central  
+**Language**: South Central Dinka  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.14  
-**Digitality Score**: 1.45  
+**Grassroots Presence (z-score)**: 1.14  
+**Web Presence (z-score)**: 1.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dinka, South Central*
+*Help us collect text resources for South Central Dinka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dinka, South Central*
+*Help us collect audio resources for South Central Dinka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dinka, South Central*
+*Help us collect video resources for South Central Dinka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

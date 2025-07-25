@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Pinotepa Nacional
+title: Pinotepa Nacional Mixtec
 parent: Languages
 ---
 
-# Mixtec, Pinotepa Nacional (mio)
+# Pinotepa Nacional Mixtec (mio)
 
 ## Overview
 
-**Language**: Mixtec, Pinotepa Nacional  
+**Language**: Pinotepa Nacional Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.32  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Pinotepa Nacional*
+*Help us collect text resources for Pinotepa Nacional Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Pinotepa Nacional*
+*Help us collect audio resources for Pinotepa Nacional Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Pinotepa Nacional*
+*Help us collect video resources for Pinotepa Nacional Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

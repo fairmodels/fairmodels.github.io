@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Liangmai
+title: Liangmai Naga
 parent: Languages
 ---
 
-# Naga, Liangmai (njn)
+# Liangmai Naga (njn)
 
 ## Overview
 
-**Language**: Naga, Liangmai  
+**Language**: Liangmai Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.11  
-**Digitality Score**: 0.13  
+**Grassroots Presence (z-score)**: 1.11  
+**Web Presence (z-score)**: 0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Liangmai*
+*Help us collect text resources for Liangmai Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Liangmai*
+*Help us collect audio resources for Liangmai Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Liangmai*
+*Help us collect video resources for Liangmai Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

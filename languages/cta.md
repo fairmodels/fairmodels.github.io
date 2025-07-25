@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chatino, Tataltepec
+title: Tataltepec Chatino
 parent: Languages
 ---
 
-# Chatino, Tataltepec (cta)
+# Tataltepec Chatino (cta)
 
 ## Overview
 
-**Language**: Chatino, Tataltepec  
+**Language**: Tataltepec Chatino  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.29  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: -0.29  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chatino, Tataltepec*
+*Help us collect text resources for Tataltepec Chatino*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chatino, Tataltepec*
+*Help us collect audio resources for Tataltepec Chatino*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chatino, Tataltepec*
+*Help us collect video resources for Tataltepec Chatino*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

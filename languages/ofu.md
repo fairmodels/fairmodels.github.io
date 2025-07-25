@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Efutop  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Efutop*
+*Help us collect text resources for Efutop*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Efutop*
+*Help us collect audio resources for Efutop*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Efutop*
+*Help us collect video resources for Efutop*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

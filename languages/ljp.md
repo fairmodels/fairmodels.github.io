@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lampung Api  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.59  
-**Digitality Score**: 1.03  
+**Grassroots Presence (z-score)**: 0.59  
+**Web Presence (z-score)**: 1.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lampung Api*
+*Help us collect text resources for Lampung Api*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lampung Api*
+*Help us collect audio resources for Lampung Api*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lampung Api*
+*Help us collect video resources for Lampung Api*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

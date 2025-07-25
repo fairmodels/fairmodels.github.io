@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Palawano, Southwest
+title: Southwest Palawano
 parent: Languages
 ---
 
-# Palawano, Southwest (plv)
+# Southwest Palawano (plv)
 
 ## Overview
 
-**Language**: Palawano, Southwest  
+**Language**: Southwest Palawano  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.57  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Palawano, Southwest*
+*Help us collect text resources for Southwest Palawano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Palawano, Southwest*
+*Help us collect audio resources for Southwest Palawano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Palawano, Southwest*
+*Help us collect video resources for Southwest Palawano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

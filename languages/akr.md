@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Soro-n Raki  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -1.03  
-**Digitality Score**: 0.19  
+**Grassroots Presence (z-score)**: -1.03  
+**Web Presence (z-score)**: 0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Soro-n Raki*
+*Help us collect text resources for Soro-n Raki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Soro-n Raki*
+*Help us collect audio resources for Soro-n Raki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Soro-n Raki*
+*Help us collect video resources for Soro-n Raki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

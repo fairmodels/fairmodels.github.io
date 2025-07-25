@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yug  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Yeniseian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yug*
+*Help us collect text resources for Yug*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yug*
+*Help us collect audio resources for Yug*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yug*
+*Help us collect video resources for Yug*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

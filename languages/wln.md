@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Walloon  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.60  
-**Digitality Score**: 2.46  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: 2.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Walloon*
+*Help us collect text resources for Walloon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Walloon*
+*Help us collect audio resources for Walloon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Walloon*
+*Help us collect video resources for Walloon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

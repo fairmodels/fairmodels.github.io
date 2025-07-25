@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ge  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.31  
-**Digitality Score**: 0.92  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: 0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ge*
+*Help us collect text resources for Ge*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ge*
+*Help us collect audio resources for Ge*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ge*
+*Help us collect video resources for Ge*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

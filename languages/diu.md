@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gciriku  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.13  
-**Digitality Score**: 0.20  
+**Grassroots Presence (z-score)**: 1.13  
+**Web Presence (z-score)**: 0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gciriku*
+*Help us collect text resources for Gciriku*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gciriku*
+*Help us collect audio resources for Gciriku*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gciriku*
+*Help us collect video resources for Gciriku*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

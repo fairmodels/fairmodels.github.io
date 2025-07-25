@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Inuktitut, Eastern Canadian
+title: Eastern Canadian Inuktitut
 parent: Languages
 ---
 
-# Inuktitut, Eastern Canadian (ike)
+# Eastern Canadian Inuktitut (ike)
 
 ## Overview
 
-**Language**: Inuktitut, Eastern Canadian  
+**Language**: Eastern Canadian Inuktitut  
 **Region/Area**: Northern America, Americas  
 **Family**: Eskimo-Aleut  
-**Vitality Score**: 0.26  
-**Digitality Score**: 1.83  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: 1.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Inuktitut, Eastern Canadian*
+*Help us collect text resources for Eastern Canadian Inuktitut*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Inuktitut, Eastern Canadian*
+*Help us collect audio resources for Eastern Canadian Inuktitut*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Inuktitut, Eastern Canadian*
+*Help us collect video resources for Eastern Canadian Inuktitut*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

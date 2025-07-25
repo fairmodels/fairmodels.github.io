@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hoyahoya  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.67  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.67  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hoyahoya*
+*Help us collect text resources for Hoyahoya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hoyahoya*
+*Help us collect audio resources for Hoyahoya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hoyahoya*
+*Help us collect video resources for Hoyahoya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

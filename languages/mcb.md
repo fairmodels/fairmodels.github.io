@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Matsigenka  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 0.65  
-**Digitality Score**: 1.09  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Matsigenka*
+*Help us collect text resources for Matsigenka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Matsigenka*
+*Help us collect audio resources for Matsigenka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Matsigenka*
+*Help us collect video resources for Matsigenka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

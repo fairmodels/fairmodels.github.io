@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Abui  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.30  
-**Digitality Score**: 0.83  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: 0.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Abui*
+*Help us collect text resources for Abui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Abui*
+*Help us collect audio resources for Abui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Abui*
+*Help us collect video resources for Abui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

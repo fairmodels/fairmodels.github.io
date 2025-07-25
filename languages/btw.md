@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Butuanon  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.17  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Butuanon*
+*Help us collect text resources for Butuanon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Butuanon*
+*Help us collect audio resources for Butuanon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Butuanon*
+*Help us collect video resources for Butuanon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

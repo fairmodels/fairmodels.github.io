@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Amuzgo, San Pedro Amuzgos
+title: San Pedro Amuzgos Amuzgo
 parent: Languages
 ---
 
-# Amuzgo, San Pedro Amuzgos (azg)
+# San Pedro Amuzgos Amuzgo (azg)
 
 ## Overview
 
-**Language**: Amuzgo, San Pedro Amuzgos  
+**Language**: San Pedro Amuzgos Amuzgo  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.15  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Amuzgo, San Pedro Amuzgos*
+*Help us collect text resources for San Pedro Amuzgos Amuzgo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Amuzgo, San Pedro Amuzgos*
+*Help us collect audio resources for San Pedro Amuzgos Amuzgo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Amuzgo, San Pedro Amuzgos*
+*Help us collect video resources for San Pedro Amuzgos Amuzgo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

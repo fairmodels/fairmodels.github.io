@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dida, Yocoboué
+title: Yocoboué Dida
 parent: Languages
 ---
 
-# Dida, Yocoboué (gud)
+# Yocoboué Dida (gud)
 
 ## Overview
 
-**Language**: Dida, Yocoboué  
+**Language**: Yocoboué Dida  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.93  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dida, Yocoboué*
+*Help us collect text resources for Yocoboué Dida*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dida, Yocoboué*
+*Help us collect audio resources for Yocoboué Dida*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dida, Yocoboué*
+*Help us collect video resources for Yocoboué Dida*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

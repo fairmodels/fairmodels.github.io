@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dela-Oenale  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.51  
-**Digitality Score**: 0.71  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 0.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dela-Oenale*
+*Help us collect text resources for Dela-Oenale*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dela-Oenale*
+*Help us collect audio resources for Dela-Oenale*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dela-Oenale*
+*Help us collect video resources for Dela-Oenale*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bolinao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.30  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bolinao*
+*Help us collect text resources for Bolinao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bolinao*
+*Help us collect audio resources for Bolinao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bolinao*
+*Help us collect video resources for Bolinao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

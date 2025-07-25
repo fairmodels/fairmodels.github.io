@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Marriammu  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.58  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.58  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Marriammu*
+*Help us collect text resources for Marriammu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Marriammu*
+*Help us collect audio resources for Marriammu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Marriammu*
+*Help us collect video resources for Marriammu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

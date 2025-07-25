@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Babanki  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.72  
-**Digitality Score**: 0.60  
+**Grassroots Presence (z-score)**: 0.72  
+**Web Presence (z-score)**: 0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Babanki*
+*Help us collect text resources for Babanki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Babanki*
+*Help us collect audio resources for Babanki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Babanki*
+*Help us collect video resources for Babanki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

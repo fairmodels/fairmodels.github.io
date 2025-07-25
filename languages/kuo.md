@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kumukio  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.03  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kumukio*
+*Help us collect text resources for Kumukio*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kumukio*
+*Help us collect audio resources for Kumukio*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kumukio*
+*Help us collect video resources for Kumukio*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

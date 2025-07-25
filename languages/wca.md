@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yanomámi  
 **Region/Area**: South America, Americas  
 **Family**: Yanomaman  
-**Vitality Score**: 0.17  
-**Digitality Score**: 0.62  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: 0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yanomámi*
+*Help us collect text resources for Yanomámi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yanomámi*
+*Help us collect audio resources for Yanomámi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yanomámi*
+*Help us collect video resources for Yanomámi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kinalakna  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kinalakna*
+*Help us collect text resources for Kinalakna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kinalakna*
+*Help us collect audio resources for Kinalakna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kinalakna*
+*Help us collect video resources for Kinalakna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

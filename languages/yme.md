@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yameo  
 **Region/Area**: South America, Americas  
 **Family**: Yaguan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yameo*
+*Help us collect text resources for Yameo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yameo*
+*Help us collect audio resources for Yameo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yameo*
+*Help us collect video resources for Yameo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sira  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.15  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sira*
+*Help us collect text resources for Sira*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sira*
+*Help us collect audio resources for Sira*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sira*
+*Help us collect video resources for Sira*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

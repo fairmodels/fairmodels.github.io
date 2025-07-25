@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chokwe  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.90  
-**Digitality Score**: 1.77  
+**Grassroots Presence (z-score)**: 1.90  
+**Web Presence (z-score)**: 1.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chokwe*
+*Help us collect text resources for Chokwe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chokwe*
+*Help us collect audio resources for Chokwe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chokwe*
+*Help us collect video resources for Chokwe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

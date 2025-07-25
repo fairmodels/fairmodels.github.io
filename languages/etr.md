@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Edolo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.33  
-**Digitality Score**: 0.56  
+**Grassroots Presence (z-score)**: 0.33  
+**Web Presence (z-score)**: 0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Edolo*
+*Help us collect text resources for Edolo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Edolo*
+*Help us collect audio resources for Edolo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Edolo*
+*Help us collect video resources for Edolo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

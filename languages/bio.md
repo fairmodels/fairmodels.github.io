@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nai  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Kwomtari  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nai*
+*Help us collect text resources for Nai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nai*
+*Help us collect audio resources for Nai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nai*
+*Help us collect video resources for Nai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pannei  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.19  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pannei*
+*Help us collect text resources for Pannei*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pannei*
+*Help us collect audio resources for Pannei*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pannei*
+*Help us collect video resources for Pannei*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

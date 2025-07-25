@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Teke, Ibali
+title: Ibali Teke
 parent: Languages
 ---
 
-# Teke, Ibali (tek)
+# Ibali Teke (tek)
 
 ## Overview
 
-**Language**: Teke, Ibali  
+**Language**: Ibali Teke  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.62  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: 0.62  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Teke, Ibali*
+*Help us collect text resources for Ibali Teke*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Teke, Ibali*
+*Help us collect audio resources for Ibali Teke*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Teke, Ibali*
+*Help us collect video resources for Ibali Teke*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

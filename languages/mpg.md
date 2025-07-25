@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Marba  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.97  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: 0.97  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Marba*
+*Help us collect text resources for Marba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Marba*
+*Help us collect audio resources for Marba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Marba*
+*Help us collect video resources for Marba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

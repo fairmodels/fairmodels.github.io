@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Efik  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.89  
-**Digitality Score**: 1.57  
+**Grassroots Presence (z-score)**: 1.89  
+**Web Presence (z-score)**: 1.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Efik*
+*Help us collect text resources for Efik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Efik*
+*Help us collect audio resources for Efik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Efik*
+*Help us collect video resources for Efik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

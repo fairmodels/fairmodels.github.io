@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Spanish, Charapa
+title: Charapa Spanish
 parent: Languages
 ---
 
-# Spanish, Charapa (spq)
+# Charapa Spanish (spq)
 
 ## Overview
 
-**Language**: Spanish, Charapa  
+**Language**: Charapa Spanish  
 **Region/Area**: South America, Americas  
 **Family**: Indo-European  
-**Vitality Score**: 0.07  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Spanish, Charapa*
+*Help us collect text resources for Charapa Spanish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Spanish, Charapa*
+*Help us collect audio resources for Charapa Spanish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Spanish, Charapa*
+*Help us collect video resources for Charapa Spanish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

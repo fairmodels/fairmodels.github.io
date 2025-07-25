@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tunebo, Barro Negro
+title: Barro Negro Tunebo
 parent: Languages
 ---
 
-# Tunebo, Barro Negro (tbn)
+# Barro Negro Tunebo (tbn)
 
 ## Overview
 
-**Language**: Tunebo, Barro Negro  
+**Language**: Barro Negro Tunebo  
 **Region/Area**: South America, Americas  
 **Family**: Chibchan  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tunebo, Barro Negro*
+*Help us collect text resources for Barro Negro Tunebo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tunebo, Barro Negro*
+*Help us collect audio resources for Barro Negro Tunebo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tunebo, Barro Negro*
+*Help us collect video resources for Barro Negro Tunebo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

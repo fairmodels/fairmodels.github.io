@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ampanang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ampanang*
+*Help us collect text resources for Ampanang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ampanang*
+*Help us collect audio resources for Ampanang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ampanang*
+*Help us collect video resources for Ampanang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

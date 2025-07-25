@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Songhay, Humburi Senni
+title: Humburi Senni Songhay
 parent: Languages
 ---
 
-# Songhay, Humburi Senni (hmb)
+# Humburi Senni Songhay (hmb)
 
 ## Overview
 
-**Language**: Songhay, Humburi Senni  
+**Language**: Humburi Senni Songhay  
 **Region/Area**: Western Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.53  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Songhay, Humburi Senni*
+*Help us collect text resources for Humburi Senni Songhay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Songhay, Humburi Senni*
+*Help us collect audio resources for Humburi Senni Songhay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Songhay, Humburi Senni*
+*Help us collect video resources for Humburi Senni Songhay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

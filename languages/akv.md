@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Akhvakh  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: -0.01  
-**Digitality Score**: -0.64  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: -0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Akhvakh*
+*Help us collect text resources for Akhvakh*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Akhvakh*
+*Help us collect audio resources for Akhvakh*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Akhvakh*
+*Help us collect video resources for Akhvakh*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Canela  
 **Region/Area**: South America, Americas  
 **Family**: Jean  
-**Vitality Score**: 0.38  
-**Digitality Score**: 0.22  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: 0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Canela*
+*Help us collect text resources for Canela*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Canela*
+*Help us collect audio resources for Canela*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Canela*
+*Help us collect video resources for Canela*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

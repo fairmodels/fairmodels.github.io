@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Romani, Kalo Finnish
+title: Kalo Finnish Romani
 parent: Languages
 ---
 
-# Romani, Kalo Finnish (rmf)
+# Kalo Finnish Romani (rmf)
 
 ## Overview
 
-**Language**: Romani, Kalo Finnish  
+**Language**: Kalo Finnish Romani  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.57  
-**Digitality Score**: 0.94  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: 0.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romani, Kalo Finnish*
+*Help us collect text resources for Kalo Finnish Romani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romani, Kalo Finnish*
+*Help us collect audio resources for Kalo Finnish Romani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romani, Kalo Finnish*
+*Help us collect video resources for Kalo Finnish Romani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Paite
+title: Paite Chin
 parent: Languages
 ---
 
-# Chin, Paite (pck)
+# Paite Chin (pck)
 
 ## Overview
 
-**Language**: Chin, Paite  
+**Language**: Paite Chin  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.13  
-**Digitality Score**: 1.11  
+**Grassroots Presence (z-score)**: 1.13  
+**Web Presence (z-score)**: 1.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Paite*
+*Help us collect text resources for Paite Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Paite*
+*Help us collect audio resources for Paite Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Paite*
+*Help us collect video resources for Paite Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gbe, Waci
+title: Waci Gbe
 parent: Languages
 ---
 
-# Gbe, Waci (wci)
+# Waci Gbe (wci)
 
 ## Overview
 
-**Language**: Gbe, Waci  
+**Language**: Waci Gbe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.81  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.81  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbe, Waci*
+*Help us collect text resources for Waci Gbe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbe, Waci*
+*Help us collect audio resources for Waci Gbe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbe, Waci*
+*Help us collect video resources for Waci Gbe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

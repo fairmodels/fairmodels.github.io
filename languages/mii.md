@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Chigmecatitlán
+title: Chigmecatitlán Mixtec
 parent: Languages
 ---
 
-# Mixtec, Chigmecatitlán (mii)
+# Chigmecatitlán Mixtec (mii)
 
 ## Overview
 
-**Language**: Mixtec, Chigmecatitlán  
+**Language**: Chigmecatitlán Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.17  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Chigmecatitlán*
+*Help us collect text resources for Chigmecatitlán Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Chigmecatitlán*
+*Help us collect audio resources for Chigmecatitlán Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Chigmecatitlán*
+*Help us collect video resources for Chigmecatitlán Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

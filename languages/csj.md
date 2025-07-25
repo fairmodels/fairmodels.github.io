@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Songlai
+title: Songlai Chin
 parent: Languages
 ---
 
-# Chin, Songlai (csj)
+# Songlai Chin (csj)
 
 ## Overview
 
-**Language**: Chin, Songlai  
+**Language**: Songlai Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.20  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Songlai*
+*Help us collect text resources for Songlai Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Songlai*
+*Help us collect audio resources for Songlai Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Songlai*
+*Help us collect video resources for Songlai Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

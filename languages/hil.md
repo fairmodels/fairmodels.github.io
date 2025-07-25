@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hiligaynon  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 2.00  
-**Digitality Score**: 2.37  
+**Grassroots Presence (z-score)**: 2.00  
+**Web Presence (z-score)**: 2.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hiligaynon*
+*Help us collect text resources for Hiligaynon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hiligaynon*
+*Help us collect audio resources for Hiligaynon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hiligaynon*
+*Help us collect video resources for Hiligaynon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

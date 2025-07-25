@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gbagyi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.71  
-**Digitality Score**: 0.22  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: 0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbagyi*
+*Help us collect text resources for Gbagyi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbagyi*
+*Help us collect audio resources for Gbagyi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbagyi*
+*Help us collect video resources for Gbagyi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

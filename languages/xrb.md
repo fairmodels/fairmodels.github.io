@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Karaboro, Eastern
+title: Eastern Karaboro
 parent: Languages
 ---
 
-# Karaboro, Eastern (xrb)
+# Eastern Karaboro (xrb)
 
 ## Overview
 
-**Language**: Karaboro, Eastern  
+**Language**: Eastern Karaboro  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.73  
-**Digitality Score**: 0.77  
+**Grassroots Presence (z-score)**: 0.73  
+**Web Presence (z-score)**: 0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karaboro, Eastern*
+*Help us collect text resources for Eastern Karaboro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karaboro, Eastern*
+*Help us collect audio resources for Eastern Karaboro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karaboro, Eastern*
+*Help us collect video resources for Eastern Karaboro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

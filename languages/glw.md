@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Glavda  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Glavda*
+*Help us collect text resources for Glavda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Glavda*
+*Help us collect audio resources for Glavda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Glavda*
+*Help us collect video resources for Glavda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

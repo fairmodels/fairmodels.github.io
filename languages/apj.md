@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Apache, Jicarilla
+title: Jicarilla Apache
 parent: Languages
 ---
 
-# Apache, Jicarilla (apj)
+# Jicarilla Apache (apj)
 
 ## Overview
 
-**Language**: Apache, Jicarilla  
+**Language**: Jicarilla Apache  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.45  
-**Digitality Score**: -0.00  
+**Grassroots Presence (z-score)**: -0.45  
+**Web Presence (z-score)**: -0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Apache, Jicarilla*
+*Help us collect text resources for Jicarilla Apache*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Apache, Jicarilla*
+*Help us collect audio resources for Jicarilla Apache*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Apache, Jicarilla*
+*Help us collect video resources for Jicarilla Apache*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

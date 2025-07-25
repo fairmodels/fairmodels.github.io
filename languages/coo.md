@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Comox  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -1.07  
-**Digitality Score**: 0.05  
+**Grassroots Presence (z-score)**: -1.07  
+**Web Presence (z-score)**: 0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Comox*
+*Help us collect text resources for Comox*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Comox*
+*Help us collect audio resources for Comox*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Comox*
+*Help us collect video resources for Comox*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

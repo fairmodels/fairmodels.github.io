@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Paiute, Northern
+title: Northern Paiute
 parent: Languages
 ---
 
-# Paiute, Northern (pao)
+# Northern Paiute (pao)
 
 ## Overview
 
-**Language**: Paiute, Northern  
+**Language**: Northern Paiute  
 **Region/Area**: Northern America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.73  
-**Digitality Score**: 1.20  
+**Grassroots Presence (z-score)**: -0.73  
+**Web Presence (z-score)**: 1.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Paiute, Northern*
+*Help us collect text resources for Northern Paiute*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Paiute, Northern*
+*Help us collect audio resources for Northern Paiute*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Paiute, Northern*
+*Help us collect video resources for Northern Paiute*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mwatebu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.48  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: -0.48  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mwatebu*
+*Help us collect text resources for Mwatebu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mwatebu*
+*Help us collect audio resources for Mwatebu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mwatebu*
+*Help us collect video resources for Mwatebu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

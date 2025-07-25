@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kanyok  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.93  
-**Digitality Score**: 0.00  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanyok*
+*Help us collect text resources for Kanyok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanyok*
+*Help us collect audio resources for Kanyok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanyok*
+*Help us collect video resources for Kanyok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

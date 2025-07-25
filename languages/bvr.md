@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Burarra  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: 0.29  
-**Digitality Score**: 1.06  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: 1.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Burarra*
+*Help us collect text resources for Burarra*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Burarra*
+*Help us collect audio resources for Burarra*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Burarra*
+*Help us collect video resources for Burarra*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

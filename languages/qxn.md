@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Northern Conchucos
+title: Northern Conchucos Quechua
 parent: Languages
 ---
 
-# Quechua, Northern Conchucos (qxn)
+# Northern Conchucos Quechua (qxn)
 
 ## Overview
 
-**Language**: Quechua, Northern Conchucos  
+**Language**: Northern Conchucos Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.87  
-**Digitality Score**: 1.38  
+**Grassroots Presence (z-score)**: 0.87  
+**Web Presence (z-score)**: 1.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Northern Conchucos*
+*Help us collect text resources for Northern Conchucos Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Northern Conchucos*
+*Help us collect audio resources for Northern Conchucos Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Northern Conchucos*
+*Help us collect video resources for Northern Conchucos Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

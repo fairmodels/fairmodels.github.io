@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Naluo  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.13  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naluo*
+*Help us collect text resources for Naluo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naluo*
+*Help us collect audio resources for Naluo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naluo*
+*Help us collect video resources for Naluo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

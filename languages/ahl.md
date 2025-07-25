@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Igo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.52  
-**Digitality Score**: -0.04  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: -0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Igo*
+*Help us collect text resources for Igo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Igo*
+*Help us collect audio resources for Igo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Igo*
+*Help us collect video resources for Igo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

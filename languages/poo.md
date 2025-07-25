@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pomo, Central
+title: Central Pomo
 parent: Languages
 ---
 
-# Pomo, Central (poo)
+# Central Pomo (poo)
 
 ## Overview
 
-**Language**: Pomo, Central  
+**Language**: Central Pomo  
 **Region/Area**: Northern America, Americas  
 **Family**: Pomoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: 0.40  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: 0.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pomo, Central*
+*Help us collect text resources for Central Pomo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pomo, Central*
+*Help us collect audio resources for Central Pomo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pomo, Central*
+*Help us collect video resources for Central Pomo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

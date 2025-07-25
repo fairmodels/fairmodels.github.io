@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sénoufo, Mamara
+title: Mamara Sénoufo
 parent: Languages
 ---
 
-# Sénoufo, Mamara (myk)
+# Mamara Sénoufo (myk)
 
 ## Overview
 
-**Language**: Sénoufo, Mamara  
+**Language**: Mamara Sénoufo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.51  
-**Digitality Score**: 1.21  
+**Grassroots Presence (z-score)**: 1.51  
+**Web Presence (z-score)**: 1.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sénoufo, Mamara*
+*Help us collect text resources for Mamara Sénoufo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sénoufo, Mamara*
+*Help us collect audio resources for Mamara Sénoufo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sénoufo, Mamara*
+*Help us collect video resources for Mamara Sénoufo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

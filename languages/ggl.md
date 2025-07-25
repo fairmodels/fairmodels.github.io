@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ganglau  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.31  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.31  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ganglau*
+*Help us collect text resources for Ganglau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ganglau*
+*Help us collect audio resources for Ganglau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ganglau*
+*Help us collect video resources for Ganglau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Puelche  
 **Region/Area**: South America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Puelche*
+*Help us collect text resources for Puelche*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Puelche*
+*Help us collect audio resources for Puelche*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Puelche*
+*Help us collect video resources for Puelche*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ticuna  
 **Region/Area**: South America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: 0.75  
-**Digitality Score**: 1.78  
+**Grassroots Presence (z-score)**: 0.75  
+**Web Presence (z-score)**: 1.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ticuna*
+*Help us collect text resources for Ticuna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ticuna*
+*Help us collect audio resources for Ticuna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ticuna*
+*Help us collect video resources for Ticuna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

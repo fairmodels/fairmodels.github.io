@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cora, El Nayar
+title: El Nayar Cora
 parent: Languages
 ---
 
-# Cora, El Nayar (crn)
+# El Nayar Cora (crn)
 
 ## Overview
 
-**Language**: Cora, El Nayar  
+**Language**: El Nayar Cora  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.47  
-**Digitality Score**: 1.10  
+**Grassroots Presence (z-score)**: 0.47  
+**Web Presence (z-score)**: 1.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cora, El Nayar*
+*Help us collect text resources for El Nayar Cora*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cora, El Nayar*
+*Help us collect audio resources for El Nayar Cora*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cora, El Nayar*
+*Help us collect video resources for El Nayar Cora*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kott  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Yeniseian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kott*
+*Help us collect text resources for Kott*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kott*
+*Help us collect audio resources for Kott*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kott*
+*Help us collect video resources for Kott*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

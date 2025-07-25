@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tawara  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.54  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: 0.54  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tawara*
+*Help us collect text resources for Tawara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tawara*
+*Help us collect audio resources for Tawara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tawara*
+*Help us collect video resources for Tawara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

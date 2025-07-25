@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Old Kentish Sign Language  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Sign language  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Old Kentish Sign Language*
+*Help us collect text resources for Old Kentish Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Old Kentish Sign Language*
+*Help us collect audio resources for Old Kentish Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Old Kentish Sign Language*
+*Help us collect video resources for Old Kentish Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

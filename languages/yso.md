@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nisi  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.40  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nisi*
+*Help us collect text resources for Nisi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nisi*
+*Help us collect audio resources for Nisi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nisi*
+*Help us collect video resources for Nisi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

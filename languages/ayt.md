@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ayta, Magbukun
+title: Magbukun Ayta
 parent: Languages
 ---
 
-# Ayta, Magbukun (ayt)
+# Magbukun Ayta (ayt)
 
 ## Overview
 
-**Language**: Ayta, Magbukun  
+**Language**: Magbukun Ayta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.36  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ayta, Magbukun*
+*Help us collect text resources for Magbukun Ayta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ayta, Magbukun*
+*Help us collect audio resources for Magbukun Ayta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ayta, Magbukun*
+*Help us collect video resources for Magbukun Ayta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Asurini, Tocantins
+title: Tocantins Asurini
 parent: Languages
 ---
 
-# Asurini, Tocantins (asu)
+# Tocantins Asurini (asu)
 
 ## Overview
 
-**Language**: Asurini, Tocantins  
+**Language**: Tocantins Asurini  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -0.49  
-**Digitality Score**: -0.06  
+**Grassroots Presence (z-score)**: -0.49  
+**Web Presence (z-score)**: -0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Asurini, Tocantins*
+*Help us collect text resources for Tocantins Asurini*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Asurini, Tocantins*
+*Help us collect audio resources for Tocantins Asurini*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Asurini, Tocantins*
+*Help us collect video resources for Tocantins Asurini*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

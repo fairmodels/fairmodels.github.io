@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Wa, Parauk
+title: Parauk Wa
 parent: Languages
 ---
 
-# Wa, Parauk (prk)
+# Parauk Wa (prk)
 
 ## Overview
 
-**Language**: Wa, Parauk  
+**Language**: Parauk Wa  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 1.12  
-**Digitality Score**: 1.18  
+**Grassroots Presence (z-score)**: 1.12  
+**Web Presence (z-score)**: 1.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wa, Parauk*
+*Help us collect text resources for Parauk Wa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wa, Parauk*
+*Help us collect audio resources for Parauk Wa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wa, Parauk*
+*Help us collect video resources for Parauk Wa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

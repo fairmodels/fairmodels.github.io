@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Comorian, Ndzwani
+title: Ndzwani Comorian
 parent: Languages
 ---
 
-# Comorian, Ndzwani (wni)
+# Ndzwani Comorian (wni)
 
 ## Overview
 
-**Language**: Comorian, Ndzwani  
+**Language**: Ndzwani Comorian  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.70  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 0.70  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Comorian, Ndzwani*
+*Help us collect text resources for Ndzwani Comorian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Comorian, Ndzwani*
+*Help us collect audio resources for Ndzwani Comorian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Comorian, Ndzwani*
+*Help us collect video resources for Ndzwani Comorian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

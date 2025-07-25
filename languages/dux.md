@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Duungooma  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.59  
-**Digitality Score**: -0.55  
+**Grassroots Presence (z-score)**: 0.59  
+**Web Presence (z-score)**: -0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Duungooma*
+*Help us collect text resources for Duungooma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Duungooma*
+*Help us collect audio resources for Duungooma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Duungooma*
+*Help us collect video resources for Duungooma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

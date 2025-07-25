@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nobonob  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.37  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nobonob*
+*Help us collect text resources for Nobonob*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nobonob*
+*Help us collect audio resources for Nobonob*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nobonob*
+*Help us collect video resources for Nobonob*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

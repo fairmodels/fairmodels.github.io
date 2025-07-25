@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kamarian  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kamarian*
+*Help us collect text resources for Kamarian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kamarian*
+*Help us collect audio resources for Kamarian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kamarian*
+*Help us collect video resources for Kamarian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

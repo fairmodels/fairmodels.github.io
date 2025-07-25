@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nzanyi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.51  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nzanyi*
+*Help us collect text resources for Nzanyi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nzanyi*
+*Help us collect audio resources for Nzanyi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nzanyi*
+*Help us collect video resources for Nzanyi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

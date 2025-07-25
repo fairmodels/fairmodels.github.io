@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lhomi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.54  
-**Digitality Score**: 0.52  
+**Grassroots Presence (z-score)**: 0.54  
+**Web Presence (z-score)**: 0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lhomi*
+*Help us collect text resources for Lhomi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lhomi*
+*Help us collect audio resources for Lhomi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lhomi*
+*Help us collect video resources for Lhomi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

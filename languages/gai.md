@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbore  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.27  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbore*
+*Help us collect text resources for Mbore*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbore*
+*Help us collect audio resources for Mbore*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbore*
+*Help us collect video resources for Mbore*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

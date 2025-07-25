@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karakalpak  
 **Region/Area**: Central Asia, Asia  
 **Family**: Turkic  
-**Vitality Score**: 1.12  
-**Digitality Score**: 2.12  
+**Grassroots Presence (z-score)**: 1.12  
+**Web Presence (z-score)**: 2.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karakalpak*
+*Help us collect text resources for Karakalpak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karakalpak*
+*Help us collect audio resources for Karakalpak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karakalpak*
+*Help us collect video resources for Karakalpak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

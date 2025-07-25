@@ -11,20 +11,20 @@ parent: Languages
 **Language**: ǂ’Amkhoe  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Kx’a  
-**Vitality Score**: -1.28  
-**Digitality Score**: -0.15  
+**Grassroots Presence (z-score)**: -1.28  
+**Web Presence (z-score)**: -0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for ǂ’Amkhoe*
+*Help us collect text resources for ǂ’Amkhoe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for ǂ’Amkhoe*
+*Help us collect audio resources for ǂ’Amkhoe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for ǂ’Amkhoe*
+*Help us collect video resources for ǂ’Amkhoe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

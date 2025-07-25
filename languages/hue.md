@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Huave, San Francisco del Mar
+title: San Francisco del Mar Huave
 parent: Languages
 ---
 
-# Huave, San Francisco del Mar (hue)
+# San Francisco del Mar Huave (hue)
 
 ## Overview
 
-**Language**: Huave, San Francisco del Mar  
+**Language**: San Francisco del Mar Huave  
 **Region/Area**: Central America, Americas  
 **Family**: Huavean  
-**Vitality Score**: -0.43  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: -0.43  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Huave, San Francisco del Mar*
+*Help us collect text resources for San Francisco del Mar Huave*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Huave, San Francisco del Mar*
+*Help us collect audio resources for San Francisco del Mar Huave*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Huave, San Francisco del Mar*
+*Help us collect video resources for San Francisco del Mar Huave*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

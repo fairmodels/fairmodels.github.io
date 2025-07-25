@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kiwai, Southern
+title: Southern Kiwai
 parent: Languages
 ---
 
-# Kiwai, Southern (kjd)
+# Southern Kiwai (kjd)
 
 ## Overview
 
-**Language**: Kiwai, Southern  
+**Language**: Southern Kiwai  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.64  
-**Digitality Score**: 0.17  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kiwai, Southern*
+*Help us collect text resources for Southern Kiwai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kiwai, Southern*
+*Help us collect audio resources for Southern Kiwai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kiwai, Southern*
+*Help us collect video resources for Southern Kiwai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

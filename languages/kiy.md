@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kirikiri  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Lakes Plain  
-**Vitality Score**: -0.23  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kirikiri*
+*Help us collect text resources for Kirikiri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kirikiri*
+*Help us collect audio resources for Kirikiri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kirikiri*
+*Help us collect video resources for Kirikiri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

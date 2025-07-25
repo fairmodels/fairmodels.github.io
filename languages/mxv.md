@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Metlatónoc
+title: Metlatónoc Mixtec
 parent: Languages
 ---
 
-# Mixtec, Metlatónoc (mxv)
+# Metlatónoc Mixtec (mxv)
 
 ## Overview
 
-**Language**: Mixtec, Metlatónoc  
+**Language**: Metlatónoc Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.75  
-**Digitality Score**: 0.44  
+**Grassroots Presence (z-score)**: 0.75  
+**Web Presence (z-score)**: 0.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Metlatónoc*
+*Help us collect text resources for Metlatónoc Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Metlatónoc*
+*Help us collect audio resources for Metlatónoc Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Metlatónoc*
+*Help us collect video resources for Metlatónoc Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

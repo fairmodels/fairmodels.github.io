@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karipuna French Creole  
 **Region/Area**: South America, Americas  
 **Family**: Creole  
-**Vitality Score**: -0.10  
-**Digitality Score**: -0.46  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karipuna French Creole*
+*Help us collect text resources for Karipuna French Creole*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karipuna French Creole*
+*Help us collect audio resources for Karipuna French Creole*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karipuna French Creole*
+*Help us collect video resources for Karipuna French Creole*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

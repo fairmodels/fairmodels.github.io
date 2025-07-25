@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Valle Nacional
+title: Valle Nacional Chinantec
 parent: Languages
 ---
 
-# Chinantec, Valle Nacional (cvn)
+# Valle Nacional Chinantec (cvn)
 
 ## Overview
 
-**Language**: Chinantec, Valle Nacional  
+**Language**: Valle Nacional Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.47  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: -0.47  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Valle Nacional*
+*Help us collect text resources for Valle Nacional Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Valle Nacional*
+*Help us collect audio resources for Valle Nacional Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Valle Nacional*
+*Help us collect video resources for Valle Nacional Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

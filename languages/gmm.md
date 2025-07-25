@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gbaya-Mbodomo  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.28  
-**Digitality Score**: 0.40  
+**Grassroots Presence (z-score)**: 0.28  
+**Web Presence (z-score)**: 0.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbaya-Mbodomo*
+*Help us collect text resources for Gbaya-Mbodomo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbaya-Mbodomo*
+*Help us collect audio resources for Gbaya-Mbodomo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbaya-Mbodomo*
+*Help us collect video resources for Gbaya-Mbodomo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

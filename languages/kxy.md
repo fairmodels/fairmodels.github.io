@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kayong  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.35  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayong*
+*Help us collect text resources for Kayong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayong*
+*Help us collect audio resources for Kayong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayong*
+*Help us collect video resources for Kayong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

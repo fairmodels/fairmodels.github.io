@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kenyah, Mainstream
+title: Mainstream Kenyah
 parent: Languages
 ---
 
-# Kenyah, Mainstream (xkl)
+# Mainstream Kenyah (xkl)
 
 ## Overview
 
-**Language**: Kenyah, Mainstream  
+**Language**: Mainstream Kenyah  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.29  
-**Digitality Score**: 0.10  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: 0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kenyah, Mainstream*
+*Help us collect text resources for Mainstream Kenyah*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kenyah, Mainstream*
+*Help us collect audio resources for Mainstream Kenyah*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kenyah, Mainstream*
+*Help us collect video resources for Mainstream Kenyah*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

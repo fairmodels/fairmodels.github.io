@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sudovian  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sudovian*
+*Help us collect text resources for Sudovian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sudovian*
+*Help us collect audio resources for Sudovian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sudovian*
+*Help us collect video resources for Sudovian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Northern Mashan
+title: Northern Mashan Miao
 parent: Languages
 ---
 
-# Miao, Northern Mashan (hmp)
+# Northern Mashan Miao (hmp)
 
 ## Overview
 
-**Language**: Miao, Northern Mashan  
+**Language**: Northern Mashan Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.40  
-**Digitality Score**: 0.93  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: 0.93  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Northern Mashan*
+*Help us collect text resources for Northern Mashan Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Northern Mashan*
+*Help us collect audio resources for Northern Mashan Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Northern Mashan*
+*Help us collect video resources for Northern Mashan Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bajau, Indonesian
+title: Indonesian Bajau
 parent: Languages
 ---
 
-# Bajau, Indonesian (bdl)
+# Indonesian Bajau (bdl)
 
 ## Overview
 
-**Language**: Bajau, Indonesian  
+**Language**: Indonesian Bajau  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.46  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bajau, Indonesian*
+*Help us collect text resources for Indonesian Bajau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bajau, Indonesian*
+*Help us collect audio resources for Indonesian Bajau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bajau, Indonesian*
+*Help us collect video resources for Indonesian Bajau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Quioquitani-Quierí
+title: Quioquitani-Quierí Zapotec
 parent: Languages
 ---
 
-# Zapotec, Quioquitani-Quierí (ztq)
+# Quioquitani-Quierí Zapotec (ztq)
 
 ## Overview
 
-**Language**: Zapotec, Quioquitani-Quierí  
+**Language**: Quioquitani-Quierí Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.44  
-**Digitality Score**: 1.48  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 1.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Quioquitani-Quierí*
+*Help us collect text resources for Quioquitani-Quierí Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Quioquitani-Quierí*
+*Help us collect audio resources for Quioquitani-Quierí Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Quioquitani-Quierí*
+*Help us collect video resources for Quioquitani-Quierí Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

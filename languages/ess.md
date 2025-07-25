@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yupik, Saint Lawrence Island
+title: Saint Lawrence Island Yupik
 parent: Languages
 ---
 
-# Yupik, Saint Lawrence Island (ess)
+# Saint Lawrence Island Yupik (ess)
 
 ## Overview
 
-**Language**: Yupik, Saint Lawrence Island  
+**Language**: Saint Lawrence Island Yupik  
 **Region/Area**: Northern America, Americas  
 **Family**: Eskimo-Aleut  
-**Vitality Score**: -0.35  
-**Digitality Score**: 0.99  
+**Grassroots Presence (z-score)**: -0.35  
+**Web Presence (z-score)**: 0.99  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yupik, Saint Lawrence Island*
+*Help us collect text resources for Saint Lawrence Island Yupik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yupik, Saint Lawrence Island*
+*Help us collect audio resources for Saint Lawrence Island Yupik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yupik, Saint Lawrence Island*
+*Help us collect video resources for Saint Lawrence Island Yupik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chukwa  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -1.13  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.13  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chukwa*
+*Help us collect text resources for Chukwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chukwa*
+*Help us collect audio resources for Chukwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chukwa*
+*Help us collect video resources for Chukwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

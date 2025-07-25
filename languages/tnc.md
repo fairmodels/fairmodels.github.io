@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tanimuca-Letuama  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: -0.14  
-**Digitality Score**: 0.49  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: 0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tanimuca-Letuama*
+*Help us collect text resources for Tanimuca-Letuama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tanimuca-Letuama*
+*Help us collect audio resources for Tanimuca-Letuama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tanimuca-Letuama*
+*Help us collect video resources for Tanimuca-Letuama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

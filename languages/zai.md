@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Isthmus
+title: Isthmus Zapotec
 parent: Languages
 ---
 
-# Zapotec, Isthmus (zai)
+# Isthmus Zapotec (zai)
 
 ## Overview
 
-**Language**: Zapotec, Isthmus  
+**Language**: Isthmus Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.35  
-**Digitality Score**: 1.98  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 1.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Isthmus*
+*Help us collect text resources for Isthmus Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Isthmus*
+*Help us collect audio resources for Isthmus Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Isthmus*
+*Help us collect video resources for Isthmus Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Andai  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Arafundi  
-**Vitality Score**: -0.16  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Andai*
+*Help us collect text resources for Andai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Andai*
+*Help us collect audio resources for Andai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Andai*
+*Help us collect video resources for Andai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

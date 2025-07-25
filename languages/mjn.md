@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ma  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.13  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.13  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ma*
+*Help us collect text resources for Ma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ma*
+*Help us collect audio resources for Ma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ma*
+*Help us collect video resources for Ma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Atta, Pamplona
+title: Pamplona Atta
 parent: Languages
 ---
 
-# Atta, Pamplona (att)
+# Pamplona Atta (att)
 
 ## Overview
 
-**Language**: Atta, Pamplona  
+**Language**: Pamplona Atta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.21  
-**Digitality Score**: 0.66  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: 0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Atta, Pamplona*
+*Help us collect text resources for Pamplona Atta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Atta, Pamplona*
+*Help us collect audio resources for Pamplona Atta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Atta, Pamplona*
+*Help us collect video resources for Pamplona Atta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Krumen, Pye
+title: Pye Krumen
 parent: Languages
 ---
 
-# Krumen, Pye (pye)
+# Pye Krumen (pye)
 
 ## Overview
 
-**Language**: Krumen, Pye  
+**Language**: Pye Krumen  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.64  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Krumen, Pye*
+*Help us collect text resources for Pye Krumen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Krumen, Pye*
+*Help us collect audio resources for Pye Krumen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Krumen, Pye*
+*Help us collect video resources for Pye Krumen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

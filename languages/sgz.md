@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sursurunga  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.46  
-**Digitality Score**: 1.00  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 1.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sursurunga*
+*Help us collect text resources for Sursurunga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sursurunga*
+*Help us collect audio resources for Sursurunga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sursurunga*
+*Help us collect video resources for Sursurunga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

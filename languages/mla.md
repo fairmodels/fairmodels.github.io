@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Malo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.06  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: -0.06  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malo*
+*Help us collect text resources for Malo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malo*
+*Help us collect audio resources for Malo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malo*
+*Help us collect video resources for Malo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

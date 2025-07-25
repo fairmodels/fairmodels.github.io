@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yali, Pass Valley
+title: Pass Valley Yali
 parent: Languages
 ---
 
-# Yali, Pass Valley (yac)
+# Pass Valley Yali (yac)
 
 ## Overview
 
-**Language**: Yali, Pass Valley  
+**Language**: Pass Valley Yali  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.01  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yali, Pass Valley*
+*Help us collect text resources for Pass Valley Yali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yali, Pass Valley*
+*Help us collect audio resources for Pass Valley Yali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yali, Pass Valley*
+*Help us collect video resources for Pass Valley Yali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

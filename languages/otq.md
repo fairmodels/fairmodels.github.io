@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Otomi, Querétaro
+title: Querétaro Otomi
 parent: Languages
 ---
 
-# Otomi, Querétaro (otq)
+# Querétaro Otomi (otq)
 
 ## Overview
 
-**Language**: Otomi, Querétaro  
+**Language**: Querétaro Otomi  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.70  
-**Digitality Score**: 1.48  
+**Grassroots Presence (z-score)**: 0.70  
+**Web Presence (z-score)**: 1.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Otomi, Querétaro*
+*Help us collect text resources for Querétaro Otomi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Otomi, Querétaro*
+*Help us collect audio resources for Querétaro Otomi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Otomi, Querétaro*
+*Help us collect video resources for Querétaro Otomi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

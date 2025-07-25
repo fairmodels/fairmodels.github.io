@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ainbai  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Border  
-**Vitality Score**: -0.97  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.97  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ainbai*
+*Help us collect text resources for Ainbai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ainbai*
+*Help us collect audio resources for Ainbai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ainbai*
+*Help us collect video resources for Ainbai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

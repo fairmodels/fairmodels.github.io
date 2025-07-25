@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kanuri, Bilma
+title: Bilma Kanuri
 parent: Languages
 ---
 
-# Kanuri, Bilma (bms)
+# Bilma Kanuri (bms)
 
 ## Overview
 
-**Language**: Kanuri, Bilma  
+**Language**: Bilma Kanuri  
 **Region/Area**: Western Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanuri, Bilma*
+*Help us collect text resources for Bilma Kanuri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanuri, Bilma*
+*Help us collect audio resources for Bilma Kanuri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanuri, Bilma*
+*Help us collect video resources for Bilma Kanuri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

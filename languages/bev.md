@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bété, Daloa
+title: Daloa Bété
 parent: Languages
 ---
 
-# Bété, Daloa (bev)
+# Daloa Bété (bev)
 
 ## Overview
 
-**Language**: Bété, Daloa  
+**Language**: Daloa Bété  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.96  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.96  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bété, Daloa*
+*Help us collect text resources for Daloa Bété*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bété, Daloa*
+*Help us collect audio resources for Daloa Bété*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bété, Daloa*
+*Help us collect video resources for Daloa Bété*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

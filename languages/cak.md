@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kaqchikel  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 1.02  
-**Digitality Score**: 2.10  
+**Grassroots Presence (z-score)**: 1.02  
+**Web Presence (z-score)**: 2.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaqchikel*
+*Help us collect text resources for Kaqchikel*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaqchikel*
+*Help us collect audio resources for Kaqchikel*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaqchikel*
+*Help us collect video resources for Kaqchikel*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

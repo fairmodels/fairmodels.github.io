@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Minang  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Minang*
+*Help us collect text resources for Minang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Minang*
+*Help us collect audio resources for Minang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Minang*
+*Help us collect video resources for Minang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

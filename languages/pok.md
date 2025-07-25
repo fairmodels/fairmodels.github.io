@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pokangá  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: -1.11  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.11  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pokangá*
+*Help us collect text resources for Pokangá*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pokangá*
+*Help us collect audio resources for Pokangá*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pokangá*
+*Help us collect video resources for Pokangá*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

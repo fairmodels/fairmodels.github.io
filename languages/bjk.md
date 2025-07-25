@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Barok  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.08  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Barok*
+*Help us collect text resources for Barok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Barok*
+*Help us collect audio resources for Barok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Barok*
+*Help us collect video resources for Barok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

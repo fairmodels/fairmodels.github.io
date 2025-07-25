@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Paungnyuan
+title: Paungnyuan Naga
 parent: Languages
 ---
 
-# Naga, Paungnyuan (umn)
+# Paungnyuan Naga (umn)
 
 ## Overview
 
-**Language**: Naga, Paungnyuan  
+**Language**: Paungnyuan Naga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.12  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Paungnyuan*
+*Help us collect text resources for Paungnyuan Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Paungnyuan*
+*Help us collect audio resources for Paungnyuan Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Paungnyuan*
+*Help us collect video resources for Paungnyuan Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

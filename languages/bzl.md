@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Boano  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.10  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Boano*
+*Help us collect text resources for Boano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Boano*
+*Help us collect audio resources for Boano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Boano*
+*Help us collect video resources for Boano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

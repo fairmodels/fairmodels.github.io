@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kosraean  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 1.44  
-**Digitality Score**: 1.64  
+**Grassroots Presence (z-score)**: 1.44  
+**Web Presence (z-score)**: 1.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kosraean*
+*Help us collect text resources for Kosraean*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kosraean*
+*Help us collect audio resources for Kosraean*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kosraean*
+*Help us collect video resources for Kosraean*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

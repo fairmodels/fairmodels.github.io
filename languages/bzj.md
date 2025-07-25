@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Belize English Creole  
 **Region/Area**: Central America, Americas  
 **Family**: Creole  
-**Vitality Score**: 1.54  
-**Digitality Score**: 1.65  
+**Grassroots Presence (z-score)**: 1.54  
+**Web Presence (z-score)**: 1.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Belize English Creole*
+*Help us collect text resources for Belize English Creole*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Belize English Creole*
+*Help us collect audio resources for Belize English Creole*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Belize English Creole*
+*Help us collect video resources for Belize English Creole*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

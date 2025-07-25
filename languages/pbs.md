@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pame, Central
+title: Central Pame
 parent: Languages
 ---
 
-# Pame, Central (pbs)
+# Central Pame (pbs)
 
 ## Overview
 
-**Language**: Pame, Central  
+**Language**: Central Pame  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.20  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pame, Central*
+*Help us collect text resources for Central Pame*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pame, Central*
+*Help us collect audio resources for Central Pame*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pame, Central*
+*Help us collect video resources for Central Pame*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

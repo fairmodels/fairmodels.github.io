@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sãotomense  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 0.30  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sãotomense*
+*Help us collect text resources for Sãotomense*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sãotomense*
+*Help us collect audio resources for Sãotomense*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sãotomense*
+*Help us collect video resources for Sãotomense*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

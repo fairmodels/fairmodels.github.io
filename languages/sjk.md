@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saami, Kemi
+title: Kemi Saami
 parent: Languages
 ---
 
-# Saami, Kemi (sjk)
+# Kemi Saami (sjk)
 
 ## Overview
 
-**Language**: Saami, Kemi  
+**Language**: Kemi Saami  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saami, Kemi*
+*Help us collect text resources for Kemi Saami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saami, Kemi*
+*Help us collect audio resources for Kemi Saami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saami, Kemi*
+*Help us collect video resources for Kemi Saami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

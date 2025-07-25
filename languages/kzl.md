@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kayeli  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayeli*
+*Help us collect text resources for Kayeli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayeli*
+*Help us collect audio resources for Kayeli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayeli*
+*Help us collect video resources for Kayeli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

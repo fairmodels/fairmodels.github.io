@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Putai  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -1.22  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: -1.22  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Putai*
+*Help us collect text resources for Putai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Putai*
+*Help us collect audio resources for Putai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Putai*
+*Help us collect video resources for Putai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

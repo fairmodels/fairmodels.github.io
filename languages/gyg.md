@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gbayi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbayi*
+*Help us collect text resources for Gbayi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbayi*
+*Help us collect audio resources for Gbayi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbayi*
+*Help us collect video resources for Gbayi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

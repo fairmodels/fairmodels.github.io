@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tepehuan, Southeastern
+title: Southeastern Tepehuan
 parent: Languages
 ---
 
-# Tepehuan, Southeastern (stp)
+# Southeastern Tepehuan (stp)
 
 ## Overview
 
-**Language**: Tepehuan, Southeastern  
+**Language**: Southeastern Tepehuan  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.56  
-**Digitality Score**: 1.02  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: 1.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tepehuan, Southeastern*
+*Help us collect text resources for Southeastern Tepehuan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tepehuan, Southeastern*
+*Help us collect audio resources for Southeastern Tepehuan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tepehuan, Southeastern*
+*Help us collect video resources for Southeastern Tepehuan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

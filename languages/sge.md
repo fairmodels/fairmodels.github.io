@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Segai  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Segai*
+*Help us collect text resources for Segai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Segai*
+*Help us collect audio resources for Segai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Segai*
+*Help us collect video resources for Segai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

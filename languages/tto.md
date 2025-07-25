@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ta’oih, Lower
+title: Lower Ta’oih
 parent: Languages
 ---
 
-# Ta’oih, Lower (tto)
+# Lower Ta’oih (tto)
 
 ## Overview
 
-**Language**: Ta’oih, Lower  
+**Language**: Lower Ta’oih  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ta’oih, Lower*
+*Help us collect text resources for Lower Ta’oih*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ta’oih, Lower*
+*Help us collect audio resources for Lower Ta’oih*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ta’oih, Lower*
+*Help us collect video resources for Lower Ta’oih*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

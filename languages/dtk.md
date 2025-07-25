@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Togo Kan
+title: Togo Kan Dogon
 parent: Languages
 ---
 
-# Dogon, Togo Kan (dtk)
+# Togo Kan Dogon (dtk)
 
 ## Overview
 
-**Language**: Dogon, Togo Kan  
+**Language**: Togo Kan Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.56  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Togo Kan*
+*Help us collect text resources for Togo Kan Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Togo Kan*
+*Help us collect audio resources for Togo Kan Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Togo Kan*
+*Help us collect video resources for Togo Kan Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sénoufo, Senara
+title: Senara Sénoufo
 parent: Languages
 ---
 
-# Sénoufo, Senara (seq)
+# Senara Sénoufo (seq)
 
 ## Overview
 
-**Language**: Sénoufo, Senara  
+**Language**: Senara Sénoufo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.52  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sénoufo, Senara*
+*Help us collect text resources for Senara Sénoufo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sénoufo, Senara*
+*Help us collect audio resources for Senara Sénoufo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sénoufo, Senara*
+*Help us collect video resources for Senara Sénoufo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

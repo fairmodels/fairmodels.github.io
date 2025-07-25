@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kayan, Busang
+title: Busang Kayan
 parent: Languages
 ---
 
-# Kayan, Busang (bfg)
+# Busang Kayan (bfg)
 
 ## Overview
 
-**Language**: Kayan, Busang  
+**Language**: Busang Kayan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.07  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayan, Busang*
+*Help us collect text resources for Busang Kayan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayan, Busang*
+*Help us collect audio resources for Busang Kayan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayan, Busang*
+*Help us collect video resources for Busang Kayan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

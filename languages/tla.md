@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tepehuan, Southwestern
+title: Southwestern Tepehuan
 parent: Languages
 ---
 
-# Tepehuan, Southwestern (tla)
+# Southwestern Tepehuan (tla)
 
 ## Overview
 
-**Language**: Tepehuan, Southwestern  
+**Language**: Southwestern Tepehuan  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tepehuan, Southwestern*
+*Help us collect text resources for Southwestern Tepehuan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tepehuan, Southwestern*
+*Help us collect audio resources for Southwestern Tepehuan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tepehuan, Southwestern*
+*Help us collect video resources for Southwestern Tepehuan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

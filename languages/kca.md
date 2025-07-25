@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Khanty  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: 0.07  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Khanty*
+*Help us collect text resources for Khanty*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Khanty*
+*Help us collect audio resources for Khanty*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Khanty*
+*Help us collect video resources for Khanty*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

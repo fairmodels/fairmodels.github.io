@@ -11,20 +11,20 @@ parent: Languages
 **Language**: C’Lela  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.83  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for C’Lela*
+*Help us collect text resources for C’Lela*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for C’Lela*
+*Help us collect audio resources for C’Lela*
 
 ### Video Resources
-*Coming soon - help us collect video resources for C’Lela*
+*Help us collect video resources for C’Lela*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

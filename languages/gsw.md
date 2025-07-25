@@ -1,30 +1,30 @@
 ---
 layout: default
-title: German, Swiss
+title: Swiss German
 parent: Languages
 ---
 
-# German, Swiss (gsw)
+# Swiss German (gsw)
 
 ## Overview
 
-**Language**: German, Swiss  
+**Language**: Swiss German  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.37  
-**Digitality Score**: 3.25  
+**Grassroots Presence (z-score)**: 1.37  
+**Web Presence (z-score)**: 3.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for German, Swiss*
+*Help us collect text resources for Swiss German*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for German, Swiss*
+*Help us collect audio resources for Swiss German*
 
 ### Video Resources
-*Coming soon - help us collect video resources for German, Swiss*
+*Help us collect video resources for Swiss German*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sos Kundi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -0.06  
-**Digitality Score**: 0.22  
+**Grassroots Presence (z-score)**: -0.06  
+**Web Presence (z-score)**: 0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sos Kundi*
+*Help us collect text resources for Sos Kundi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sos Kundi*
+*Help us collect audio resources for Sos Kundi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sos Kundi*
+*Help us collect video resources for Sos Kundi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

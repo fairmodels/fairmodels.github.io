@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Duya  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.34  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 0.34  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Duya*
+*Help us collect text resources for Duya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Duya*
+*Help us collect audio resources for Duya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Duya*
+*Help us collect video resources for Duya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

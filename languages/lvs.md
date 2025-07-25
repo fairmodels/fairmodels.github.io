@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Latvian, Standard
+title: Standard Latvian
 parent: Languages
 ---
 
-# Latvian, Standard (lvs)
+# Standard Latvian (lvs)
 
 ## Overview
 
-**Language**: Latvian, Standard  
+**Language**: Standard Latvian  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.48  
-**Digitality Score**: 2.92  
+**Grassroots Presence (z-score)**: 2.48  
+**Web Presence (z-score)**: 2.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Latvian, Standard*
+*Help us collect text resources for Standard Latvian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Latvian, Standard*
+*Help us collect audio resources for Standard Latvian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Latvian, Standard*
+*Help us collect video resources for Standard Latvian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

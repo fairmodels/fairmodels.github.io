@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Saafi-Saafi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.93  
-**Digitality Score**: 0.33  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 0.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saafi-Saafi*
+*Help us collect text resources for Saafi-Saafi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saafi-Saafi*
+*Help us collect audio resources for Saafi-Saafi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saafi-Saafi*
+*Help us collect video resources for Saafi-Saafi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

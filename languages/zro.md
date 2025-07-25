@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Záparo  
 **Region/Area**: South America, Americas  
 **Family**: Zaparoan  
-**Vitality Score**: -1.54  
-**Digitality Score**: 0.24  
+**Grassroots Presence (z-score)**: -1.54  
+**Web Presence (z-score)**: 0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Záparo*
+*Help us collect text resources for Záparo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Záparo*
+*Help us collect audio resources for Záparo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Záparo*
+*Help us collect video resources for Záparo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Totonac, Upper Necaxa
+title: Upper Necaxa Totonac
 parent: Languages
 ---
 
-# Totonac, Upper Necaxa (tku)
+# Upper Necaxa Totonac (tku)
 
 ## Overview
 
-**Language**: Totonac, Upper Necaxa  
+**Language**: Upper Necaxa Totonac  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: -0.06  
-**Digitality Score**: 0.40  
+**Grassroots Presence (z-score)**: -0.06  
+**Web Presence (z-score)**: 0.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Totonac, Upper Necaxa*
+*Help us collect text resources for Upper Necaxa Totonac*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Totonac, Upper Necaxa*
+*Help us collect audio resources for Upper Necaxa Totonac*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Totonac, Upper Necaxa*
+*Help us collect video resources for Upper Necaxa Totonac*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

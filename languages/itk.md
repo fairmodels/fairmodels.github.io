@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Judeo-Italian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -0.54  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.54  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Judeo-Italian*
+*Help us collect text resources for Judeo-Italian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Judeo-Italian*
+*Help us collect audio resources for Judeo-Italian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Judeo-Italian*
+*Help us collect video resources for Judeo-Italian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

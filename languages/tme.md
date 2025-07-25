@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tremembé  
 **Region/Area**: South America, Americas  
 **Family**: Unclassified  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tremembé*
+*Help us collect text resources for Tremembé*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tremembé*
+*Help us collect audio resources for Tremembé*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tremembé*
+*Help us collect video resources for Tremembé*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Morelos
+title: Morelos Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Morelos (nhm)
+# Morelos Nahuatl (nhm)
 
 ## Overview
 
-**Language**: Nahuatl, Morelos  
+**Language**: Morelos Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Morelos*
+*Help us collect text resources for Morelos Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Morelos*
+*Help us collect audio resources for Morelos Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Morelos*
+*Help us collect video resources for Morelos Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

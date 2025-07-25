@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Chokri
+title: Chokri Naga
 parent: Languages
 ---
 
-# Naga, Chokri (nri)
+# Chokri Naga (nri)
 
 ## Overview
 
-**Language**: Naga, Chokri  
+**Language**: Chokri Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.86  
-**Digitality Score**: 0.02  
+**Grassroots Presence (z-score)**: 0.86  
+**Web Presence (z-score)**: 0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Chokri*
+*Help us collect text resources for Chokri Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Chokri*
+*Help us collect audio resources for Chokri Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Chokri*
+*Help us collect video resources for Chokri Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

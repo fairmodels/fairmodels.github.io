@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kujarge  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Unclassified  
-**Vitality Score**: -0.37  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kujarge*
+*Help us collect text resources for Kujarge*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kujarge*
+*Help us collect audio resources for Kujarge*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kujarge*
+*Help us collect video resources for Kujarge*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

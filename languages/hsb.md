@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sorbian, Upper
+title: Upper Sorbian
 parent: Languages
 ---
 
-# Sorbian, Upper (hsb)
+# Upper Sorbian (hsb)
 
 ## Overview
 
-**Language**: Sorbian, Upper  
+**Language**: Upper Sorbian  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.12  
-**Digitality Score**: 2.70  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 2.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sorbian, Upper*
+*Help us collect text resources for Upper Sorbian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sorbian, Upper*
+*Help us collect audio resources for Upper Sorbian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sorbian, Upper*
+*Help us collect video resources for Upper Sorbian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

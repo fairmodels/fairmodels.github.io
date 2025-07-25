@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nimo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Arai (Left May)  
-**Vitality Score**: -0.34  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -0.34  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nimo*
+*Help us collect text resources for Nimo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nimo*
+*Help us collect audio resources for Nimo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nimo*
+*Help us collect video resources for Nimo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

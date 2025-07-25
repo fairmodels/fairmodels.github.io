@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kisar  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.64  
-**Digitality Score**: 0.71  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 0.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kisar*
+*Help us collect text resources for Kisar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kisar*
+*Help us collect audio resources for Kisar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kisar*
+*Help us collect video resources for Kisar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

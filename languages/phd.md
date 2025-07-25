@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Phudagi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Phudagi*
+*Help us collect text resources for Phudagi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Phudagi*
+*Help us collect audio resources for Phudagi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Phudagi*
+*Help us collect video resources for Phudagi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

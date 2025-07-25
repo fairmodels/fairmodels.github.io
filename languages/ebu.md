@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kiembu  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.07  
-**Digitality Score**: 0.20  
+**Grassroots Presence (z-score)**: 1.07  
+**Web Presence (z-score)**: 0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kiembu*
+*Help us collect text resources for Kiembu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kiembu*
+*Help us collect audio resources for Kiembu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kiembu*
+*Help us collect video resources for Kiembu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

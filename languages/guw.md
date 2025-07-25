@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gun  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.20  
-**Digitality Score**: 1.16  
+**Grassroots Presence (z-score)**: 1.20  
+**Web Presence (z-score)**: 1.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gun*
+*Help us collect text resources for Gun*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gun*
+*Help us collect audio resources for Gun*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gun*
+*Help us collect video resources for Gun*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

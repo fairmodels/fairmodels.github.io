@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dani, Lower Grand Valley
+title: Lower Grand Valley Dani
 parent: Languages
 ---
 
-# Dani, Lower Grand Valley (dni)
+# Lower Grand Valley Dani (dni)
 
 ## Overview
 
-**Language**: Dani, Lower Grand Valley  
+**Language**: Lower Grand Valley Dani  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.17  
-**Digitality Score**: 0.18  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: 0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dani, Lower Grand Valley*
+*Help us collect text resources for Lower Grand Valley Dani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dani, Lower Grand Valley*
+*Help us collect audio resources for Lower Grand Valley Dani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dani, Lower Grand Valley*
+*Help us collect video resources for Lower Grand Valley Dani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

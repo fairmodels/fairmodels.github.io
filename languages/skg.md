@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malagasy, Sakalava
+title: Sakalava Malagasy
 parent: Languages
 ---
 
-# Malagasy, Sakalava (skg)
+# Sakalava Malagasy (skg)
 
 ## Overview
 
-**Language**: Malagasy, Sakalava  
+**Language**: Sakalava Malagasy  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Austronesian  
-**Vitality Score**: 0.84  
-**Digitality Score**: 1.01  
+**Grassroots Presence (z-score)**: 0.84  
+**Web Presence (z-score)**: 1.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malagasy, Sakalava*
+*Help us collect text resources for Sakalava Malagasy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malagasy, Sakalava*
+*Help us collect audio resources for Sakalava Malagasy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malagasy, Sakalava*
+*Help us collect video resources for Sakalava Malagasy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

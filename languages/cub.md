@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cubeo  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: 1.12  
-**Digitality Score**: 0.94  
+**Grassroots Presence (z-score)**: 1.12  
+**Web Presence (z-score)**: 0.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cubeo*
+*Help us collect text resources for Cubeo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cubeo*
+*Help us collect audio resources for Cubeo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cubeo*
+*Help us collect video resources for Cubeo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Busam  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.05  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.05  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Busam*
+*Help us collect text resources for Busam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Busam*
+*Help us collect audio resources for Busam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Busam*
+*Help us collect video resources for Busam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

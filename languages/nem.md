@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nemi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.22  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: -0.22  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nemi*
+*Help us collect text resources for Nemi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nemi*
+*Help us collect audio resources for Nemi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nemi*
+*Help us collect video resources for Nemi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

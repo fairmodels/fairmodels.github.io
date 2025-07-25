@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Blackfoot  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -0.13  
-**Digitality Score**: 1.27  
+**Grassroots Presence (z-score)**: -0.13  
+**Web Presence (z-score)**: 1.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Blackfoot*
+*Help us collect text resources for Blackfoot*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Blackfoot*
+*Help us collect audio resources for Blackfoot*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Blackfoot*
+*Help us collect video resources for Blackfoot*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

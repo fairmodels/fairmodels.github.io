@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ansus  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.02  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ansus*
+*Help us collect text resources for Ansus*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ansus*
+*Help us collect audio resources for Ansus*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ansus*
+*Help us collect video resources for Ansus*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

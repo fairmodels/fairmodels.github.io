@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Mao
+title: Mao Naga
 parent: Languages
 ---
 
-# Naga, Mao (nbi)
+# Mao Naga (nbi)
 
 ## Overview
 
-**Language**: Naga, Mao  
+**Language**: Mao Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.84  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: 0.84  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Mao*
+*Help us collect text resources for Mao Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Mao*
+*Help us collect audio resources for Mao Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Mao*
+*Help us collect video resources for Mao Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

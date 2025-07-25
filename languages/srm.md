@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Saramaccan  
 **Region/Area**: South America, Americas  
 **Family**: Creole  
-**Vitality Score**: 0.71  
-**Digitality Score**: 1.92  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: 1.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saramaccan*
+*Help us collect text resources for Saramaccan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saramaccan*
+*Help us collect audio resources for Saramaccan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saramaccan*
+*Help us collect video resources for Saramaccan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

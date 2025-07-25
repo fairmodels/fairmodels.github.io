@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gbe, Eastern Xwla
+title: Eastern Xwla Gbe
 parent: Languages
 ---
 
-# Gbe, Eastern Xwla (gbx)
+# Eastern Xwla Gbe (gbx)
 
 ## Overview
 
-**Language**: Gbe, Eastern Xwla  
+**Language**: Eastern Xwla Gbe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.56  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbe, Eastern Xwla*
+*Help us collect text resources for Eastern Xwla Gbe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbe, Eastern Xwla*
+*Help us collect audio resources for Eastern Xwla Gbe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbe, Eastern Xwla*
+*Help us collect video resources for Eastern Xwla Gbe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

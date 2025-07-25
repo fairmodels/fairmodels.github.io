@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shanenawa  
 **Region/Area**: South America, Americas  
 **Family**: Panoan  
-**Vitality Score**: -1.42  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: -1.42  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shanenawa*
+*Help us collect text resources for Shanenawa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shanenawa*
+*Help us collect audio resources for Shanenawa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shanenawa*
+*Help us collect video resources for Shanenawa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

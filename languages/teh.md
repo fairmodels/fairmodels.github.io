@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tehuelche  
 **Region/Area**: South America, Americas  
 **Family**: Chon  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tehuelche*
+*Help us collect text resources for Tehuelche*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tehuelche*
+*Help us collect audio resources for Tehuelche*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tehuelche*
+*Help us collect video resources for Tehuelche*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

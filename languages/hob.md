@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mari  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.08  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mari*
+*Help us collect text resources for Mari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mari*
+*Help us collect audio resources for Mari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mari*
+*Help us collect video resources for Mari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Yautepec
+title: Yautepec Zapotec
 parent: Languages
 ---
 
-# Zapotec, Yautepec (zpb)
+# Yautepec Zapotec (zpb)
 
 ## Overview
 
-**Language**: Zapotec, Yautepec  
+**Language**: Yautepec Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.54  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: -0.54  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Yautepec*
+*Help us collect text resources for Yautepec Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Yautepec*
+*Help us collect audio resources for Yautepec Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Yautepec*
+*Help us collect video resources for Yautepec Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

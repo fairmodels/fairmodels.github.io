@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nafri  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: East Bird’s Head-Sentani  
-**Vitality Score**: -0.62  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.62  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nafri*
+*Help us collect text resources for Nafri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nafri*
+*Help us collect audio resources for Nafri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nafri*
+*Help us collect video resources for Nafri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

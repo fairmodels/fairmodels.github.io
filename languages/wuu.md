@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Wu
+title: Wu Chinese
 parent: Languages
 ---
 
-# Chinese, Wu (wuu)
+# Wu Chinese (wuu)
 
 ## Overview
 
-**Language**: Chinese, Wu  
+**Language**: Wu Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.70  
-**Digitality Score**: 4.32  
+**Grassroots Presence (z-score)**: 1.70  
+**Web Presence (z-score)**: 4.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Wu*
+*Help us collect text resources for Wu Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Wu*
+*Help us collect audio resources for Wu Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Wu*
+*Help us collect video resources for Wu Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

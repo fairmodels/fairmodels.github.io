@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wasembo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.08  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wasembo*
+*Help us collect text resources for Wasembo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wasembo*
+*Help us collect audio resources for Wasembo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wasembo*
+*Help us collect video resources for Wasembo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

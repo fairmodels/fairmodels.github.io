@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Asuri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.19  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Asuri*
+*Help us collect text resources for Asuri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Asuri*
+*Help us collect audio resources for Asuri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Asuri*
+*Help us collect video resources for Asuri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

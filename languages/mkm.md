@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Moklen  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.56  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.56  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Moklen*
+*Help us collect text resources for Moklen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Moklen*
+*Help us collect audio resources for Moklen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Moklen*
+*Help us collect video resources for Moklen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

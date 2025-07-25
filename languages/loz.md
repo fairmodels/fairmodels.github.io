@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lozi  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.73  
-**Digitality Score**: 0.83  
+**Grassroots Presence (z-score)**: 1.73  
+**Web Presence (z-score)**: 0.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lozi*
+*Help us collect text resources for Lozi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lozi*
+*Help us collect audio resources for Lozi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lozi*
+*Help us collect video resources for Lozi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

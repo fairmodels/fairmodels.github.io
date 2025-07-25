@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Triqui, San Martín Itunyoso
+title: San Martín Itunyoso Triqui
 parent: Languages
 ---
 
-# Triqui, San Martín Itunyoso (trq)
+# San Martín Itunyoso Triqui (trq)
 
 ## Overview
 
-**Language**: Triqui, San Martín Itunyoso  
+**Language**: San Martín Itunyoso Triqui  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.08  
-**Digitality Score**: 0.45  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: 0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Triqui, San Martín Itunyoso*
+*Help us collect text resources for San Martín Itunyoso Triqui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Triqui, San Martín Itunyoso*
+*Help us collect audio resources for San Martín Itunyoso Triqui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Triqui, San Martín Itunyoso*
+*Help us collect video resources for San Martín Itunyoso Triqui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Herero  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.27  
-**Digitality Score**: 1.54  
+**Grassroots Presence (z-score)**: 1.27  
+**Web Presence (z-score)**: 1.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Herero*
+*Help us collect text resources for Herero*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Herero*
+*Help us collect audio resources for Herero*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Herero*
+*Help us collect video resources for Herero*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

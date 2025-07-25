@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yuqui  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -0.62  
-**Digitality Score**: -0.36  
+**Grassroots Presence (z-score)**: -0.62  
+**Web Presence (z-score)**: -0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yuqui*
+*Help us collect text resources for Yuqui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yuqui*
+*Help us collect audio resources for Yuqui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yuqui*
+*Help us collect video resources for Yuqui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

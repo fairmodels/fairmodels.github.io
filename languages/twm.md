@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Monpa, Tawang
+title: Tawang Monpa
 parent: Languages
 ---
 
-# Monpa, Tawang (twm)
+# Tawang Monpa (twm)
 
 ## Overview
 
-**Language**: Monpa, Tawang  
+**Language**: Tawang Monpa  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.24  
-**Digitality Score**: 0.31  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: 0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Monpa, Tawang*
+*Help us collect text resources for Tawang Monpa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Monpa, Tawang*
+*Help us collect audio resources for Tawang Monpa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Monpa, Tawang*
+*Help us collect video resources for Tawang Monpa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Baba
+title: Baba Malay
 parent: Languages
 ---
 
-# Malay, Baba (mbf)
+# Baba Malay (mbf)
 
 ## Overview
 
-**Language**: Malay, Baba  
+**Language**: Baba Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: -0.37  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Baba*
+*Help us collect text resources for Baba Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Baba*
+*Help us collect audio resources for Baba Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Baba*
+*Help us collect video resources for Baba Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Magahi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.21  
-**Digitality Score**: 2.09  
+**Grassroots Presence (z-score)**: 1.21  
+**Web Presence (z-score)**: 2.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Magahi*
+*Help us collect text resources for Magahi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Magahi*
+*Help us collect audio resources for Magahi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Magahi*
+*Help us collect video resources for Magahi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lo-Toga  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.28  
-**Digitality Score**: 0.22  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: 0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lo-Toga*
+*Help us collect text resources for Lo-Toga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lo-Toga*
+*Help us collect audio resources for Lo-Toga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lo-Toga*
+*Help us collect video resources for Lo-Toga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

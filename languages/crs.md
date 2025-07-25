@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Seychelles French Creole  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 2.09  
-**Digitality Score**: 1.96  
+**Grassroots Presence (z-score)**: 2.09  
+**Web Presence (z-score)**: 1.96  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Seychelles French Creole*
+*Help us collect text resources for Seychelles French Creole*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Seychelles French Creole*
+*Help us collect audio resources for Seychelles French Creole*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Seychelles French Creole*
+*Help us collect video resources for Seychelles French Creole*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

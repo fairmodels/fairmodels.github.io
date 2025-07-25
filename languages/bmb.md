@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bembe  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.07  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 1.07  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bembe*
+*Help us collect text resources for Bembe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bembe*
+*Help us collect audio resources for Bembe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bembe*
+*Help us collect video resources for Bembe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

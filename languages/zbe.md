@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Berawan, East
+title: East Berawan
 parent: Languages
 ---
 
-# Berawan, East (zbe)
+# East Berawan (zbe)
 
 ## Overview
 
-**Language**: Berawan, East  
+**Language**: East Berawan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.20  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.20  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Berawan, East*
+*Help us collect text resources for East Berawan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Berawan, East*
+*Help us collect audio resources for East Berawan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Berawan, East*
+*Help us collect video resources for East Berawan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

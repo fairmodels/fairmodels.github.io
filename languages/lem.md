@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nomaande  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.45  
-**Digitality Score**: 0.82  
+**Grassroots Presence (z-score)**: 0.45  
+**Web Presence (z-score)**: 0.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nomaande*
+*Help us collect text resources for Nomaande*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nomaande*
+*Help us collect audio resources for Nomaande*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nomaande*
+*Help us collect video resources for Nomaande*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

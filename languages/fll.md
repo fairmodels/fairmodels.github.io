@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fali, North
+title: North Fali
 parent: Languages
 ---
 
-# Fali, North (fll)
+# North Fali (fll)
 
 ## Overview
 
-**Language**: Fali, North  
+**Language**: North Fali  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.14  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: 0.14  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fali, North*
+*Help us collect text resources for North Fali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fali, North*
+*Help us collect audio resources for North Fali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fali, North*
+*Help us collect video resources for North Fali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tregami  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.10  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tregami*
+*Help us collect text resources for Tregami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tregami*
+*Help us collect audio resources for Tregami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tregami*
+*Help us collect video resources for Tregami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Danish  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.62  
-**Digitality Score**: 5.17  
+**Grassroots Presence (z-score)**: 2.62  
+**Web Presence (z-score)**: 5.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Danish*
+*Help us collect text resources for Danish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Danish*
+*Help us collect audio resources for Danish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Danish*
+*Help us collect video resources for Danish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

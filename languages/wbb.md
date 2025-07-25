@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wabo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.32  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.32  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wabo*
+*Help us collect text resources for Wabo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wabo*
+*Help us collect audio resources for Wabo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wabo*
+*Help us collect video resources for Wabo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

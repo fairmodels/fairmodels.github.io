@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malagasy, Tandroy-Mahafaly
+title: Tandroy-Mahafaly Malagasy
 parent: Languages
 ---
 
-# Malagasy, Tandroy-Mahafaly (tdx)
+# Tandroy-Mahafaly Malagasy (tdx)
 
 ## Overview
 
-**Language**: Malagasy, Tandroy-Mahafaly  
+**Language**: Tandroy-Mahafaly Malagasy  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Austronesian  
-**Vitality Score**: 0.85  
-**Digitality Score**: 1.27  
+**Grassroots Presence (z-score)**: 0.85  
+**Web Presence (z-score)**: 1.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malagasy, Tandroy-Mahafaly*
+*Help us collect text resources for Tandroy-Mahafaly Malagasy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malagasy, Tandroy-Mahafaly*
+*Help us collect audio resources for Tandroy-Mahafaly Malagasy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malagasy, Tandroy-Mahafaly*
+*Help us collect video resources for Tandroy-Mahafaly Malagasy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

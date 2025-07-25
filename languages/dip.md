@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dinka, Northeastern
+title: Northeastern Dinka
 parent: Languages
 ---
 
-# Dinka, Northeastern (dip)
+# Northeastern Dinka (dip)
 
 ## Overview
 
-**Language**: Dinka, Northeastern  
+**Language**: Northeastern Dinka  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.12  
-**Digitality Score**: 1.70  
+**Grassroots Presence (z-score)**: 1.12  
+**Web Presence (z-score)**: 1.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dinka, Northeastern*
+*Help us collect text resources for Northeastern Dinka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dinka, Northeastern*
+*Help us collect audio resources for Northeastern Dinka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dinka, Northeastern*
+*Help us collect video resources for Northeastern Dinka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Danuwar  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Danuwar*
+*Help us collect text resources for Danuwar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Danuwar*
+*Help us collect audio resources for Danuwar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Danuwar*
+*Help us collect video resources for Danuwar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

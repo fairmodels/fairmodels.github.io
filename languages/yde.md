@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yangum Dey  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.43  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: -0.43  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yangum Dey*
+*Help us collect text resources for Yangum Dey*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yangum Dey*
+*Help us collect audio resources for Yangum Dey*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yangum Dey*
+*Help us collect video resources for Yangum Dey*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Matipuhy  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: -0.94  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.94  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Matipuhy*
+*Help us collect text resources for Matipuhy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Matipuhy*
+*Help us collect audio resources for Matipuhy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Matipuhy*
+*Help us collect video resources for Matipuhy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

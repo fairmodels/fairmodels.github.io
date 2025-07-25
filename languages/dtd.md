@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ditidaht  
 **Region/Area**: Northern America, Americas  
 **Family**: Wakashan  
-**Vitality Score**: -1.45  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: -1.45  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ditidaht*
+*Help us collect text resources for Ditidaht*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ditidaht*
+*Help us collect audio resources for Ditidaht*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ditidaht*
+*Help us collect video resources for Ditidaht*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

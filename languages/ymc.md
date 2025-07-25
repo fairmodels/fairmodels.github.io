@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Muji, Southern
+title: Southern Muji
 parent: Languages
 ---
 
-# Muji, Southern (ymc)
+# Southern Muji (ymc)
 
 ## Overview
 
-**Language**: Muji, Southern  
+**Language**: Southern Muji  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.36  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.36  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Muji, Southern*
+*Help us collect text resources for Southern Muji*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Muji, Southern*
+*Help us collect audio resources for Southern Muji*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Muji, Southern*
+*Help us collect video resources for Southern Muji*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

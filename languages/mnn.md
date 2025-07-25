@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mnong, Southern
+title: Southern Mnong
 parent: Languages
 ---
 
-# Mnong, Southern (mnn)
+# Southern Mnong (mnn)
 
 ## Overview
 
-**Language**: Mnong, Southern  
+**Language**: Southern Mnong  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.38  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mnong, Southern*
+*Help us collect text resources for Southern Mnong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mnong, Southern*
+*Help us collect audio resources for Southern Mnong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mnong, Southern*
+*Help us collect video resources for Southern Mnong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

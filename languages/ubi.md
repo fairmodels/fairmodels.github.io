@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ubi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -0.20  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -0.20  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ubi*
+*Help us collect text resources for Ubi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ubi*
+*Help us collect audio resources for Ubi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ubi*
+*Help us collect video resources for Ubi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

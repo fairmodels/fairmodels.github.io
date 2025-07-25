@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Päri  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.81  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: 0.81  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Päri*
+*Help us collect text resources for Päri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Päri*
+*Help us collect audio resources for Päri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Päri*
+*Help us collect video resources for Päri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

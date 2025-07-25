@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gondi, Adilabad
+title: Adilabad Gondi
 parent: Languages
 ---
 
-# Gondi, Adilabad (wsg)
+# Adilabad Gondi (wsg)
 
 ## Overview
 
-**Language**: Gondi, Adilabad  
+**Language**: Adilabad Gondi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 1.30  
-**Digitality Score**: 0.47  
+**Grassroots Presence (z-score)**: 1.30  
+**Web Presence (z-score)**: 0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gondi, Adilabad*
+*Help us collect text resources for Adilabad Gondi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gondi, Adilabad*
+*Help us collect audio resources for Adilabad Gondi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gondi, Adilabad*
+*Help us collect video resources for Adilabad Gondi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

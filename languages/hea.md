@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Northern Qiandong
+title: Northern Qiandong Miao
 parent: Languages
 ---
 
-# Miao, Northern Qiandong (hea)
+# Northern Qiandong Miao (hea)
 
 ## Overview
 
-**Language**: Miao, Northern Qiandong  
+**Language**: Northern Qiandong Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.69  
-**Digitality Score**: 1.40  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 1.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Northern Qiandong*
+*Help us collect text resources for Northern Qiandong Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Northern Qiandong*
+*Help us collect audio resources for Northern Qiandong Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Northern Qiandong*
+*Help us collect video resources for Northern Qiandong Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bullom So  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.05  
-**Digitality Score**: -0.65  
+**Grassroots Presence (z-score)**: 0.05  
+**Web Presence (z-score)**: -0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bullom So*
+*Help us collect text resources for Bullom So*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bullom So*
+*Help us collect audio resources for Bullom So*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bullom So*
+*Help us collect video resources for Bullom So*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

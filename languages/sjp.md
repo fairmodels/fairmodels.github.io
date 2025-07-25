@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Surjapuri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.24  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: 1.24  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Surjapuri*
+*Help us collect text resources for Surjapuri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Surjapuri*
+*Help us collect audio resources for Surjapuri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Surjapuri*
+*Help us collect video resources for Surjapuri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

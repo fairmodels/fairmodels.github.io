@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bikol, Libon
+title: Libon Bikol
 parent: Languages
 ---
 
-# Bikol, Libon (lbl)
+# Libon Bikol (lbl)
 
 ## Overview
 
-**Language**: Bikol, Libon  
+**Language**: Libon Bikol  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.48  
-**Digitality Score**: 0.72  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: 0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bikol, Libon*
+*Help us collect text resources for Libon Bikol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bikol, Libon*
+*Help us collect audio resources for Libon Bikol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bikol, Libon*
+*Help us collect video resources for Libon Bikol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

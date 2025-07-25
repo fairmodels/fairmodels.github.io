@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Judeo-Yemeni
+title: Judeo-Yemeni Arabic
 parent: Languages
 ---
 
-# Arabic, Judeo-Yemeni (jye)
+# Judeo-Yemeni Arabic (jye)
 
 ## Overview
 
-**Language**: Arabic, Judeo-Yemeni  
+**Language**: Judeo-Yemeni Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Judeo-Yemeni*
+*Help us collect text resources for Judeo-Yemeni Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Judeo-Yemeni*
+*Help us collect audio resources for Judeo-Yemeni Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Judeo-Yemeni*
+*Help us collect video resources for Judeo-Yemeni Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

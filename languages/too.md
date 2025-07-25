@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Totonac, Xicotepec de Juárez
+title: Xicotepec de Juárez Totonac
 parent: Languages
 ---
 
-# Totonac, Xicotepec de Juárez (too)
+# Xicotepec de Juárez Totonac (too)
 
 ## Overview
 
-**Language**: Totonac, Xicotepec de Juárez  
+**Language**: Xicotepec de Juárez Totonac  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: -0.23  
-**Digitality Score**: 0.62  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: 0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Totonac, Xicotepec de Juárez*
+*Help us collect text resources for Xicotepec de Juárez Totonac*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Totonac, Xicotepec de Juárez*
+*Help us collect audio resources for Xicotepec de Juárez Totonac*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Totonac, Xicotepec de Juárez*
+*Help us collect video resources for Xicotepec de Juárez Totonac*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

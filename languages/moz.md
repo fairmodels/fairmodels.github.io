@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mukulu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.57  
-**Digitality Score**: 0.38  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: 0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mukulu*
+*Help us collect text resources for Mukulu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mukulu*
+*Help us collect audio resources for Mukulu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mukulu*
+*Help us collect video resources for Mukulu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

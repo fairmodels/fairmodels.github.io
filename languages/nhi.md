@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla
+title: Zacatlán-Ahuacatlán-Tepetzintla Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla (nhi)
+# Zacatlán-Ahuacatlán-Tepetzintla Nahuatl (nhi)
 
 ## Overview
 
-**Language**: Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla  
+**Language**: Zacatlán-Ahuacatlán-Tepetzintla Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.65  
-**Digitality Score**: 1.16  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 1.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla*
+*Help us collect text resources for Zacatlán-Ahuacatlán-Tepetzintla Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla*
+*Help us collect audio resources for Zacatlán-Ahuacatlán-Tepetzintla Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla*
+*Help us collect video resources for Zacatlán-Ahuacatlán-Tepetzintla Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

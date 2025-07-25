@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tem  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.65  
-**Digitality Score**: 0.79  
+**Grassroots Presence (z-score)**: 1.65  
+**Web Presence (z-score)**: 0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tem*
+*Help us collect text resources for Tem*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tem*
+*Help us collect audio resources for Tem*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tem*
+*Help us collect video resources for Tem*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

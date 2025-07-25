@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kerinci  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.50  
-**Digitality Score**: 1.85  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: 1.85  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kerinci*
+*Help us collect text resources for Kerinci*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kerinci*
+*Help us collect audio resources for Kerinci*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kerinci*
+*Help us collect video resources for Kerinci*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

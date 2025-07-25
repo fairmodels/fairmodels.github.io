@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Southern Qiandong
+title: Southern Qiandong Miao
 parent: Languages
 ---
 
-# Miao, Southern Qiandong (hms)
+# Southern Qiandong Miao (hms)
 
 ## Overview
 
-**Language**: Miao, Southern Qiandong  
+**Language**: Southern Qiandong Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.73  
-**Digitality Score**: 1.13  
+**Grassroots Presence (z-score)**: 0.73  
+**Web Presence (z-score)**: 1.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Southern Qiandong*
+*Help us collect text resources for Southern Qiandong Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Southern Qiandong*
+*Help us collect audio resources for Southern Qiandong Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Southern Qiandong*
+*Help us collect video resources for Southern Qiandong Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

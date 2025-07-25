@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mnong, Eastern
+title: Eastern Mnong
 parent: Languages
 ---
 
-# Mnong, Eastern (mng)
+# Eastern Mnong (mng)
 
 ## Overview
 
-**Language**: Mnong, Eastern  
+**Language**: Eastern Mnong  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.38  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mnong, Eastern*
+*Help us collect text resources for Eastern Mnong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mnong, Eastern*
+*Help us collect audio resources for Eastern Mnong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mnong, Eastern*
+*Help us collect video resources for Eastern Mnong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

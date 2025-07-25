@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixe, Juquila
+title: Juquila Mixe
 parent: Languages
 ---
 
-# Mixe, Juquila (mxq)
+# Juquila Mixe (mxq)
 
 ## Overview
 
-**Language**: Mixe, Juquila  
+**Language**: Juquila Mixe  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.40  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixe, Juquila*
+*Help us collect text resources for Juquila Mixe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixe, Juquila*
+*Help us collect audio resources for Juquila Mixe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixe, Juquila*
+*Help us collect video resources for Juquila Mixe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

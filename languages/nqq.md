@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Chen-Kayu
+title: Chen-Kayu Naga
 parent: Languages
 ---
 
-# Naga, Chen-Kayu (nqq)
+# Chen-Kayu Naga (nqq)
 
 ## Overview
 
-**Language**: Naga, Chen-Kayu  
+**Language**: Chen-Kayu Naga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.37  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Chen-Kayu*
+*Help us collect text resources for Chen-Kayu Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Chen-Kayu*
+*Help us collect audio resources for Chen-Kayu Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Chen-Kayu*
+*Help us collect video resources for Chen-Kayu Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

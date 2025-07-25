@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Javindo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Javindo*
+*Help us collect text resources for Javindo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Javindo*
+*Help us collect audio resources for Javindo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Javindo*
+*Help us collect video resources for Javindo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

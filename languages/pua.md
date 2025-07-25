@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Purepecha, Western Highland
+title: Western Highland Purepecha
 parent: Languages
 ---
 
-# Purepecha, Western Highland (pua)
+# Western Highland Purepecha (pua)
 
 ## Overview
 
-**Language**: Purepecha, Western Highland  
+**Language**: Western Highland Purepecha  
 **Region/Area**: Central America, Americas  
 **Family**: Tarascan  
-**Vitality Score**: 0.91  
-**Digitality Score**: 0.00  
+**Grassroots Presence (z-score)**: 0.91  
+**Web Presence (z-score)**: 0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Purepecha, Western Highland*
+*Help us collect text resources for Western Highland Purepecha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Purepecha, Western Highland*
+*Help us collect audio resources for Western Highland Purepecha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Purepecha, Western Highland*
+*Help us collect video resources for Western Highland Purepecha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

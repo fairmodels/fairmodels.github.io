@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nago, Northern
+title: Northern Nago
 parent: Languages
 ---
 
-# Nago, Northern (xkb)
+# Northern Nago (xkb)
 
 ## Overview
 
-**Language**: Nago, Northern  
+**Language**: Northern Nago  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.61  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: 0.61  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nago, Northern*
+*Help us collect text resources for Northern Nago*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nago, Northern*
+*Help us collect audio resources for Northern Nago*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nago, Northern*
+*Help us collect video resources for Northern Nago*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

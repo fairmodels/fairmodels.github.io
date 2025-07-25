@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kalabra  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: West Papuan  
-**Vitality Score**: -0.22  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.22  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalabra*
+*Help us collect text resources for Kalabra*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalabra*
+*Help us collect audio resources for Kalabra*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalabra*
+*Help us collect video resources for Kalabra*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

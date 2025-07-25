@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Ngawn
+title: Ngawn Chin
 parent: Languages
 ---
 
-# Chin, Ngawn (cnw)
+# Ngawn Chin (cnw)
 
 ## Overview
 
-**Language**: Chin, Ngawn  
+**Language**: Ngawn Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.63  
-**Digitality Score**: 0.22  
+**Grassroots Presence (z-score)**: 0.63  
+**Web Presence (z-score)**: 0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Ngawn*
+*Help us collect text resources for Ngawn Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Ngawn*
+*Help us collect audio resources for Ngawn Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Ngawn*
+*Help us collect video resources for Ngawn Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

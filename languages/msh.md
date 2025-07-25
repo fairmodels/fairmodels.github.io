@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malagasy, Masikoro
+title: Masikoro Malagasy
 parent: Languages
 ---
 
-# Malagasy, Masikoro (msh)
+# Masikoro Malagasy (msh)
 
 ## Overview
 
-**Language**: Malagasy, Masikoro  
+**Language**: Masikoro Malagasy  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Austronesian  
-**Vitality Score**: 0.74  
-**Digitality Score**: 0.66  
+**Grassroots Presence (z-score)**: 0.74  
+**Web Presence (z-score)**: 0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malagasy, Masikoro*
+*Help us collect text resources for Masikoro Malagasy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malagasy, Masikoro*
+*Help us collect audio resources for Masikoro Malagasy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malagasy, Masikoro*
+*Help us collect video resources for Masikoro Malagasy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sanapaná  
 **Region/Area**: South America, Americas  
 **Family**: Mascoyan  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.33  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sanapaná*
+*Help us collect text resources for Sanapaná*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sanapaná*
+*Help us collect audio resources for Sanapaná*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sanapaná*
+*Help us collect video resources for Sanapaná*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

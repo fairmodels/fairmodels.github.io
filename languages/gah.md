@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Alekano  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.10  
-**Digitality Score**: 0.98  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: 0.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Alekano*
+*Help us collect text resources for Alekano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Alekano*
+*Help us collect audio resources for Alekano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Alekano*
+*Help us collect video resources for Alekano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

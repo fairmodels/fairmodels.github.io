@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fulfulde, Adamawa
+title: Adamawa Fulfulde
 parent: Languages
 ---
 
-# Fulfulde, Adamawa (fub)
+# Adamawa Fulfulde (fub)
 
 ## Overview
 
-**Language**: Fulfulde, Adamawa  
+**Language**: Adamawa Fulfulde  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.02  
-**Digitality Score**: 1.57  
+**Grassroots Presence (z-score)**: 2.02  
+**Web Presence (z-score)**: 1.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fulfulde, Adamawa*
+*Help us collect text resources for Adamawa Fulfulde*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fulfulde, Adamawa*
+*Help us collect audio resources for Adamawa Fulfulde*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fulfulde, Adamawa*
+*Help us collect video resources for Adamawa Fulfulde*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

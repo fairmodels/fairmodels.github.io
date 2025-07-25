@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Berta  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.33  
-**Digitality Score**: 0.31  
+**Grassroots Presence (z-score)**: 1.33  
+**Web Presence (z-score)**: 0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Berta*
+*Help us collect text resources for Berta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Berta*
+*Help us collect audio resources for Berta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Berta*
+*Help us collect video resources for Berta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

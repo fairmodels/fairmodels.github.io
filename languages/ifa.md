@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ifugao, Amganad
+title: Amganad Ifugao
 parent: Languages
 ---
 
-# Ifugao, Amganad (ifa)
+# Amganad Ifugao (ifa)
 
 ## Overview
 
-**Language**: Ifugao, Amganad  
+**Language**: Amganad Ifugao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.68  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: 0.68  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ifugao, Amganad*
+*Help us collect text resources for Amganad Ifugao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ifugao, Amganad*
+*Help us collect audio resources for Amganad Ifugao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ifugao, Amganad*
+*Help us collect video resources for Amganad Ifugao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

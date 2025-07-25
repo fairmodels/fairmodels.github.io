@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tatar  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: 2.28  
-**Digitality Score**: 3.71  
+**Grassroots Presence (z-score)**: 2.28  
+**Web Presence (z-score)**: 3.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tatar*
+*Help us collect text resources for Tatar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tatar*
+*Help us collect audio resources for Tatar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tatar*
+*Help us collect video resources for Tatar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

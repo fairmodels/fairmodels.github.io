@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pumi, Northern
+title: Northern Pumi
 parent: Languages
 ---
 
-# Pumi, Northern (pmi)
+# Northern Pumi (pmi)
 
 ## Overview
 
-**Language**: Pumi, Northern  
+**Language**: Northern Pumi  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.40  
-**Digitality Score**: 0.29  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: 0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pumi, Northern*
+*Help us collect text resources for Northern Pumi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pumi, Northern*
+*Help us collect audio resources for Northern Pumi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pumi, Northern*
+*Help us collect video resources for Northern Pumi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ankave  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.00  
-**Digitality Score**: 0.36  
+**Grassroots Presence (z-score)**: -0.00  
+**Web Presence (z-score)**: 0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ankave*
+*Help us collect text resources for Ankave*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ankave*
+*Help us collect audio resources for Ankave*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ankave*
+*Help us collect video resources for Ankave*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

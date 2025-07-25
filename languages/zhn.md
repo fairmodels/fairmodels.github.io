@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Nong
+title: Nong Zhuang
 parent: Languages
 ---
 
-# Zhuang, Nong (zhn)
+# Nong Zhuang (zhn)
 
 ## Overview
 
-**Language**: Zhuang, Nong  
+**Language**: Nong Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 1.68  
-**Digitality Score**: 0.31  
+**Grassroots Presence (z-score)**: 1.68  
+**Web Presence (z-score)**: 0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Nong*
+*Help us collect text resources for Nong Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Nong*
+*Help us collect audio resources for Nong Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Nong*
+*Help us collect video resources for Nong Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

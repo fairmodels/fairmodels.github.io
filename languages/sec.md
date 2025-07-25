@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sechelt  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -1.51  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: -1.51  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sechelt*
+*Help us collect text resources for Sechelt*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sechelt*
+*Help us collect audio resources for Sechelt*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sechelt*
+*Help us collect video resources for Sechelt*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

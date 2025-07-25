@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Island Carib  
 **Region/Area**: Caribbean, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Island Carib*
+*Help us collect text resources for Island Carib*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Island Carib*
+*Help us collect audio resources for Island Carib*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Island Carib*
+*Help us collect video resources for Island Carib*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

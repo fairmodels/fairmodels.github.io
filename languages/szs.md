@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Solomon Islands Sign Language  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sign language  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Solomon Islands Sign Language*
+*Help us collect text resources for Solomon Islands Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Solomon Islands Sign Language*
+*Help us collect audio resources for Solomon Islands Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Solomon Islands Sign Language*
+*Help us collect video resources for Solomon Islands Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

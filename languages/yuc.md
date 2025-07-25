@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yuchi  
 **Region/Area**: Northern America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -1.36  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: -1.36  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yuchi*
+*Help us collect text resources for Yuchi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yuchi*
+*Help us collect audio resources for Yuchi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yuchi*
+*Help us collect video resources for Yuchi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

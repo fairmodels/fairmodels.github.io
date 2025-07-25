@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mískito  
 **Region/Area**: Central America, Americas  
 **Family**: Misumalpan  
-**Vitality Score**: 0.89  
-**Digitality Score**: 1.42  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 1.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mískito*
+*Help us collect text resources for Mískito*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mískito*
+*Help us collect audio resources for Mískito*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mískito*
+*Help us collect video resources for Mískito*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

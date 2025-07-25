@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kwer  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.50  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.50  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kwer*
+*Help us collect text resources for Kwer*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kwer*
+*Help us collect audio resources for Kwer*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kwer*
+*Help us collect video resources for Kwer*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

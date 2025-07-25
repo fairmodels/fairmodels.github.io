@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sierra Leone Sign Language  
 **Region/Area**: Western Africa, Africa  
 **Family**: Sign language  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sierra Leone Sign Language*
+*Help us collect text resources for Sierra Leone Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sierra Leone Sign Language*
+*Help us collect audio resources for Sierra Leone Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sierra Leone Sign Language*
+*Help us collect video resources for Sierra Leone Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

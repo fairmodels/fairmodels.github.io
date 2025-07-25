@@ -11,20 +11,20 @@ parent: Languages
 **Language**: So  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.17  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for So*
+*Help us collect text resources for So*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for So*
+*Help us collect audio resources for So*
 
 ### Video Resources
-*Coming soon - help us collect video resources for So*
+*Help us collect video resources for So*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

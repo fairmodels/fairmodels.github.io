@@ -11,20 +11,20 @@ parent: Languages
 **Language**: ǀXam  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Tuu  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.72  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for ǀXam*
+*Help us collect text resources for ǀXam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for ǀXam*
+*Help us collect audio resources for ǀXam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for ǀXam*
+*Help us collect video resources for ǀXam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Biate  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.63  
-**Digitality Score**: 0.21  
+**Grassroots Presence (z-score)**: 0.63  
+**Web Presence (z-score)**: 0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Biate*
+*Help us collect text resources for Biate*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Biate*
+*Help us collect audio resources for Biate*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Biate*
+*Help us collect video resources for Biate*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

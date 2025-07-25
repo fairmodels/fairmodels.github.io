@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lomwe, Malawi
+title: Malawi Lomwe
 parent: Languages
 ---
 
-# Lomwe, Malawi (lon)
+# Malawi Lomwe (lon)
 
 ## Overview
 
-**Language**: Lomwe, Malawi  
+**Language**: Malawi Lomwe  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.31  
-**Digitality Score**: 0.28  
+**Grassroots Presence (z-score)**: 1.31  
+**Web Presence (z-score)**: 0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lomwe, Malawi*
+*Help us collect text resources for Malawi Lomwe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lomwe, Malawi*
+*Help us collect audio resources for Malawi Lomwe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lomwe, Malawi*
+*Help us collect video resources for Malawi Lomwe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

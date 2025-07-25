@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Yosondúa
+title: Yosondúa Mixtec
 parent: Languages
 ---
 
-# Mixtec, Yosondúa (mpm)
+# Yosondúa Mixtec (mpm)
 
 ## Overview
 
-**Language**: Mixtec, Yosondúa  
+**Language**: Yosondúa Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.12  
-**Digitality Score**: 0.70  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: 0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Yosondúa*
+*Help us collect text resources for Yosondúa Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Yosondúa*
+*Help us collect audio resources for Yosondúa Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Yosondúa*
+*Help us collect video resources for Yosondúa Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

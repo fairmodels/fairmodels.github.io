@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Misak  
 **Region/Area**: South America, Americas  
 **Family**: Paezan  
-**Vitality Score**: 0.65  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Misak*
+*Help us collect text resources for Misak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Misak*
+*Help us collect audio resources for Misak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Misak*
+*Help us collect video resources for Misak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mlap  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Nimboran  
-**Vitality Score**: -0.99  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.99  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mlap*
+*Help us collect text resources for Mlap*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mlap*
+*Help us collect audio resources for Mlap*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mlap*
+*Help us collect video resources for Mlap*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

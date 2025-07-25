@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bete-Bendi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.84  
-**Digitality Score**: 0.41  
+**Grassroots Presence (z-score)**: 0.84  
+**Web Presence (z-score)**: 0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bete-Bendi*
+*Help us collect text resources for Bete-Bendi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bete-Bendi*
+*Help us collect audio resources for Bete-Bendi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bete-Bendi*
+*Help us collect video resources for Bete-Bendi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

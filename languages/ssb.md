@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sama, Southern
+title: Southern Sama
 parent: Languages
 ---
 
-# Sama, Southern (ssb)
+# Southern Sama (ssb)
 
 ## Overview
 
-**Language**: Sama, Southern  
+**Language**: Southern Sama  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.28  
-**Digitality Score**: 0.10  
+**Grassroots Presence (z-score)**: 1.28  
+**Web Presence (z-score)**: 0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sama, Southern*
+*Help us collect text resources for Southern Sama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sama, Southern*
+*Help us collect audio resources for Southern Sama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sama, Southern*
+*Help us collect video resources for Southern Sama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

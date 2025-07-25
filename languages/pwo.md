@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Karen, Pwo Western
+title: Pwo Western Karen
 parent: Languages
 ---
 
-# Karen, Pwo Western (pwo)
+# Pwo Western Karen (pwo)
 
 ## Overview
 
-**Language**: Karen, Pwo Western  
+**Language**: Pwo Western Karen  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.47  
-**Digitality Score**: 0.18  
+**Grassroots Presence (z-score)**: 0.47  
+**Web Presence (z-score)**: 0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karen, Pwo Western*
+*Help us collect text resources for Pwo Western Karen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karen, Pwo Western*
+*Help us collect audio resources for Pwo Western Karen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karen, Pwo Western*
+*Help us collect video resources for Pwo Western Karen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Anu-Khongso
+title: Anu-Khongso Chin
 parent: Languages
 ---
 
-# Chin, Anu-Khongso (anl)
+# Anu-Khongso Chin (anl)
 
 ## Overview
 
-**Language**: Chin, Anu-Khongso  
+**Language**: Anu-Khongso Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.09  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: -0.09  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Anu-Khongso*
+*Help us collect text resources for Anu-Khongso Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Anu-Khongso*
+*Help us collect audio resources for Anu-Khongso Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Anu-Khongso*
+*Help us collect video resources for Anu-Khongso Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Potawatomi  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -1.33  
-**Digitality Score**: 1.09  
+**Grassroots Presence (z-score)**: -1.33  
+**Web Presence (z-score)**: 1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Potawatomi*
+*Help us collect text resources for Potawatomi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Potawatomi*
+*Help us collect audio resources for Potawatomi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Potawatomi*
+*Help us collect video resources for Potawatomi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

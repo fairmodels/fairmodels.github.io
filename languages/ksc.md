@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kalinga, Southern
+title: Southern Kalinga
 parent: Languages
 ---
 
-# Kalinga, Southern (ksc)
+# Southern Kalinga (ksc)
 
 ## Overview
 
-**Language**: Kalinga, Southern  
+**Language**: Southern Kalinga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.58  
-**Digitality Score**: 0.37  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalinga, Southern*
+*Help us collect text resources for Southern Kalinga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalinga, Southern*
+*Help us collect audio resources for Southern Kalinga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalinga, Southern*
+*Help us collect video resources for Southern Kalinga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

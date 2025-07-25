@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wantoat  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.21  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wantoat*
+*Help us collect text resources for Wantoat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wantoat*
+*Help us collect audio resources for Wantoat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wantoat*
+*Help us collect video resources for Wantoat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

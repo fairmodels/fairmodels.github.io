@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tamang, Eastern Gorkha
+title: Eastern Gorkha Tamang
 parent: Languages
 ---
 
-# Tamang, Eastern Gorkha (tge)
+# Eastern Gorkha Tamang (tge)
 
 ## Overview
 
-**Language**: Tamang, Eastern Gorkha  
+**Language**: Eastern Gorkha Tamang  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.56  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tamang, Eastern Gorkha*
+*Help us collect text resources for Eastern Gorkha Tamang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tamang, Eastern Gorkha*
+*Help us collect audio resources for Eastern Gorkha Tamang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tamang, Eastern Gorkha*
+*Help us collect video resources for Eastern Gorkha Tamang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

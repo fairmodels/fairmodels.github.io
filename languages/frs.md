@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saxon, East Frisian Low
+title: East Frisian Low Saxon
 parent: Languages
 ---
 
-# Saxon, East Frisian Low (frs)
+# East Frisian Low Saxon (frs)
 
 ## Overview
 
-**Language**: Saxon, East Frisian Low  
+**Language**: East Frisian Low Saxon  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.30  
-**Digitality Score**: -0.58  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: -0.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saxon, East Frisian Low*
+*Help us collect text resources for East Frisian Low Saxon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saxon, East Frisian Low*
+*Help us collect audio resources for East Frisian Low Saxon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saxon, East Frisian Low*
+*Help us collect video resources for East Frisian Low Saxon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

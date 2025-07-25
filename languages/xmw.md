@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malagasy, Tsimihety
+title: Tsimihety Malagasy
 parent: Languages
 ---
 
-# Malagasy, Tsimihety (xmw)
+# Tsimihety Malagasy (xmw)
 
 ## Overview
 
-**Language**: Malagasy, Tsimihety  
+**Language**: Tsimihety Malagasy  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Austronesian  
-**Vitality Score**: 0.88  
-**Digitality Score**: 0.66  
+**Grassroots Presence (z-score)**: 0.88  
+**Web Presence (z-score)**: 0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malagasy, Tsimihety*
+*Help us collect text resources for Tsimihety Malagasy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malagasy, Tsimihety*
+*Help us collect audio resources for Tsimihety Malagasy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malagasy, Tsimihety*
+*Help us collect video resources for Tsimihety Malagasy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sio  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.40  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sio*
+*Help us collect text resources for Sio*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sio*
+*Help us collect audio resources for Sio*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sio*
+*Help us collect video resources for Sio*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

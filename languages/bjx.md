@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kalinga, Vanaw
+title: Vanaw Kalinga
 parent: Languages
 ---
 
-# Kalinga, Vanaw (bjx)
+# Vanaw Kalinga (bjx)
 
 ## Overview
 
-**Language**: Kalinga, Vanaw  
+**Language**: Vanaw Kalinga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.19  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalinga, Vanaw*
+*Help us collect text resources for Vanaw Kalinga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalinga, Vanaw*
+*Help us collect audio resources for Vanaw Kalinga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalinga, Vanaw*
+*Help us collect video resources for Vanaw Kalinga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

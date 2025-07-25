@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saami, Inari
+title: Inari Saami
 parent: Languages
 ---
 
-# Saami, Inari (smn)
+# Inari Saami (smn)
 
 ## Overview
 
-**Language**: Saami, Inari  
+**Language**: Inari Saami  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -0.33  
-**Digitality Score**: 1.49  
+**Grassroots Presence (z-score)**: -0.33  
+**Web Presence (z-score)**: 1.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saami, Inari*
+*Help us collect text resources for Inari Saami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saami, Inari*
+*Help us collect audio resources for Inari Saami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saami, Inari*
+*Help us collect video resources for Inari Saami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

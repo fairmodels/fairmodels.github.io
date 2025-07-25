@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Tejalapan
+title: Tejalapan Zapotec
 parent: Languages
 ---
 
-# Zapotec, Tejalapan (ztt)
+# Tejalapan Zapotec (ztt)
 
 ## Overview
 
-**Language**: Zapotec, Tejalapan  
+**Language**: Tejalapan Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -1.06  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: -1.06  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Tejalapan*
+*Help us collect text resources for Tejalapan Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Tejalapan*
+*Help us collect audio resources for Tejalapan Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Tejalapan*
+*Help us collect video resources for Tejalapan Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

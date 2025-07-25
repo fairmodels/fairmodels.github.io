@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Small Flowery
+title: Small Flowery Miao
 parent: Languages
 ---
 
-# Miao, Small Flowery (sfm)
+# Small Flowery Miao (sfm)
 
 ## Overview
 
-**Language**: Miao, Small Flowery  
+**Language**: Small Flowery Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.51  
-**Digitality Score**: 0.99  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 0.99  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Small Flowery*
+*Help us collect text resources for Small Flowery Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Small Flowery*
+*Help us collect audio resources for Small Flowery Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Small Flowery*
+*Help us collect video resources for Small Flowery Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

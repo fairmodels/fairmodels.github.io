@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Krahn, Western
+title: Western Krahn
 parent: Languages
 ---
 
-# Krahn, Western (krw)
+# Western Krahn (krw)
 
 ## Overview
 
-**Language**: Krahn, Western  
+**Language**: Western Krahn  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.86  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.86  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Krahn, Western*
+*Help us collect text resources for Western Krahn*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Krahn, Western*
+*Help us collect audio resources for Western Krahn*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Krahn, Western*
+*Help us collect video resources for Western Krahn*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

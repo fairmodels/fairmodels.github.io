@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bedjond  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.71  
-**Digitality Score**: 0.58  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: 0.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bedjond*
+*Help us collect text resources for Bedjond*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bedjond*
+*Help us collect audio resources for Bedjond*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bedjond*
+*Help us collect video resources for Bedjond*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

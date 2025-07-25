@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Luguru  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.55  
-**Digitality Score**: 0.51  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 0.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Luguru*
+*Help us collect text resources for Luguru*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Luguru*
+*Help us collect audio resources for Luguru*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Luguru*
+*Help us collect video resources for Luguru*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

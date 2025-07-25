@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mouk-Aria  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.43  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: 0.43  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mouk-Aria*
+*Help us collect text resources for Mouk-Aria*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mouk-Aria*
+*Help us collect audio resources for Mouk-Aria*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mouk-Aria*
+*Help us collect video resources for Mouk-Aria*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Omaha-Ponca  
 **Region/Area**: Northern America, Americas  
 **Family**: Siouan-Catawban  
-**Vitality Score**: -0.99  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: -0.99  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Omaha-Ponca*
+*Help us collect text resources for Omaha-Ponca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Omaha-Ponca*
+*Help us collect audio resources for Omaha-Ponca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Omaha-Ponca*
+*Help us collect video resources for Omaha-Ponca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

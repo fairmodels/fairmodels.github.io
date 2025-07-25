@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ayta, Abellen
+title: Abellen Ayta
 parent: Languages
 ---
 
-# Ayta, Abellen (abp)
+# Abellen Ayta (abp)
 
 ## Overview
 
-**Language**: Ayta, Abellen  
+**Language**: Abellen Ayta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.07  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ayta, Abellen*
+*Help us collect text resources for Abellen Ayta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ayta, Abellen*
+*Help us collect audio resources for Abellen Ayta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ayta, Abellen*
+*Help us collect video resources for Abellen Ayta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

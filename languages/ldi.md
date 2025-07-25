@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Laari  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.90  
-**Digitality Score**: 0.60  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: 0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Laari*
+*Help us collect text resources for Laari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Laari*
+*Help us collect audio resources for Laari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Laari*
+*Help us collect video resources for Laari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

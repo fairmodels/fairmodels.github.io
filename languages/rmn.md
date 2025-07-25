@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Romani, Balkan
+title: Balkan Romani
 parent: Languages
 ---
 
-# Romani, Balkan (rmn)
+# Balkan Romani (rmn)
 
 ## Overview
 
-**Language**: Romani, Balkan  
+**Language**: Balkan Romani  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.10  
-**Digitality Score**: 2.00  
+**Grassroots Presence (z-score)**: 1.10  
+**Web Presence (z-score)**: 2.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romani, Balkan*
+*Help us collect text resources for Balkan Romani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romani, Balkan*
+*Help us collect audio resources for Balkan Romani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romani, Balkan*
+*Help us collect video resources for Balkan Romani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

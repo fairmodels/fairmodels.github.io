@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Zuojiang
+title: Zuojiang Zhuang
 parent: Languages
 ---
 
-# Zhuang, Zuojiang (zzj)
+# Zuojiang Zhuang (zzj)
 
 ## Overview
 
-**Language**: Zhuang, Zuojiang  
+**Language**: Zuojiang Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.90  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Zuojiang*
+*Help us collect text resources for Zuojiang Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Zuojiang*
+*Help us collect audio resources for Zuojiang Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Zuojiang*
+*Help us collect video resources for Zuojiang Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

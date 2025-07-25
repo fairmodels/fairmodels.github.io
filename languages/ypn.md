@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Phowa, Ani
+title: Ani Phowa
 parent: Languages
 ---
 
-# Phowa, Ani (ypn)
+# Ani Phowa (ypn)
 
 ## Overview
 
-**Language**: Phowa, Ani  
+**Language**: Ani Phowa  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Phowa, Ani*
+*Help us collect text resources for Ani Phowa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Phowa, Ani*
+*Help us collect audio resources for Ani Phowa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Phowa, Ani*
+*Help us collect video resources for Ani Phowa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

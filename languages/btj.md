@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Bacanese
+title: Bacanese Malay
 parent: Languages
 ---
 
-# Malay, Bacanese (btj)
+# Bacanese Malay (btj)
 
 ## Overview
 
-**Language**: Malay, Bacanese  
+**Language**: Bacanese Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.47  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: -1.47  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Bacanese*
+*Help us collect text resources for Bacanese Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Bacanese*
+*Help us collect audio resources for Bacanese Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Bacanese*
+*Help us collect video resources for Bacanese Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

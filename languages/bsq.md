@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bassa  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.10  
-**Digitality Score**: 0.26  
+**Grassroots Presence (z-score)**: 1.10  
+**Web Presence (z-score)**: 0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bassa*
+*Help us collect text resources for Bassa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bassa*
+*Help us collect audio resources for Bassa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bassa*
+*Help us collect video resources for Bassa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

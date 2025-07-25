@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lakon  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.55  
-**Digitality Score**: 0.18  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lakon*
+*Help us collect text resources for Lakon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lakon*
+*Help us collect audio resources for Lakon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lakon*
+*Help us collect video resources for Lakon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

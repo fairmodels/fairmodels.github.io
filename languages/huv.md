@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Huave, San Mateo del Mar
+title: San Mateo del Mar Huave
 parent: Languages
 ---
 
-# Huave, San Mateo del Mar (huv)
+# San Mateo del Mar Huave (huv)
 
 ## Overview
 
-**Language**: Huave, San Mateo del Mar  
+**Language**: San Mateo del Mar Huave  
 **Region/Area**: Central America, Americas  
 **Family**: Huavean  
-**Vitality Score**: 0.56  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Huave, San Mateo del Mar*
+*Help us collect text resources for San Mateo del Mar Huave*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Huave, San Mateo del Mar*
+*Help us collect audio resources for San Mateo del Mar Huave*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Huave, San Mateo del Mar*
+*Help us collect video resources for San Mateo del Mar Huave*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

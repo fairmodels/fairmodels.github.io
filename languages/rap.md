@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rapa Nui  
 **Region/Area**: South America, Americas  
 **Family**: Austronesian  
-**Vitality Score**: -0.21  
-**Digitality Score**: 1.27  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: 1.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rapa Nui*
+*Help us collect text resources for Rapa Nui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rapa Nui*
+*Help us collect audio resources for Rapa Nui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rapa Nui*
+*Help us collect video resources for Rapa Nui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Puroik  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Puroik*
+*Help us collect text resources for Puroik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Puroik*
+*Help us collect audio resources for Puroik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Puroik*
+*Help us collect video resources for Puroik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

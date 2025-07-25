@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Motu, Hiri
+title: Hiri Motu
 parent: Languages
 ---
 
-# Motu, Hiri (hmo)
+# Hiri Motu (hmo)
 
 ## Overview
 
-**Language**: Motu, Hiri  
+**Language**: Hiri Motu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Pidgin  
-**Vitality Score**: 1.47  
-**Digitality Score**: 2.45  
+**Grassroots Presence (z-score)**: 1.47  
+**Web Presence (z-score)**: 2.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Motu, Hiri*
+*Help us collect text resources for Hiri Motu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Motu, Hiri*
+*Help us collect audio resources for Hiri Motu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Motu, Hiri*
+*Help us collect video resources for Hiri Motu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

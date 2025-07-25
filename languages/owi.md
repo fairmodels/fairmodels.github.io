@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Owiniga  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Arai (Left May)  
-**Vitality Score**: -0.35  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: -0.35  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Owiniga*
+*Help us collect text resources for Owiniga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Owiniga*
+*Help us collect audio resources for Owiniga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Owiniga*
+*Help us collect video resources for Owiniga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gusilay  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.35  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gusilay*
+*Help us collect text resources for Gusilay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gusilay*
+*Help us collect audio resources for Gusilay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gusilay*
+*Help us collect video resources for Gusilay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

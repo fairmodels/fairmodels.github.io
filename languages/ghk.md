@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Karen, Geko
+title: Geko Karen
 parent: Languages
 ---
 
-# Karen, Geko (ghk)
+# Geko Karen (ghk)
 
 ## Overview
 
-**Language**: Karen, Geko  
+**Language**: Geko Karen  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.30  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karen, Geko*
+*Help us collect text resources for Geko Karen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karen, Geko*
+*Help us collect audio resources for Geko Karen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karen, Geko*
+*Help us collect video resources for Geko Karen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jibu  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.69  
-**Digitality Score**: 0.19  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jibu*
+*Help us collect text resources for Jibu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jibu*
+*Help us collect audio resources for Jibu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jibu*
+*Help us collect video resources for Jibu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

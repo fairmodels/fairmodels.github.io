@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Matagalpa  
 **Region/Area**: Central America, Americas  
 **Family**: Misumalpan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Matagalpa*
+*Help us collect text resources for Matagalpa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Matagalpa*
+*Help us collect audio resources for Matagalpa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Matagalpa*
+*Help us collect video resources for Matagalpa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

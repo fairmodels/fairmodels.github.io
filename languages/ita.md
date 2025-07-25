@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Italian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.93  
-**Digitality Score**: 7.06  
+**Grassroots Presence (z-score)**: 2.93  
+**Web Presence (z-score)**: 7.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Italian*
+*Help us collect text resources for Italian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Italian*
+*Help us collect audio resources for Italian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Italian*
+*Help us collect video resources for Italian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

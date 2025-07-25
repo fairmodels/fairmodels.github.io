@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbwela  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.63  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.63  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbwela*
+*Help us collect text resources for Mbwela*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbwela*
+*Help us collect audio resources for Mbwela*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbwela*
+*Help us collect video resources for Mbwela*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

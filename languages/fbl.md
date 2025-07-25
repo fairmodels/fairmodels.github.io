@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bikol, West Albay
+title: West Albay Bikol
 parent: Languages
 ---
 
-# Bikol, West Albay (fbl)
+# West Albay Bikol (fbl)
 
 ## Overview
 
-**Language**: Bikol, West Albay  
+**Language**: West Albay Bikol  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.65  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bikol, West Albay*
+*Help us collect text resources for West Albay Bikol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bikol, West Albay*
+*Help us collect audio resources for West Albay Bikol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bikol, West Albay*
+*Help us collect video resources for West Albay Bikol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

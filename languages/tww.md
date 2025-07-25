@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tuwari  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -0.25  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tuwari*
+*Help us collect text resources for Tuwari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tuwari*
+*Help us collect audio resources for Tuwari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tuwari*
+*Help us collect video resources for Tuwari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

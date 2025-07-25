@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tutchone, Northern
+title: Northern Tutchone
 parent: Languages
 ---
 
-# Tutchone, Northern (ttm)
+# Northern Tutchone (ttm)
 
 ## Overview
 
-**Language**: Tutchone, Northern  
+**Language**: Northern Tutchone  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.93  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tutchone, Northern*
+*Help us collect text resources for Northern Tutchone*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tutchone, Northern*
+*Help us collect audio resources for Northern Tutchone*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tutchone, Northern*
+*Help us collect video resources for Northern Tutchone*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

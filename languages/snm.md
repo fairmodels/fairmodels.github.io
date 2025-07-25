@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ma’di, Southern
+title: Southern Ma’di
 parent: Languages
 ---
 
-# Ma’di, Southern (snm)
+# Southern Ma’di (snm)
 
 ## Overview
 
-**Language**: Ma’di, Southern  
+**Language**: Southern Ma’di  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.46  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ma’di, Southern*
+*Help us collect text resources for Southern Ma’di*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ma’di, Southern*
+*Help us collect audio resources for Southern Ma’di*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ma’di, Southern*
+*Help us collect video resources for Southern Ma’di*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

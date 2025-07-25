@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kamba  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.66  
-**Digitality Score**: 2.11  
+**Grassroots Presence (z-score)**: 1.66  
+**Web Presence (z-score)**: 2.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kamba*
+*Help us collect text resources for Kamba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kamba*
+*Help us collect audio resources for Kamba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kamba*
+*Help us collect video resources for Kamba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

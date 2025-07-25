@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ayta, Mag-Indi
+title: Mag-Indi Ayta
 parent: Languages
 ---
 
-# Ayta, Mag-Indi (blx)
+# Mag-Indi Ayta (blx)
 
 ## Overview
 
-**Language**: Ayta, Mag-Indi  
+**Language**: Mag-Indi Ayta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.09  
-**Digitality Score**: -0.12  
+**Grassroots Presence (z-score)**: 0.09  
+**Web Presence (z-score)**: -0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ayta, Mag-Indi*
+*Help us collect text resources for Mag-Indi Ayta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ayta, Mag-Indi*
+*Help us collect audio resources for Mag-Indi Ayta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ayta, Mag-Indi*
+*Help us collect video resources for Mag-Indi Ayta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

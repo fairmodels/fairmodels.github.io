@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Eastern Egyptian Bedawi
+title: Eastern Egyptian Bedawi Arabic
 parent: Languages
 ---
 
-# Arabic, Eastern Egyptian Bedawi (avl)
+# Eastern Egyptian Bedawi Arabic (avl)
 
 ## Overview
 
-**Language**: Arabic, Eastern Egyptian Bedawi  
+**Language**: Eastern Egyptian Bedawi Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.97  
-**Digitality Score**: 1.91  
+**Grassroots Presence (z-score)**: 0.97  
+**Web Presence (z-score)**: 1.91  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Eastern Egyptian Bedawi*
+*Help us collect text resources for Eastern Egyptian Bedawi Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Eastern Egyptian Bedawi*
+*Help us collect audio resources for Eastern Egyptian Bedawi Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Eastern Egyptian Bedawi*
+*Help us collect video resources for Eastern Egyptian Bedawi Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

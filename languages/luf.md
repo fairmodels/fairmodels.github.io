@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Laua  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Laua*
+*Help us collect text resources for Laua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Laua*
+*Help us collect audio resources for Laua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Laua*
+*Help us collect video resources for Laua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Central
+title: Central Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Central (nhn)
+# Central Nahuatl (nhn)
 
 ## Overview
 
-**Language**: Nahuatl, Central  
+**Language**: Central Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.26  
-**Digitality Score**: 0.82  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: 0.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Central*
+*Help us collect text resources for Central Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Central*
+*Help us collect audio resources for Central Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Central*
+*Help us collect video resources for Central Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

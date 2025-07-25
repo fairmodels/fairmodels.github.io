@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Moba  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.99  
-**Digitality Score**: 1.24  
+**Grassroots Presence (z-score)**: 0.99  
+**Web Presence (z-score)**: 1.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Moba*
+*Help us collect text resources for Moba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Moba*
+*Help us collect audio resources for Moba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Moba*
+*Help us collect video resources for Moba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

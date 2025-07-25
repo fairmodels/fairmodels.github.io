@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hmong Njua  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 1.05  
-**Digitality Score**: 1.89  
+**Grassroots Presence (z-score)**: 1.05  
+**Web Presence (z-score)**: 1.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hmong Njua*
+*Help us collect text resources for Hmong Njua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hmong Njua*
+*Help us collect audio resources for Hmong Njua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hmong Njua*
+*Help us collect video resources for Hmong Njua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Japanese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Japonic  
-**Vitality Score**: 3.01  
-**Digitality Score**: 7.88  
+**Grassroots Presence (z-score)**: 3.01  
+**Web Presence (z-score)**: 7.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Japanese*
+*Help us collect text resources for Japanese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Japanese*
+*Help us collect audio resources for Japanese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Japanese*
+*Help us collect video resources for Japanese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

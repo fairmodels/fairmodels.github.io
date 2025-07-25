@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Melanau, Central
+title: Central Melanau
 parent: Languages
 ---
 
-# Melanau, Central (mel)
+# Central Melanau (mel)
 
 ## Overview
 
-**Language**: Melanau, Central  
+**Language**: Central Melanau  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.54  
-**Digitality Score**: 0.81  
+**Grassroots Presence (z-score)**: 0.54  
+**Web Presence (z-score)**: 0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Melanau, Central*
+*Help us collect text resources for Central Melanau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Melanau, Central*
+*Help us collect audio resources for Central Melanau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Melanau, Central*
+*Help us collect video resources for Central Melanau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Koasati  
 **Region/Area**: Northern America, Americas  
 **Family**: Muskogean  
-**Vitality Score**: -0.50  
-**Digitality Score**: 0.42  
+**Grassroots Presence (z-score)**: -0.50  
+**Web Presence (z-score)**: 0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koasati*
+*Help us collect text resources for Koasati*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koasati*
+*Help us collect audio resources for Koasati*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koasati*
+*Help us collect video resources for Koasati*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

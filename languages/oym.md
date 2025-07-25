@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wayampi  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: 0.32  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wayampi*
+*Help us collect text resources for Wayampi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wayampi*
+*Help us collect audio resources for Wayampi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wayampi*
+*Help us collect video resources for Wayampi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

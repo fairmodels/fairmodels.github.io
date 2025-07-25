@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rema  
 **Region/Area**: Melanesia, Pacific  
 **Family**: South-Central Papuan  
-**Vitality Score**: -1.39  
-**Digitality Score**: -0.72  
+**Grassroots Presence (z-score)**: -1.39  
+**Web Presence (z-score)**: -0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rema*
+*Help us collect text resources for Rema*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rema*
+*Help us collect audio resources for Rema*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rema*
+*Help us collect video resources for Rema*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

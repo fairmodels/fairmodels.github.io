@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mendankwe-Nkwen  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.21  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mendankwe-Nkwen*
+*Help us collect text resources for Mendankwe-Nkwen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mendankwe-Nkwen*
+*Help us collect audio resources for Mendankwe-Nkwen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mendankwe-Nkwen*
+*Help us collect video resources for Mendankwe-Nkwen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

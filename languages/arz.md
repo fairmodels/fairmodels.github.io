@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Egyptian
+title: Egyptian Arabic
 parent: Languages
 ---
 
-# Arabic, Egyptian (arz)
+# Egyptian Arabic (arz)
 
 ## Overview
 
-**Language**: Arabic, Egyptian  
+**Language**: Egyptian Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.37  
-**Digitality Score**: 3.36  
+**Grassroots Presence (z-score)**: 2.37  
+**Web Presence (z-score)**: 3.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Egyptian*
+*Help us collect text resources for Egyptian Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Egyptian*
+*Help us collect audio resources for Egyptian Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Egyptian*
+*Help us collect video resources for Egyptian Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

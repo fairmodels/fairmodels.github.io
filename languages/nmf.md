@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Tangkhul
+title: Tangkhul Naga
 parent: Languages
 ---
 
-# Naga, Tangkhul (nmf)
+# Tangkhul Naga (nmf)
 
 ## Overview
 
-**Language**: Naga, Tangkhul  
+**Language**: Tangkhul Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.92  
-**Digitality Score**: 0.38  
+**Grassroots Presence (z-score)**: 0.92  
+**Web Presence (z-score)**: 0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Tangkhul*
+*Help us collect text resources for Tangkhul Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Tangkhul*
+*Help us collect audio resources for Tangkhul Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Tangkhul*
+*Help us collect video resources for Tangkhul Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

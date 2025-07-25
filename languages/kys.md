@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kayan, Baram
+title: Baram Kayan
 parent: Languages
 ---
 
-# Kayan, Baram (kys)
+# Baram Kayan (kys)
 
 ## Overview
 
-**Language**: Kayan, Baram  
+**Language**: Baram Kayan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.03  
-**Digitality Score**: -0.12  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: -0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayan, Baram*
+*Help us collect text resources for Baram Kayan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayan, Baram*
+*Help us collect audio resources for Baram Kayan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayan, Baram*
+*Help us collect video resources for Baram Kayan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

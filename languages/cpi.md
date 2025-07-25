@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chinese Pidgin English  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Pidgin  
-**Vitality Score**: -1.09  
-**Digitality Score**: -0.44  
+**Grassroots Presence (z-score)**: -1.09  
+**Web Presence (z-score)**: -0.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese Pidgin English*
+*Help us collect text resources for Chinese Pidgin English*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese Pidgin English*
+*Help us collect audio resources for Chinese Pidgin English*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese Pidgin English*
+*Help us collect video resources for Chinese Pidgin English*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

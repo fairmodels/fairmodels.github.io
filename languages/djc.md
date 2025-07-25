@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Daju, Dar Daju
+title: Dar Daju Daju
 parent: Languages
 ---
 
-# Daju, Dar Daju (djc)
+# Dar Daju Daju (djc)
 
 ## Overview
 
-**Language**: Daju, Dar Daju  
+**Language**: Dar Daju Daju  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.78  
-**Digitality Score**: 0.11  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Daju, Dar Daju*
+*Help us collect text resources for Dar Daju Daju*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Daju, Dar Daju*
+*Help us collect audio resources for Dar Daju Daju*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Daju, Dar Daju*
+*Help us collect video resources for Dar Daju Daju*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

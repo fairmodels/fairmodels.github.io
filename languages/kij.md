@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kilivila  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.73  
-**Digitality Score**: 0.97  
+**Grassroots Presence (z-score)**: 0.73  
+**Web Presence (z-score)**: 0.97  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kilivila*
+*Help us collect text resources for Kilivila*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kilivila*
+*Help us collect audio resources for Kilivila*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kilivila*
+*Help us collect video resources for Kilivila*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

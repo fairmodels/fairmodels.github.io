@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Agta, Villa Viciosa
+title: Villa Viciosa Agta
 parent: Languages
 ---
 
-# Agta, Villa Viciosa (dyg)
+# Villa Viciosa Agta (dyg)
 
 ## Overview
 
-**Language**: Agta, Villa Viciosa  
+**Language**: Villa Viciosa Agta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Agta, Villa Viciosa*
+*Help us collect text resources for Villa Viciosa Agta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Agta, Villa Viciosa*
+*Help us collect audio resources for Villa Viciosa Agta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Agta, Villa Viciosa*
+*Help us collect video resources for Villa Viciosa Agta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Marshallese  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 2.05  
-**Digitality Score**: 2.43  
+**Grassroots Presence (z-score)**: 2.05  
+**Web Presence (z-score)**: 2.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Marshallese*
+*Help us collect text resources for Marshallese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Marshallese*
+*Help us collect audio resources for Marshallese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Marshallese*
+*Help us collect video resources for Marshallese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

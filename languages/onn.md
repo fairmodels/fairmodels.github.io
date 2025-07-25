@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Onobasulu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.28  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.28  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Onobasulu*
+*Help us collect text resources for Onobasulu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Onobasulu*
+*Help us collect audio resources for Onobasulu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Onobasulu*
+*Help us collect video resources for Onobasulu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

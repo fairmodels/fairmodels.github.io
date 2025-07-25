@@ -1,30 +1,30 @@
 ---
 layout: default
-title: One, Kwamtim
+title: Kwamtim One
 parent: Languages
 ---
 
-# One, Kwamtim (okk)
+# Kwamtim One (okk)
 
 ## Overview
 
-**Language**: One, Kwamtim  
+**Language**: Kwamtim One  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.47  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.47  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for One, Kwamtim*
+*Help us collect text resources for Kwamtim One*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for One, Kwamtim*
+*Help us collect audio resources for Kwamtim One*
 
 ### Video Resources
-*Coming soon - help us collect video resources for One, Kwamtim*
+*Help us collect video resources for Kwamtim One*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

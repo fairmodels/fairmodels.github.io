@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Suri, Kacipo-Bale
+title: Kacipo-Bale Suri
 parent: Languages
 ---
 
-# Suri, Kacipo-Bale (koe)
+# Kacipo-Bale Suri (koe)
 
 ## Overview
 
-**Language**: Suri, Kacipo-Bale  
+**Language**: Kacipo-Bale Suri  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.51  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Suri, Kacipo-Bale*
+*Help us collect text resources for Kacipo-Bale Suri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Suri, Kacipo-Bale*
+*Help us collect audio resources for Kacipo-Bale Suri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Suri, Kacipo-Bale*
+*Help us collect video resources for Kacipo-Bale Suri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

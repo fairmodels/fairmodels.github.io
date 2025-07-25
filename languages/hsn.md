@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Xiang
+title: Xiang Chinese
 parent: Languages
 ---
 
-# Chinese, Xiang (hsn)
+# Xiang Chinese (hsn)
 
 ## Overview
 
-**Language**: Chinese, Xiang  
+**Language**: Xiang Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.60  
-**Digitality Score**: 3.79  
+**Grassroots Presence (z-score)**: 1.60  
+**Web Presence (z-score)**: 3.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Xiang*
+*Help us collect text resources for Xiang Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Xiang*
+*Help us collect audio resources for Xiang Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Xiang*
+*Help us collect video resources for Xiang Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

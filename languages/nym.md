@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyamwezi  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.90  
-**Digitality Score**: 0.65  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: 0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyamwezi*
+*Help us collect text resources for Nyamwezi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyamwezi*
+*Help us collect audio resources for Nyamwezi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyamwezi*
+*Help us collect video resources for Nyamwezi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

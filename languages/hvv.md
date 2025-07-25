@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Huave, Santa María del Mar
+title: Santa María del Mar Huave
 parent: Languages
 ---
 
-# Huave, Santa María del Mar (hvv)
+# Santa María del Mar Huave (hvv)
 
 ## Overview
 
-**Language**: Huave, Santa María del Mar  
+**Language**: Santa María del Mar Huave  
 **Region/Area**: Central America, Americas  
 **Family**: Huavean  
-**Vitality Score**: -0.46  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.46  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Huave, Santa María del Mar*
+*Help us collect text resources for Santa María del Mar Huave*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Huave, Santa María del Mar*
+*Help us collect audio resources for Santa María del Mar Huave*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Huave, Santa María del Mar*
+*Help us collect video resources for Santa María del Mar Huave*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

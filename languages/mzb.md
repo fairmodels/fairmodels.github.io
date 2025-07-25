@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tumzabt  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.61  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: 0.61  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tumzabt*
+*Help us collect text resources for Tumzabt*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tumzabt*
+*Help us collect audio resources for Tumzabt*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tumzabt*
+*Help us collect video resources for Tumzabt*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

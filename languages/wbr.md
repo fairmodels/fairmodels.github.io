@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wagdi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.92  
-**Digitality Score**: 1.44  
+**Grassroots Presence (z-score)**: 1.92  
+**Web Presence (z-score)**: 1.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wagdi*
+*Help us collect text resources for Wagdi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wagdi*
+*Help us collect audio resources for Wagdi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wagdi*
+*Help us collect video resources for Wagdi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

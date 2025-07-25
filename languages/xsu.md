@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sanumá  
 **Region/Area**: South America, Americas  
 **Family**: Yanomaman  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.18  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sanumá*
+*Help us collect text resources for Sanumá*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sanumá*
+*Help us collect audio resources for Sanumá*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sanumá*
+*Help us collect video resources for Sanumá*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tày Sa Pa  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tày Sa Pa*
+*Help us collect text resources for Tày Sa Pa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tày Sa Pa*
+*Help us collect audio resources for Tày Sa Pa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tày Sa Pa*
+*Help us collect video resources for Tày Sa Pa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

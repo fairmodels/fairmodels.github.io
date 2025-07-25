@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jawe  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jawe*
+*Help us collect text resources for Jawe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jawe*
+*Help us collect audio resources for Jawe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jawe*
+*Help us collect video resources for Jawe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

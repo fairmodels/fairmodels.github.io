@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pirriya  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pirriya*
+*Help us collect text resources for Pirriya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pirriya*
+*Help us collect audio resources for Pirriya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pirriya*
+*Help us collect video resources for Pirriya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

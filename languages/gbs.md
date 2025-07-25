@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gbe, Gbesi
+title: Gbesi Gbe
 parent: Languages
 ---
 
-# Gbe, Gbesi (gbs)
+# Gbesi Gbe (gbs)
 
 ## Overview
 
-**Language**: Gbe, Gbesi  
+**Language**: Gbesi Gbe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.47  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.47  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbe, Gbesi*
+*Help us collect text resources for Gbesi Gbe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbe, Gbesi*
+*Help us collect audio resources for Gbesi Gbe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbe, Gbesi*
+*Help us collect video resources for Gbesi Gbe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

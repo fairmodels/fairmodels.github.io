@@ -11,20 +11,20 @@ parent: Languages
 **Language**: New Zealand Sign Language  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Sign language  
-**Vitality Score**: -0.06  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: -0.06  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for New Zealand Sign Language*
+*Help us collect text resources for New Zealand Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for New Zealand Sign Language*
+*Help us collect audio resources for New Zealand Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for New Zealand Sign Language*
+*Help us collect video resources for New Zealand Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

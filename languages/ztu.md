@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Güilá
+title: Güilá Zapotec
 parent: Languages
 ---
 
-# Zapotec, Güilá (ztu)
+# Güilá Zapotec (ztu)
 
 ## Overview
 
-**Language**: Zapotec, Güilá  
+**Language**: Güilá Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.23  
-**Digitality Score**: 1.07  
+**Grassroots Presence (z-score)**: 0.23  
+**Web Presence (z-score)**: 1.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Güilá*
+*Help us collect text resources for Güilá Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Güilá*
+*Help us collect audio resources for Güilá Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Güilá*
+*Help us collect video resources for Güilá Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

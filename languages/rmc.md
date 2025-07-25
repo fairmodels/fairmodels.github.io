@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Romani, Carpathian
+title: Carpathian Romani
 parent: Languages
 ---
 
-# Romani, Carpathian (rmc)
+# Carpathian Romani (rmc)
 
 ## Overview
 
-**Language**: Romani, Carpathian  
+**Language**: Carpathian Romani  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.92  
-**Digitality Score**: 1.48  
+**Grassroots Presence (z-score)**: 0.92  
+**Web Presence (z-score)**: 1.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romani, Carpathian*
+*Help us collect text resources for Carpathian Romani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romani, Carpathian*
+*Help us collect audio resources for Carpathian Romani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romani, Carpathian*
+*Help us collect video resources for Carpathian Romani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

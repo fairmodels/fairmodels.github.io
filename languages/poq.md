@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Popoluca, Texistepec
+title: Texistepec Popoluca
 parent: Languages
 ---
 
-# Popoluca, Texistepec (poq)
+# Texistepec Popoluca (poq)
 
 ## Overview
 
-**Language**: Popoluca, Texistepec  
+**Language**: Texistepec Popoluca  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Popoluca, Texistepec*
+*Help us collect text resources for Texistepec Popoluca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Popoluca, Texistepec*
+*Help us collect audio resources for Texistepec Popoluca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Popoluca, Texistepec*
+*Help us collect video resources for Texistepec Popoluca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

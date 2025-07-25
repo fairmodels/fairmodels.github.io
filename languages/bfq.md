@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Badaga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.88  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: 0.88  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Badaga*
+*Help us collect text resources for Badaga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Badaga*
+*Help us collect audio resources for Badaga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Badaga*
+*Help us collect video resources for Badaga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

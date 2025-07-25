@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Krumen, Plapo
+title: Plapo Krumen
 parent: Languages
 ---
 
-# Krumen, Plapo (ktj)
+# Plapo Krumen (ktj)
 
 ## Overview
 
-**Language**: Krumen, Plapo  
+**Language**: Plapo Krumen  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.42  
-**Digitality Score**: 0.35  
+**Grassroots Presence (z-score)**: -0.42  
+**Web Presence (z-score)**: 0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Krumen, Plapo*
+*Help us collect text resources for Plapo Krumen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Krumen, Plapo*
+*Help us collect audio resources for Plapo Krumen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Krumen, Plapo*
+*Help us collect video resources for Plapo Krumen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

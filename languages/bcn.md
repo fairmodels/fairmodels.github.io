@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bali  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bali*
+*Help us collect text resources for Bali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bali*
+*Help us collect audio resources for Bali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bali*
+*Help us collect video resources for Bali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

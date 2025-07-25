@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ekajuk  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.47  
-**Digitality Score**: 0.30  
+**Grassroots Presence (z-score)**: 0.47  
+**Web Presence (z-score)**: 0.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ekajuk*
+*Help us collect text resources for Ekajuk*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ekajuk*
+*Help us collect audio resources for Ekajuk*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ekajuk*
+*Help us collect video resources for Ekajuk*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

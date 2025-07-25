@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tujia, Southern
+title: Southern Tujia
 parent: Languages
 ---
 
-# Tujia, Southern (tjs)
+# Southern Tujia (tjs)
 
 ## Overview
 
-**Language**: Tujia, Southern  
+**Language**: Southern Tujia  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.63  
-**Digitality Score**: -0.46  
+**Grassroots Presence (z-score)**: -0.63  
+**Web Presence (z-score)**: -0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tujia, Southern*
+*Help us collect text resources for Southern Tujia*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tujia, Southern*
+*Help us collect audio resources for Southern Tujia*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tujia, Southern*
+*Help us collect video resources for Southern Tujia*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Marquesan, North
+title: North Marquesan
 parent: Languages
 ---
 
-# Marquesan, North (mrq)
+# North Marquesan (mrq)
 
 ## Overview
 
-**Language**: Marquesan, North  
+**Language**: North Marquesan  
 **Region/Area**: Polynesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.17  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Marquesan, North*
+*Help us collect text resources for North Marquesan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Marquesan, North*
+*Help us collect audio resources for North Marquesan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Marquesan, North*
+*Help us collect video resources for North Marquesan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

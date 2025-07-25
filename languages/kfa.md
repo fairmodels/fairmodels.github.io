@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kodava  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.86  
-**Digitality Score**: 0.27  
+**Grassroots Presence (z-score)**: 0.86  
+**Web Presence (z-score)**: 0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kodava*
+*Help us collect text resources for Kodava*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kodava*
+*Help us collect audio resources for Kodava*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kodava*
+*Help us collect video resources for Kodava*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

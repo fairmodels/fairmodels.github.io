@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kwadi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Khoe-Kwadi  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kwadi*
+*Help us collect text resources for Kwadi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kwadi*
+*Help us collect audio resources for Kwadi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kwadi*
+*Help us collect video resources for Kwadi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Khwedam  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Khoe-Kwadi  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.39  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Khwedam*
+*Help us collect text resources for Khwedam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Khwedam*
+*Help us collect audio resources for Khwedam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Khwedam*
+*Help us collect video resources for Khwedam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

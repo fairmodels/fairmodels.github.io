@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Kaang
+title: Kaang Chin
 parent: Languages
 ---
 
-# Chin, Kaang (ckn)
+# Kaang Chin (ckn)
 
 ## Overview
 
-**Language**: Chin, Kaang  
+**Language**: Kaang Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.34  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.34  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Kaang*
+*Help us collect text resources for Kaang Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Kaang*
+*Help us collect audio resources for Kaang Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Kaang*
+*Help us collect video resources for Kaang Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

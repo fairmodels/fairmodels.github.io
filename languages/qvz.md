@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quichua, Northern Pastaza
+title: Northern Pastaza Quichua
 parent: Languages
 ---
 
-# Quichua, Northern Pastaza (qvz)
+# Northern Pastaza Quichua (qvz)
 
 ## Overview
 
-**Language**: Quichua, Northern Pastaza  
+**Language**: Northern Pastaza Quichua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.11  
-**Digitality Score**: 1.48  
+**Grassroots Presence (z-score)**: 0.11  
+**Web Presence (z-score)**: 1.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quichua, Northern Pastaza*
+*Help us collect text resources for Northern Pastaza Quichua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quichua, Northern Pastaza*
+*Help us collect audio resources for Northern Pastaza Quichua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quichua, Northern Pastaza*
+*Help us collect video resources for Northern Pastaza Quichua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

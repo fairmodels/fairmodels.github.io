@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Oblo  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -1.72  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -1.72  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Oblo*
+*Help us collect text resources for Oblo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Oblo*
+*Help us collect audio resources for Oblo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Oblo*
+*Help us collect video resources for Oblo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

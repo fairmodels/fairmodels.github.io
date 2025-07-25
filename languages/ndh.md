@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ndali  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.97  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: 0.97  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ndali*
+*Help us collect text resources for Ndali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ndali*
+*Help us collect audio resources for Ndali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ndali*
+*Help us collect video resources for Ndali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

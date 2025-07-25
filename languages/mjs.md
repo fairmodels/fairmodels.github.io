@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Miship  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miship*
+*Help us collect text resources for Miship*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miship*
+*Help us collect audio resources for Miship*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miship*
+*Help us collect video resources for Miship*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

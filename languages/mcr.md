@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Menya  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.20  
-**Digitality Score**: 0.39  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: 0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Menya*
+*Help us collect text resources for Menya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Menya*
+*Help us collect audio resources for Menya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Menya*
+*Help us collect video resources for Menya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

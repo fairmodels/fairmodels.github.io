@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Eastern Hongshuihe
+title: Eastern Hongshuihe Zhuang
 parent: Languages
 ---
 
-# Zhuang, Eastern Hongshuihe (zeh)
+# Eastern Hongshuihe Zhuang (zeh)
 
 ## Overview
 
-**Language**: Zhuang, Eastern Hongshuihe  
+**Language**: Eastern Hongshuihe Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.84  
-**Digitality Score**: 0.05  
+**Grassroots Presence (z-score)**: 0.84  
+**Web Presence (z-score)**: 0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Eastern Hongshuihe*
+*Help us collect text resources for Eastern Hongshuihe Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Eastern Hongshuihe*
+*Help us collect audio resources for Eastern Hongshuihe Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Eastern Hongshuihe*
+*Help us collect video resources for Eastern Hongshuihe Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

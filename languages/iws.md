@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Iwam, Sepik
+title: Sepik Iwam
 parent: Languages
 ---
 
-# Iwam, Sepik (iws)
+# Sepik Iwam (iws)
 
 ## Overview
 
-**Language**: Iwam, Sepik  
+**Language**: Sepik Iwam  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: 0.38  
-**Digitality Score**: 0.52  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: 0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Iwam, Sepik*
+*Help us collect text resources for Sepik Iwam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Iwam, Sepik*
+*Help us collect audio resources for Sepik Iwam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Iwam, Sepik*
+*Help us collect video resources for Sepik Iwam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

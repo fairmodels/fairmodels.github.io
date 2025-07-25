@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Melanau, Sibu
+title: Sibu Melanau
 parent: Languages
 ---
 
-# Melanau, Sibu (sdx)
+# Sibu Melanau (sdx)
 
 ## Overview
 
-**Language**: Melanau, Sibu  
+**Language**: Sibu Melanau  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.32  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.32  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Melanau, Sibu*
+*Help us collect text resources for Sibu Melanau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Melanau, Sibu*
+*Help us collect audio resources for Sibu Melanau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Melanau, Sibu*
+*Help us collect video resources for Sibu Melanau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cherokee  
 **Region/Area**: Northern America, Americas  
 **Family**: Iroquoian  
-**Vitality Score**: -0.58  
-**Digitality Score**: 2.65  
+**Grassroots Presence (z-score)**: -0.58  
+**Web Presence (z-score)**: 2.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cherokee*
+*Help us collect text resources for Cherokee*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cherokee*
+*Help us collect audio resources for Cherokee*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cherokee*
+*Help us collect video resources for Cherokee*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

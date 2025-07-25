@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Marathi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.66  
-**Digitality Score**: 4.40  
+**Grassroots Presence (z-score)**: 2.66  
+**Web Presence (z-score)**: 4.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Marathi*
+*Help us collect text resources for Marathi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Marathi*
+*Help us collect audio resources for Marathi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Marathi*
+*Help us collect video resources for Marathi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

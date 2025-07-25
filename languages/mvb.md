@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mattole  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.48  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mattole*
+*Help us collect text resources for Mattole*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mattole*
+*Help us collect audio resources for Mattole*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mattole*
+*Help us collect video resources for Mattole*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

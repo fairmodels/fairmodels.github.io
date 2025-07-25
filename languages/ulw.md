@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ulwa  
 **Region/Area**: Central America, Americas  
 **Family**: Misumalpan  
-**Vitality Score**: -0.34  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.34  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ulwa*
+*Help us collect text resources for Ulwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ulwa*
+*Help us collect audio resources for Ulwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ulwa*
+*Help us collect video resources for Ulwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

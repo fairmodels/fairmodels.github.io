@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Samay  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Samay*
+*Help us collect text resources for Samay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Samay*
+*Help us collect audio resources for Samay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Samay*
+*Help us collect video resources for Samay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

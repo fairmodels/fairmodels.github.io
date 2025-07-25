@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Keres, Western
+title: Western Keres
 parent: Languages
 ---
 
-# Keres, Western (kjq)
+# Western Keres (kjq)
 
 ## Overview
 
-**Language**: Keres, Western  
+**Language**: Western Keres  
 **Region/Area**: Northern America, Americas  
 **Family**: Keresan  
-**Vitality Score**: -0.19  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Keres, Western*
+*Help us collect text resources for Western Keres*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Keres, Western*
+*Help us collect audio resources for Western Keres*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Keres, Western*
+*Help us collect video resources for Western Keres*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

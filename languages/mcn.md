@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Masana  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.00  
-**Digitality Score**: 0.29  
+**Grassroots Presence (z-score)**: 1.00  
+**Web Presence (z-score)**: 0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Masana*
+*Help us collect text resources for Masana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Masana*
+*Help us collect audio resources for Masana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Masana*
+*Help us collect video resources for Masana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

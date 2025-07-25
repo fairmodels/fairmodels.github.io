@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Michigamea  
 **Region/Area**: Northern America, Americas  
 **Family**: Siouan-Catawban  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.98  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Michigamea*
+*Help us collect text resources for Michigamea*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Michigamea*
+*Help us collect audio resources for Michigamea*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Michigamea*
+*Help us collect video resources for Michigamea*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

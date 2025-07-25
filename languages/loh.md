@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Laarim  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.29  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Laarim*
+*Help us collect text resources for Laarim*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Laarim*
+*Help us collect audio resources for Laarim*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Laarim*
+*Help us collect video resources for Laarim*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

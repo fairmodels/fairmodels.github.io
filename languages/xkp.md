@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kabatei  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: -1.24  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -1.24  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kabatei*
+*Help us collect text resources for Kabatei*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kabatei*
+*Help us collect audio resources for Kabatei*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kabatei*
+*Help us collect video resources for Kabatei*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

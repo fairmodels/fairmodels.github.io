@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Tebul Ure
+title: Tebul Ure Dogon
 parent: Languages
 ---
 
-# Dogon, Tebul Ure (dtu)
+# Tebul Ure Dogon (dtu)
 
 ## Overview
 
-**Language**: Dogon, Tebul Ure  
+**Language**: Tebul Ure Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Tebul Ure*
+*Help us collect text resources for Tebul Ure Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Tebul Ure*
+*Help us collect audio resources for Tebul Ure Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Tebul Ure*
+*Help us collect video resources for Tebul Ure Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

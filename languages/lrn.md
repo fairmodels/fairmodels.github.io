@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lorang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.40  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.40  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lorang*
+*Help us collect text resources for Lorang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lorang*
+*Help us collect audio resources for Lorang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lorang*
+*Help us collect video resources for Lorang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

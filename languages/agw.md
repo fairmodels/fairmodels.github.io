@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kahua  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.53  
-**Digitality Score**: 0.27  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: 0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kahua*
+*Help us collect text resources for Kahua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kahua*
+*Help us collect audio resources for Kahua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kahua*
+*Help us collect video resources for Kahua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

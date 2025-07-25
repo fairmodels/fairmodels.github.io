@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Qaqet  
 **Region/Area**: Melanesia, Pacific  
 **Family**: East New Britain  
-**Vitality Score**: 0.29  
-**Digitality Score**: 0.62  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: 0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Qaqet*
+*Help us collect text resources for Qaqet*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Qaqet*
+*Help us collect audio resources for Qaqet*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Qaqet*
+*Help us collect video resources for Qaqet*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

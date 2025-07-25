@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kimré  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.64  
-**Digitality Score**: 0.56  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kimré*
+*Help us collect text resources for Kimré*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kimré*
+*Help us collect audio resources for Kimré*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kimré*
+*Help us collect video resources for Kimré*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

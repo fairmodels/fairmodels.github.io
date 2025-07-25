@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sango, Riverain
+title: Riverain Sango
 parent: Languages
 ---
 
-# Sango, Riverain (snj)
+# Riverain Sango (snj)
 
 ## Overview
 
-**Language**: Sango, Riverain  
+**Language**: Riverain Sango  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 0.39  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sango, Riverain*
+*Help us collect text resources for Riverain Sango*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sango, Riverain*
+*Help us collect audio resources for Riverain Sango*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sango, Riverain*
+*Help us collect video resources for Riverain Sango*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

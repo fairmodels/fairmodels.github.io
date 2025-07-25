@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Garasia, Adiwasi
+title: Adiwasi Garasia
 parent: Languages
 ---
 
-# Garasia, Adiwasi (gas)
+# Adiwasi Garasia (gas)
 
 ## Overview
 
-**Language**: Garasia, Adiwasi  
+**Language**: Adiwasi Garasia  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.84  
-**Digitality Score**: -0.23  
+**Grassroots Presence (z-score)**: 0.84  
+**Web Presence (z-score)**: -0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Garasia, Adiwasi*
+*Help us collect text resources for Adiwasi Garasia*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Garasia, Adiwasi*
+*Help us collect audio resources for Adiwasi Garasia*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Garasia, Adiwasi*
+*Help us collect video resources for Adiwasi Garasia*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

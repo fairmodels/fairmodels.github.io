@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: West Papuan  
-**Vitality Score**: -0.80  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.80  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kao*
+*Help us collect text resources for Kao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kao*
+*Help us collect audio resources for Kao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kao*
+*Help us collect video resources for Kao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

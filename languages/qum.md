@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sipakapense  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: -0.03  
-**Digitality Score**: 0.06  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: 0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sipakapense*
+*Help us collect text resources for Sipakapense*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sipakapense*
+*Help us collect audio resources for Sipakapense*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sipakapense*
+*Help us collect video resources for Sipakapense*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

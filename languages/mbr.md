@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nukak Makú  
 **Region/Area**: South America, Americas  
 **Family**: Puinavean  
-**Vitality Score**: -0.17  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nukak Makú*
+*Help us collect text resources for Nukak Makú*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nukak Makú*
+*Help us collect audio resources for Nukak Makú*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nukak Makú*
+*Help us collect video resources for Nukak Makú*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

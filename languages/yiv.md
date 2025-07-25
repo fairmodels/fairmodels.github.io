@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nisu, Northern
+title: Northern Nisu
 parent: Languages
 ---
 
-# Nisu, Northern (yiv)
+# Northern Nisu (yiv)
 
 ## Overview
 
-**Language**: Nisu, Northern  
+**Language**: Northern Nisu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.43  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.43  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nisu, Northern*
+*Help us collect text resources for Northern Nisu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nisu, Northern*
+*Help us collect audio resources for Northern Nisu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nisu, Northern*
+*Help us collect video resources for Northern Nisu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

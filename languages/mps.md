@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dadibi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.58  
-**Digitality Score**: 1.40  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 1.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dadibi*
+*Help us collect text resources for Dadibi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dadibi*
+*Help us collect audio resources for Dadibi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dadibi*
+*Help us collect video resources for Dadibi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

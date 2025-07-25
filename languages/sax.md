@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sa  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.44  
-**Digitality Score**: 0.28  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sa*
+*Help us collect text resources for Sa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sa*
+*Help us collect audio resources for Sa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sa*
+*Help us collect video resources for Sa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dzao Min  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.46  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dzao Min*
+*Help us collect text resources for Dzao Min*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dzao Min*
+*Help us collect audio resources for Dzao Min*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dzao Min*
+*Help us collect video resources for Dzao Min*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

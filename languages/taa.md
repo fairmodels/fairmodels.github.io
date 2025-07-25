@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tanana, Lower
+title: Lower Tanana
 parent: Languages
 ---
 
-# Tanana, Lower (taa)
+# Lower Tanana (taa)
 
 ## Overview
 
-**Language**: Tanana, Lower  
+**Language**: Lower Tanana  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tanana, Lower*
+*Help us collect text resources for Lower Tanana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tanana, Lower*
+*Help us collect audio resources for Lower Tanana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tanana, Lower*
+*Help us collect video resources for Lower Tanana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

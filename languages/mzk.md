@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mambila, Nigeria
+title: Nigeria Mambila
 parent: Languages
 ---
 
-# Mambila, Nigeria (mzk)
+# Nigeria Mambila (mzk)
 
 ## Overview
 
-**Language**: Mambila, Nigeria  
+**Language**: Nigeria Mambila  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.53  
-**Digitality Score**: 0.64  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: 0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mambila, Nigeria*
+*Help us collect text resources for Nigeria Mambila*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mambila, Nigeria*
+*Help us collect audio resources for Nigeria Mambila*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mambila, Nigeria*
+*Help us collect video resources for Nigeria Mambila*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Southwestern Huishui
+title: Southwestern Huishui Miao
 parent: Languages
 ---
 
-# Miao, Southwestern Huishui (hmh)
+# Southwestern Huishui Miao (hmh)
 
 ## Overview
 
-**Language**: Miao, Southwestern Huishui  
+**Language**: Southwestern Huishui Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.46  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Southwestern Huishui*
+*Help us collect text resources for Southwestern Huishui Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Southwestern Huishui*
+*Help us collect audio resources for Southwestern Huishui Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Southwestern Huishui*
+*Help us collect video resources for Southwestern Huishui Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

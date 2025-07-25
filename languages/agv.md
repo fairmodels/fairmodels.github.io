@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dumagat, Remontado
+title: Remontado Dumagat
 parent: Languages
 ---
 
-# Dumagat, Remontado (agv)
+# Remontado Dumagat (agv)
 
 ## Overview
 
-**Language**: Dumagat, Remontado  
+**Language**: Remontado Dumagat  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.57  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.57  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dumagat, Remontado*
+*Help us collect text resources for Remontado Dumagat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dumagat, Remontado*
+*Help us collect audio resources for Remontado Dumagat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dumagat, Remontado*
+*Help us collect video resources for Remontado Dumagat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

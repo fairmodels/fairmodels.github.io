@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Turkish  
 **Region/Area**: Western Asia, Asia  
 **Family**: Turkic  
-**Vitality Score**: 2.97  
-**Digitality Score**: 6.26  
+**Grassroots Presence (z-score)**: 2.97  
+**Web Presence (z-score)**: 6.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Turkish*
+*Help us collect text resources for Turkish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Turkish*
+*Help us collect audio resources for Turkish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Turkish*
+*Help us collect video resources for Turkish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

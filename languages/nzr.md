@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dir-Nyamzak-Mbarimi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -0.10  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dir-Nyamzak-Mbarimi*
+*Help us collect text resources for Dir-Nyamzak-Mbarimi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dir-Nyamzak-Mbarimi*
+*Help us collect audio resources for Dir-Nyamzak-Mbarimi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dir-Nyamzak-Mbarimi*
+*Help us collect video resources for Dir-Nyamzak-Mbarimi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

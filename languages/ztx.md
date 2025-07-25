@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Zaachila
+title: Zaachila Zapotec
 parent: Languages
 ---
 
-# Zapotec, Zaachila (ztx)
+# Zaachila Zapotec (ztx)
 
 ## Overview
 
-**Language**: Zapotec, Zaachila  
+**Language**: Zaachila Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.76  
-**Digitality Score**: 0.91  
+**Grassroots Presence (z-score)**: -0.76  
+**Web Presence (z-score)**: 0.91  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Zaachila*
+*Help us collect text resources for Zaachila Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Zaachila*
+*Help us collect audio resources for Zaachila Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Zaachila*
+*Help us collect video resources for Zaachila Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

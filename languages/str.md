@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Northern Straits Salish  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -1.29  
-**Digitality Score**: -0.33  
+**Grassroots Presence (z-score)**: -1.29  
+**Web Presence (z-score)**: -0.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Northern Straits Salish*
+*Help us collect text resources for Northern Straits Salish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Northern Straits Salish*
+*Help us collect audio resources for Northern Straits Salish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Northern Straits Salish*
+*Help us collect video resources for Northern Straits Salish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

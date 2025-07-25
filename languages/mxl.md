@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gbe, Maxi
+title: Maxi Gbe
 parent: Languages
 ---
 
-# Gbe, Maxi (mxl)
+# Maxi Gbe (mxl)
 
 ## Overview
 
-**Language**: Gbe, Maxi  
+**Language**: Maxi Gbe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.73  
-**Digitality Score**: -0.34  
+**Grassroots Presence (z-score)**: 0.73  
+**Web Presence (z-score)**: -0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbe, Maxi*
+*Help us collect text resources for Maxi Gbe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbe, Maxi*
+*Help us collect audio resources for Maxi Gbe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbe, Maxi*
+*Help us collect video resources for Maxi Gbe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

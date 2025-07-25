@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Agta, Mt. Iriga
+title: Mt. Iriga Agta
 parent: Languages
 ---
 
-# Agta, Mt. Iriga (agz)
+# Mt. Iriga Agta (agz)
 
 ## Overview
 
-**Language**: Agta, Mt. Iriga  
+**Language**: Mt. Iriga Agta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.16  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Agta, Mt. Iriga*
+*Help us collect text resources for Mt. Iriga Agta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Agta, Mt. Iriga*
+*Help us collect audio resources for Mt. Iriga Agta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Agta, Mt. Iriga*
+*Help us collect video resources for Mt. Iriga Agta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

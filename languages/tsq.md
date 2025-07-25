@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Thai Sign Language  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sign language  
-**Vitality Score**: 0.93  
-**Digitality Score**: -0.53  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: -0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Thai Sign Language*
+*Help us collect text resources for Thai Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Thai Sign Language*
+*Help us collect audio resources for Thai Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Thai Sign Language*
+*Help us collect video resources for Thai Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

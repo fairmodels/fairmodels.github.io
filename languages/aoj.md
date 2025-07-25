@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mufian  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: 0.09  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: 0.09  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mufian*
+*Help us collect text resources for Mufian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mufian*
+*Help us collect audio resources for Mufian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mufian*
+*Help us collect video resources for Mufian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Mazaltepec
+title: Mazaltepec Zapotec
 parent: Languages
 ---
 
-# Zapotec, Mazaltepec (zpy)
+# Mazaltepec Zapotec (zpy)
 
 ## Overview
 
-**Language**: Zapotec, Mazaltepec  
+**Language**: Mazaltepec Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.11  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: -0.11  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Mazaltepec*
+*Help us collect text resources for Mazaltepec Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Mazaltepec*
+*Help us collect audio resources for Mazaltepec Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Mazaltepec*
+*Help us collect video resources for Mazaltepec Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

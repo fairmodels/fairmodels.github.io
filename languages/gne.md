@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ganang  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.07  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ganang*
+*Help us collect text resources for Ganang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ganang*
+*Help us collect audio resources for Ganang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ganang*
+*Help us collect video resources for Ganang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

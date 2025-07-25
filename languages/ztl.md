@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Lapaguía-Guivini
+title: Lapaguía-Guivini Zapotec
 parent: Languages
 ---
 
-# Zapotec, Lapaguía-Guivini (ztl)
+# Lapaguía-Guivini Zapotec (ztl)
 
 ## Overview
 
-**Language**: Zapotec, Lapaguía-Guivini  
+**Language**: Lapaguía-Guivini Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.13  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Lapaguía-Guivini*
+*Help us collect text resources for Lapaguía-Guivini Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Lapaguía-Guivini*
+*Help us collect audio resources for Lapaguía-Guivini Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Lapaguía-Guivini*
+*Help us collect video resources for Lapaguía-Guivini Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kuce  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.37  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kuce*
+*Help us collect text resources for Kuce*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kuce*
+*Help us collect audio resources for Kuce*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kuce*
+*Help us collect video resources for Kuce*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

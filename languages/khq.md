@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Songhay, Koyra Chiini
+title: Koyra Chiini Songhay
 parent: Languages
 ---
 
-# Songhay, Koyra Chiini (khq)
+# Koyra Chiini Songhay (khq)
 
 ## Overview
 
-**Language**: Songhay, Koyra Chiini  
+**Language**: Koyra Chiini Songhay  
 **Region/Area**: Western Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.03  
-**Digitality Score**: 0.42  
+**Grassroots Presence (z-score)**: 1.03  
+**Web Presence (z-score)**: 0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Songhay, Koyra Chiini*
+*Help us collect text resources for Koyra Chiini Songhay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Songhay, Koyra Chiini*
+*Help us collect audio resources for Koyra Chiini Songhay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Songhay, Koyra Chiini*
+*Help us collect video resources for Koyra Chiini Songhay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

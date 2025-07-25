@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Cuyamecalco
+title: Cuyamecalco Mixtec
 parent: Languages
 ---
 
-# Mixtec, Cuyamecalco (xtu)
+# Cuyamecalco Mixtec (xtu)
 
 ## Overview
 
-**Language**: Mixtec, Cuyamecalco  
+**Language**: Cuyamecalco Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.13  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.13  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Cuyamecalco*
+*Help us collect text resources for Cuyamecalco Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Cuyamecalco*
+*Help us collect audio resources for Cuyamecalco Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Cuyamecalco*
+*Help us collect video resources for Cuyamecalco Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ralte  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.70  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: -0.70  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ralte*
+*Help us collect text resources for Ralte*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ralte*
+*Help us collect audio resources for Ralte*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ralte*
+*Help us collect video resources for Ralte*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

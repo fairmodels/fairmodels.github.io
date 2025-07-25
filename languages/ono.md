@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Onondaga  
 **Region/Area**: Northern America, Americas  
 **Family**: Iroquoian  
-**Vitality Score**: -1.21  
-**Digitality Score**: 0.26  
+**Grassroots Presence (z-score)**: -1.21  
+**Web Presence (z-score)**: 0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Onondaga*
+*Help us collect text resources for Onondaga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Onondaga*
+*Help us collect audio resources for Onondaga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Onondaga*
+*Help us collect video resources for Onondaga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

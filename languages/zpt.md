@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, San Vicente Coatlán
+title: San Vicente Coatlán Zapotec
 parent: Languages
 ---
 
-# Zapotec, San Vicente Coatlán (zpt)
+# San Vicente Coatlán Zapotec (zpt)
 
 ## Overview
 
-**Language**: Zapotec, San Vicente Coatlán  
+**Language**: San Vicente Coatlán Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.41  
-**Digitality Score**: 1.35  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: 1.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, San Vicente Coatlán*
+*Help us collect text resources for San Vicente Coatlán Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, San Vicente Coatlán*
+*Help us collect audio resources for San Vicente Coatlán Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, San Vicente Coatlán*
+*Help us collect video resources for San Vicente Coatlán Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

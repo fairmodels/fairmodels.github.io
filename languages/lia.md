@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Limba, West-Central
+title: West-Central Limba
 parent: Languages
 ---
 
-# Limba, West-Central (lia)
+# West-Central Limba (lia)
 
 ## Overview
 
-**Language**: Limba, West-Central  
+**Language**: West-Central Limba  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.00  
-**Digitality Score**: 0.80  
+**Grassroots Presence (z-score)**: 2.00  
+**Web Presence (z-score)**: 0.80  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Limba, West-Central*
+*Help us collect text resources for West-Central Limba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Limba, West-Central*
+*Help us collect audio resources for West-Central Limba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Limba, West-Central*
+*Help us collect video resources for West-Central Limba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

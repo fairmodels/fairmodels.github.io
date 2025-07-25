@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Iwaidja  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.45  
-**Digitality Score**: 0.39  
+**Grassroots Presence (z-score)**: -0.45  
+**Web Presence (z-score)**: 0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Iwaidja*
+*Help us collect text resources for Iwaidja*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Iwaidja*
+*Help us collect audio resources for Iwaidja*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Iwaidja*
+*Help us collect video resources for Iwaidja*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

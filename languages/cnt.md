@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Tepetotutla
+title: Tepetotutla Chinantec
 parent: Languages
 ---
 
-# Chinantec, Tepetotutla (cnt)
+# Tepetotutla Chinantec (cnt)
 
 ## Overview
 
-**Language**: Chinantec, Tepetotutla  
+**Language**: Tepetotutla Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.02  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: 0.02  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Tepetotutla*
+*Help us collect text resources for Tepetotutla Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Tepetotutla*
+*Help us collect audio resources for Tepetotutla Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Tepetotutla*
+*Help us collect video resources for Tepetotutla Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

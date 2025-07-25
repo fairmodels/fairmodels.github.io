@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mazatec, Puebla and Northeastern
+title: Puebla and Northeastern Mazatec
 parent: Languages
 ---
 
-# Mazatec, Puebla and Northeastern (pbm)
+# Puebla and Northeastern Mazatec (pbm)
 
 ## Overview
 
-**Language**: Mazatec, Puebla and Northeastern  
+**Language**: Puebla and Northeastern Mazatec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.39  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mazatec, Puebla and Northeastern*
+*Help us collect text resources for Puebla and Northeastern Mazatec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mazatec, Puebla and Northeastern*
+*Help us collect audio resources for Puebla and Northeastern Mazatec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mazatec, Puebla and Northeastern*
+*Help us collect video resources for Puebla and Northeastern Mazatec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

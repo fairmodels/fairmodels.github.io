@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lacandon  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.23  
-**Digitality Score**: 1.41  
+**Grassroots Presence (z-score)**: 0.23  
+**Web Presence (z-score)**: 1.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lacandon*
+*Help us collect text resources for Lacandon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lacandon*
+*Help us collect audio resources for Lacandon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lacandon*
+*Help us collect video resources for Lacandon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

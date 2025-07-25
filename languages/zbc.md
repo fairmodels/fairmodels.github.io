@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Berawan, Central
+title: Central Berawan
 parent: Languages
 ---
 
-# Berawan, Central (zbc)
+# Central Berawan (zbc)
 
 ## Overview
 
-**Language**: Berawan, Central  
+**Language**: Central Berawan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.63  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: -0.63  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Berawan, Central*
+*Help us collect text resources for Central Berawan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Berawan, Central*
+*Help us collect audio resources for Central Berawan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Berawan, Central*
+*Help us collect video resources for Central Berawan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

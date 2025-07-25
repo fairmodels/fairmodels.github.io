@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kulon  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kulon*
+*Help us collect text resources for Kulon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kulon*
+*Help us collect audio resources for Kulon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kulon*
+*Help us collect video resources for Kulon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

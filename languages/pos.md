@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Popoluca, Sayula
+title: Sayula Popoluca
 parent: Languages
 ---
 
-# Popoluca, Sayula (pos)
+# Sayula Popoluca (pos)
 
 ## Overview
 
-**Language**: Popoluca, Sayula  
+**Language**: Sayula Popoluca  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: -0.04  
-**Digitality Score**: 0.36  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: 0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Popoluca, Sayula*
+*Help us collect text resources for Sayula Popoluca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Popoluca, Sayula*
+*Help us collect audio resources for Sayula Popoluca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Popoluca, Sayula*
+*Help us collect video resources for Sayula Popoluca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

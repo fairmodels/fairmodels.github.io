@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Darlong  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.49  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Darlong*
+*Help us collect text resources for Darlong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Darlong*
+*Help us collect audio resources for Darlong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Darlong*
+*Help us collect video resources for Darlong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

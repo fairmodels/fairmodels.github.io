@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bhujel  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.35  
-**Digitality Score**: -0.64  
+**Grassroots Presence (z-score)**: -0.35  
+**Web Presence (z-score)**: -0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bhujel*
+*Help us collect text resources for Bhujel*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bhujel*
+*Help us collect audio resources for Bhujel*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bhujel*
+*Help us collect video resources for Bhujel*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

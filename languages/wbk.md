@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Waigali  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.37  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Waigali*
+*Help us collect text resources for Waigali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Waigali*
+*Help us collect audio resources for Waigali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Waigali*
+*Help us collect video resources for Waigali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

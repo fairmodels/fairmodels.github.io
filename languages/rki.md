@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rakhine  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.86  
-**Digitality Score**: 1.29  
+**Grassroots Presence (z-score)**: 1.86  
+**Web Presence (z-score)**: 1.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rakhine*
+*Help us collect text resources for Rakhine*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rakhine*
+*Help us collect audio resources for Rakhine*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rakhine*
+*Help us collect video resources for Rakhine*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Sangtam
+title: Sangtam Naga
 parent: Languages
 ---
 
-# Naga, Sangtam (nsa)
+# Sangtam Naga (nsa)
 
 ## Overview
 
-**Language**: Naga, Sangtam  
+**Language**: Sangtam Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.81  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.81  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Sangtam*
+*Help us collect text resources for Sangtam Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Sangtam*
+*Help us collect audio resources for Sangtam Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Sangtam*
+*Help us collect video resources for Sangtam Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

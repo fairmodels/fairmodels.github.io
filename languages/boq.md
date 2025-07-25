@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bogaya  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bogaya*
+*Help us collect text resources for Bogaya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bogaya*
+*Help us collect audio resources for Bogaya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bogaya*
+*Help us collect video resources for Bogaya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

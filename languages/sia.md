@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saami, Akkala
+title: Akkala Saami
 parent: Languages
 ---
 
-# Saami, Akkala (sia)
+# Akkala Saami (sia)
 
 ## Overview
 
-**Language**: Saami, Akkala  
+**Language**: Akkala Saami  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saami, Akkala*
+*Help us collect text resources for Akkala Saami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saami, Akkala*
+*Help us collect audio resources for Akkala Saami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saami, Akkala*
+*Help us collect video resources for Akkala Saami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

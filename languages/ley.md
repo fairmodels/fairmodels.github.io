@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Limola  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.23  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Limola*
+*Help us collect text resources for Limola*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Limola*
+*Help us collect audio resources for Limola*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Limola*
+*Help us collect video resources for Limola*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

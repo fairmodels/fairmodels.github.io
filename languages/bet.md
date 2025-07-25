@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bété, Guiberoua
+title: Guiberoua Bété
 parent: Languages
 ---
 
-# Bété, Guiberoua (bet)
+# Guiberoua Bété (bet)
 
 ## Overview
 
-**Language**: Bété, Guiberoua  
+**Language**: Guiberoua Bété  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.96  
-**Digitality Score**: 0.11  
+**Grassroots Presence (z-score)**: 0.96  
+**Web Presence (z-score)**: 0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bété, Guiberoua*
+*Help us collect text resources for Guiberoua Bété*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bété, Guiberoua*
+*Help us collect audio resources for Guiberoua Bété*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bété, Guiberoua*
+*Help us collect video resources for Guiberoua Bété*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

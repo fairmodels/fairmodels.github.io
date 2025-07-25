@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lisu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.77  
-**Digitality Score**: 0.95  
+**Grassroots Presence (z-score)**: 1.77  
+**Web Presence (z-score)**: 0.95  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lisu*
+*Help us collect text resources for Lisu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lisu*
+*Help us collect audio resources for Lisu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lisu*
+*Help us collect video resources for Lisu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chontal, Tabasco
+title: Tabasco Chontal
 parent: Languages
 ---
 
-# Chontal, Tabasco (chf)
+# Tabasco Chontal (chf)
 
 ## Overview
 
-**Language**: Chontal, Tabasco  
+**Language**: Tabasco Chontal  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.47  
-**Digitality Score**: 1.11  
+**Grassroots Presence (z-score)**: 0.47  
+**Web Presence (z-score)**: 1.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chontal, Tabasco*
+*Help us collect text resources for Tabasco Chontal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chontal, Tabasco*
+*Help us collect audio resources for Tabasco Chontal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chontal, Tabasco*
+*Help us collect video resources for Tabasco Chontal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

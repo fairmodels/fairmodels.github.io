@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tagalog  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 2.33  
-**Digitality Score**: 4.28  
+**Grassroots Presence (z-score)**: 2.33  
+**Web Presence (z-score)**: 4.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tagalog*
+*Help us collect text resources for Tagalog*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tagalog*
+*Help us collect audio resources for Tagalog*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tagalog*
+*Help us collect video resources for Tagalog*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

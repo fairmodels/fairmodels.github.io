@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbudum  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.17  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbudum*
+*Help us collect text resources for Mbudum*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbudum*
+*Help us collect audio resources for Mbudum*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbudum*
+*Help us collect video resources for Mbudum*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

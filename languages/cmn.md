@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Mandarin
+title: Mandarin Chinese
 parent: Languages
 ---
 
-# Chinese, Mandarin (cmn)
+# Mandarin Chinese (cmn)
 
 ## Overview
 
-**Language**: Chinese, Mandarin  
+**Language**: Mandarin Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 3.61  
-**Digitality Score**: 6.33  
+**Grassroots Presence (z-score)**: 3.61  
+**Web Presence (z-score)**: 6.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Mandarin*
+*Help us collect text resources for Mandarin Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Mandarin*
+*Help us collect audio resources for Mandarin Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Mandarin*
+*Help us collect video resources for Mandarin Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Subanen, Central
+title: Central Subanen
 parent: Languages
 ---
 
-# Subanen, Central (syb)
+# Central Subanen (syb)
 
 ## Overview
 
-**Language**: Subanen, Central  
+**Language**: Central Subanen  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.41  
-**Digitality Score**: 0.87  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: 0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Subanen, Central*
+*Help us collect text resources for Central Subanen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Subanen, Central*
+*Help us collect audio resources for Central Subanen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Subanen, Central*
+*Help us collect video resources for Central Subanen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

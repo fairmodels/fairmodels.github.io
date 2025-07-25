@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kallahan, Keley-i
+title: Keley-i Kallahan
 parent: Languages
 ---
 
-# Kallahan, Keley-i (ify)
+# Keley-i Kallahan (ify)
 
 ## Overview
 
-**Language**: Kallahan, Keley-i  
+**Language**: Keley-i Kallahan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.52  
-**Digitality Score**: 1.27  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 1.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kallahan, Keley-i*
+*Help us collect text resources for Keley-i Kallahan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kallahan, Keley-i*
+*Help us collect audio resources for Keley-i Kallahan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kallahan, Keley-i*
+*Help us collect video resources for Keley-i Kallahan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

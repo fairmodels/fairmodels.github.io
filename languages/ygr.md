@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yagaria  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.72  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: 0.72  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yagaria*
+*Help us collect text resources for Yagaria*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yagaria*
+*Help us collect audio resources for Yagaria*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yagaria*
+*Help us collect video resources for Yagaria*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

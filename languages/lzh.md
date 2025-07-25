@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Classical
+title: Classical Chinese
 parent: Languages
 ---
 
-# Chinese, Classical (lzh)
+# Classical Chinese (lzh)
 
 ## Overview
 
-**Language**: Chinese, Classical  
+**Language**: Classical Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -1.87  
-**Digitality Score**: 4.16  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: 4.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Classical*
+*Help us collect text resources for Classical Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Classical*
+*Help us collect audio resources for Classical Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Classical*
+*Help us collect video resources for Classical Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

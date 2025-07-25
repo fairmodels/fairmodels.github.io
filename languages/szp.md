@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Suabo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.24  
-**Digitality Score**: -0.12  
+**Grassroots Presence (z-score)**: -0.24  
+**Web Presence (z-score)**: -0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Suabo*
+*Help us collect text resources for Suabo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Suabo*
+*Help us collect audio resources for Suabo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Suabo*
+*Help us collect video resources for Suabo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

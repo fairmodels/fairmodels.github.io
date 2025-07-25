@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbugu  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Mixed language  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbugu*
+*Help us collect text resources for Mbugu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbugu*
+*Help us collect audio resources for Mbugu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbugu*
+*Help us collect video resources for Mbugu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

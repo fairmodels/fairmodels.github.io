@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hopi  
 **Region/Area**: Northern America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.02  
-**Digitality Score**: 1.00  
+**Grassroots Presence (z-score)**: 0.02  
+**Web Presence (z-score)**: 1.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hopi*
+*Help us collect text resources for Hopi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hopi*
+*Help us collect audio resources for Hopi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hopi*
+*Help us collect video resources for Hopi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nicobarese, Southern
+title: Southern Nicobarese
 parent: Languages
 ---
 
-# Nicobarese, Southern (nik)
+# Southern Nicobarese (nik)
 
 ## Overview
 
-**Language**: Nicobarese, Southern  
+**Language**: Southern Nicobarese  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.04  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.04  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nicobarese, Southern*
+*Help us collect text resources for Southern Nicobarese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nicobarese, Southern*
+*Help us collect audio resources for Southern Nicobarese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nicobarese, Southern*
+*Help us collect video resources for Southern Nicobarese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

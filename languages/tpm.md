@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tampulma  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.61  
-**Digitality Score**: 0.71  
+**Grassroots Presence (z-score)**: 0.61  
+**Web Presence (z-score)**: 0.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tampulma*
+*Help us collect text resources for Tampulma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tampulma*
+*Help us collect audio resources for Tampulma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tampulma*
+*Help us collect video resources for Tampulma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

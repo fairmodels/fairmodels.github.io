@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wumbvu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.37  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wumbvu*
+*Help us collect text resources for Wumbvu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wumbvu*
+*Help us collect audio resources for Wumbvu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wumbvu*
+*Help us collect video resources for Wumbvu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

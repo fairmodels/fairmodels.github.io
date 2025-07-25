@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kinnauri, Chhoyul
+title: Chhoyul Kinnauri
 parent: Languages
 ---
 
-# Kinnauri, Chhoyul (tpq)
+# Chhoyul Kinnauri (tpq)
 
 ## Overview
 
-**Language**: Kinnauri, Chhoyul  
+**Language**: Chhoyul Kinnauri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.27  
-**Digitality Score**: -0.36  
+**Grassroots Presence (z-score)**: -0.27  
+**Web Presence (z-score)**: -0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kinnauri, Chhoyul*
+*Help us collect text resources for Chhoyul Kinnauri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kinnauri, Chhoyul*
+*Help us collect audio resources for Chhoyul Kinnauri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kinnauri, Chhoyul*
+*Help us collect video resources for Chhoyul Kinnauri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

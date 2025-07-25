@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kulango, Bondoukou
+title: Bondoukou Kulango
 parent: Languages
 ---
 
-# Kulango, Bondoukou (kzc)
+# Bondoukou Kulango (kzc)
 
 ## Overview
 
-**Language**: Kulango, Bondoukou  
+**Language**: Bondoukou Kulango  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.92  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.92  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kulango, Bondoukou*
+*Help us collect text resources for Bondoukou Kulango*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kulango, Bondoukou*
+*Help us collect audio resources for Bondoukou Kulango*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kulango, Bondoukou*
+*Help us collect video resources for Bondoukou Kulango*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

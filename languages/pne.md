@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Penan, Western
+title: Western Penan
 parent: Languages
 ---
 
-# Penan, Western (pne)
+# Western Penan (pne)
 
 ## Overview
 
-**Language**: Penan, Western  
+**Language**: Western Penan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.06  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: -0.06  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Penan, Western*
+*Help us collect text resources for Western Penan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Penan, Western*
+*Help us collect audio resources for Western Penan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Penan, Western*
+*Help us collect video resources for Western Penan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

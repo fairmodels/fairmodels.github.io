@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miwok, Southern Sierra
+title: Southern Sierra Miwok
 parent: Languages
 ---
 
-# Miwok, Southern Sierra (skd)
+# Southern Sierra Miwok (skd)
 
 ## Overview
 
-**Language**: Miwok, Southern Sierra  
+**Language**: Southern Sierra Miwok  
 **Region/Area**: Northern America, Americas  
 **Family**: Miwok-Costanoan  
-**Vitality Score**: -1.54  
-**Digitality Score**: 0.10  
+**Grassroots Presence (z-score)**: -1.54  
+**Web Presence (z-score)**: 0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miwok, Southern Sierra*
+*Help us collect text resources for Southern Sierra Miwok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miwok, Southern Sierra*
+*Help us collect audio resources for Southern Sierra Miwok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miwok, Southern Sierra*
+*Help us collect video resources for Southern Sierra Miwok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

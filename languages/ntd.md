@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tidung, Northern
+title: Northern Tidung
 parent: Languages
 ---
 
-# Tidung, Northern (ntd)
+# Northern Tidung (ntd)
 
 ## Overview
 
-**Language**: Tidung, Northern  
+**Language**: Northern Tidung  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.17  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tidung, Northern*
+*Help us collect text resources for Northern Tidung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tidung, Northern*
+*Help us collect audio resources for Northern Tidung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tidung, Northern*
+*Help us collect video resources for Northern Tidung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

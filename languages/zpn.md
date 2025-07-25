@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Santa Inés Yatzechi
+title: Santa Inés Yatzechi Zapotec
 parent: Languages
 ---
 
-# Zapotec, Santa Inés Yatzechi (zpn)
+# Santa Inés Yatzechi Zapotec (zpn)
 
 ## Overview
 
-**Language**: Zapotec, Santa Inés Yatzechi  
+**Language**: Santa Inés Yatzechi Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.11  
-**Digitality Score**: 1.00  
+**Grassroots Presence (z-score)**: -0.11  
+**Web Presence (z-score)**: 1.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Santa Inés Yatzechi*
+*Help us collect text resources for Santa Inés Yatzechi Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Santa Inés Yatzechi*
+*Help us collect audio resources for Santa Inés Yatzechi Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Santa Inés Yatzechi*
+*Help us collect video resources for Santa Inés Yatzechi Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

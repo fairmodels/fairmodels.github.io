@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mal  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.68  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: 0.68  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mal*
+*Help us collect text resources for Mal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mal*
+*Help us collect audio resources for Mal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mal*
+*Help us collect video resources for Mal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

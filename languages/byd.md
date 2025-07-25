@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Benyadu’  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.45  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: 0.45  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Benyadu’*
+*Help us collect text resources for Benyadu’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Benyadu’*
+*Help us collect audio resources for Benyadu’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Benyadu’*
+*Help us collect video resources for Benyadu’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

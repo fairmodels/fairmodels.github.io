@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Haveke  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.52  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.52  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Haveke*
+*Help us collect text resources for Haveke*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Haveke*
+*Help us collect audio resources for Haveke*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Haveke*
+*Help us collect video resources for Haveke*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

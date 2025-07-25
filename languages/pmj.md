@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pumi, Southern
+title: Southern Pumi
 parent: Languages
 ---
 
-# Pumi, Southern (pmj)
+# Southern Pumi (pmj)
 
 ## Overview
 
-**Language**: Pumi, Southern  
+**Language**: Southern Pumi  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.16  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: 0.16  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pumi, Southern*
+*Help us collect text resources for Southern Pumi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pumi, Southern*
+*Help us collect audio resources for Southern Pumi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pumi, Southern*
+*Help us collect video resources for Southern Pumi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

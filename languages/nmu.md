@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Maidu, Northeast
+title: Northeast Maidu
 parent: Languages
 ---
 
-# Maidu, Northeast (nmu)
+# Northeast Maidu (nmu)
 
 ## Overview
 
-**Language**: Maidu, Northeast  
+**Language**: Northeast Maidu  
 **Region/Area**: Northern America, Americas  
 **Family**: Maiduan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.33  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maidu, Northeast*
+*Help us collect text resources for Northeast Maidu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maidu, Northeast*
+*Help us collect audio resources for Northeast Maidu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maidu, Northeast*
+*Help us collect video resources for Northeast Maidu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

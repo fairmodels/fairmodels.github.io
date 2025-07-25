@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nafi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.44  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -0.44  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nafi*
+*Help us collect text resources for Nafi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nafi*
+*Help us collect audio resources for Nafi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nafi*
+*Help us collect video resources for Nafi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

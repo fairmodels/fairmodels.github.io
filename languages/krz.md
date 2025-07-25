@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kanum, Sota
+title: Sota Kanum
 parent: Languages
 ---
 
-# Kanum, Sota (krz)
+# Sota Kanum (krz)
 
 ## Overview
 
-**Language**: Kanum, Sota  
+**Language**: Sota Kanum  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: South-Central Papuan  
-**Vitality Score**: -0.35  
-**Digitality Score**: -0.64  
+**Grassroots Presence (z-score)**: -0.35  
+**Web Presence (z-score)**: -0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanum, Sota*
+*Help us collect text resources for Sota Kanum*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanum, Sota*
+*Help us collect audio resources for Sota Kanum*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanum, Sota*
+*Help us collect video resources for Sota Kanum*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

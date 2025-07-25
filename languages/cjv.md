@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chuave  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.67  
-**Digitality Score**: 0.74  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: 0.74  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chuave*
+*Help us collect text resources for Chuave*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chuave*
+*Help us collect audio resources for Chuave*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chuave*
+*Help us collect video resources for Chuave*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

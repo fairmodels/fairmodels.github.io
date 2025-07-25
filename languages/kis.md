@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kis  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.40  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: -0.40  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kis*
+*Help us collect text resources for Kis*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kis*
+*Help us collect audio resources for Kis*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kis*
+*Help us collect video resources for Kis*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

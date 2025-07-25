@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tamazight, Central Atlas
+title: Central Atlas Tamazight
 parent: Languages
 ---
 
-# Tamazight, Central Atlas (tzm)
+# Central Atlas Tamazight (tzm)
 
 ## Overview
 
-**Language**: Tamazight, Central Atlas  
+**Language**: Central Atlas Tamazight  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.81  
-**Digitality Score**: 2.26  
+**Grassroots Presence (z-score)**: 0.81  
+**Web Presence (z-score)**: 2.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tamazight, Central Atlas*
+*Help us collect text resources for Central Atlas Tamazight*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tamazight, Central Atlas*
+*Help us collect audio resources for Central Atlas Tamazight*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tamazight, Central Atlas*
+*Help us collect video resources for Central Atlas Tamazight*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

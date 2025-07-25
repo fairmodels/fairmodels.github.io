@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Melanau, Kanowit-Tanjong
+title: Kanowit-Tanjong Melanau
 parent: Languages
 ---
 
-# Melanau, Kanowit-Tanjong (kxn)
+# Kanowit-Tanjong Melanau (kxn)
 
 ## Overview
 
-**Language**: Melanau, Kanowit-Tanjong  
+**Language**: Kanowit-Tanjong Melanau  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.26  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: -0.26  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Melanau, Kanowit-Tanjong*
+*Help us collect text resources for Kanowit-Tanjong Melanau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Melanau, Kanowit-Tanjong*
+*Help us collect audio resources for Kanowit-Tanjong Melanau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Melanau, Kanowit-Tanjong*
+*Help us collect video resources for Kanowit-Tanjong Melanau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

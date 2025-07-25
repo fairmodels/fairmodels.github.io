@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tharu, Rana
+title: Rana Tharu
 parent: Languages
 ---
 
-# Tharu, Rana (thr)
+# Rana Tharu (thr)
 
 ## Overview
 
-**Language**: Tharu, Rana  
+**Language**: Rana Tharu  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.95  
-**Digitality Score**: -0.15  
+**Grassroots Presence (z-score)**: 0.95  
+**Web Presence (z-score)**: -0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tharu, Rana*
+*Help us collect text resources for Rana Tharu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tharu, Rana*
+*Help us collect audio resources for Rana Tharu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tharu, Rana*
+*Help us collect video resources for Rana Tharu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

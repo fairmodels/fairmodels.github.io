@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Guaraní, Eastern Bolivian
+title: Eastern Bolivian Guaraní
 parent: Languages
 ---
 
-# Guaraní, Eastern Bolivian (gui)
+# Eastern Bolivian Guaraní (gui)
 
 ## Overview
 
-**Language**: Guaraní, Eastern Bolivian  
+**Language**: Eastern Bolivian Guaraní  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: 0.80  
-**Digitality Score**: 1.84  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: 1.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Guaraní, Eastern Bolivian*
+*Help us collect text resources for Eastern Bolivian Guaraní*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Guaraní, Eastern Bolivian*
+*Help us collect audio resources for Eastern Bolivian Guaraní*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Guaraní, Eastern Bolivian*
+*Help us collect video resources for Eastern Bolivian Guaraní*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

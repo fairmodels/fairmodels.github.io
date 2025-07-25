@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ifugao, Mayoyao
+title: Mayoyao Ifugao
 parent: Languages
 ---
 
-# Ifugao, Mayoyao (ifu)
+# Mayoyao Ifugao (ifu)
 
 ## Overview
 
-**Language**: Ifugao, Mayoyao  
+**Language**: Mayoyao Ifugao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.01  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: 1.01  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ifugao, Mayoyao*
+*Help us collect text resources for Mayoyao Ifugao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ifugao, Mayoyao*
+*Help us collect audio resources for Mayoyao Ifugao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ifugao, Mayoyao*
+*Help us collect video resources for Mayoyao Ifugao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

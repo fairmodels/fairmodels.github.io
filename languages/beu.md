@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Blagar  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.24  
-**Digitality Score**: 0.25  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: 0.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Blagar*
+*Help us collect text resources for Blagar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Blagar*
+*Help us collect audio resources for Blagar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Blagar*
+*Help us collect video resources for Blagar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

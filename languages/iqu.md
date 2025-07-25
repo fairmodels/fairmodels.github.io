@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Iquitu  
 **Region/Area**: South America, Americas  
 **Family**: Zaparoan  
-**Vitality Score**: -1.30  
-**Digitality Score**: 0.29  
+**Grassroots Presence (z-score)**: -1.30  
+**Web Presence (z-score)**: 0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Iquitu*
+*Help us collect text resources for Iquitu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Iquitu*
+*Help us collect audio resources for Iquitu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Iquitu*
+*Help us collect video resources for Iquitu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

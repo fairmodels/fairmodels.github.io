@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Poqomchi’  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.88  
-**Digitality Score**: 1.16  
+**Grassroots Presence (z-score)**: 0.88  
+**Web Presence (z-score)**: 1.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Poqomchi’*
+*Help us collect text resources for Poqomchi’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Poqomchi’*
+*Help us collect audio resources for Poqomchi’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Poqomchi’*
+*Help us collect video resources for Poqomchi’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

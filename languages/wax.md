@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Marangis  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: -0.10  
-**Digitality Score**: -0.72  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Marangis*
+*Help us collect text resources for Marangis*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Marangis*
+*Help us collect audio resources for Marangis*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Marangis*
+*Help us collect video resources for Marangis*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

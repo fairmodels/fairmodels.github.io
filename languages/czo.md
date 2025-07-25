@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Min Zhong
+title: Min Zhong Chinese
 parent: Languages
 ---
 
-# Chinese, Min Zhong (czo)
+# Min Zhong Chinese (czo)
 
 ## Overview
 
-**Language**: Chinese, Min Zhong  
+**Language**: Min Zhong Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.98  
-**Digitality Score**: 3.43  
+**Grassroots Presence (z-score)**: 0.98  
+**Web Presence (z-score)**: 3.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Min Zhong*
+*Help us collect text resources for Min Zhong Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Min Zhong*
+*Help us collect audio resources for Min Zhong Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Min Zhong*
+*Help us collect video resources for Min Zhong Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

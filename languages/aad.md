@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Amal  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -0.08  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Amal*
+*Help us collect text resources for Amal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Amal*
+*Help us collect audio resources for Amal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Amal*
+*Help us collect video resources for Amal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

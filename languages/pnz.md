@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pana  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.82  
-**Digitality Score**: 0.20  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pana*
+*Help us collect text resources for Pana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pana*
+*Help us collect audio resources for Pana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pana*
+*Help us collect video resources for Pana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

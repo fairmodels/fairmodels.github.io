@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ghale, Southern
+title: Southern Ghale
 parent: Languages
 ---
 
-# Ghale, Southern (ghe)
+# Southern Ghale (ghe)
 
 ## Overview
 
-**Language**: Ghale, Southern  
+**Language**: Southern Ghale  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.31  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ghale, Southern*
+*Help us collect text resources for Southern Ghale*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ghale, Southern*
+*Help us collect audio resources for Southern Ghale*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ghale, Southern*
+*Help us collect video resources for Southern Ghale*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

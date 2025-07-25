@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Acipa, Eastern
+title: Eastern Acipa
 parent: Languages
 ---
 
-# Acipa, Eastern (acp)
+# Eastern Acipa (acp)
 
 ## Overview
 
-**Language**: Acipa, Eastern  
+**Language**: Eastern Acipa  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.64  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Acipa, Eastern*
+*Help us collect text resources for Eastern Acipa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Acipa, Eastern*
+*Help us collect audio resources for Eastern Acipa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Acipa, Eastern*
+*Help us collect video resources for Eastern Acipa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Huallaga
+title: Huallaga Quechua
 parent: Languages
 ---
 
-# Quechua, Huallaga (qub)
+# Huallaga Quechua (qub)
 
 ## Overview
 
-**Language**: Quechua, Huallaga  
+**Language**: Huallaga Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.66  
-**Digitality Score**: 1.83  
+**Grassroots Presence (z-score)**: 0.66  
+**Web Presence (z-score)**: 1.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Huallaga*
+*Help us collect text resources for Huallaga Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Huallaga*
+*Help us collect audio resources for Huallaga Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Huallaga*
+*Help us collect video resources for Huallaga Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

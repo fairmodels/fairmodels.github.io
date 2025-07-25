@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kanembu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.75  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: 1.75  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanembu*
+*Help us collect text resources for Kanembu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanembu*
+*Help us collect audio resources for Kanembu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanembu*
+*Help us collect video resources for Kanembu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

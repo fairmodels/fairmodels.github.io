@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rusyn  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.49  
-**Digitality Score**: 1.57  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: 1.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rusyn*
+*Help us collect text resources for Rusyn*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rusyn*
+*Help us collect audio resources for Rusyn*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rusyn*
+*Help us collect video resources for Rusyn*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

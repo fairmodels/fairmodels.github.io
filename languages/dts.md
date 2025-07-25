@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Toro So
+title: Toro So Dogon
 parent: Languages
 ---
 
-# Dogon, Toro So (dts)
+# Toro So Dogon (dts)
 
 ## Overview
 
-**Language**: Dogon, Toro So  
+**Language**: Toro So Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.07  
-**Digitality Score**: 0.56  
+**Grassroots Presence (z-score)**: 1.07  
+**Web Presence (z-score)**: 0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Toro So*
+*Help us collect text resources for Toro So Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Toro So*
+*Help us collect audio resources for Toro So Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Toro So*
+*Help us collect video resources for Toro So Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

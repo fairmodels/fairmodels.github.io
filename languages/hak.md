@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Hakka
+title: Hakka Chinese
 parent: Languages
 ---
 
-# Chinese, Hakka (hak)
+# Hakka Chinese (hak)
 
 ## Overview
 
-**Language**: Chinese, Hakka  
+**Language**: Hakka Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.92  
-**Digitality Score**: 4.29  
+**Grassroots Presence (z-score)**: 1.92  
+**Web Presence (z-score)**: 4.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Hakka*
+*Help us collect text resources for Hakka Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Hakka*
+*Help us collect audio resources for Hakka Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Hakka*
+*Help us collect video resources for Hakka Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

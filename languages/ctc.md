@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chetco  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chetco*
+*Help us collect text resources for Chetco*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chetco*
+*Help us collect audio resources for Chetco*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chetco*
+*Help us collect video resources for Chetco*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

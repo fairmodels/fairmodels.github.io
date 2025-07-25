@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Purari  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.51  
-**Digitality Score**: 0.17  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Purari*
+*Help us collect text resources for Purari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Purari*
+*Help us collect audio resources for Purari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Purari*
+*Help us collect video resources for Purari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

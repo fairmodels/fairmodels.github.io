@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kriol  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Creole  
-**Vitality Score**: 1.25  
-**Digitality Score**: 2.06  
+**Grassroots Presence (z-score)**: 1.25  
+**Web Presence (z-score)**: 2.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kriol*
+*Help us collect text resources for Kriol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kriol*
+*Help us collect audio resources for Kriol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kriol*
+*Help us collect video resources for Kriol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

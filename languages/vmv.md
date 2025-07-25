@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Maidu, Valley
+title: Valley Maidu
 parent: Languages
 ---
 
-# Maidu, Valley (vmv)
+# Valley Maidu (vmv)
 
 ## Overview
 
-**Language**: Maidu, Valley  
+**Language**: Valley Maidu  
 **Region/Area**: Northern America, Americas  
 **Family**: Maiduan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maidu, Valley*
+*Help us collect text resources for Valley Maidu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maidu, Valley*
+*Help us collect audio resources for Valley Maidu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maidu, Valley*
+*Help us collect video resources for Valley Maidu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maindo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.26  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maindo*
+*Help us collect text resources for Maindo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maindo*
+*Help us collect audio resources for Maindo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maindo*
+*Help us collect video resources for Maindo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

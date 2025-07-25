@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nias  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.12  
-**Digitality Score**: 1.74  
+**Grassroots Presence (z-score)**: 1.12  
+**Web Presence (z-score)**: 1.74  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nias*
+*Help us collect text resources for Nias*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nias*
+*Help us collect audio resources for Nias*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nias*
+*Help us collect video resources for Nias*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

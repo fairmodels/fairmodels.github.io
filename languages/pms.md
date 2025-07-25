@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Piedmontese  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.46  
-**Digitality Score**: 1.82  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 1.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Piedmontese*
+*Help us collect text resources for Piedmontese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Piedmontese*
+*Help us collect audio resources for Piedmontese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Piedmontese*
+*Help us collect video resources for Piedmontese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

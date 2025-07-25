@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bontok, Northern
+title: Northern Bontok
 parent: Languages
 ---
 
-# Bontok, Northern (rbk)
+# Northern Bontok (rbk)
 
 ## Overview
 
-**Language**: Bontok, Northern  
+**Language**: Northern Bontok  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.40  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.40  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bontok, Northern*
+*Help us collect text resources for Northern Bontok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bontok, Northern*
+*Help us collect audio resources for Northern Bontok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bontok, Northern*
+*Help us collect video resources for Northern Bontok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

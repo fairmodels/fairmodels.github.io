@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maxakalí  
 **Region/Area**: South America, Americas  
 **Family**: Maxakalian  
-**Vitality Score**: 0.29  
-**Digitality Score**: 0.67  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: 0.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maxakalí*
+*Help us collect text resources for Maxakalí*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maxakalí*
+*Help us collect audio resources for Maxakalí*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maxakalí*
+*Help us collect video resources for Maxakalí*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Pattani
+title: Pattani Malay
 parent: Languages
 ---
 
-# Malay, Pattani (mfa)
+# Pattani Malay (mfa)
 
 ## Overview
 
-**Language**: Malay, Pattani  
+**Language**: Pattani Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.50  
-**Digitality Score**: 1.55  
+**Grassroots Presence (z-score)**: 1.50  
+**Web Presence (z-score)**: 1.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Pattani*
+*Help us collect text resources for Pattani Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Pattani*
+*Help us collect audio resources for Pattani Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Pattani*
+*Help us collect video resources for Pattani Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

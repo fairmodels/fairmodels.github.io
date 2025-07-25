@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Konkani  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.19  
-**Digitality Score**: 2.26  
+**Grassroots Presence (z-score)**: 2.19  
+**Web Presence (z-score)**: 2.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Konkani*
+*Help us collect text resources for Konkani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Konkani*
+*Help us collect audio resources for Konkani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Konkani*
+*Help us collect video resources for Konkani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

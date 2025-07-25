@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Huave, San Dionisio del Mar
+title: San Dionisio del Mar Huave
 parent: Languages
 ---
 
-# Huave, San Dionisio del Mar (hve)
+# San Dionisio del Mar Huave (hve)
 
 ## Overview
 
-**Language**: Huave, San Dionisio del Mar  
+**Language**: San Dionisio del Mar Huave  
 **Region/Area**: Central America, Americas  
 **Family**: Huavean  
-**Vitality Score**: -0.25  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Huave, San Dionisio del Mar*
+*Help us collect text resources for San Dionisio del Mar Huave*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Huave, San Dionisio del Mar*
+*Help us collect audio resources for San Dionisio del Mar Huave*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Huave, San Dionisio del Mar*
+*Help us collect video resources for San Dionisio del Mar Huave*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

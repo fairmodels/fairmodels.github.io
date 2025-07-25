@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Matu
+title: Matu Chin
 parent: Languages
 ---
 
-# Chin, Matu (hlt)
+# Matu Chin (hlt)
 
 ## Overview
 
-**Language**: Chin, Matu  
+**Language**: Matu Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.73  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.73  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Matu*
+*Help us collect text resources for Matu Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Matu*
+*Help us collect audio resources for Matu Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Matu*
+*Help us collect video resources for Matu Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tawandê  
 **Region/Area**: South America, Americas  
 **Family**: Nambikwara  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tawandê*
+*Help us collect text resources for Tawandê*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tawandê*
+*Help us collect audio resources for Tawandê*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tawandê*
+*Help us collect video resources for Tawandê*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

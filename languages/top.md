@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Totonac, Papantla
+title: Papantla Totonac
 parent: Languages
 ---
 
-# Totonac, Papantla (top)
+# Papantla Totonac (top)
 
 ## Overview
 
-**Language**: Totonac, Papantla  
+**Language**: Papantla Totonac  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: 0.82  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Totonac, Papantla*
+*Help us collect text resources for Papantla Totonac*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Totonac, Papantla*
+*Help us collect audio resources for Papantla Totonac*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Totonac, Papantla*
+*Help us collect video resources for Papantla Totonac*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Rongmei
+title: Rongmei Naga
 parent: Languages
 ---
 
-# Naga, Rongmei (nbu)
+# Rongmei Naga (nbu)
 
 ## Overview
 
-**Language**: Naga, Rongmei  
+**Language**: Rongmei Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.14  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: 1.14  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Rongmei*
+*Help us collect text resources for Rongmei Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Rongmei*
+*Help us collect audio resources for Rongmei Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Rongmei*
+*Help us collect video resources for Rongmei Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

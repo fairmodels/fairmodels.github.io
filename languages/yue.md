@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Yue
+title: Yue Chinese
 parent: Languages
 ---
 
-# Chinese, Yue (yue)
+# Yue Chinese (yue)
 
 ## Overview
 
-**Language**: Chinese, Yue  
+**Language**: Yue Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 2.64  
-**Digitality Score**: 5.89  
+**Grassroots Presence (z-score)**: 2.64  
+**Web Presence (z-score)**: 5.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Yue*
+*Help us collect text resources for Yue Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Yue*
+*Help us collect audio resources for Yue Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Yue*
+*Help us collect video resources for Yue Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

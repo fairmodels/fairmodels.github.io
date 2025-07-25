@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sama, Balangingih
+title: Balangingih Sama
 parent: Languages
 ---
 
-# Sama, Balangingih (sse)
+# Balangingih Sama (sse)
 
 ## Overview
 
-**Language**: Sama, Balangingih  
+**Language**: Balangingih Sama  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.82  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sama, Balangingih*
+*Help us collect text resources for Balangingih Sama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sama, Balangingih*
+*Help us collect audio resources for Balangingih Sama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sama, Balangingih*
+*Help us collect video resources for Balangingih Sama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

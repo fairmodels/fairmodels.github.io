@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Binukidnon, Southern
+title: Southern Binukidnon
 parent: Languages
 ---
 
-# Binukidnon, Southern (mtw)
+# Southern Binukidnon (mtw)
 
 ## Overview
 
-**Language**: Binukidnon, Southern  
+**Language**: Southern Binukidnon  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.20  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Binukidnon, Southern*
+*Help us collect text resources for Southern Binukidnon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Binukidnon, Southern*
+*Help us collect audio resources for Southern Binukidnon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Binukidnon, Southern*
+*Help us collect video resources for Southern Binukidnon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kituba  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 1.84  
-**Digitality Score**: 0.38  
+**Grassroots Presence (z-score)**: 1.84  
+**Web Presence (z-score)**: 0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kituba*
+*Help us collect text resources for Kituba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kituba*
+*Help us collect audio resources for Kituba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kituba*
+*Help us collect video resources for Kituba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

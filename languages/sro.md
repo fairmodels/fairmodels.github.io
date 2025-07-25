@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sardinian, Campidanese
+title: Campidanese Sardinian
 parent: Languages
 ---
 
-# Sardinian, Campidanese (sro)
+# Campidanese Sardinian (sro)
 
 ## Overview
 
-**Language**: Sardinian, Campidanese  
+**Language**: Campidanese Sardinian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.58  
-**Digitality Score**: 1.90  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 1.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sardinian, Campidanese*
+*Help us collect text resources for Campidanese Sardinian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sardinian, Campidanese*
+*Help us collect audio resources for Campidanese Sardinian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sardinian, Campidanese*
+*Help us collect video resources for Campidanese Sardinian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

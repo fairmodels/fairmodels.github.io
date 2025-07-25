@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Southern Guiyang
+title: Southern Guiyang Miao
 parent: Languages
 ---
 
-# Miao, Southern Guiyang (hmy)
+# Southern Guiyang Miao (hmy)
 
 ## Overview
 
-**Language**: Miao, Southern Guiyang  
+**Language**: Southern Guiyang Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.37  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Southern Guiyang*
+*Help us collect text resources for Southern Guiyang Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Southern Guiyang*
+*Help us collect audio resources for Southern Guiyang Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Southern Guiyang*
+*Help us collect video resources for Southern Guiyang Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

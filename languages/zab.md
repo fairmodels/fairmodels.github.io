@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Western Tlacolula Valley
+title: Western Tlacolula Valley Zapotec
 parent: Languages
 ---
 
-# Zapotec, Western Tlacolula Valley (zab)
+# Western Tlacolula Valley Zapotec (zab)
 
 ## Overview
 
-**Language**: Zapotec, Western Tlacolula Valley  
+**Language**: Western Tlacolula Valley Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.68  
-**Digitality Score**: 1.73  
+**Grassroots Presence (z-score)**: 0.68  
+**Web Presence (z-score)**: 1.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Western Tlacolula Valley*
+*Help us collect text resources for Western Tlacolula Valley Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Western Tlacolula Valley*
+*Help us collect audio resources for Western Tlacolula Valley Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Western Tlacolula Valley*
+*Help us collect video resources for Western Tlacolula Valley Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

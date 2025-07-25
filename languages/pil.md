@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yom  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.02  
-**Digitality Score**: 0.04  
+**Grassroots Presence (z-score)**: 1.02  
+**Web Presence (z-score)**: 0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yom*
+*Help us collect text resources for Yom*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yom*
+*Help us collect audio resources for Yom*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yom*
+*Help us collect video resources for Yom*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

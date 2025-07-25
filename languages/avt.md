@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Au  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Au*
+*Help us collect text resources for Au*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Au*
+*Help us collect audio resources for Au*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Au*
+*Help us collect video resources for Au*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

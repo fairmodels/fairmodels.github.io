@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lobi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.08  
-**Digitality Score**: 0.57  
+**Grassroots Presence (z-score)**: 1.08  
+**Web Presence (z-score)**: 0.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lobi*
+*Help us collect text resources for Lobi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lobi*
+*Help us collect audio resources for Lobi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lobi*
+*Help us collect video resources for Lobi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

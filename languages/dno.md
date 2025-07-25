@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ndrulo  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.89  
-**Digitality Score**: -0.90  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: -0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ndrulo*
+*Help us collect text resources for Ndrulo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ndrulo*
+*Help us collect audio resources for Ndrulo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ndrulo*
+*Help us collect video resources for Ndrulo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

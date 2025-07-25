@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Konni  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.43  
-**Digitality Score**: 0.60  
+**Grassroots Presence (z-score)**: 0.43  
+**Web Presence (z-score)**: 0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Konni*
+*Help us collect text resources for Konni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Konni*
+*Help us collect audio resources for Konni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Konni*
+*Help us collect video resources for Konni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

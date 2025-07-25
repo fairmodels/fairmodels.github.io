@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Menominee  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -1.04  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: -1.04  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Menominee*
+*Help us collect text resources for Menominee*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Menominee*
+*Help us collect audio resources for Menominee*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Menominee*
+*Help us collect video resources for Menominee*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

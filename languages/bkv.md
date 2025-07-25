@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bekwarra  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.53  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bekwarra*
+*Help us collect text resources for Bekwarra*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bekwarra*
+*Help us collect audio resources for Bekwarra*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bekwarra*
+*Help us collect video resources for Bekwarra*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

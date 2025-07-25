@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gbanziri  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.31  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbanziri*
+*Help us collect text resources for Gbanziri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbanziri*
+*Help us collect audio resources for Gbanziri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbanziri*
+*Help us collect video resources for Gbanziri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

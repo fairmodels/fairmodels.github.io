@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gavião do Jiparaná  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: 0.27  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: 0.27  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gavião do Jiparaná*
+*Help us collect text resources for Gavião do Jiparaná*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gavião do Jiparaná*
+*Help us collect audio resources for Gavião do Jiparaná*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gavião do Jiparaná*
+*Help us collect video resources for Gavião do Jiparaná*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

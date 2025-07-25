@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Opata  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Opata*
+*Help us collect text resources for Opata*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Opata*
+*Help us collect audio resources for Opata*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Opata*
+*Help us collect video resources for Opata*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

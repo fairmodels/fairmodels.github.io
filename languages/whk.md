@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kenyah, Wahau
+title: Wahau Kenyah
 parent: Languages
 ---
 
-# Kenyah, Wahau (whk)
+# Wahau Kenyah (whk)
 
 ## Overview
 
-**Language**: Kenyah, Wahau  
+**Language**: Wahau Kenyah  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.07  
-**Digitality Score**: 0.24  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: 0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kenyah, Wahau*
+*Help us collect text resources for Wahau Kenyah*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kenyah, Wahau*
+*Help us collect audio resources for Wahau Kenyah*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kenyah, Wahau*
+*Help us collect video resources for Wahau Kenyah*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ohlone, Northern
+title: Northern Ohlone
 parent: Languages
 ---
 
-# Ohlone, Northern (cst)
+# Northern Ohlone (cst)
 
 ## Overview
 
-**Language**: Ohlone, Northern  
+**Language**: Northern Ohlone  
 **Region/Area**: Northern America, Americas  
 **Family**: Miwok-Costanoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ohlone, Northern*
+*Help us collect text resources for Northern Ohlone*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ohlone, Northern*
+*Help us collect audio resources for Northern Ohlone*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ohlone, Northern*
+*Help us collect video resources for Northern Ohlone*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

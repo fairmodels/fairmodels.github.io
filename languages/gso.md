@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gbaya, Southwest
+title: Southwest Gbaya
 parent: Languages
 ---
 
-# Gbaya, Southwest (gso)
+# Southwest Gbaya (gso)
 
 ## Overview
 
-**Language**: Gbaya, Southwest  
+**Language**: Southwest Gbaya  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.94  
-**Digitality Score**: 0.25  
+**Grassroots Presence (z-score)**: 0.94  
+**Web Presence (z-score)**: 0.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbaya, Southwest*
+*Help us collect text resources for Southwest Gbaya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbaya, Southwest*
+*Help us collect audio resources for Southwest Gbaya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbaya, Southwest*
+*Help us collect video resources for Southwest Gbaya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Southwestern Guiyang
+title: Southwestern Guiyang Miao
 parent: Languages
 ---
 
-# Miao, Southwestern Guiyang (hmg)
+# Southwestern Guiyang Miao (hmg)
 
 ## Overview
 
-**Language**: Miao, Southwestern Guiyang  
+**Language**: Southwestern Guiyang Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.48  
-**Digitality Score**: 0.92  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: 0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Southwestern Guiyang*
+*Help us collect text resources for Southwestern Guiyang Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Southwestern Guiyang*
+*Help us collect audio resources for Southwestern Guiyang Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Southwestern Guiyang*
+*Help us collect video resources for Southwestern Guiyang Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

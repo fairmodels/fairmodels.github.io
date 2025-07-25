@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Phuie  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.28  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 0.28  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Phuie*
+*Help us collect text resources for Phuie*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Phuie*
+*Help us collect audio resources for Phuie*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Phuie*
+*Help us collect video resources for Phuie*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

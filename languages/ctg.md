@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chittagonian  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.09  
-**Digitality Score**: 0.31  
+**Grassroots Presence (z-score)**: 2.09  
+**Web Presence (z-score)**: 0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chittagonian*
+*Help us collect text resources for Chittagonian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chittagonian*
+*Help us collect audio resources for Chittagonian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chittagonian*
+*Help us collect video resources for Chittagonian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

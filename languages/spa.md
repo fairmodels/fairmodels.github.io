@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Spanish  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 3.51  
-**Digitality Score**: 8.09  
+**Grassroots Presence (z-score)**: 3.51  
+**Web Presence (z-score)**: 8.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Spanish*
+*Help us collect text resources for Spanish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Spanish*
+*Help us collect audio resources for Spanish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Spanish*
+*Help us collect video resources for Spanish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

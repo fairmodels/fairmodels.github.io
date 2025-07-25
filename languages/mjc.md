@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, San Juan Colorado
+title: San Juan Colorado Mixtec
 parent: Languages
 ---
 
-# Mixtec, San Juan Colorado (mjc)
+# San Juan Colorado Mixtec (mjc)
 
 ## Overview
 
-**Language**: Mixtec, San Juan Colorado  
+**Language**: San Juan Colorado Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.48  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, San Juan Colorado*
+*Help us collect text resources for San Juan Colorado Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, San Juan Colorado*
+*Help us collect audio resources for San Juan Colorado Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, San Juan Colorado*
+*Help us collect video resources for San Juan Colorado Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

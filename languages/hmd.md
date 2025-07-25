@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Large Flowery
+title: Large Flowery Miao
 parent: Languages
 ---
 
-# Miao, Large Flowery (hmd)
+# Large Flowery Miao (hmd)
 
 ## Overview
 
-**Language**: Miao, Large Flowery  
+**Language**: Large Flowery Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.98  
-**Digitality Score**: 1.38  
+**Grassroots Presence (z-score)**: 0.98  
+**Web Presence (z-score)**: 1.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Large Flowery*
+*Help us collect text resources for Large Flowery Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Large Flowery*
+*Help us collect audio resources for Large Flowery Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Large Flowery*
+*Help us collect video resources for Large Flowery Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

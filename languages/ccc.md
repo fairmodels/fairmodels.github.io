@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chamicuro  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.37  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chamicuro*
+*Help us collect text resources for Chamicuro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chamicuro*
+*Help us collect audio resources for Chamicuro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chamicuro*
+*Help us collect video resources for Chamicuro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

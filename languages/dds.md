@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Donno So
+title: Donno So Dogon
 parent: Languages
 ---
 
-# Dogon, Donno So (dds)
+# Donno So Dogon (dds)
 
 ## Overview
 
-**Language**: Dogon, Donno So  
+**Language**: Donno So Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.74  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: 0.74  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Donno So*
+*Help us collect text resources for Donno So Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Donno So*
+*Help us collect audio resources for Donno So Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Donno So*
+*Help us collect video resources for Donno So Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

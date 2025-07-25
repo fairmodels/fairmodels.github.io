@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Notsi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.34  
-**Digitality Score**: 0.05  
+**Grassroots Presence (z-score)**: 0.34  
+**Web Presence (z-score)**: 0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Notsi*
+*Help us collect text resources for Notsi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Notsi*
+*Help us collect audio resources for Notsi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Notsi*
+*Help us collect video resources for Notsi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

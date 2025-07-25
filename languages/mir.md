@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixe, Isthmus
+title: Isthmus Mixe
 parent: Languages
 ---
 
-# Mixe, Isthmus (mir)
+# Isthmus Mixe (mir)
 
 ## Overview
 
-**Language**: Mixe, Isthmus  
+**Language**: Isthmus Mixe  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: 0.65  
-**Digitality Score**: 0.66  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixe, Isthmus*
+*Help us collect text resources for Isthmus Mixe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixe, Isthmus*
+*Help us collect audio resources for Isthmus Mixe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixe, Isthmus*
+*Help us collect video resources for Isthmus Mixe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

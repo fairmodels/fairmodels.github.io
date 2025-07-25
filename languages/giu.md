@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mulao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mulao*
+*Help us collect text resources for Mulao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mulao*
+*Help us collect audio resources for Mulao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mulao*
+*Help us collect video resources for Mulao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

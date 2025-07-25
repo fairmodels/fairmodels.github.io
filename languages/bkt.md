@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Boloki  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.38  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Boloki*
+*Help us collect text resources for Boloki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Boloki*
+*Help us collect audio resources for Boloki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Boloki*
+*Help us collect video resources for Boloki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

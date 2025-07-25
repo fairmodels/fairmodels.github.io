@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yongkom  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.49  
-**Digitality Score**: 0.72  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: 0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yongkom*
+*Help us collect text resources for Yongkom*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yongkom*
+*Help us collect audio resources for Yongkom*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yongkom*
+*Help us collect video resources for Yongkom*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

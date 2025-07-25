@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.03  
-**Digitality Score**: 0.39  
+**Grassroots Presence (z-score)**: 1.03  
+**Web Presence (z-score)**: 0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maan*
+*Help us collect text resources for Maan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maan*
+*Help us collect audio resources for Maan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maan*
+*Help us collect video resources for Maan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

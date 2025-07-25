@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mapun  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.83  
-**Digitality Score**: 0.06  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: 0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mapun*
+*Help us collect text resources for Mapun*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mapun*
+*Help us collect audio resources for Mapun*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mapun*
+*Help us collect video resources for Mapun*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Murut, Kalabakan
+title: Kalabakan Murut
 parent: Languages
 ---
 
-# Murut, Kalabakan (kve)
+# Kalabakan Murut (kve)
 
 ## Overview
 
-**Language**: Murut, Kalabakan  
+**Language**: Kalabakan Murut  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.09  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -1.09  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Murut, Kalabakan*
+*Help us collect text resources for Kalabakan Murut*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Murut, Kalabakan*
+*Help us collect audio resources for Kalabakan Murut*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Murut, Kalabakan*
+*Help us collect video resources for Kalabakan Murut*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Najdi
+title: Najdi Arabic
 parent: Languages
 ---
 
-# Arabic, Najdi (ars)
+# Najdi Arabic (ars)
 
 ## Overview
 
-**Language**: Arabic, Najdi  
+**Language**: Najdi Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.15  
-**Digitality Score**: 3.07  
+**Grassroots Presence (z-score)**: 2.15  
+**Web Presence (z-score)**: 3.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Najdi*
+*Help us collect text resources for Najdi Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Najdi*
+*Help us collect audio resources for Najdi Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Najdi*
+*Help us collect video resources for Najdi Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

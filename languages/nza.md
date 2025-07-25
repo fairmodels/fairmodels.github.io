@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mbembe, Tigon
+title: Tigon Mbembe
 parent: Languages
 ---
 
-# Mbembe, Tigon (nza)
+# Tigon Mbembe (nza)
 
 ## Overview
 
-**Language**: Mbembe, Tigon  
+**Language**: Tigon Mbembe  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.78  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbembe, Tigon*
+*Help us collect text resources for Tigon Mbembe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbembe, Tigon*
+*Help us collect audio resources for Tigon Mbembe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbembe, Tigon*
+*Help us collect video resources for Tigon Mbembe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

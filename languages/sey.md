@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Paicoca  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: 0.34  
-**Digitality Score**: 1.08  
+**Grassroots Presence (z-score)**: 0.34  
+**Web Presence (z-score)**: 1.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Paicoca*
+*Help us collect text resources for Paicoca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Paicoca*
+*Help us collect audio resources for Paicoca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Paicoca*
+*Help us collect video resources for Paicoca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

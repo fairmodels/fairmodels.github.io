@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mbembe, Cross River
+title: Cross River Mbembe
 parent: Languages
 ---
 
-# Mbembe, Cross River (mfn)
+# Cross River Mbembe (mfn)
 
 ## Overview
 
-**Language**: Mbembe, Cross River  
+**Language**: Cross River Mbembe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.65  
-**Digitality Score**: 0.16  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbembe, Cross River*
+*Help us collect text resources for Cross River Mbembe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbembe, Cross River*
+*Help us collect audio resources for Cross River Mbembe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbembe, Cross River*
+*Help us collect video resources for Cross River Mbembe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

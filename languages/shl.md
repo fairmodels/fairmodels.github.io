@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shendu  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.93  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shendu*
+*Help us collect text resources for Shendu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shendu*
+*Help us collect audio resources for Shendu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shendu*
+*Help us collect video resources for Shendu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

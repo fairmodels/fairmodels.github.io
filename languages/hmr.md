@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hmar  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.16  
-**Digitality Score**: 0.60  
+**Grassroots Presence (z-score)**: 1.16  
+**Web Presence (z-score)**: 0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hmar*
+*Help us collect text resources for Hmar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hmar*
+*Help us collect audio resources for Hmar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hmar*
+*Help us collect video resources for Hmar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

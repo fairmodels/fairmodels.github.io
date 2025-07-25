@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Makonde  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.25  
-**Digitality Score**: 1.16  
+**Grassroots Presence (z-score)**: 1.25  
+**Web Presence (z-score)**: 1.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Makonde*
+*Help us collect text resources for Makonde*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Makonde*
+*Help us collect audio resources for Makonde*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Makonde*
+*Help us collect video resources for Makonde*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

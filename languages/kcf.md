@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ukaan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.31  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ukaan*
+*Help us collect text resources for Ukaan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ukaan*
+*Help us collect audio resources for Ukaan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ukaan*
+*Help us collect video resources for Ukaan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

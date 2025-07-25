@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Thai, Northeastern
+title: Northeastern Thai
 parent: Languages
 ---
 
-# Thai, Northeastern (tts)
+# Northeastern Thai (tts)
 
 ## Overview
 
-**Language**: Thai, Northeastern  
+**Language**: Northeastern Thai  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 1.48  
-**Digitality Score**: 0.48  
+**Grassroots Presence (z-score)**: 1.48  
+**Web Presence (z-score)**: 0.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Thai, Northeastern*
+*Help us collect text resources for Northeastern Thai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Thai, Northeastern*
+*Help us collect audio resources for Northeastern Thai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Thai, Northeastern*
+*Help us collect video resources for Northeastern Thai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

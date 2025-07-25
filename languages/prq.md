@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ashéninka, Perené
+title: Perené Ashéninka
 parent: Languages
 ---
 
-# Ashéninka, Perené (prq)
+# Perené Ashéninka (prq)
 
 ## Overview
 
-**Language**: Ashéninka, Perené  
+**Language**: Perené Ashéninka  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -0.36  
-**Digitality Score**: 0.18  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: 0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ashéninka, Perené*
+*Help us collect text resources for Perené Ashéninka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ashéninka, Perené*
+*Help us collect audio resources for Perené Ashéninka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ashéninka, Perené*
+*Help us collect video resources for Perené Ashéninka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

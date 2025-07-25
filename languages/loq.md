@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lobala  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.31  
-**Digitality Score**: 0.11  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: 0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lobala*
+*Help us collect text resources for Lobala*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lobala*
+*Help us collect audio resources for Lobala*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lobala*
+*Help us collect video resources for Lobala*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

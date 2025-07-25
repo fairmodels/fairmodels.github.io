@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Wancho
+title: Wancho Naga
 parent: Languages
 ---
 
-# Naga, Wancho (nnp)
+# Wancho Naga (nnp)
 
 ## Overview
 
-**Language**: Naga, Wancho  
+**Language**: Wancho Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.78  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Wancho*
+*Help us collect text resources for Wancho Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Wancho*
+*Help us collect audio resources for Wancho Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Wancho*
+*Help us collect video resources for Wancho Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

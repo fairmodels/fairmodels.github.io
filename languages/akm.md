@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aka-Bo  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Andamanese  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aka-Bo*
+*Help us collect text resources for Aka-Bo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aka-Bo*
+*Help us collect audio resources for Aka-Bo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aka-Bo*
+*Help us collect video resources for Aka-Bo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

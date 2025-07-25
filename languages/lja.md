@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Golpa  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.33  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Golpa*
+*Help us collect text resources for Golpa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Golpa*
+*Help us collect audio resources for Golpa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Golpa*
+*Help us collect video resources for Golpa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

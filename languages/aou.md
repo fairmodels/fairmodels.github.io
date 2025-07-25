@@ -11,20 +11,20 @@ parent: Languages
 **Language**: A’ou  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: -1.22  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.22  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for A’ou*
+*Help us collect text resources for A’ou*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for A’ou*
+*Help us collect audio resources for A’ou*
 
 ### Video Resources
-*Coming soon - help us collect video resources for A’ou*
+*Help us collect video resources for A’ou*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

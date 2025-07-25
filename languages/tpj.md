@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ñandeva  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -0.14  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ñandeva*
+*Help us collect text resources for Ñandeva*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ñandeva*
+*Help us collect audio resources for Ñandeva*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ñandeva*
+*Help us collect video resources for Ñandeva*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Brunca Sign Language  
 **Region/Area**: Central America, Americas  
 **Family**: Sign language  
-**Vitality Score**: -1.56  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -1.56  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Brunca Sign Language*
+*Help us collect text resources for Brunca Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Brunca Sign Language*
+*Help us collect audio resources for Brunca Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Brunca Sign Language*
+*Help us collect video resources for Brunca Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

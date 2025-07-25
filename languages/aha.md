@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ahanta  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.91  
-**Digitality Score**: 0.39  
+**Grassroots Presence (z-score)**: 0.91  
+**Web Presence (z-score)**: 0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ahanta*
+*Help us collect text resources for Ahanta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ahanta*
+*Help us collect audio resources for Ahanta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ahanta*
+*Help us collect video resources for Ahanta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

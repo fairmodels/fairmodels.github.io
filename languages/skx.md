@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Seko Padang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.49  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Seko Padang*
+*Help us collect text resources for Seko Padang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Seko Padang*
+*Help us collect audio resources for Seko Padang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Seko Padang*
+*Help us collect video resources for Seko Padang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

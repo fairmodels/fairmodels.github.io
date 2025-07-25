@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Jauja Wanca
+title: Jauja Wanca Quechua
 parent: Languages
 ---
 
-# Quechua, Jauja Wanca (qxw)
+# Jauja Wanca Quechua (qxw)
 
 ## Overview
 
-**Language**: Quechua, Jauja Wanca  
+**Language**: Jauja Wanca Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -0.48  
-**Digitality Score**: 0.64  
+**Grassroots Presence (z-score)**: -0.48  
+**Web Presence (z-score)**: 0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Jauja Wanca*
+*Help us collect text resources for Jauja Wanca Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Jauja Wanca*
+*Help us collect audio resources for Jauja Wanca Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Jauja Wanca*
+*Help us collect video resources for Jauja Wanca Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

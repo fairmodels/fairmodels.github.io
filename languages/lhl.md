@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lohar, Lahul
+title: Lahul Lohar
 parent: Languages
 ---
 
-# Lohar, Lahul (lhl)
+# Lahul Lohar (lhl)
 
 ## Overview
 
-**Language**: Lohar, Lahul  
+**Language**: Lahul Lohar  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: -0.25  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lohar, Lahul*
+*Help us collect text resources for Lahul Lohar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lohar, Lahul*
+*Help us collect audio resources for Lahul Lohar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lohar, Lahul*
+*Help us collect video resources for Lahul Lohar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

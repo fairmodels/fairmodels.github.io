@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Highland Puebla
+title: Highland Puebla Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Highland Puebla (azz)
+# Highland Puebla Nahuatl (azz)
 
 ## Overview
 
-**Language**: Nahuatl, Highland Puebla  
+**Language**: Highland Puebla Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.87  
-**Digitality Score**: 1.20  
+**Grassroots Presence (z-score)**: 0.87  
+**Web Presence (z-score)**: 1.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Highland Puebla*
+*Help us collect text resources for Highland Puebla Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Highland Puebla*
+*Help us collect audio resources for Highland Puebla Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Highland Puebla*
+*Help us collect video resources for Highland Puebla Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

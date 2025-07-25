@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Efate, North
+title: North Efate
 parent: Languages
 ---
 
-# Efate, North (llp)
+# North Efate (llp)
 
 ## Overview
 
-**Language**: Efate, North  
+**Language**: North Efate  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.55  
-**Digitality Score**: 0.46  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Efate, North*
+*Help us collect text resources for North Efate*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Efate, North*
+*Help us collect audio resources for North Efate*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Efate, North*
+*Help us collect video resources for North Efate*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

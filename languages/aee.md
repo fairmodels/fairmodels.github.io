@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pashai, Northeast
+title: Northeast Pashai
 parent: Languages
 ---
 
-# Pashai, Northeast (aee)
+# Northeast Pashai (aee)
 
 ## Overview
 
-**Language**: Pashai, Northeast  
+**Language**: Northeast Pashai  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pashai, Northeast*
+*Help us collect text resources for Northeast Pashai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pashai, Northeast*
+*Help us collect audio resources for Northeast Pashai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pashai, Northeast*
+*Help us collect video resources for Northeast Pashai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

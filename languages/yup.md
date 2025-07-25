@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yukpa  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: 0.02  
-**Digitality Score**: 0.31  
+**Grassroots Presence (z-score)**: 0.02  
+**Web Presence (z-score)**: 0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yukpa*
+*Help us collect text resources for Yukpa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yukpa*
+*Help us collect audio resources for Yukpa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yukpa*
+*Help us collect video resources for Yukpa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

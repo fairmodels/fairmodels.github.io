@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Torwali  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.40  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Torwali*
+*Help us collect text resources for Torwali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Torwali*
+*Help us collect audio resources for Torwali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Torwali*
+*Help us collect video resources for Torwali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

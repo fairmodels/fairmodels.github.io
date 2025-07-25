@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Magdalena Peñasco
+title: Magdalena Peñasco Mixtec
 parent: Languages
 ---
 
-# Mixtec, Magdalena Peñasco (xtm)
+# Magdalena Peñasco Mixtec (xtm)
 
 ## Overview
 
-**Language**: Mixtec, Magdalena Peñasco  
+**Language**: Magdalena Peñasco Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.04  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: 0.04  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Magdalena Peñasco*
+*Help us collect text resources for Magdalena Peñasco Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Magdalena Peñasco*
+*Help us collect audio resources for Magdalena Peñasco Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Magdalena Peñasco*
+*Help us collect video resources for Magdalena Peñasco Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

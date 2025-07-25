@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Greenlandic  
 **Region/Area**: Northern America, Americas  
 **Family**: Eskimo-Aleut  
-**Vitality Score**: 2.03  
-**Digitality Score**: 2.56  
+**Grassroots Presence (z-score)**: 2.03  
+**Web Presence (z-score)**: 2.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Greenlandic*
+*Help us collect text resources for Greenlandic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Greenlandic*
+*Help us collect audio resources for Greenlandic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Greenlandic*
+*Help us collect video resources for Greenlandic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

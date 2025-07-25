@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Deg  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.74  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: 0.74  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Deg*
+*Help us collect text resources for Deg*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Deg*
+*Help us collect audio resources for Deg*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Deg*
+*Help us collect video resources for Deg*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

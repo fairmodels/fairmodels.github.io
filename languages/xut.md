@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kuthant  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kuthant*
+*Help us collect text resources for Kuthant*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kuthant*
+*Help us collect audio resources for Kuthant*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kuthant*
+*Help us collect video resources for Kuthant*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

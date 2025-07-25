@@ -1,30 +1,30 @@
 ---
 layout: default
-title: German, Pennsylvania
+title: Pennsylvania German
 parent: Languages
 ---
 
-# German, Pennsylvania (pdc)
+# Pennsylvania German (pdc)
 
 ## Overview
 
-**Language**: German, Pennsylvania  
+**Language**: Pennsylvania German  
 **Region/Area**: Northern America, Americas  
 **Family**: Indo-European  
-**Vitality Score**: 0.95  
-**Digitality Score**: 1.41  
+**Grassroots Presence (z-score)**: 0.95  
+**Web Presence (z-score)**: 1.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for German, Pennsylvania*
+*Help us collect text resources for Pennsylvania German*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for German, Pennsylvania*
+*Help us collect audio resources for Pennsylvania German*
 
 ### Video Resources
-*Coming soon - help us collect video resources for German, Pennsylvania*
+*Help us collect video resources for Pennsylvania German*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

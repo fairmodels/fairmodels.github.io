@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nzema  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.34  
-**Digitality Score**: 1.39  
+**Grassroots Presence (z-score)**: 1.34  
+**Web Presence (z-score)**: 1.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nzema*
+*Help us collect text resources for Nzema*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nzema*
+*Help us collect audio resources for Nzema*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nzema*
+*Help us collect video resources for Nzema*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

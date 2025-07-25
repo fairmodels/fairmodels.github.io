@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Daai
+title: Daai Chin
 parent: Languages
 ---
 
-# Chin, Daai (dao)
+# Daai Chin (dao)
 
 ## Overview
 
-**Language**: Chin, Daai  
+**Language**: Daai Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.72  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: 0.72  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Daai*
+*Help us collect text resources for Daai Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Daai*
+*Help us collect audio resources for Daai Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Daai*
+*Help us collect video resources for Daai Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

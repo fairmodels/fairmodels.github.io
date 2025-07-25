@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Itneg, Masadiit
+title: Masadiit Itneg
 parent: Languages
 ---
 
-# Itneg, Masadiit (tis)
+# Masadiit Itneg (tis)
 
 ## Overview
 
-**Language**: Itneg, Masadiit  
+**Language**: Masadiit Itneg  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.20  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Itneg, Masadiit*
+*Help us collect text resources for Masadiit Itneg*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Itneg, Masadiit*
+*Help us collect audio resources for Masadiit Itneg*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Itneg, Masadiit*
+*Help us collect video resources for Masadiit Itneg*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

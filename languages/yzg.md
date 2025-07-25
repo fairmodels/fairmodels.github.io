@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Buyang, E’ma
+title: E’ma Buyang
 parent: Languages
 ---
 
-# Buyang, E’ma (yzg)
+# E’ma Buyang (yzg)
 
 ## Overview
 
-**Language**: Buyang, E’ma  
+**Language**: E’ma Buyang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: -0.75  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.75  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Buyang, E’ma*
+*Help us collect text resources for E’ma Buyang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Buyang, E’ma*
+*Help us collect audio resources for E’ma Buyang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Buyang, E’ma*
+*Help us collect video resources for E’ma Buyang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

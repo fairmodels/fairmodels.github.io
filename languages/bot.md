@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bongo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.64  
-**Digitality Score**: 0.47  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bongo*
+*Help us collect text resources for Bongo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bongo*
+*Help us collect audio resources for Bongo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bongo*
+*Help us collect video resources for Bongo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

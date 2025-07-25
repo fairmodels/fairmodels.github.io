@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ngas  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.78  
-**Digitality Score**: 0.21  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ngas*
+*Help us collect text resources for Ngas*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ngas*
+*Help us collect audio resources for Ngas*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ngas*
+*Help us collect video resources for Ngas*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

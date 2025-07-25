@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kurumba, Betta
+title: Betta Kurumba
 parent: Languages
 ---
 
-# Kurumba, Betta (xub)
+# Betta Kurumba (xub)
 
 ## Overview
 
-**Language**: Kurumba, Betta  
+**Language**: Betta Kurumba  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.70  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: 0.70  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kurumba, Betta*
+*Help us collect text resources for Betta Kurumba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kurumba, Betta*
+*Help us collect audio resources for Betta Kurumba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kurumba, Betta*
+*Help us collect video resources for Betta Kurumba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

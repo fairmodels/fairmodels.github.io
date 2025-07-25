@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Altai, Southern
+title: Southern Altai
 parent: Languages
 ---
 
-# Altai, Southern (alt)
+# Southern Altai (alt)
 
 ## Overview
 
-**Language**: Altai, Southern  
+**Language**: Southern Altai  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: 1.10  
-**Digitality Score**: 1.57  
+**Grassroots Presence (z-score)**: 1.10  
+**Web Presence (z-score)**: 1.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Altai, Southern*
+*Help us collect text resources for Southern Altai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Altai, Southern*
+*Help us collect audio resources for Southern Altai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Altai, Southern*
+*Help us collect video resources for Southern Altai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

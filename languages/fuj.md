@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ko  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.09  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -0.09  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ko*
+*Help us collect text resources for Ko*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ko*
+*Help us collect audio resources for Ko*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ko*
+*Help us collect video resources for Ko*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

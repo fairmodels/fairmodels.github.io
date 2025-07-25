@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Apal  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.37  
-**Digitality Score**: -0.00  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: -0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Apal*
+*Help us collect text resources for Apal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Apal*
+*Help us collect audio resources for Apal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Apal*
+*Help us collect video resources for Apal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

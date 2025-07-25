@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saxon, Upper
+title: Upper Saxon
 parent: Languages
 ---
 
-# Saxon, Upper (sxu)
+# Upper Saxon (sxu)
 
 ## Overview
 
-**Language**: Saxon, Upper  
+**Language**: Upper Saxon  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.91  
-**Digitality Score**: -0.36  
+**Grassroots Presence (z-score)**: 0.91  
+**Web Presence (z-score)**: -0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saxon, Upper*
+*Help us collect text resources for Upper Saxon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saxon, Upper*
+*Help us collect audio resources for Upper Saxon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saxon, Upper*
+*Help us collect video resources for Upper Saxon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kete  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.67  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kete*
+*Help us collect text resources for Kete*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kete*
+*Help us collect audio resources for Kete*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kete*
+*Help us collect video resources for Kete*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

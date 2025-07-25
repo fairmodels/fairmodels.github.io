@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbat  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbat*
+*Help us collect text resources for Mbat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbat*
+*Help us collect audio resources for Mbat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbat*
+*Help us collect video resources for Mbat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

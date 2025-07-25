@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yamben  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.93  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yamben*
+*Help us collect text resources for Yamben*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yamben*
+*Help us collect audio resources for Yamben*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yamben*
+*Help us collect video resources for Yamben*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

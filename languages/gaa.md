@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ga  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.42  
-**Digitality Score**: 1.68  
+**Grassroots Presence (z-score)**: 1.42  
+**Web Presence (z-score)**: 1.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ga*
+*Help us collect text resources for Ga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ga*
+*Help us collect audio resources for Ga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ga*
+*Help us collect video resources for Ga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

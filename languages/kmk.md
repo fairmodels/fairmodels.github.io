@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kalinga, Limos
+title: Limos Kalinga
 parent: Languages
 ---
 
-# Kalinga, Limos (kmk)
+# Limos Kalinga (kmk)
 
 ## Overview
 
-**Language**: Kalinga, Limos  
+**Language**: Limos Kalinga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.58  
-**Digitality Score**: 0.71  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 0.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalinga, Limos*
+*Help us collect text resources for Limos Kalinga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalinga, Limos*
+*Help us collect audio resources for Limos Kalinga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalinga, Limos*
+*Help us collect video resources for Limos Kalinga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

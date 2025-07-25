@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Oneida  
 **Region/Area**: Northern America, Americas  
 **Family**: Iroquoian  
-**Vitality Score**: -0.87  
-**Digitality Score**: 0.38  
+**Grassroots Presence (z-score)**: -0.87  
+**Web Presence (z-score)**: 0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Oneida*
+*Help us collect text resources for Oneida*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Oneida*
+*Help us collect audio resources for Oneida*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Oneida*
+*Help us collect video resources for Oneida*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

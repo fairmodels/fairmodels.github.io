@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Tutsa
+title: Tutsa Naga
 parent: Languages
 ---
 
-# Naga, Tutsa (tvt)
+# Tutsa Naga (tvt)
 
 ## Overview
 
-**Language**: Naga, Tutsa  
+**Language**: Tutsa Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.67  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Tutsa*
+*Help us collect text resources for Tutsa Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Tutsa*
+*Help us collect audio resources for Tutsa Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Tutsa*
+*Help us collect video resources for Tutsa Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

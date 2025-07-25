@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bum  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.63  
-**Digitality Score**: 0.41  
+**Grassroots Presence (z-score)**: 0.63  
+**Web Presence (z-score)**: 0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bum*
+*Help us collect text resources for Bum*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bum*
+*Help us collect audio resources for Bum*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bum*
+*Help us collect video resources for Bum*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

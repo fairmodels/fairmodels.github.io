@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mandinka  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.87  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: 1.87  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mandinka*
+*Help us collect text resources for Mandinka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mandinka*
+*Help us collect audio resources for Mandinka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mandinka*
+*Help us collect video resources for Mandinka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

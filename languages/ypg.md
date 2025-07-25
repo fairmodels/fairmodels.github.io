@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Phola  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.27  
-**Digitality Score**: -0.08  
+**Grassroots Presence (z-score)**: 0.27  
+**Web Presence (z-score)**: -0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Phola*
+*Help us collect text resources for Phola*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Phola*
+*Help us collect audio resources for Phola*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Phola*
+*Help us collect video resources for Phola*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

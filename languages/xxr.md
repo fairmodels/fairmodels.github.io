@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Koropó  
 **Region/Area**: South America, Americas  
 **Family**: Purian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koropó*
+*Help us collect text resources for Koropó*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koropó*
+*Help us collect audio resources for Koropó*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koropó*
+*Help us collect video resources for Koropó*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

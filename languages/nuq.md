@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nukumanu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.22  
-**Digitality Score**: 0.05  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: 0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nukumanu*
+*Help us collect text resources for Nukumanu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nukumanu*
+*Help us collect audio resources for Nukumanu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nukumanu*
+*Help us collect video resources for Nukumanu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

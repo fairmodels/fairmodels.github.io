@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Chachapoyas
+title: Chachapoyas Quechua
 parent: Languages
 ---
 
-# Quechua, Chachapoyas (quk)
+# Chachapoyas Quechua (quk)
 
 ## Overview
 
-**Language**: Quechua, Chachapoyas  
+**Language**: Chachapoyas Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -0.23  
-**Digitality Score**: 0.45  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: 0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Chachapoyas*
+*Help us collect text resources for Chachapoyas Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Chachapoyas*
+*Help us collect audio resources for Chachapoyas Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Chachapoyas*
+*Help us collect video resources for Chachapoyas Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yaqui  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.01  
-**Digitality Score**: 1.02  
+**Grassroots Presence (z-score)**: 0.01  
+**Web Presence (z-score)**: 1.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yaqui*
+*Help us collect text resources for Yaqui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yaqui*
+*Help us collect audio resources for Yaqui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yaqui*
+*Help us collect video resources for Yaqui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

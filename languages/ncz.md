@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Natchez  
 **Region/Area**: Northern America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Natchez*
+*Help us collect text resources for Natchez*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Natchez*
+*Help us collect audio resources for Natchez*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Natchez*
+*Help us collect video resources for Natchez*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

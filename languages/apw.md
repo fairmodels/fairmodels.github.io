@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Apache, Western
+title: Western Apache
 parent: Languages
 ---
 
-# Apache, Western (apw)
+# Western Apache (apw)
 
 ## Overview
 
-**Language**: Apache, Western  
+**Language**: Western Apache  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: 0.12  
-**Digitality Score**: 1.04  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 1.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Apache, Western*
+*Help us collect text resources for Western Apache*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Apache, Western*
+*Help us collect audio resources for Western Apache*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Apache, Western*
+*Help us collect video resources for Western Apache*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

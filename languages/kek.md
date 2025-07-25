@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Qꞌeqchiꞌ  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 1.15  
-**Digitality Score**: 2.01  
+**Grassroots Presence (z-score)**: 1.15  
+**Web Presence (z-score)**: 2.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Qꞌeqchiꞌ*
+*Help us collect text resources for Qꞌeqchiꞌ*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Qꞌeqchiꞌ*
+*Help us collect audio resources for Qꞌeqchiꞌ*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Qꞌeqchiꞌ*
+*Help us collect video resources for Qꞌeqchiꞌ*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

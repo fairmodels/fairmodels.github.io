@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Samogitian  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.05  
-**Digitality Score**: 1.15  
+**Grassroots Presence (z-score)**: 1.05  
+**Web Presence (z-score)**: 1.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Samogitian*
+*Help us collect text resources for Samogitian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Samogitian*
+*Help us collect audio resources for Samogitian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Samogitian*
+*Help us collect video resources for Samogitian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

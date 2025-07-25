@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Hindko, Southern
+title: Southern Hindko
 parent: Languages
 ---
 
-# Hindko, Southern (hnd)
+# Southern Hindko (hnd)
 
 ## Overview
 
-**Language**: Hindko, Southern  
+**Language**: Southern Hindko  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.18  
-**Digitality Score**: 0.80  
+**Grassroots Presence (z-score)**: 1.18  
+**Web Presence (z-score)**: 0.80  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hindko, Southern*
+*Help us collect text resources for Southern Hindko*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hindko, Southern*
+*Help us collect audio resources for Southern Hindko*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hindko, Southern*
+*Help us collect video resources for Southern Hindko*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

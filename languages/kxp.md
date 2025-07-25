@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Koli, Wadiyari
+title: Wadiyari Koli
 parent: Languages
 ---
 
-# Koli, Wadiyari (kxp)
+# Wadiyari Koli (kxp)
 
 ## Overview
 
-**Language**: Koli, Wadiyari  
+**Language**: Wadiyari Koli  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.07  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: 1.07  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koli, Wadiyari*
+*Help us collect text resources for Wadiyari Koli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koli, Wadiyari*
+*Help us collect audio resources for Wadiyari Koli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koli, Wadiyari*
+*Help us collect video resources for Wadiyari Koli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

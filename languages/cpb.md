@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ashéninka, Ucayali-Yurúa
+title: Ucayali-Yurúa Ashéninka
 parent: Languages
 ---
 
-# Ashéninka, Ucayali-Yurúa (cpb)
+# Ucayali-Yurúa Ashéninka (cpb)
 
 ## Overview
 
-**Language**: Ashéninka, Ucayali-Yurúa  
+**Language**: Ucayali-Yurúa Ashéninka  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.26  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ashéninka, Ucayali-Yurúa*
+*Help us collect text resources for Ucayali-Yurúa Ashéninka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ashéninka, Ucayali-Yurúa*
+*Help us collect audio resources for Ucayali-Yurúa Ashéninka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ashéninka, Ucayali-Yurúa*
+*Help us collect video resources for Ucayali-Yurúa Ashéninka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

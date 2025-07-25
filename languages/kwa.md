@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dâw  
 **Region/Area**: South America, Americas  
 **Family**: Puinavean  
-**Vitality Score**: -0.32  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: -0.32  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dâw*
+*Help us collect text resources for Dâw*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dâw*
+*Help us collect audio resources for Dâw*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dâw*
+*Help us collect video resources for Dâw*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

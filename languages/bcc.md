@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Balochi, Southern
+title: Southern Balochi
 parent: Languages
 ---
 
-# Balochi, Southern (bcc)
+# Southern Balochi (bcc)
 
 ## Overview
 
-**Language**: Balochi, Southern  
+**Language**: Southern Balochi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.32  
-**Digitality Score**: 1.56  
+**Grassroots Presence (z-score)**: 1.32  
+**Web Presence (z-score)**: 1.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Balochi, Southern*
+*Help us collect text resources for Southern Balochi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Balochi, Southern*
+*Help us collect audio resources for Southern Balochi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Balochi, Southern*
+*Help us collect video resources for Southern Balochi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

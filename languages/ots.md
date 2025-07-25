@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Otomí, Estado de México
+title: Estado de México Otomí
 parent: Languages
 ---
 
-# Otomí, Estado de México (ots)
+# Estado de México Otomí (ots)
 
 ## Overview
 
-**Language**: Otomí, Estado de México  
+**Language**: Estado de México Otomí  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.64  
-**Digitality Score**: 0.59  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 0.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Otomí, Estado de México*
+*Help us collect text resources for Estado de México Otomí*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Otomí, Estado de México*
+*Help us collect audio resources for Estado de México Otomí*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Otomí, Estado de México*
+*Help us collect video resources for Estado de México Otomí*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

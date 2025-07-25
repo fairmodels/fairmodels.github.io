@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rohingya  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.97  
-**Digitality Score**: 1.12  
+**Grassroots Presence (z-score)**: 0.97  
+**Web Presence (z-score)**: 1.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rohingya*
+*Help us collect text resources for Rohingya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rohingya*
+*Help us collect audio resources for Rohingya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rohingya*
+*Help us collect video resources for Rohingya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

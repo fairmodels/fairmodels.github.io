@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dyarim  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.08  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dyarim*
+*Help us collect text resources for Dyarim*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dyarim*
+*Help us collect audio resources for Dyarim*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dyarim*
+*Help us collect video resources for Dyarim*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

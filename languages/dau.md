@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Daju, Dar Sila
+title: Dar Sila Daju
 parent: Languages
 ---
 
-# Daju, Dar Sila (dau)
+# Dar Sila Daju (dau)
 
 ## Overview
 
-**Language**: Daju, Dar Sila  
+**Language**: Dar Sila Daju  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.39  
-**Digitality Score**: -0.66  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: -0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Daju, Dar Sila*
+*Help us collect text resources for Dar Sila Daju*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Daju, Dar Sila*
+*Help us collect audio resources for Dar Sila Daju*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Daju, Dar Sila*
+*Help us collect video resources for Dar Sila Daju*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gbe, Ayizo
+title: Ayizo Gbe
 parent: Languages
 ---
 
-# Gbe, Ayizo (ayb)
+# Ayizo Gbe (ayb)
 
 ## Overview
 
-**Language**: Gbe, Ayizo  
+**Language**: Ayizo Gbe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.76  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.76  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbe, Ayizo*
+*Help us collect text resources for Ayizo Gbe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbe, Ayizo*
+*Help us collect audio resources for Ayizo Gbe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbe, Ayizo*
+*Help us collect video resources for Ayizo Gbe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

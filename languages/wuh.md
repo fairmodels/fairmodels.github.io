@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wutunhua  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Mixed language  
-**Vitality Score**: 0.12  
-**Digitality Score**: -0.53  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: -0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wutunhua*
+*Help us collect text resources for Wutunhua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wutunhua*
+*Help us collect audio resources for Wutunhua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wutunhua*
+*Help us collect video resources for Wutunhua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

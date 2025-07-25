@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Swahili, Congo
+title: Congo Swahili
 parent: Languages
 ---
 
-# Swahili, Congo (swc)
+# Congo Swahili (swc)
 
 ## Overview
 
-**Language**: Swahili, Congo  
+**Language**: Congo Swahili  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.07  
-**Digitality Score**: 1.48  
+**Grassroots Presence (z-score)**: 2.07  
+**Web Presence (z-score)**: 1.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Swahili, Congo*
+*Help us collect text resources for Congo Swahili*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Swahili, Congo*
+*Help us collect audio resources for Congo Swahili*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Swahili, Congo*
+*Help us collect video resources for Congo Swahili*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

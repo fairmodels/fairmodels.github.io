@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bobo Madaré, Southern
+title: Southern Bobo Madaré
 parent: Languages
 ---
 
-# Bobo Madaré, Southern (bwq)
+# Southern Bobo Madaré (bwq)
 
 ## Overview
 
-**Language**: Bobo Madaré, Southern  
+**Language**: Southern Bobo Madaré  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.97  
-**Digitality Score**: 0.31  
+**Grassroots Presence (z-score)**: 0.97  
+**Web Presence (z-score)**: 0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bobo Madaré, Southern*
+*Help us collect text resources for Southern Bobo Madaré*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bobo Madaré, Southern*
+*Help us collect audio resources for Southern Bobo Madaré*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bobo Madaré, Southern*
+*Help us collect video resources for Southern Bobo Madaré*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

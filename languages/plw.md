@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Palawano, Brooke’s Point
+title: Brooke’s Point Palawano
 parent: Languages
 ---
 
-# Palawano, Brooke’s Point (plw)
+# Brooke’s Point Palawano (plw)
 
 ## Overview
 
-**Language**: Palawano, Brooke’s Point  
+**Language**: Brooke’s Point Palawano  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.60  
-**Digitality Score**: 0.85  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: 0.85  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Palawano, Brooke’s Point*
+*Help us collect text resources for Brooke’s Point Palawano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Palawano, Brooke’s Point*
+*Help us collect audio resources for Brooke’s Point Palawano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Palawano, Brooke’s Point*
+*Help us collect video resources for Brooke’s Point Palawano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

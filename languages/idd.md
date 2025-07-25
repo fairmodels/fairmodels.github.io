@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ede Idaca  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.94  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: 0.94  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ede Idaca*
+*Help us collect text resources for Ede Idaca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ede Idaca*
+*Help us collect audio resources for Ede Idaca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ede Idaca*
+*Help us collect video resources for Ede Idaca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

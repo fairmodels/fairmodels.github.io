@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kinnauri, Chitkuli
+title: Chitkuli Kinnauri
 parent: Languages
 ---
 
-# Kinnauri, Chitkuli (cik)
+# Chitkuli Kinnauri (cik)
 
 ## Overview
 
-**Language**: Kinnauri, Chitkuli  
+**Language**: Chitkuli Kinnauri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.01  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kinnauri, Chitkuli*
+*Help us collect text resources for Chitkuli Kinnauri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kinnauri, Chitkuli*
+*Help us collect audio resources for Chitkuli Kinnauri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kinnauri, Chitkuli*
+*Help us collect video resources for Chitkuli Kinnauri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

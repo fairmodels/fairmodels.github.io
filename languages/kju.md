@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kashaya  
 **Region/Area**: Northern America, Americas  
 **Family**: Pomoan  
-**Vitality Score**: -1.07  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: -1.07  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kashaya*
+*Help us collect text resources for Kashaya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kashaya*
+*Help us collect audio resources for Kashaya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kashaya*
+*Help us collect video resources for Kashaya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

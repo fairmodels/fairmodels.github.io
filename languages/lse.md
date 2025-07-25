@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lusengo  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.42  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lusengo*
+*Help us collect text resources for Lusengo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lusengo*
+*Help us collect audio resources for Lusengo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lusengo*
+*Help us collect video resources for Lusengo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

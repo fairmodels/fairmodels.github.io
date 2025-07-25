@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karkar-Yuri  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Pauwasi  
-**Vitality Score**: 0.29  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karkar-Yuri*
+*Help us collect text resources for Karkar-Yuri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karkar-Yuri*
+*Help us collect audio resources for Karkar-Yuri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karkar-Yuri*
+*Help us collect video resources for Karkar-Yuri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

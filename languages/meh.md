@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Southwestern Tlaxiaco
+title: Southwestern Tlaxiaco Mixtec
 parent: Languages
 ---
 
-# Mixtec, Southwestern Tlaxiaco (meh)
+# Southwestern Tlaxiaco Mixtec (meh)
 
 ## Overview
 
-**Language**: Mixtec, Southwestern Tlaxiaco  
+**Language**: Southwestern Tlaxiaco Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.51  
-**Digitality Score**: 0.59  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 0.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Southwestern Tlaxiaco*
+*Help us collect text resources for Southwestern Tlaxiaco Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Southwestern Tlaxiaco*
+*Help us collect audio resources for Southwestern Tlaxiaco Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Southwestern Tlaxiaco*
+*Help us collect video resources for Southwestern Tlaxiaco Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

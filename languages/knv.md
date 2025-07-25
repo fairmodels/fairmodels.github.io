@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tabo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: South-Central Papuan  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.41  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tabo*
+*Help us collect text resources for Tabo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tabo*
+*Help us collect audio resources for Tabo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tabo*
+*Help us collect video resources for Tabo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

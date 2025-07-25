@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Afitti  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -0.04  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Afitti*
+*Help us collect text resources for Afitti*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Afitti*
+*Help us collect audio resources for Afitti*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Afitti*
+*Help us collect video resources for Afitti*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

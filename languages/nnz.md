@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nda’nda’  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nda’nda’*
+*Help us collect text resources for Nda’nda’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nda’nda’*
+*Help us collect audio resources for Nda’nda’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nda’nda’*
+*Help us collect video resources for Nda’nda’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

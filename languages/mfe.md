@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Morisyen  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 1.77  
-**Digitality Score**: 2.27  
+**Grassroots Presence (z-score)**: 1.77  
+**Web Presence (z-score)**: 2.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Morisyen*
+*Help us collect text resources for Morisyen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Morisyen*
+*Help us collect audio resources for Morisyen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Morisyen*
+*Help us collect video resources for Morisyen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

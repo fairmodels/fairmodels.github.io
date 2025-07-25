@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kambaata  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.42  
-**Digitality Score**: 1.36  
+**Grassroots Presence (z-score)**: 1.42  
+**Web Presence (z-score)**: 1.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kambaata*
+*Help us collect text resources for Kambaata*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kambaata*
+*Help us collect audio resources for Kambaata*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kambaata*
+*Help us collect video resources for Kambaata*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

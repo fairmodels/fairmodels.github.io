@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Karen, Pwo Eastern
+title: Pwo Eastern Karen
 parent: Languages
 ---
 
-# Karen, Pwo Eastern (kjp)
+# Pwo Eastern Karen (kjp)
 
 ## Overview
 
-**Language**: Karen, Pwo Eastern  
+**Language**: Pwo Eastern Karen  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.16  
-**Digitality Score**: 0.58  
+**Grassroots Presence (z-score)**: 1.16  
+**Web Presence (z-score)**: 0.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karen, Pwo Eastern*
+*Help us collect text resources for Pwo Eastern Karen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karen, Pwo Eastern*
+*Help us collect audio resources for Pwo Eastern Karen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karen, Pwo Eastern*
+*Help us collect video resources for Pwo Eastern Karen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

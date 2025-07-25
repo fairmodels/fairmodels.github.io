@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Idio  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.34  
-**Digitality Score**: -0.65  
+**Grassroots Presence (z-score)**: -0.34  
+**Web Presence (z-score)**: -0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Idio*
+*Help us collect text resources for Idio*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Idio*
+*Help us collect audio resources for Idio*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Idio*
+*Help us collect video resources for Idio*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

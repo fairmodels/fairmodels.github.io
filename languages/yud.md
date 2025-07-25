@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Judeo-Tripolitanian
+title: Judeo-Tripolitanian Arabic
 parent: Languages
 ---
 
-# Arabic, Judeo-Tripolitanian (yud)
+# Judeo-Tripolitanian Arabic (yud)
 
 ## Overview
 
-**Language**: Arabic, Judeo-Tripolitanian  
+**Language**: Judeo-Tripolitanian Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.12  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Judeo-Tripolitanian*
+*Help us collect text resources for Judeo-Tripolitanian Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Judeo-Tripolitanian*
+*Help us collect audio resources for Judeo-Tripolitanian Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Judeo-Tripolitanian*
+*Help us collect video resources for Judeo-Tripolitanian Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

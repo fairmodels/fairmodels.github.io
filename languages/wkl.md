@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kalanadi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: -0.25  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalanadi*
+*Help us collect text resources for Kalanadi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalanadi*
+*Help us collect audio resources for Kalanadi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalanadi*
+*Help us collect video resources for Kalanadi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

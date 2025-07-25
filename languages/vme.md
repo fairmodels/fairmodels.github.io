@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Masela, East
+title: East Masela
 parent: Languages
 ---
 
-# Masela, East (vme)
+# East Masela (vme)
 
 ## Overview
 
-**Language**: Masela, East  
+**Language**: East Masela  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.77  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.77  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Masela, East*
+*Help us collect text resources for East Masela*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Masela, East*
+*Help us collect audio resources for East Masela*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Masela, East*
+*Help us collect video resources for East Masela*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

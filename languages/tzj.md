@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tz’utujil  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.80  
-**Digitality Score**: 1.58  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: 1.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tz’utujil*
+*Help us collect text resources for Tz’utujil*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tz’utujil*
+*Help us collect audio resources for Tz’utujil*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tz’utujil*
+*Help us collect video resources for Tz’utujil*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

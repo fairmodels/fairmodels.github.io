@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Murut, Timugon
+title: Timugon Murut
 parent: Languages
 ---
 
-# Murut, Timugon (tih)
+# Timugon Murut (tih)
 
 ## Overview
 
-**Language**: Murut, Timugon  
+**Language**: Timugon Murut  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.09  
-**Digitality Score**: 0.15  
+**Grassroots Presence (z-score)**: -1.09  
+**Web Presence (z-score)**: 0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Murut, Timugon*
+*Help us collect text resources for Timugon Murut*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Murut, Timugon*
+*Help us collect audio resources for Timugon Murut*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Murut, Timugon*
+*Help us collect video resources for Timugon Murut*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

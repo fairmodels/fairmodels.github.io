@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Paraguayan Sign Language  
 **Region/Area**: South America, Americas  
 **Family**: Sign language  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Paraguayan Sign Language*
+*Help us collect text resources for Paraguayan Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Paraguayan Sign Language*
+*Help us collect audio resources for Paraguayan Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Paraguayan Sign Language*
+*Help us collect video resources for Paraguayan Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

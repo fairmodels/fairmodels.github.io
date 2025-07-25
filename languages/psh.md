@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pashai, Southwest
+title: Southwest Pashai
 parent: Languages
 ---
 
-# Pashai, Southwest (psh)
+# Southwest Pashai (psh)
 
 ## Overview
 
-**Language**: Pashai, Southwest  
+**Language**: Southwest Pashai  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.52  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pashai, Southwest*
+*Help us collect text resources for Southwest Pashai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pashai, Southwest*
+*Help us collect audio resources for Southwest Pashai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pashai, Southwest*
+*Help us collect video resources for Southwest Pashai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

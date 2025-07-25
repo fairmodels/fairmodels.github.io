@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Temascaltepec
+title: Temascaltepec Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Temascaltepec (nhv)
+# Temascaltepec Nahuatl (nhv)
 
 ## Overview
 
-**Language**: Nahuatl, Temascaltepec  
+**Language**: Temascaltepec Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.52  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: -0.52  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Temascaltepec*
+*Help us collect text resources for Temascaltepec Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Temascaltepec*
+*Help us collect audio resources for Temascaltepec Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Temascaltepec*
+*Help us collect video resources for Temascaltepec Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

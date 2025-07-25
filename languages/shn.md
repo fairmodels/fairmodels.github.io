@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 1.96  
-**Digitality Score**: 2.61  
+**Grassroots Presence (z-score)**: 1.96  
+**Web Presence (z-score)**: 2.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shan*
+*Help us collect text resources for Shan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shan*
+*Help us collect audio resources for Shan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shan*
+*Help us collect video resources for Shan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

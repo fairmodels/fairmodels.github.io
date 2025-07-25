@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Western Durango
+title: Western Durango Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Western Durango (azn)
+# Western Durango Nahuatl (azn)
 
 ## Overview
 
-**Language**: Nahuatl, Western Durango  
+**Language**: Western Durango Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.25  
-**Digitality Score**: -0.63  
+**Grassroots Presence (z-score)**: 0.25  
+**Web Presence (z-score)**: -0.63  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Western Durango*
+*Help us collect text resources for Western Durango Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Western Durango*
+*Help us collect audio resources for Western Durango Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Western Durango*
+*Help us collect video resources for Western Durango Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

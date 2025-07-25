@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arrernte, Eastern
+title: Eastern Arrernte
 parent: Languages
 ---
 
-# Arrernte, Eastern (aer)
+# Eastern Arrernte (aer)
 
 ## Overview
 
-**Language**: Arrernte, Eastern  
+**Language**: Eastern Arrernte  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: 0.66  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: 0.66  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arrernte, Eastern*
+*Help us collect text resources for Eastern Arrernte*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arrernte, Eastern*
+*Help us collect audio resources for Eastern Arrernte*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arrernte, Eastern*
+*Help us collect video resources for Eastern Arrernte*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

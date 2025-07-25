@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Prai  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.75  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: 0.75  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Prai*
+*Help us collect text resources for Prai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Prai*
+*Help us collect audio resources for Prai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Prai*
+*Help us collect video resources for Prai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

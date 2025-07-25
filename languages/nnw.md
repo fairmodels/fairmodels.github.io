@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nuni, Southern
+title: Southern Nuni
 parent: Languages
 ---
 
-# Nuni, Southern (nnw)
+# Southern Nuni (nnw)
 
 ## Overview
 
-**Language**: Nuni, Southern  
+**Language**: Southern Nuni  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.91  
-**Digitality Score**: 0.71  
+**Grassroots Presence (z-score)**: 0.91  
+**Web Presence (z-score)**: 0.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nuni, Southern*
+*Help us collect text resources for Southern Nuni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nuni, Southern*
+*Help us collect audio resources for Southern Nuni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nuni, Southern*
+*Help us collect video resources for Southern Nuni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

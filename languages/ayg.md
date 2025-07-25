@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ginyanga  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.30  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ginyanga*
+*Help us collect text resources for Ginyanga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ginyanga*
+*Help us collect audio resources for Ginyanga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ginyanga*
+*Help us collect video resources for Ginyanga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

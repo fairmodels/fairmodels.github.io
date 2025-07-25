@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kashubian  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.37  
-**Digitality Score**: 1.51  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: 1.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kashubian*
+*Help us collect text resources for Kashubian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kashubian*
+*Help us collect audio resources for Kashubian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kashubian*
+*Help us collect video resources for Kashubian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

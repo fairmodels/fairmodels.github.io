@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Khakas  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: 0.20  
-**Digitality Score**: 1.41  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: 1.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Khakas*
+*Help us collect text resources for Khakas*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Khakas*
+*Help us collect audio resources for Khakas*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Khakas*
+*Help us collect video resources for Khakas*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

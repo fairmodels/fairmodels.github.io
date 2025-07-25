@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yamba  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.82  
-**Digitality Score**: 0.77  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yamba*
+*Help us collect text resources for Yamba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yamba*
+*Help us collect audio resources for Yamba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yamba*
+*Help us collect video resources for Yamba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

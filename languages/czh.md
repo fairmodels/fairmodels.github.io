@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Huizhou
+title: Huizhou Chinese
 parent: Languages
 ---
 
-# Chinese, Huizhou (czh)
+# Huizhou Chinese (czh)
 
 ## Overview
 
-**Language**: Chinese, Huizhou  
+**Language**: Huizhou Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.35  
-**Digitality Score**: 3.38  
+**Grassroots Presence (z-score)**: 1.35  
+**Web Presence (z-score)**: 3.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Huizhou*
+*Help us collect text resources for Huizhou Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Huizhou*
+*Help us collect audio resources for Huizhou Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Huizhou*
+*Help us collect video resources for Huizhou Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bikol, Rinconada
+title: Rinconada Bikol
 parent: Languages
 ---
 
-# Bikol, Rinconada (bto)
+# Rinconada Bikol (bto)
 
 ## Overview
 
-**Language**: Bikol, Rinconada  
+**Language**: Rinconada Bikol  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.01  
-**Digitality Score**: 1.55  
+**Grassroots Presence (z-score)**: 1.01  
+**Web Presence (z-score)**: 1.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bikol, Rinconada*
+*Help us collect text resources for Rinconada Bikol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bikol, Rinconada*
+*Help us collect audio resources for Rinconada Bikol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bikol, Rinconada*
+*Help us collect video resources for Rinconada Bikol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

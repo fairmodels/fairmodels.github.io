@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Maram
+title: Maram Naga
 parent: Languages
 ---
 
-# Naga, Maram (nma)
+# Maram Naga (nma)
 
 ## Overview
 
-**Language**: Naga, Maram  
+**Language**: Maram Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.02  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 1.02  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Maram*
+*Help us collect text resources for Maram Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Maram*
+*Help us collect audio resources for Maram Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Maram*
+*Help us collect video resources for Maram Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

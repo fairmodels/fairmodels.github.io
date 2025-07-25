@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Northern Tlaxiaco
+title: Northern Tlaxiaco Mixtec
 parent: Languages
 ---
 
-# Mixtec, Northern Tlaxiaco (xtn)
+# Northern Tlaxiaco Mixtec (xtn)
 
 ## Overview
 
-**Language**: Mixtec, Northern Tlaxiaco  
+**Language**: Northern Tlaxiaco Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.55  
-**Digitality Score**: 0.37  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Northern Tlaxiaco*
+*Help us collect text resources for Northern Tlaxiaco Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Northern Tlaxiaco*
+*Help us collect audio resources for Northern Tlaxiaco Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Northern Tlaxiaco*
+*Help us collect video resources for Northern Tlaxiaco Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

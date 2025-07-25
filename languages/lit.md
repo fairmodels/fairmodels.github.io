@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lithuanian  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.53  
-**Digitality Score**: 4.51  
+**Grassroots Presence (z-score)**: 2.53  
+**Web Presence (z-score)**: 4.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lithuanian*
+*Help us collect text resources for Lithuanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lithuanian*
+*Help us collect audio resources for Lithuanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lithuanian*
+*Help us collect video resources for Lithuanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

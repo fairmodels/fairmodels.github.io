@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Tacahua
+title: Tacahua Mixtec
 parent: Languages
 ---
 
-# Mixtec, Tacahua (xtt)
+# Tacahua Mixtec (xtt)
 
 ## Overview
 
-**Language**: Mixtec, Tacahua  
+**Language**: Tacahua Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.33  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: -0.33  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Tacahua*
+*Help us collect text resources for Tacahua Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Tacahua*
+*Help us collect audio resources for Tacahua Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Tacahua*
+*Help us collect video resources for Tacahua Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

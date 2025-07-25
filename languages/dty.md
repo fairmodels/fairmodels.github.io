@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dotyali  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.05  
-**Digitality Score**: 1.61  
+**Grassroots Presence (z-score)**: 1.05  
+**Web Presence (z-score)**: 1.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dotyali*
+*Help us collect text resources for Dotyali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dotyali*
+*Help us collect audio resources for Dotyali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dotyali*
+*Help us collect video resources for Dotyali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

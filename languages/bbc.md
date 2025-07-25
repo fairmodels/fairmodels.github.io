@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Batak Toba  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.72  
-**Digitality Score**: 1.39  
+**Grassroots Presence (z-score)**: 0.72  
+**Web Presence (z-score)**: 1.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Batak Toba*
+*Help us collect text resources for Batak Toba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Batak Toba*
+*Help us collect audio resources for Batak Toba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Batak Toba*
+*Help us collect video resources for Batak Toba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

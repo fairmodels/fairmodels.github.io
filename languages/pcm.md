@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pidgin, Nigerian
+title: Nigerian Pidgin
 parent: Languages
 ---
 
-# Pidgin, Nigerian (pcm)
+# Nigerian Pidgin (pcm)
 
 ## Overview
 
-**Language**: Pidgin, Nigerian  
+**Language**: Nigerian Pidgin  
 **Region/Area**: Western Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 2.37  
-**Digitality Score**: 2.64  
+**Grassroots Presence (z-score)**: 2.37  
+**Web Presence (z-score)**: 2.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pidgin, Nigerian*
+*Help us collect text resources for Nigerian Pidgin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pidgin, Nigerian*
+*Help us collect audio resources for Nigerian Pidgin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pidgin, Nigerian*
+*Help us collect video resources for Nigerian Pidgin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

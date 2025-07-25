@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Natügu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.48  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Natügu*
+*Help us collect text resources for Natügu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Natügu*
+*Help us collect audio resources for Natügu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Natügu*
+*Help us collect video resources for Natügu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

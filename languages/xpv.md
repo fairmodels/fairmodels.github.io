@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tasmanian, Northern
+title: Northern Tasmanian
 parent: Languages
 ---
 
-# Tasmanian, Northern (xpv)
+# Northern Tasmanian (xpv)
 
 ## Overview
 
-**Language**: Tasmanian, Northern  
+**Language**: Northern Tasmanian  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tasmanian, Northern*
+*Help us collect text resources for Northern Tasmanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tasmanian, Northern*
+*Help us collect audio resources for Northern Tasmanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tasmanian, Northern*
+*Help us collect video resources for Northern Tasmanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

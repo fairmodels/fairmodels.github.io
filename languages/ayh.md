@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Hadrami
+title: Hadrami Arabic
 parent: Languages
 ---
 
-# Arabic, Hadrami (ayh)
+# Hadrami Arabic (ayh)
 
 ## Overview
 
-**Language**: Arabic, Hadrami  
+**Language**: Hadrami Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.03  
-**Digitality Score**: 1.97  
+**Grassroots Presence (z-score)**: 1.03  
+**Web Presence (z-score)**: 1.97  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Hadrami*
+*Help us collect text resources for Hadrami Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Hadrami*
+*Help us collect audio resources for Hadrami Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Hadrami*
+*Help us collect video resources for Hadrami Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

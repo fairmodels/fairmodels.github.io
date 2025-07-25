@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mazahua, Central
+title: Central Mazahua
 parent: Languages
 ---
 
-# Mazahua, Central (maz)
+# Central Mazahua (maz)
 
 ## Overview
 
-**Language**: Mazahua, Central  
+**Language**: Central Mazahua  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.81  
-**Digitality Score**: 1.61  
+**Grassroots Presence (z-score)**: 0.81  
+**Web Presence (z-score)**: 1.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mazahua, Central*
+*Help us collect text resources for Central Mazahua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mazahua, Central*
+*Help us collect audio resources for Central Mazahua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mazahua, Central*
+*Help us collect video resources for Central Mazahua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

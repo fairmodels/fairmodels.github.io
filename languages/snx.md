@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sam  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.10  
-**Digitality Score**: -0.54  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sam*
+*Help us collect text resources for Sam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sam*
+*Help us collect audio resources for Sam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sam*
+*Help us collect video resources for Sam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sakata  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.49  
-**Digitality Score**: -0.37  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: -0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sakata*
+*Help us collect text resources for Sakata*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sakata*
+*Help us collect audio resources for Sakata*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sakata*
+*Help us collect video resources for Sakata*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

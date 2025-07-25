@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Bualkhaw
+title: Bualkhaw Chin
 parent: Languages
 ---
 
-# Chin, Bualkhaw (cbl)
+# Bualkhaw Chin (cbl)
 
 ## Overview
 
-**Language**: Chin, Bualkhaw  
+**Language**: Bualkhaw Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.60  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Bualkhaw*
+*Help us collect text resources for Bualkhaw Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Bualkhaw*
+*Help us collect audio resources for Bualkhaw Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Bualkhaw*
+*Help us collect video resources for Bualkhaw Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

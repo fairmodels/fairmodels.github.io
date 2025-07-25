@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yakan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.19  
-**Digitality Score**: 0.96  
+**Grassroots Presence (z-score)**: 1.19  
+**Web Presence (z-score)**: 0.96  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yakan*
+*Help us collect text resources for Yakan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yakan*
+*Help us collect audio resources for Yakan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yakan*
+*Help us collect video resources for Yakan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

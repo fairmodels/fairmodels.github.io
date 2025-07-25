@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tasmanian, North Midlands
+title: North Midlands Tasmanian
 parent: Languages
 ---
 
-# Tasmanian, North Midlands (xph)
+# North Midlands Tasmanian (xph)
 
 ## Overview
 
-**Language**: Tasmanian, North Midlands  
+**Language**: North Midlands Tasmanian  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tasmanian, North Midlands*
+*Help us collect text resources for North Midlands Tasmanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tasmanian, North Midlands*
+*Help us collect audio resources for North Midlands Tasmanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tasmanian, North Midlands*
+*Help us collect video resources for North Midlands Tasmanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

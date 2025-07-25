@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Loma  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.98  
-**Digitality Score**: 0.18  
+**Grassroots Presence (z-score)**: 0.98  
+**Web Presence (z-score)**: 0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Loma*
+*Help us collect text resources for Loma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Loma*
+*Help us collect audio resources for Loma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Loma*
+*Help us collect video resources for Loma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

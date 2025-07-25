@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chidigo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.38  
-**Digitality Score**: 1.07  
+**Grassroots Presence (z-score)**: 1.38  
+**Web Presence (z-score)**: 1.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chidigo*
+*Help us collect text resources for Chidigo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chidigo*
+*Help us collect audio resources for Chidigo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chidigo*
+*Help us collect video resources for Chidigo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chepang  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.31  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chepang*
+*Help us collect text resources for Chepang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chepang*
+*Help us collect audio resources for Chepang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chepang*
+*Help us collect video resources for Chepang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

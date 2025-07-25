@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zhire  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.27  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: 0.27  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhire*
+*Help us collect text resources for Zhire*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhire*
+*Help us collect audio resources for Zhire*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhire*
+*Help us collect video resources for Zhire*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

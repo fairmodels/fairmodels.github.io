@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Sa’idi
+title: Sa’idi Arabic
 parent: Languages
 ---
 
-# Arabic, Sa’idi (aec)
+# Sa’idi Arabic (aec)
 
 ## Overview
 
-**Language**: Arabic, Sa’idi  
+**Language**: Sa’idi Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.24  
-**Digitality Score**: 1.80  
+**Grassroots Presence (z-score)**: 1.24  
+**Web Presence (z-score)**: 1.80  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Sa’idi*
+*Help us collect text resources for Sa’idi Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Sa’idi*
+*Help us collect audio resources for Sa’idi Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Sa’idi*
+*Help us collect video resources for Sa’idi Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

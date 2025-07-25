@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Romani, Tavringer
+title: Tavringer Romani
 parent: Languages
 ---
 
-# Romani, Tavringer (rmu)
+# Tavringer Romani (rmu)
 
 ## Overview
 
-**Language**: Romani, Tavringer  
+**Language**: Tavringer Romani  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Mixed language  
-**Vitality Score**: -1.13  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -1.13  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romani, Tavringer*
+*Help us collect text resources for Tavringer Romani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romani, Tavringer*
+*Help us collect audio resources for Tavringer Romani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romani, Tavringer*
+*Help us collect video resources for Tavringer Romani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

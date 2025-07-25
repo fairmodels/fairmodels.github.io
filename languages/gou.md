@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gavar  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.13  
-**Digitality Score**: 0.20  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: 0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gavar*
+*Help us collect text resources for Gavar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gavar*
+*Help us collect audio resources for Gavar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gavar*
+*Help us collect video resources for Gavar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

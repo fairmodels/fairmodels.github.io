@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Havasupai-Hualapai-Yavapai  
 **Region/Area**: Northern America, Americas  
 **Family**: Cochimí-Yuman  
-**Vitality Score**: -0.26  
-**Digitality Score**: 0.47  
+**Grassroots Presence (z-score)**: -0.26  
+**Web Presence (z-score)**: 0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Havasupai-Hualapai-Yavapai*
+*Help us collect text resources for Havasupai-Hualapai-Yavapai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Havasupai-Hualapai-Yavapai*
+*Help us collect audio resources for Havasupai-Hualapai-Yavapai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Havasupai-Hualapai-Yavapai*
+*Help us collect video resources for Havasupai-Hualapai-Yavapai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

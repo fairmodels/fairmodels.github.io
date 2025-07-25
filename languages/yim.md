@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Yimchungru
+title: Yimchungru Naga
 parent: Languages
 ---
 
-# Naga, Yimchungru (yim)
+# Yimchungru Naga (yim)
 
 ## Overview
 
-**Language**: Naga, Yimchungru  
+**Language**: Yimchungru Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.82  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Yimchungru*
+*Help us collect text resources for Yimchungru Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Yimchungru*
+*Help us collect audio resources for Yimchungru Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Yimchungru*
+*Help us collect video resources for Yimchungru Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

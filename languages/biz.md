@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Baloi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Baloi*
+*Help us collect text resources for Baloi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Baloi*
+*Help us collect audio resources for Baloi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Baloi*
+*Help us collect video resources for Baloi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

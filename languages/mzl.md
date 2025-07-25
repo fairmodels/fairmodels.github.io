@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixe, Mazatlán
+title: Mazatlán Mixe
 parent: Languages
 ---
 
-# Mixe, Mazatlán (mzl)
+# Mazatlán Mixe (mzl)
 
 ## Overview
 
-**Language**: Mixe, Mazatlán  
+**Language**: Mazatlán Mixe  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: 0.63  
-**Digitality Score**: -0.04  
+**Grassroots Presence (z-score)**: 0.63  
+**Web Presence (z-score)**: -0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixe, Mazatlán*
+*Help us collect text resources for Mazatlán Mixe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixe, Mazatlán*
+*Help us collect audio resources for Mazatlán Mixe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixe, Mazatlán*
+*Help us collect video resources for Mazatlán Mixe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

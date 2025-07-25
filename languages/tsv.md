@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tsogo  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tsogo*
+*Help us collect text resources for Tsogo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tsogo*
+*Help us collect audio resources for Tsogo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tsogo*
+*Help us collect video resources for Tsogo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

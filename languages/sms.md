@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saami, Skolt
+title: Skolt Saami
 parent: Languages
 ---
 
-# Saami, Skolt (sms)
+# Skolt Saami (sms)
 
 ## Overview
 
-**Language**: Saami, Skolt  
+**Language**: Skolt Saami  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -0.51  
-**Digitality Score**: 1.31  
+**Grassroots Presence (z-score)**: -0.51  
+**Web Presence (z-score)**: 1.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saami, Skolt*
+*Help us collect text resources for Skolt Saami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saami, Skolt*
+*Help us collect audio resources for Skolt Saami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saami, Skolt*
+*Help us collect video resources for Skolt Saami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

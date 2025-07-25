@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Domu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.06  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: -0.06  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Domu*
+*Help us collect text resources for Domu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Domu*
+*Help us collect audio resources for Domu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Domu*
+*Help us collect video resources for Domu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

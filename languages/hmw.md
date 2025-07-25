@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Western Mashan
+title: Western Mashan Miao
 parent: Languages
 ---
 
-# Miao, Western Mashan (hmw)
+# Western Mashan Miao (hmw)
 
 ## Overview
 
-**Language**: Miao, Western Mashan  
+**Language**: Western Mashan Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.12  
-**Digitality Score**: 0.96  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 0.96  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Western Mashan*
+*Help us collect text resources for Western Mashan Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Western Mashan*
+*Help us collect audio resources for Western Mashan Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Western Mashan*
+*Help us collect video resources for Western Mashan Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

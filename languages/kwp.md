@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kodia  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.23  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kodia*
+*Help us collect text resources for Kodia*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kodia*
+*Help us collect audio resources for Kodia*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kodia*
+*Help us collect video resources for Kodia*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kota Marudu Talantang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.09  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.09  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kota Marudu Talantang*
+*Help us collect text resources for Kota Marudu Talantang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kota Marudu Talantang*
+*Help us collect audio resources for Kota Marudu Talantang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kota Marudu Talantang*
+*Help us collect video resources for Kota Marudu Talantang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

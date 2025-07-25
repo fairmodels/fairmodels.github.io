@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Anambé  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -1.47  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.47  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Anambé*
+*Help us collect text resources for Anambé*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Anambé*
+*Help us collect audio resources for Anambé*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Anambé*
+*Help us collect video resources for Anambé*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

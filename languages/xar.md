@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karami  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karami*
+*Help us collect text resources for Karami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karami*
+*Help us collect audio resources for Karami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karami*
+*Help us collect video resources for Karami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

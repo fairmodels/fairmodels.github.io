@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Atta, Faire
+title: Faire Atta
 parent: Languages
 ---
 
-# Atta, Faire (azt)
+# Faire Atta (azt)
 
 ## Overview
 
-**Language**: Atta, Faire  
+**Language**: Faire Atta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Atta, Faire*
+*Help us collect text resources for Faire Atta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Atta, Faire*
+*Help us collect audio resources for Faire Atta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Atta, Faire*
+*Help us collect video resources for Faire Atta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hutterisch  
 **Region/Area**: Northern America, Americas  
 **Family**: Indo-European  
-**Vitality Score**: 0.43  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.43  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hutterisch*
+*Help us collect text resources for Hutterisch*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hutterisch*
+*Help us collect audio resources for Hutterisch*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hutterisch*
+*Help us collect video resources for Hutterisch*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

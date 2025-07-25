@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Krikati-Timbira  
 **Region/Area**: South America, Americas  
 **Family**: Jean  
-**Vitality Score**: 0.21  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Krikati-Timbira*
+*Help us collect text resources for Krikati-Timbira*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Krikati-Timbira*
+*Help us collect audio resources for Krikati-Timbira*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Krikati-Timbira*
+*Help us collect video resources for Krikati-Timbira*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

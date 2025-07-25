@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lawa, Western
+title: Western Lawa
 parent: Languages
 ---
 
-# Lawa, Western (lcp)
+# Western Lawa (lcp)
 
 ## Overview
 
-**Language**: Lawa, Western  
+**Language**: Western Lawa  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.18  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lawa, Western*
+*Help us collect text resources for Western Lawa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lawa, Western*
+*Help us collect audio resources for Western Lawa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lawa, Western*
+*Help us collect video resources for Western Lawa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

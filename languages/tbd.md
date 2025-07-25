@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kaki Ae  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.11  
-**Digitality Score**: -0.46  
+**Grassroots Presence (z-score)**: -0.11  
+**Web Presence (z-score)**: -0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaki Ae*
+*Help us collect text resources for Kaki Ae*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaki Ae*
+*Help us collect audio resources for Kaki Ae*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaki Ae*
+*Help us collect video resources for Kaki Ae*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

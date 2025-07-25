@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Vurës  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.03  
-**Digitality Score**: 0.47  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: 0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Vurës*
+*Help us collect text resources for Vurës*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Vurës*
+*Help us collect audio resources for Vurës*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Vurës*
+*Help us collect video resources for Vurës*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

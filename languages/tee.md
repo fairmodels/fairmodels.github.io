@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tepehua, Huehuetla
+title: Huehuetla Tepehua
 parent: Languages
 ---
 
-# Tepehua, Huehuetla (tee)
+# Huehuetla Tepehua (tee)
 
 ## Overview
 
-**Language**: Tepehua, Huehuetla  
+**Language**: Huehuetla Tepehua  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: -0.00  
-**Digitality Score**: 0.76  
+**Grassroots Presence (z-score)**: -0.00  
+**Web Presence (z-score)**: 0.76  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tepehua, Huehuetla*
+*Help us collect text resources for Huehuetla Tepehua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tepehua, Huehuetla*
+*Help us collect audio resources for Huehuetla Tepehua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tepehua, Huehuetla*
+*Help us collect video resources for Huehuetla Tepehua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

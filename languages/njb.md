@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Nocte
+title: Nocte Naga
 parent: Languages
 ---
 
-# Naga, Nocte (njb)
+# Nocte Naga (njb)
 
 ## Overview
 
-**Language**: Naga, Nocte  
+**Language**: Nocte Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.69  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Nocte*
+*Help us collect text resources for Nocte Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Nocte*
+*Help us collect audio resources for Nocte Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Nocte*
+*Help us collect video resources for Nocte Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

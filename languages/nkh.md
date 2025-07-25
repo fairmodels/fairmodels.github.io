@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Khezha
+title: Khezha Naga
 parent: Languages
 ---
 
-# Naga, Khezha (nkh)
+# Khezha Naga (nkh)
 
 ## Overview
 
-**Language**: Naga, Khezha  
+**Language**: Khezha Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.73  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.73  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Khezha*
+*Help us collect text resources for Khezha Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Khezha*
+*Help us collect audio resources for Khezha Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Khezha*
+*Help us collect video resources for Khezha Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

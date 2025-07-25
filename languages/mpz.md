@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mpi  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.43  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.43  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mpi*
+*Help us collect text resources for Mpi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mpi*
+*Help us collect audio resources for Mpi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mpi*
+*Help us collect video resources for Mpi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

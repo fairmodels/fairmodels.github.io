@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Okinawan, Central
+title: Central Okinawan
 parent: Languages
 ---
 
-# Okinawan, Central (ryu)
+# Central Okinawan (ryu)
 
 ## Overview
 
-**Language**: Okinawan, Central  
+**Language**: Central Okinawan  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Japonic  
-**Vitality Score**: 0.55  
-**Digitality Score**: 0.24  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Okinawan, Central*
+*Help us collect text resources for Central Okinawan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Okinawan, Central*
+*Help us collect audio resources for Central Okinawan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Okinawan, Central*
+*Help us collect video resources for Central Okinawan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

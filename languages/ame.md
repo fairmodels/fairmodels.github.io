@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yanesha’  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 0.52  
-**Digitality Score**: 1.26  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 1.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yanesha’*
+*Help us collect text resources for Yanesha’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yanesha’*
+*Help us collect audio resources for Yanesha’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yanesha’*
+*Help us collect video resources for Yanesha’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

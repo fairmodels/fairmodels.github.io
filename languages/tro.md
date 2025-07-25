@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Tarao
+title: Tarao Naga
 parent: Languages
 ---
 
-# Naga, Tarao (tro)
+# Tarao Naga (tro)
 
 ## Overview
 
-**Language**: Naga, Tarao  
+**Language**: Tarao Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Tarao*
+*Help us collect text resources for Tarao Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Tarao*
+*Help us collect audio resources for Tarao Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Tarao*
+*Help us collect video resources for Tarao Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

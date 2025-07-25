@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Matlatzinca, Atzingo
+title: Atzingo Matlatzinca
 parent: Languages
 ---
 
-# Matlatzinca, Atzingo (ocu)
+# Atzingo Matlatzinca (ocu)
 
 ## Overview
 
-**Language**: Matlatzinca, Atzingo  
+**Language**: Atzingo Matlatzinca  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.97  
-**Digitality Score**: 0.02  
+**Grassroots Presence (z-score)**: -0.97  
+**Web Presence (z-score)**: 0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Matlatzinca, Atzingo*
+*Help us collect text resources for Atzingo Matlatzinca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Matlatzinca, Atzingo*
+*Help us collect audio resources for Atzingo Matlatzinca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Matlatzinca, Atzingo*
+*Help us collect video resources for Atzingo Matlatzinca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

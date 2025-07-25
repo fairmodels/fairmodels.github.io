@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mariyedi  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.33  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.33  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mariyedi*
+*Help us collect text resources for Mariyedi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mariyedi*
+*Help us collect audio resources for Mariyedi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mariyedi*
+*Help us collect video resources for Mariyedi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

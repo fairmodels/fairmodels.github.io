@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Assangori  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.54  
-**Digitality Score**: -0.15  
+**Grassroots Presence (z-score)**: 0.54  
+**Web Presence (z-score)**: -0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Assangori*
+*Help us collect text resources for Assangori*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Assangori*
+*Help us collect audio resources for Assangori*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Assangori*
+*Help us collect video resources for Assangori*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

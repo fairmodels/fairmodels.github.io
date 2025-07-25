@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Vai  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.94  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.94  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Vai*
+*Help us collect text resources for Vai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Vai*
+*Help us collect audio resources for Vai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Vai*
+*Help us collect video resources for Vai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Buriat, Russia
+title: Russia Buriat
 parent: Languages
 ---
 
-# Buriat, Russia (bxr)
+# Russia Buriat (bxr)
 
 ## Overview
 
-**Language**: Buriat, Russia  
+**Language**: Russia Buriat  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Mongolic  
-**Vitality Score**: 0.51  
-**Digitality Score**: 2.30  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 2.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Buriat, Russia*
+*Help us collect text resources for Russia Buriat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Buriat, Russia*
+*Help us collect audio resources for Russia Buriat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Buriat, Russia*
+*Help us collect video resources for Russia Buriat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

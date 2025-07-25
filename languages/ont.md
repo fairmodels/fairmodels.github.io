@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ontenu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.23  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ontenu*
+*Help us collect text resources for Ontenu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ontenu*
+*Help us collect audio resources for Ontenu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ontenu*
+*Help us collect video resources for Ontenu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

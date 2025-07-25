@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mnong, Central
+title: Central Mnong
 parent: Languages
 ---
 
-# Mnong, Central (cmo)
+# Central Mnong (cmo)
 
 ## Overview
 
-**Language**: Mnong, Central  
+**Language**: Central Mnong  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.80  
-**Digitality Score**: 1.25  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: 1.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mnong, Central*
+*Help us collect text resources for Central Mnong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mnong, Central*
+*Help us collect audio resources for Central Mnong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mnong, Central*
+*Help us collect video resources for Central Mnong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chatino, Western Highland
+title: Western Highland Chatino
 parent: Languages
 ---
 
-# Chatino, Western Highland (ctp)
+# Western Highland Chatino (ctp)
 
 ## Overview
 
-**Language**: Chatino, Western Highland  
+**Language**: Western Highland Chatino  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.61  
-**Digitality Score**: 1.09  
+**Grassroots Presence (z-score)**: 0.61  
+**Web Presence (z-score)**: 1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chatino, Western Highland*
+*Help us collect text resources for Western Highland Chatino*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chatino, Western Highland*
+*Help us collect audio resources for Western Highland Chatino*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chatino, Western Highland*
+*Help us collect video resources for Western Highland Chatino*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

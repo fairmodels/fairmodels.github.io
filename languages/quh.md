@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, South Bolivian
+title: South Bolivian Quechua
 parent: Languages
 ---
 
-# Quechua, South Bolivian (quh)
+# South Bolivian Quechua (quh)
 
 ## Overview
 
-**Language**: Quechua, South Bolivian  
+**Language**: South Bolivian Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 1.20  
-**Digitality Score**: 2.41  
+**Grassroots Presence (z-score)**: 1.20  
+**Web Presence (z-score)**: 2.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, South Bolivian*
+*Help us collect text resources for South Bolivian Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, South Bolivian*
+*Help us collect audio resources for South Bolivian Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, South Bolivian*
+*Help us collect video resources for South Bolivian Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

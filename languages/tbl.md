@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tboli  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.14  
-**Digitality Score**: 1.36  
+**Grassroots Presence (z-score)**: 1.14  
+**Web Presence (z-score)**: 1.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tboli*
+*Help us collect text resources for Tboli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tboli*
+*Help us collect audio resources for Tboli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tboli*
+*Help us collect video resources for Tboli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

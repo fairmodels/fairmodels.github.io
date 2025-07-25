@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fijian, Western
+title: Western Fijian
 parent: Languages
 ---
 
-# Fijian, Western (wyy)
+# Western Fijian (wyy)
 
 ## Overview
 
-**Language**: Fijian, Western  
+**Language**: Western Fijian  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.51  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fijian, Western*
+*Help us collect text resources for Western Fijian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fijian, Western*
+*Help us collect audio resources for Western Fijian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fijian, Western*
+*Help us collect video resources for Western Fijian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

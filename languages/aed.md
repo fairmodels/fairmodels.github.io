@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Argentine Sign Language  
 **Region/Area**: South America, Americas  
 **Family**: Sign language  
-**Vitality Score**: 0.78  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Argentine Sign Language*
+*Help us collect text resources for Argentine Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Argentine Sign Language*
+*Help us collect audio resources for Argentine Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Argentine Sign Language*
+*Help us collect video resources for Argentine Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ewondo  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.70  
-**Digitality Score**: 1.18  
+**Grassroots Presence (z-score)**: 1.70  
+**Web Presence (z-score)**: 1.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ewondo*
+*Help us collect text resources for Ewondo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ewondo*
+*Help us collect audio resources for Ewondo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ewondo*
+*Help us collect video resources for Ewondo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

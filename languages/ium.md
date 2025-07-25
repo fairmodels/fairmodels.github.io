@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Iu Mien  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 1.11  
-**Digitality Score**: 1.34  
+**Grassroots Presence (z-score)**: 1.11  
+**Web Presence (z-score)**: 1.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Iu Mien*
+*Help us collect text resources for Iu Mien*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Iu Mien*
+*Help us collect audio resources for Iu Mien*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Iu Mien*
+*Help us collect video resources for Iu Mien*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

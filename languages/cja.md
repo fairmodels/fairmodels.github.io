@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cham, Western
+title: Western Cham
 parent: Languages
 ---
 
-# Cham, Western (cja)
+# Western Cham (cja)
 
 ## Overview
 
-**Language**: Cham, Western  
+**Language**: Western Cham  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.00  
-**Digitality Score**: 0.21  
+**Grassroots Presence (z-score)**: 1.00  
+**Web Presence (z-score)**: 0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cham, Western*
+*Help us collect text resources for Western Cham*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cham, Western*
+*Help us collect audio resources for Western Cham*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cham, Western*
+*Help us collect video resources for Western Cham*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

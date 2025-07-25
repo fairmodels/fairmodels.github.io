@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Kokak
+title: Kokak Naga
 parent: Languages
 ---
 
-# Naga, Kokak (nxk)
+# Kokak Naga (nxk)
 
 ## Overview
 
-**Language**: Naga, Kokak  
+**Language**: Kokak Naga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Kokak*
+*Help us collect text resources for Kokak Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Kokak*
+*Help us collect audio resources for Kokak Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Kokak*
+*Help us collect video resources for Kokak Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

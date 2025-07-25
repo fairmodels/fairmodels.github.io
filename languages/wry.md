@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Merwari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.99  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 0.99  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Merwari*
+*Help us collect text resources for Merwari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Merwari*
+*Help us collect audio resources for Merwari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Merwari*
+*Help us collect video resources for Merwari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kewapi, East
+title: East Kewapi
 parent: Languages
 ---
 
-# Kewapi, East (kjs)
+# East Kewapi (kjs)
 
 ## Overview
 
-**Language**: Kewapi, East  
+**Language**: East Kewapi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.28  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.28  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kewapi, East*
+*Help us collect text resources for East Kewapi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kewapi, East*
+*Help us collect audio resources for East Kewapi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kewapi, East*
+*Help us collect video resources for East Kewapi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

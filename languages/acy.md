@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Cypriot
+title: Cypriot Arabic
 parent: Languages
 ---
 
-# Arabic, Cypriot (acy)
+# Cypriot Arabic (acy)
 
 ## Overview
 
-**Language**: Arabic, Cypriot  
+**Language**: Cypriot Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -0.37  
-**Digitality Score**: 2.04  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: 2.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Cypriot*
+*Help us collect text resources for Cypriot Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Cypriot*
+*Help us collect audio resources for Cypriot Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Cypriot*
+*Help us collect video resources for Cypriot Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

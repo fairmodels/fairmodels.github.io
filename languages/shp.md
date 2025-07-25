@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shipibo-Conibo  
 **Region/Area**: South America, Americas  
 **Family**: Panoan  
-**Vitality Score**: 0.65  
-**Digitality Score**: 1.75  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 1.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shipibo-Conibo*
+*Help us collect text resources for Shipibo-Conibo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shipibo-Conibo*
+*Help us collect audio resources for Shipibo-Conibo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shipibo-Conibo*
+*Help us collect video resources for Shipibo-Conibo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

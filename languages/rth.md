@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ratahan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.80  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: -0.80  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ratahan*
+*Help us collect text resources for Ratahan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ratahan*
+*Help us collect audio resources for Ratahan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ratahan*
+*Help us collect video resources for Ratahan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

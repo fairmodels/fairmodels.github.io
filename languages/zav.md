@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Yatzachi
+title: Yatzachi Zapotec
 parent: Languages
 ---
 
-# Zapotec, Yatzachi (zav)
+# Yatzachi Zapotec (zav)
 
 ## Overview
 
-**Language**: Zapotec, Yatzachi  
+**Language**: Yatzachi Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.10  
-**Digitality Score**: 1.61  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: 1.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Yatzachi*
+*Help us collect text resources for Yatzachi Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Yatzachi*
+*Help us collect audio resources for Yatzachi Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Yatzachi*
+*Help us collect video resources for Yatzachi Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

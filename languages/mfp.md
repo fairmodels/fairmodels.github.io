@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Indonesian, Makassar
+title: Makassar Indonesian
 parent: Languages
 ---
 
-# Indonesian, Makassar (mfp)
+# Makassar Indonesian (mfp)
 
 ## Overview
 
-**Language**: Indonesian, Makassar  
+**Language**: Makassar Indonesian  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.76  
-**Digitality Score**: -0.59  
+**Grassroots Presence (z-score)**: 1.76  
+**Web Presence (z-score)**: -0.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Indonesian, Makassar*
+*Help us collect text resources for Makassar Indonesian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Indonesian, Makassar*
+*Help us collect audio resources for Makassar Indonesian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Indonesian, Makassar*
+*Help us collect video resources for Makassar Indonesian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

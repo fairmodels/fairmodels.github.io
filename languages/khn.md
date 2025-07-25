@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Khandesi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.04  
-**Digitality Score**: -0.14  
+**Grassroots Presence (z-score)**: 1.04  
+**Web Presence (z-score)**: -0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Khandesi*
+*Help us collect text resources for Khandesi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Khandesi*
+*Help us collect audio resources for Khandesi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Khandesi*
+*Help us collect video resources for Khandesi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

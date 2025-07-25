@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lidzonka  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lidzonka*
+*Help us collect text resources for Lidzonka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lidzonka*
+*Help us collect audio resources for Lidzonka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lidzonka*
+*Help us collect video resources for Lidzonka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

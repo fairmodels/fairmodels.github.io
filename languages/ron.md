@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Romanian  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.80  
-**Digitality Score**: 5.35  
+**Grassroots Presence (z-score)**: 2.80  
+**Web Presence (z-score)**: 5.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romanian*
+*Help us collect text resources for Romanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romanian*
+*Help us collect audio resources for Romanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romanian*
+*Help us collect video resources for Romanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

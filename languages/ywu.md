@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nasu, Wumeng
+title: Wumeng Nasu
 parent: Languages
 ---
 
-# Nasu, Wumeng (ywu)
+# Wumeng Nasu (ywu)
 
 ## Overview
 
-**Language**: Nasu, Wumeng  
+**Language**: Wumeng Nasu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.42  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nasu, Wumeng*
+*Help us collect text resources for Wumeng Nasu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nasu, Wumeng*
+*Help us collect audio resources for Wumeng Nasu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nasu, Wumeng*
+*Help us collect video resources for Wumeng Nasu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Belait  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.35  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.35  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Belait*
+*Help us collect text resources for Belait*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Belait*
+*Help us collect audio resources for Belait*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Belait*
+*Help us collect video resources for Belait*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

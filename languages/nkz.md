@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nkari  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nkari*
+*Help us collect text resources for Nkari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nkari*
+*Help us collect audio resources for Nkari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nkari*
+*Help us collect video resources for Nkari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

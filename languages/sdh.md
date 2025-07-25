@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kurdish, Southern
+title: Southern Kurdish
 parent: Languages
 ---
 
-# Kurdish, Southern (sdh)
+# Southern Kurdish (sdh)
 
 ## Overview
 
-**Language**: Kurdish, Southern  
+**Language**: Southern Kurdish  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.89  
-**Digitality Score**: 1.64  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 1.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kurdish, Southern*
+*Help us collect text resources for Southern Kurdish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kurdish, Southern*
+*Help us collect audio resources for Southern Kurdish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kurdish, Southern*
+*Help us collect video resources for Southern Kurdish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sanga  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.02  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 1.02  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sanga*
+*Help us collect text resources for Sanga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sanga*
+*Help us collect audio resources for Sanga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sanga*
+*Help us collect video resources for Sanga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

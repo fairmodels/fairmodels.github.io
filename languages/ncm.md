@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nambo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: South-Central Papuan  
-**Vitality Score**: -0.10  
-**Digitality Score**: 0.06  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: 0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nambo*
+*Help us collect text resources for Nambo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nambo*
+*Help us collect audio resources for Nambo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nambo*
+*Help us collect video resources for Nambo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Central Huishui
+title: Central Huishui Miao
 parent: Languages
 ---
 
-# Miao, Central Huishui (hmc)
+# Central Huishui Miao (hmc)
 
 ## Overview
 
-**Language**: Miao, Central Huishui  
+**Language**: Central Huishui Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.41  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Central Huishui*
+*Help us collect text resources for Central Huishui Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Central Huishui*
+*Help us collect audio resources for Central Huishui Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Central Huishui*
+*Help us collect video resources for Central Huishui Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

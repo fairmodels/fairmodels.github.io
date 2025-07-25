@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbosi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.45  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: 0.45  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbosi*
+*Help us collect text resources for Mbosi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbosi*
+*Help us collect audio resources for Mbosi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbosi*
+*Help us collect video resources for Mbosi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

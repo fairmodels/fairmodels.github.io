@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hmong Dô  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: -0.93  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hmong Dô*
+*Help us collect text resources for Hmong Dô*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hmong Dô*
+*Help us collect audio resources for Hmong Dô*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hmong Dô*
+*Help us collect video resources for Hmong Dô*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

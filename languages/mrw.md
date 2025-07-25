@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maranao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.64  
-**Digitality Score**: 1.69  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 1.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maranao*
+*Help us collect text resources for Maranao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maranao*
+*Help us collect audio resources for Maranao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maranao*
+*Help us collect video resources for Maranao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Daasanach  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.80  
-**Digitality Score**: 0.76  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: 0.76  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Daasanach*
+*Help us collect text resources for Daasanach*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Daasanach*
+*Help us collect audio resources for Daasanach*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Daasanach*
+*Help us collect video resources for Daasanach*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

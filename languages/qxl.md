@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quichua, Salasaca Highland
+title: Salasaca Highland Quichua
 parent: Languages
 ---
 
-# Quichua, Salasaca Highland (qxl)
+# Salasaca Highland Quichua (qxl)
 
 ## Overview
 
-**Language**: Quichua, Salasaca Highland  
+**Language**: Salasaca Highland Quichua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.65  
-**Digitality Score**: 1.13  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 1.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quichua, Salasaca Highland*
+*Help us collect text resources for Salasaca Highland Quichua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quichua, Salasaca Highland*
+*Help us collect audio resources for Salasaca Highland Quichua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quichua, Salasaca Highland*
+*Help us collect video resources for Salasaca Highland Quichua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

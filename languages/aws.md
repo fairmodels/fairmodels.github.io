@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Awyu, South
+title: South Awyu
 parent: Languages
 ---
 
-# Awyu, South (aws)
+# South Awyu (aws)
 
 ## Overview
 
-**Language**: Awyu, South  
+**Language**: South Awyu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.07  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Awyu, South*
+*Help us collect text resources for South Awyu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Awyu, South*
+*Help us collect audio resources for South Awyu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Awyu, South*
+*Help us collect video resources for South Awyu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

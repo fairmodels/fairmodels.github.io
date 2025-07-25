@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Noone  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.73  
-**Digitality Score**: 1.00  
+**Grassroots Presence (z-score)**: 0.73  
+**Web Presence (z-score)**: 1.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Noone*
+*Help us collect text resources for Noone*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Noone*
+*Help us collect audio resources for Noone*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Noone*
+*Help us collect video resources for Noone*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

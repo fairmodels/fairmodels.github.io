@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nyiha, Tanzania
+title: Tanzania Nyiha
 parent: Languages
 ---
 
-# Nyiha, Tanzania (nih)
+# Tanzania Nyiha (nih)
 
 ## Overview
 
-**Language**: Nyiha, Tanzania  
+**Language**: Tanzania Nyiha  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.08  
-**Digitality Score**: 0.30  
+**Grassroots Presence (z-score)**: 1.08  
+**Web Presence (z-score)**: 0.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyiha, Tanzania*
+*Help us collect text resources for Tanzania Nyiha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyiha, Tanzania*
+*Help us collect audio resources for Tanzania Nyiha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyiha, Tanzania*
+*Help us collect video resources for Tanzania Nyiha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

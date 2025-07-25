@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ngad’a, Eastern
+title: Eastern Ngad’a
 parent: Languages
 ---
 
-# Ngad’a, Eastern (nea)
+# Eastern Ngad’a (nea)
 
 ## Overview
 
-**Language**: Ngad’a, Eastern  
+**Language**: Eastern Ngad’a  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ngad’a, Eastern*
+*Help us collect text resources for Eastern Ngad’a*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ngad’a, Eastern*
+*Help us collect audio resources for Eastern Ngad’a*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ngad’a, Eastern*
+*Help us collect video resources for Eastern Ngad’a*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

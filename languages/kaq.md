@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Capanahua  
 **Region/Area**: South America, Americas  
 **Family**: Panoan  
-**Vitality Score**: -0.50  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: -0.50  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Capanahua*
+*Help us collect text resources for Capanahua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Capanahua*
+*Help us collect audio resources for Capanahua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Capanahua*
+*Help us collect video resources for Capanahua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

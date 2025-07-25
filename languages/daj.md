@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Daju, Dar Fur
+title: Dar Fur Daju
 parent: Languages
 ---
 
-# Daju, Dar Fur (daj)
+# Dar Fur Daju (daj)
 
 ## Overview
 
-**Language**: Daju, Dar Fur  
+**Language**: Dar Fur Daju  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.85  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: 0.85  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Daju, Dar Fur*
+*Help us collect text resources for Dar Fur Daju*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Daju, Dar Fur*
+*Help us collect audio resources for Dar Fur Daju*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Daju, Dar Fur*
+*Help us collect video resources for Dar Fur Daju*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

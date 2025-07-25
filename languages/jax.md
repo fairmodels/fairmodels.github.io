@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Jambi
+title: Jambi Malay
 parent: Languages
 ---
 
-# Malay, Jambi (jax)
+# Jambi Malay (jax)
 
 ## Overview
 
-**Language**: Malay, Jambi  
+**Language**: Jambi Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.88  
-**Digitality Score**: 2.26  
+**Grassroots Presence (z-score)**: 0.88  
+**Web Presence (z-score)**: 2.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Jambi*
+*Help us collect text resources for Jambi Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Jambi*
+*Help us collect audio resources for Jambi Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Jambi*
+*Help us collect video resources for Jambi Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

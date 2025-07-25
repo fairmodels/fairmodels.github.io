@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pagi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Border  
-**Vitality Score**: 0.04  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: 0.04  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pagi*
+*Help us collect text resources for Pagi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pagi*
+*Help us collect audio resources for Pagi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pagi*
+*Help us collect video resources for Pagi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

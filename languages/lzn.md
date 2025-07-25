@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Lainong
+title: Lainong Naga
 parent: Languages
 ---
 
-# Naga, Lainong (lzn)
+# Lainong Naga (lzn)
 
 ## Overview
 
-**Language**: Naga, Lainong  
+**Language**: Lainong Naga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.60  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Lainong*
+*Help us collect text resources for Lainong Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Lainong*
+*Help us collect audio resources for Lainong Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Lainong*
+*Help us collect video resources for Lainong Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

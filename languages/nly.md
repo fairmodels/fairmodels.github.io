@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyamal  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.77  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.77  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyamal*
+*Help us collect text resources for Nyamal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyamal*
+*Help us collect audio resources for Nyamal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyamal*
+*Help us collect video resources for Nyamal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

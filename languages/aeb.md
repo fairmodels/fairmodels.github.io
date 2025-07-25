@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Tunisian
+title: Tunisian Arabic
 parent: Languages
 ---
 
-# Arabic, Tunisian (aeb)
+# Tunisian Arabic (aeb)
 
 ## Overview
 
-**Language**: Arabic, Tunisian  
+**Language**: Tunisian Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.08  
-**Digitality Score**: 3.82  
+**Grassroots Presence (z-score)**: 2.08  
+**Web Presence (z-score)**: 3.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Tunisian*
+*Help us collect text resources for Tunisian Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Tunisian*
+*Help us collect audio resources for Tunisian Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Tunisian*
+*Help us collect video resources for Tunisian Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Karen, Pwo Northern
+title: Pwo Northern Karen
 parent: Languages
 ---
 
-# Karen, Pwo Northern (pww)
+# Pwo Northern Karen (pww)
 
 ## Overview
 
-**Language**: Karen, Pwo Northern  
+**Language**: Pwo Northern Karen  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.78  
-**Digitality Score**: 0.52  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karen, Pwo Northern*
+*Help us collect text resources for Pwo Northern Karen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karen, Pwo Northern*
+*Help us collect audio resources for Pwo Northern Karen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karen, Pwo Northern*
+*Help us collect video resources for Pwo Northern Karen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

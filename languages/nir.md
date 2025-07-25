@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nimboran  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Nimboran  
-**Vitality Score**: -0.60  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: -0.60  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nimboran*
+*Help us collect text resources for Nimboran*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nimboran*
+*Help us collect audio resources for Nimboran*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nimboran*
+*Help us collect video resources for Nimboran*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

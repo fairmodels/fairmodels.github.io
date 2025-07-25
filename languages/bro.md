@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Brokkat  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Brokkat*
+*Help us collect text resources for Brokkat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Brokkat*
+*Help us collect audio resources for Brokkat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Brokkat*
+*Help us collect video resources for Brokkat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

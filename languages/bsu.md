@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bahonsuai  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.40  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.40  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bahonsuai*
+*Help us collect text resources for Bahonsuai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bahonsuai*
+*Help us collect audio resources for Bahonsuai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bahonsuai*
+*Help us collect video resources for Bahonsuai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

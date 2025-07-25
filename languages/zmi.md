@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Negeri Sembilan Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.09  
-**Digitality Score**: 1.15  
+**Grassroots Presence (z-score)**: -1.09  
+**Web Presence (z-score)**: 1.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Negeri Sembilan Malay*
+*Help us collect text resources for Negeri Sembilan Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Negeri Sembilan Malay*
+*Help us collect audio resources for Negeri Sembilan Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Negeri Sembilan Malay*
+*Help us collect video resources for Negeri Sembilan Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

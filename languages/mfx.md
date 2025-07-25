@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Melo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.35  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Melo*
+*Help us collect text resources for Melo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Melo*
+*Help us collect audio resources for Melo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Melo*
+*Help us collect video resources for Melo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

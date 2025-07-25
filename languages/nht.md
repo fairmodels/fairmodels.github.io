@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Ometepec
+title: Ometepec Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Ometepec (nht)
+# Ometepec Nahuatl (nht)
 
 ## Overview
 
-**Language**: Nahuatl, Ometepec  
+**Language**: Ometepec Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.48  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -0.48  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Ometepec*
+*Help us collect text resources for Ometepec Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Ometepec*
+*Help us collect audio resources for Ometepec Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Ometepec*
+*Help us collect video resources for Ometepec Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

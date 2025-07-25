@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yoidik  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.09  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.09  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yoidik*
+*Help us collect text resources for Yoidik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yoidik*
+*Help us collect audio resources for Yoidik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yoidik*
+*Help us collect video resources for Yoidik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

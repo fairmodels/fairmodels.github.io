@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Clallam  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.53  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Clallam*
+*Help us collect text resources for Clallam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Clallam*
+*Help us collect audio resources for Clallam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Clallam*
+*Help us collect video resources for Clallam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

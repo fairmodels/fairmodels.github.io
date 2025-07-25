@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kpan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.25  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.25  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kpan*
+*Help us collect text resources for Kpan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kpan*
+*Help us collect audio resources for Kpan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kpan*
+*Help us collect video resources for Kpan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

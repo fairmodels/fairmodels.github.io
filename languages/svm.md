@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Slavomolisano  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -0.37  
-**Digitality Score**: -0.33  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: -0.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Slavomolisano*
+*Help us collect text resources for Slavomolisano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Slavomolisano*
+*Help us collect audio resources for Slavomolisano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Slavomolisano*
+*Help us collect video resources for Slavomolisano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

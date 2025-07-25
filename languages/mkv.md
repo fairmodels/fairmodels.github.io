@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mafea  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.77  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: -0.77  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mafea*
+*Help us collect text resources for Mafea*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mafea*
+*Help us collect audio resources for Mafea*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mafea*
+*Help us collect video resources for Mafea*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

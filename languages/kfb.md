@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kolami, Northwestern
+title: Northwestern Kolami
 parent: Languages
 ---
 
-# Kolami, Northwestern (kfb)
+# Northwestern Kolami (kfb)
 
 ## Overview
 
-**Language**: Kolami, Northwestern  
+**Language**: Northwestern Kolami  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.87  
-**Digitality Score**: -0.04  
+**Grassroots Presence (z-score)**: 0.87  
+**Web Presence (z-score)**: -0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kolami, Northwestern*
+*Help us collect text resources for Northwestern Kolami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kolami, Northwestern*
+*Help us collect audio resources for Northwestern Kolami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kolami, Northwestern*
+*Help us collect video resources for Northwestern Kolami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

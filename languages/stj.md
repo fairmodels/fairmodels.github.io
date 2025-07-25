@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Samo, Matya
+title: Matya Samo
 parent: Languages
 ---
 
-# Samo, Matya (stj)
+# Matya Samo (stj)
 
 ## Overview
 
-**Language**: Samo, Matya  
+**Language**: Matya Samo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.59  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.59  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Samo, Matya*
+*Help us collect text resources for Matya Samo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Samo, Matya*
+*Help us collect audio resources for Matya Samo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Samo, Matya*
+*Help us collect video resources for Matya Samo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

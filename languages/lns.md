@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lamnsoʼ  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.58  
-**Digitality Score**: 0.83  
+**Grassroots Presence (z-score)**: 1.58  
+**Web Presence (z-score)**: 0.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lamnsoʼ*
+*Help us collect text resources for Lamnsoʼ*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lamnsoʼ*
+*Help us collect audio resources for Lamnsoʼ*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lamnsoʼ*
+*Help us collect video resources for Lamnsoʼ*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

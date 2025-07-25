@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dungu  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.04  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dungu*
+*Help us collect text resources for Dungu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dungu*
+*Help us collect audio resources for Dungu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dungu*
+*Help us collect video resources for Dungu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

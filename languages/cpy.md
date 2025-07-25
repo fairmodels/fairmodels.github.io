@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ashéninka, South Ucayali
+title: South Ucayali Ashéninka
 parent: Languages
 ---
 
-# Ashéninka, South Ucayali (cpy)
+# South Ucayali Ashéninka (cpy)
 
 ## Overview
 
-**Language**: Ashéninka, South Ucayali  
+**Language**: South Ucayali Ashéninka  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 0.58  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ashéninka, South Ucayali*
+*Help us collect text resources for South Ucayali Ashéninka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ashéninka, South Ucayali*
+*Help us collect audio resources for South Ucayali Ashéninka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ashéninka, South Ucayali*
+*Help us collect video resources for South Ucayali Ashéninka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

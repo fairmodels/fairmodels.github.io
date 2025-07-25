@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tutchone, Southern
+title: Southern Tutchone
 parent: Languages
 ---
 
-# Tutchone, Southern (tce)
+# Southern Tutchone (tce)
 
 ## Overview
 
-**Language**: Tutchone, Southern  
+**Language**: Southern Tutchone  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.93  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tutchone, Southern*
+*Help us collect text resources for Southern Tutchone*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tutchone, Southern*
+*Help us collect audio resources for Southern Tutchone*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tutchone, Southern*
+*Help us collect video resources for Southern Tutchone*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

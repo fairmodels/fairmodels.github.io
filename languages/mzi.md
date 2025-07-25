@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mazatec, Ixcatlán
+title: Ixcatlán Mazatec
 parent: Languages
 ---
 
-# Mazatec, Ixcatlán (mzi)
+# Ixcatlán Mazatec (mzi)
 
 ## Overview
 
-**Language**: Mazatec, Ixcatlán  
+**Language**: Ixcatlán Mazatec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.53  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mazatec, Ixcatlán*
+*Help us collect text resources for Ixcatlán Mazatec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mazatec, Ixcatlán*
+*Help us collect audio resources for Ixcatlán Mazatec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mazatec, Ixcatlán*
+*Help us collect video resources for Ixcatlán Mazatec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

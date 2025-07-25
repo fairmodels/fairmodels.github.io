@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Min Bei
+title: Min Bei Chinese
 parent: Languages
 ---
 
-# Chinese, Min Bei (mnp)
+# Min Bei Chinese (mnp)
 
 ## Overview
 
-**Language**: Chinese, Min Bei  
+**Language**: Min Bei Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.45  
-**Digitality Score**: 3.66  
+**Grassroots Presence (z-score)**: 1.45  
+**Web Presence (z-score)**: 3.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Min Bei*
+*Help us collect text resources for Min Bei Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Min Bei*
+*Help us collect audio resources for Min Bei Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Min Bei*
+*Help us collect video resources for Min Bei Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

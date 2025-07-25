@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yaminahua  
 **Region/Area**: South America, Americas  
 **Family**: Panoan  
-**Vitality Score**: 0.34  
-**Digitality Score**: 0.87  
+**Grassroots Presence (z-score)**: 0.34  
+**Web Presence (z-score)**: 0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yaminahua*
+*Help us collect text resources for Yaminahua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yaminahua*
+*Help us collect audio resources for Yaminahua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yaminahua*
+*Help us collect video resources for Yaminahua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

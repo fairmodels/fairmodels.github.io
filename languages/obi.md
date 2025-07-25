@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Obispeño  
 **Region/Area**: Northern America, Americas  
 **Family**: Chumashan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Obispeño*
+*Help us collect text resources for Obispeño*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Obispeño*
+*Help us collect audio resources for Obispeño*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Obispeño*
+*Help us collect video resources for Obispeño*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

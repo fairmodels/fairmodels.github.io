@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Taburta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Lakes Plain  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Taburta*
+*Help us collect text resources for Taburta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Taburta*
+*Help us collect audio resources for Taburta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Taburta*
+*Help us collect video resources for Taburta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

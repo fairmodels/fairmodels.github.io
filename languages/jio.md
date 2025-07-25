@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jiamao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.45  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.45  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jiamao*
+*Help us collect text resources for Jiamao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jiamao*
+*Help us collect audio resources for Jiamao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jiamao*
+*Help us collect video resources for Jiamao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

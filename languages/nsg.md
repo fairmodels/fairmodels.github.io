@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ngasa  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ngasa*
+*Help us collect text resources for Ngasa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ngasa*
+*Help us collect audio resources for Ngasa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ngasa*
+*Help us collect video resources for Ngasa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

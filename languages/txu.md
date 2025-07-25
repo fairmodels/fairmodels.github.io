@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kayapó  
 **Region/Area**: South America, Americas  
 **Family**: Jean  
-**Vitality Score**: 0.51  
-**Digitality Score**: 0.62  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayapó*
+*Help us collect text resources for Kayapó*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayapó*
+*Help us collect audio resources for Kayapó*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayapó*
+*Help us collect video resources for Kayapó*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

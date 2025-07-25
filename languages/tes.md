@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tengger  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.26  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tengger*
+*Help us collect text resources for Tengger*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tengger*
+*Help us collect audio resources for Tengger*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tengger*
+*Help us collect video resources for Tengger*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

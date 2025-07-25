@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Leyigha  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Leyigha*
+*Help us collect text resources for Leyigha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Leyigha*
+*Help us collect audio resources for Leyigha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Leyigha*
+*Help us collect video resources for Leyigha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

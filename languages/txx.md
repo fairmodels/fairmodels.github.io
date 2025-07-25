@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tatana  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.05  
-**Digitality Score**: -0.64  
+**Grassroots Presence (z-score)**: 0.05  
+**Web Presence (z-score)**: -0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tatana*
+*Help us collect text resources for Tatana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tatana*
+*Help us collect audio resources for Tatana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tatana*
+*Help us collect video resources for Tatana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

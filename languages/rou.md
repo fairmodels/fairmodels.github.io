@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Runga  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.42  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Runga*
+*Help us collect text resources for Runga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Runga*
+*Help us collect audio resources for Runga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Runga*
+*Help us collect video resources for Runga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

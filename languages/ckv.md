@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kavalan  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.18  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: -1.18  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kavalan*
+*Help us collect text resources for Kavalan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kavalan*
+*Help us collect audio resources for Kavalan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kavalan*
+*Help us collect video resources for Kavalan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

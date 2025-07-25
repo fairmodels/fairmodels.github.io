@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cayuga  
 **Region/Area**: Northern America, Americas  
 **Family**: Iroquoian  
-**Vitality Score**: -0.87  
-**Digitality Score**: 0.79  
+**Grassroots Presence (z-score)**: -0.87  
+**Web Presence (z-score)**: 0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cayuga*
+*Help us collect text resources for Cayuga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cayuga*
+*Help us collect audio resources for Cayuga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cayuga*
+*Help us collect video resources for Cayuga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

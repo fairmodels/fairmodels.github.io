@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Polabian  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Polabian*
+*Help us collect text resources for Polabian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Polabian*
+*Help us collect audio resources for Polabian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Polabian*
+*Help us collect video resources for Polabian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

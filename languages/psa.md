@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Awyu, Asue
+title: Asue Awyu
 parent: Languages
 ---
 
-# Awyu, Asue (psa)
+# Asue Awyu (psa)
 
 ## Overview
 
-**Language**: Awyu, Asue  
+**Language**: Asue Awyu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.04  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.04  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Awyu, Asue*
+*Help us collect text resources for Asue Awyu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Awyu, Asue*
+*Help us collect audio resources for Asue Awyu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Awyu, Asue*
+*Help us collect video resources for Asue Awyu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

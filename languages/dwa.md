@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dirya  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -0.64  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: -0.64  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dirya*
+*Help us collect text resources for Dirya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dirya*
+*Help us collect audio resources for Dirya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dirya*
+*Help us collect video resources for Dirya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

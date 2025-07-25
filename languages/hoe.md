@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Horom  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.00  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: -0.00  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Horom*
+*Help us collect text resources for Horom*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Horom*
+*Help us collect audio resources for Horom*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Horom*
+*Help us collect video resources for Horom*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

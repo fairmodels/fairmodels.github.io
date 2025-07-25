@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pökoot  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.13  
-**Digitality Score**: 0.51  
+**Grassroots Presence (z-score)**: 1.13  
+**Web Presence (z-score)**: 0.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pökoot*
+*Help us collect text resources for Pökoot*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pökoot*
+*Help us collect audio resources for Pökoot*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pökoot*
+*Help us collect video resources for Pökoot*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

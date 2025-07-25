@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mewati  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.22  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 1.22  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mewati*
+*Help us collect text resources for Mewati*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mewati*
+*Help us collect audio resources for Mewati*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mewati*
+*Help us collect video resources for Mewati*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Murut, Serudung
+title: Serudung Murut
 parent: Languages
 ---
 
-# Murut, Serudung (srk)
+# Serudung Murut (srk)
 
 ## Overview
 
-**Language**: Murut, Serudung  
+**Language**: Serudung Murut  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.50  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.50  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Murut, Serudung*
+*Help us collect text resources for Serudung Murut*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Murut, Serudung*
+*Help us collect audio resources for Serudung Murut*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Murut, Serudung*
+*Help us collect video resources for Serudung Murut*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

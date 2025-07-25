@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Eshtehardi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: -1.24  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: -1.24  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Eshtehardi*
+*Help us collect text resources for Eshtehardi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Eshtehardi*
+*Help us collect audio resources for Eshtehardi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Eshtehardi*
+*Help us collect video resources for Eshtehardi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sened  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sened*
+*Help us collect text resources for Sened*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sened*
+*Help us collect audio resources for Sened*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sened*
+*Help us collect video resources for Sened*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

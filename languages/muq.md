@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Eastern Xiangxi
+title: Eastern Xiangxi Miao
 parent: Languages
 ---
 
-# Miao, Eastern Xiangxi (muq)
+# Eastern Xiangxi Miao (muq)
 
 ## Overview
 
-**Language**: Miao, Eastern Xiangxi  
+**Language**: Eastern Xiangxi Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.50  
-**Digitality Score**: 0.85  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: 0.85  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Eastern Xiangxi*
+*Help us collect text resources for Eastern Xiangxi Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Eastern Xiangxi*
+*Help us collect audio resources for Eastern Xiangxi Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Eastern Xiangxi*
+*Help us collect video resources for Eastern Xiangxi Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

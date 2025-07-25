@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.79  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.79  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbe*
+*Help us collect text resources for Mbe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbe*
+*Help us collect audio resources for Mbe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbe*
+*Help us collect video resources for Mbe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

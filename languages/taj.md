@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tamang, Eastern
+title: Eastern Tamang
 parent: Languages
 ---
 
-# Tamang, Eastern (taj)
+# Eastern Tamang (taj)
 
 ## Overview
 
-**Language**: Tamang, Eastern  
+**Language**: Eastern Tamang  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.48  
-**Digitality Score**: 2.01  
+**Grassroots Presence (z-score)**: 1.48  
+**Web Presence (z-score)**: 2.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tamang, Eastern*
+*Help us collect text resources for Eastern Tamang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tamang, Eastern*
+*Help us collect audio resources for Eastern Tamang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tamang, Eastern*
+*Help us collect video resources for Eastern Tamang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

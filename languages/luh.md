@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Leizhou
+title: Leizhou Chinese
 parent: Languages
 ---
 
-# Chinese, Leizhou (luh)
+# Leizhou Chinese (luh)
 
 ## Overview
 
-**Language**: Chinese, Leizhou  
+**Language**: Leizhou Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.84  
-**Digitality Score**: 3.04  
+**Grassroots Presence (z-score)**: 0.84  
+**Web Presence (z-score)**: 3.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Leizhou*
+*Help us collect text resources for Leizhou Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Leizhou*
+*Help us collect audio resources for Leizhou Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Leizhou*
+*Help us collect video resources for Leizhou Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

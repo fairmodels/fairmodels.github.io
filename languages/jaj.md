@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zazao  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.99  
-**Digitality Score**: -0.40  
+**Grassroots Presence (z-score)**: -0.99  
+**Web Presence (z-score)**: -0.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zazao*
+*Help us collect text resources for Zazao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zazao*
+*Help us collect audio resources for Zazao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zazao*
+*Help us collect video resources for Zazao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

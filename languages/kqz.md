@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Korana  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Khoe-Kwadi  
-**Vitality Score**: -1.87  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Korana*
+*Help us collect text resources for Korana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Korana*
+*Help us collect audio resources for Korana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Korana*
+*Help us collect video resources for Korana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

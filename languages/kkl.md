@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yale, Kosarek
+title: Kosarek Yale
 parent: Languages
 ---
 
-# Yale, Kosarek (kkl)
+# Kosarek Yale (kkl)
 
 ## Overview
 
-**Language**: Yale, Kosarek  
+**Language**: Kosarek Yale  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.37  
-**Digitality Score**: 0.41  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: 0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yale, Kosarek*
+*Help us collect text resources for Kosarek Yale*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yale, Kosarek*
+*Help us collect audio resources for Kosarek Yale*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yale, Kosarek*
+*Help us collect video resources for Kosarek Yale*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kaba Naa, Sara
+title: Sara Kaba Naa
 parent: Languages
 ---
 
-# Kaba Naa, Sara (kwv)
+# Sara Kaba Naa (kwv)
 
 ## Overview
 
-**Language**: Kaba Naa, Sara  
+**Language**: Sara Kaba Naa  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.72  
-**Digitality Score**: -0.08  
+**Grassroots Presence (z-score)**: 0.72  
+**Web Presence (z-score)**: -0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaba Naa, Sara*
+*Help us collect text resources for Sara Kaba Naa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaba Naa, Sara*
+*Help us collect audio resources for Sara Kaba Naa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaba Naa, Sara*
+*Help us collect video resources for Sara Kaba Naa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

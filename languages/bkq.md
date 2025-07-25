@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bakairí  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: -0.22  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: -0.22  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bakairí*
+*Help us collect text resources for Bakairí*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bakairí*
+*Help us collect audio resources for Bakairí*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bakairí*
+*Help us collect video resources for Bakairí*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

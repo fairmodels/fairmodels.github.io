@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Aizi, Aproumu
+title: Aproumu Aizi
 parent: Languages
 ---
 
-# Aizi, Aproumu (ahp)
+# Aproumu Aizi (ahp)
 
 ## Overview
 
-**Language**: Aizi, Aproumu  
+**Language**: Aproumu Aizi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.13  
-**Digitality Score**: -0.34  
+**Grassroots Presence (z-score)**: -0.13  
+**Web Presence (z-score)**: -0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aizi, Aproumu*
+*Help us collect text resources for Aproumu Aizi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aizi, Aproumu*
+*Help us collect audio resources for Aproumu Aizi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aizi, Aproumu*
+*Help us collect video resources for Aproumu Aizi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

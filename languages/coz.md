@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chocholtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.86  
-**Digitality Score**: -0.06  
+**Grassroots Presence (z-score)**: -0.86  
+**Web Presence (z-score)**: -0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chocholtec*
+*Help us collect text resources for Chocholtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chocholtec*
+*Help us collect audio resources for Chocholtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chocholtec*
+*Help us collect video resources for Chocholtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

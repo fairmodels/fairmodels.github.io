@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chilcotin  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.40  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: -0.40  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chilcotin*
+*Help us collect text resources for Chilcotin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chilcotin*
+*Help us collect audio resources for Chilcotin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chilcotin*
+*Help us collect video resources for Chilcotin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Omi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.83  
-**Digitality Score**: -0.58  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: -0.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Omi*
+*Help us collect text resources for Omi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Omi*
+*Help us collect audio resources for Omi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Omi*
+*Help us collect video resources for Omi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sadri, Oraon
+title: Oraon Sadri
 parent: Languages
 ---
 
-# Sadri, Oraon (sdr)
+# Oraon Sadri (sdr)
 
 ## Overview
 
-**Language**: Sadri, Oraon  
+**Language**: Oraon Sadri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sadri, Oraon*
+*Help us collect text resources for Oraon Sadri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sadri, Oraon*
+*Help us collect audio resources for Oraon Sadri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sadri, Oraon*
+*Help us collect video resources for Oraon Sadri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

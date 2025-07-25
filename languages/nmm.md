@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyeshangte  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.10  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyeshangte*
+*Help us collect text resources for Nyeshangte*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyeshangte*
+*Help us collect audio resources for Nyeshangte*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyeshangte*
+*Help us collect video resources for Nyeshangte*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

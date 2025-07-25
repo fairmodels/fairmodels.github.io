@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yola  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -1.25  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -1.25  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yola*
+*Help us collect text resources for Yola*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yola*
+*Help us collect audio resources for Yola*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yola*
+*Help us collect video resources for Yola*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

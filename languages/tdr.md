@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Todrah  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.17  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Todrah*
+*Help us collect text resources for Todrah*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Todrah*
+*Help us collect audio resources for Todrah*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Todrah*
+*Help us collect video resources for Todrah*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

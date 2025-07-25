@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Umpila  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.39  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -1.39  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Umpila*
+*Help us collect text resources for Umpila*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Umpila*
+*Help us collect audio resources for Umpila*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Umpila*
+*Help us collect video resources for Umpila*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

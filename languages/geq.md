@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Geme  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.29  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.29  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Geme*
+*Help us collect text resources for Geme*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Geme*
+*Help us collect audio resources for Geme*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Geme*
+*Help us collect video resources for Geme*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

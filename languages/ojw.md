@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ojibwa, Western
+title: Western Ojibwa
 parent: Languages
 ---
 
-# Ojibwa, Western (ojw)
+# Western Ojibwa (ojw)
 
 ## Overview
 
-**Language**: Ojibwa, Western  
+**Language**: Western Ojibwa  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -0.05  
-**Digitality Score**: 0.27  
+**Grassroots Presence (z-score)**: -0.05  
+**Web Presence (z-score)**: 0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ojibwa, Western*
+*Help us collect text resources for Western Ojibwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ojibwa, Western*
+*Help us collect audio resources for Western Ojibwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ojibwa, Western*
+*Help us collect video resources for Western Ojibwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

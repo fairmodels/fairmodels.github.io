@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shatt  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.22  
-**Digitality Score**: 0.17  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: 0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shatt*
+*Help us collect text resources for Shatt*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shatt*
+*Help us collect audio resources for Shatt*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shatt*
+*Help us collect video resources for Shatt*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

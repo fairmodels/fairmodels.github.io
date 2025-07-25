@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Atorada  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -1.42  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -1.42  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Atorada*
+*Help us collect text resources for Atorada*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Atorada*
+*Help us collect audio resources for Atorada*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Atorada*
+*Help us collect video resources for Atorada*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

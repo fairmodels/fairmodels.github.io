@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zo’é  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -0.27  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.27  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zo’é*
+*Help us collect text resources for Zo’é*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zo’é*
+*Help us collect audio resources for Zo’é*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zo’é*
+*Help us collect video resources for Zo’é*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

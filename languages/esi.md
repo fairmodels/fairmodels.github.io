@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Inupiatun, North Alaskan
+title: North Alaskan Inupiatun
 parent: Languages
 ---
 
-# Inupiatun, North Alaskan (esi)
+# North Alaskan Inupiatun (esi)
 
 ## Overview
 
-**Language**: Inupiatun, North Alaskan  
+**Language**: North Alaskan Inupiatun  
 **Region/Area**: Northern America, Americas  
 **Family**: Eskimo-Aleut  
-**Vitality Score**: -1.24  
-**Digitality Score**: 0.99  
+**Grassroots Presence (z-score)**: -1.24  
+**Web Presence (z-score)**: 0.99  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Inupiatun, North Alaskan*
+*Help us collect text resources for North Alaskan Inupiatun*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Inupiatun, North Alaskan*
+*Help us collect audio resources for North Alaskan Inupiatun*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Inupiatun, North Alaskan*
+*Help us collect video resources for North Alaskan Inupiatun*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

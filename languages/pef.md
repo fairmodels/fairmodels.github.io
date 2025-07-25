@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pomo, Northeastern
+title: Northeastern Pomo
 parent: Languages
 ---
 
-# Pomo, Northeastern (pef)
+# Northeastern Pomo (pef)
 
 ## Overview
 
-**Language**: Pomo, Northeastern  
+**Language**: Northeastern Pomo  
 **Region/Area**: Northern America, Americas  
 **Family**: Pomoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pomo, Northeastern*
+*Help us collect text resources for Northeastern Pomo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pomo, Northeastern*
+*Help us collect audio resources for Northeastern Pomo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pomo, Northeastern*
+*Help us collect video resources for Northeastern Pomo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

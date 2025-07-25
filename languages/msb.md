@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Masbatenyo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.72  
-**Digitality Score**: 1.57  
+**Grassroots Presence (z-score)**: 1.72  
+**Web Presence (z-score)**: 1.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Masbatenyo*
+*Help us collect text resources for Masbatenyo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Masbatenyo*
+*Help us collect audio resources for Masbatenyo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Masbatenyo*
+*Help us collect video resources for Masbatenyo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kinnauri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.37  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kinnauri*
+*Help us collect text resources for Kinnauri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kinnauri*
+*Help us collect audio resources for Kinnauri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kinnauri*
+*Help us collect video resources for Kinnauri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

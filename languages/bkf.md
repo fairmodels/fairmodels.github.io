@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Beeke  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.68  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.68  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Beeke*
+*Help us collect text resources for Beeke*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Beeke*
+*Help us collect audio resources for Beeke*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Beeke*
+*Help us collect video resources for Beeke*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

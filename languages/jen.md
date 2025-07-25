@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dza  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.37  
-**Digitality Score**: -0.14  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: -0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dza*
+*Help us collect text resources for Dza*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dza*
+*Help us collect audio resources for Dza*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dza*
+*Help us collect video resources for Dza*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

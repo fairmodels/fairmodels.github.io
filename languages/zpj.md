@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Quiavicuzas
+title: Quiavicuzas Zapotec
 parent: Languages
 ---
 
-# Zapotec, Quiavicuzas (zpj)
+# Quiavicuzas Zapotec (zpj)
 
 ## Overview
 
-**Language**: Zapotec, Quiavicuzas  
+**Language**: Quiavicuzas Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.12  
-**Digitality Score**: 1.02  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 1.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Quiavicuzas*
+*Help us collect text resources for Quiavicuzas Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Quiavicuzas*
+*Help us collect audio resources for Quiavicuzas Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Quiavicuzas*
+*Help us collect video resources for Quiavicuzas Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

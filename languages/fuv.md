@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fulfulde, Nigerian
+title: Nigerian Fulfulde
 parent: Languages
 ---
 
-# Fulfulde, Nigerian (fuv)
+# Nigerian Fulfulde (fuv)
 
 ## Overview
 
-**Language**: Fulfulde, Nigerian  
+**Language**: Nigerian Fulfulde  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.13  
-**Digitality Score**: 2.24  
+**Grassroots Presence (z-score)**: 2.13  
+**Web Presence (z-score)**: 2.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fulfulde, Nigerian*
+*Help us collect text resources for Nigerian Fulfulde*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fulfulde, Nigerian*
+*Help us collect audio resources for Nigerian Fulfulde*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fulfulde, Nigerian*
+*Help us collect video resources for Nigerian Fulfulde*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

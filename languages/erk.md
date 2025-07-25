@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Efate, South
+title: South Efate
 parent: Languages
 ---
 
-# Efate, South (erk)
+# South Efate (erk)
 
 ## Overview
 
-**Language**: Efate, South  
+**Language**: South Efate  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.49  
-**Digitality Score**: 0.67  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: 0.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Efate, South*
+*Help us collect text resources for South Efate*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Efate, South*
+*Help us collect audio resources for South Efate*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Efate, South*
+*Help us collect video resources for South Efate*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

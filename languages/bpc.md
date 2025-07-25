@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbuk  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.12  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbuk*
+*Help us collect text resources for Mbuk*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbuk*
+*Help us collect audio resources for Mbuk*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbuk*
+*Help us collect video resources for Mbuk*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

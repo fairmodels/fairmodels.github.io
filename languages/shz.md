@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sénoufo, Syenara
+title: Syenara Sénoufo
 parent: Languages
 ---
 
-# Sénoufo, Syenara (shz)
+# Syenara Sénoufo (shz)
 
 ## Overview
 
-**Language**: Sénoufo, Syenara  
+**Language**: Syenara Sénoufo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.90  
-**Digitality Score**: -0.59  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: -0.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sénoufo, Syenara*
+*Help us collect text resources for Syenara Sénoufo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sénoufo, Syenara*
+*Help us collect audio resources for Syenara Sénoufo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sénoufo, Syenara*
+*Help us collect video resources for Syenara Sénoufo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

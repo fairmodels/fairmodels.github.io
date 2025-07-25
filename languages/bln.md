@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bikol, Southern Catanduanes
+title: Southern Catanduanes Bikol
 parent: Languages
 ---
 
-# Bikol, Southern Catanduanes (bln)
+# Southern Catanduanes Bikol (bln)
 
 ## Overview
 
-**Language**: Bikol, Southern Catanduanes  
+**Language**: Southern Catanduanes Bikol  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.88  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: 0.88  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bikol, Southern Catanduanes*
+*Help us collect text resources for Southern Catanduanes Bikol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bikol, Southern Catanduanes*
+*Help us collect audio resources for Southern Catanduanes Bikol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bikol, Southern Catanduanes*
+*Help us collect video resources for Southern Catanduanes Bikol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

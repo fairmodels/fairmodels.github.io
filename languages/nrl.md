@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ngarluma  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.16  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -1.16  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ngarluma*
+*Help us collect text resources for Ngarluma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ngarluma*
+*Help us collect audio resources for Ngarluma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ngarluma*
+*Help us collect video resources for Ngarluma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

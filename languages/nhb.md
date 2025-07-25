@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Beng  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.30  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Beng*
+*Help us collect text resources for Beng*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Beng*
+*Help us collect audio resources for Beng*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Beng*
+*Help us collect video resources for Beng*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nafaanra  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.83  
-**Digitality Score**: 0.56  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: 0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nafaanra*
+*Help us collect text resources for Nafaanra*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nafaanra*
+*Help us collect audio resources for Nafaanra*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nafaanra*
+*Help us collect video resources for Nafaanra*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

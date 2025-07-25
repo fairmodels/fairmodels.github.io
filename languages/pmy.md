@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Papuan
+title: Papuan Malay
 parent: Languages
 ---
 
-# Malay, Papuan (pmy)
+# Papuan Malay (pmy)
 
 ## Overview
 
-**Language**: Malay, Papuan  
+**Language**: Papuan Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: 1.78  
-**Digitality Score**: 1.40  
+**Grassroots Presence (z-score)**: 1.78  
+**Web Presence (z-score)**: 1.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Papuan*
+*Help us collect text resources for Papuan Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Papuan*
+*Help us collect audio resources for Papuan Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Papuan*
+*Help us collect video resources for Papuan Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tunebo, Angosturas
+title: Angosturas Tunebo
 parent: Languages
 ---
 
-# Tunebo, Angosturas (tnd)
+# Angosturas Tunebo (tnd)
 
 ## Overview
 
-**Language**: Tunebo, Angosturas  
+**Language**: Angosturas Tunebo  
 **Region/Area**: South America, Americas  
 **Family**: Chibchan  
-**Vitality Score**: -1.22  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -1.22  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tunebo, Angosturas*
+*Help us collect text resources for Angosturas Tunebo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tunebo, Angosturas*
+*Help us collect audio resources for Angosturas Tunebo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tunebo, Angosturas*
+*Help us collect video resources for Angosturas Tunebo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

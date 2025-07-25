@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dadi Dadi  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dadi Dadi*
+*Help us collect text resources for Dadi Dadi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dadi Dadi*
+*Help us collect audio resources for Dadi Dadi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dadi Dadi*
+*Help us collect video resources for Dadi Dadi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

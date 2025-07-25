@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wik-Me’anha  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.23  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.23  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wik-Me’anha*
+*Help us collect text resources for Wik-Me’anha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wik-Me’anha*
+*Help us collect audio resources for Wik-Me’anha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wik-Me’anha*
+*Help us collect video resources for Wik-Me’anha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

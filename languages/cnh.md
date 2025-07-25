@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Hakha
+title: Hakha Chin
 parent: Languages
 ---
 
-# Chin, Hakha (cnh)
+# Hakha Chin (cnh)
 
 ## Overview
 
-**Language**: Chin, Hakha  
+**Language**: Hakha Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.63  
-**Digitality Score**: 1.91  
+**Grassroots Presence (z-score)**: 1.63  
+**Web Presence (z-score)**: 1.91  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Hakha*
+*Help us collect text resources for Hakha Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Hakha*
+*Help us collect audio resources for Hakha Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Hakha*
+*Help us collect video resources for Hakha Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Sarangani
+title: Sarangani Manobo
 parent: Languages
 ---
 
-# Manobo, Sarangani (mbs)
+# Sarangani Manobo (mbs)
 
 ## Overview
 
-**Language**: Manobo, Sarangani  
+**Language**: Sarangani Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.77  
-**Digitality Score**: 0.70  
+**Grassroots Presence (z-score)**: 0.77  
+**Web Presence (z-score)**: 0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Sarangani*
+*Help us collect text resources for Sarangani Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Sarangani*
+*Help us collect audio resources for Sarangani Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Sarangani*
+*Help us collect video resources for Sarangani Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

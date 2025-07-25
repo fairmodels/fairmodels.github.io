@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zoque, Chimalapa
+title: Chimalapa Zoque
 parent: Languages
 ---
 
-# Zoque, Chimalapa (zoh)
+# Chimalapa Zoque (zoh)
 
 ## Overview
 
-**Language**: Zoque, Chimalapa  
+**Language**: Chimalapa Zoque  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: -0.02  
-**Digitality Score**: 0.06  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: 0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zoque, Chimalapa*
+*Help us collect text resources for Chimalapa Zoque*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zoque, Chimalapa*
+*Help us collect audio resources for Chimalapa Zoque*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zoque, Chimalapa*
+*Help us collect video resources for Chimalapa Zoque*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

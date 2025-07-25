@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Ben Tey
+title: Ben Tey Dogon
 parent: Languages
 ---
 
-# Dogon, Ben Tey (dbt)
+# Ben Tey Dogon (dbt)
 
 ## Overview
 
-**Language**: Dogon, Ben Tey  
+**Language**: Ben Tey Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Ben Tey*
+*Help us collect text resources for Ben Tey Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Ben Tey*
+*Help us collect audio resources for Ben Tey Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Ben Tey*
+*Help us collect video resources for Ben Tey Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fulfulde, Maasina
+title: Maasina Fulfulde
 parent: Languages
 ---
 
-# Fulfulde, Maasina (ffm)
+# Maasina Fulfulde (ffm)
 
 ## Overview
 
-**Language**: Fulfulde, Maasina  
+**Language**: Maasina Fulfulde  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.54  
-**Digitality Score**: 1.57  
+**Grassroots Presence (z-score)**: 1.54  
+**Web Presence (z-score)**: 1.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fulfulde, Maasina*
+*Help us collect text resources for Maasina Fulfulde*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fulfulde, Maasina*
+*Help us collect audio resources for Maasina Fulfulde*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fulfulde, Maasina*
+*Help us collect video resources for Maasina Fulfulde*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Iñapari  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -1.36  
-**Digitality Score**: -0.55  
+**Grassroots Presence (z-score)**: -1.36  
+**Web Presence (z-score)**: -0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Iñapari*
+*Help us collect text resources for Iñapari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Iñapari*
+*Help us collect audio resources for Iñapari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Iñapari*
+*Help us collect video resources for Iñapari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

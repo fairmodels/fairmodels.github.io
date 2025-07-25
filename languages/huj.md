@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Northern Guiyang
+title: Northern Guiyang Miao
 parent: Languages
 ---
 
-# Miao, Northern Guiyang (huj)
+# Northern Guiyang Miao (huj)
 
 ## Overview
 
-**Language**: Miao, Northern Guiyang  
+**Language**: Northern Guiyang Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.51  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Northern Guiyang*
+*Help us collect text resources for Northern Guiyang Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Northern Guiyang*
+*Help us collect audio resources for Northern Guiyang Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Northern Guiyang*
+*Help us collect video resources for Northern Guiyang Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

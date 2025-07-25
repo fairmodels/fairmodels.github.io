@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yakama  
 **Region/Area**: Northern America, Americas  
 **Family**: Sahaptian  
-**Vitality Score**: -1.30  
-**Digitality Score**: 0.25  
+**Grassroots Presence (z-score)**: -1.30  
+**Web Presence (z-score)**: 0.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yakama*
+*Help us collect text resources for Yakama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yakama*
+*Help us collect audio resources for Yakama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yakama*
+*Help us collect video resources for Yakama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

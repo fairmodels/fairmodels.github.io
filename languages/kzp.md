@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kaidipang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.13  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.13  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaidipang*
+*Help us collect text resources for Kaidipang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaidipang*
+*Help us collect audio resources for Kaidipang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaidipang*
+*Help us collect video resources for Kaidipang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

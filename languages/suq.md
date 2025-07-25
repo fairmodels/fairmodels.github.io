@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Suri, Tirmaga-Chai
+title: Tirmaga-Chai Suri
 parent: Languages
 ---
 
-# Suri, Tirmaga-Chai (suq)
+# Tirmaga-Chai Suri (suq)
 
 ## Overview
 
-**Language**: Suri, Tirmaga-Chai  
+**Language**: Tirmaga-Chai Suri  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.68  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: 0.68  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Suri, Tirmaga-Chai*
+*Help us collect text resources for Tirmaga-Chai Suri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Suri, Tirmaga-Chai*
+*Help us collect audio resources for Tirmaga-Chai Suri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Suri, Tirmaga-Chai*
+*Help us collect video resources for Tirmaga-Chai Suri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

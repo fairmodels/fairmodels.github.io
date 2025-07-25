@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Setswana  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.73  
-**Digitality Score**: 3.37  
+**Grassroots Presence (z-score)**: 2.73  
+**Web Presence (z-score)**: 3.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Setswana*
+*Help us collect text resources for Setswana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Setswana*
+*Help us collect audio resources for Setswana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Setswana*
+*Help us collect video resources for Setswana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

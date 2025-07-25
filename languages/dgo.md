@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dogri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.58  
-**Digitality Score**: 1.71  
+**Grassroots Presence (z-score)**: 1.58  
+**Web Presence (z-score)**: 1.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogri*
+*Help us collect text resources for Dogri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogri*
+*Help us collect audio resources for Dogri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogri*
+*Help us collect video resources for Dogri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

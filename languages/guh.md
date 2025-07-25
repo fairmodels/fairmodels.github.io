@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Guahibo  
 **Region/Area**: South America, Americas  
 **Family**: Guajiboan  
-**Vitality Score**: 0.71  
-**Digitality Score**: 1.45  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: 1.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Guahibo*
+*Help us collect text resources for Guahibo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Guahibo*
+*Help us collect audio resources for Guahibo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Guahibo*
+*Help us collect video resources for Guahibo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

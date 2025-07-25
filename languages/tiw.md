@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tiwi  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.69  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tiwi*
+*Help us collect text resources for Tiwi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tiwi*
+*Help us collect audio resources for Tiwi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tiwi*
+*Help us collect video resources for Tiwi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

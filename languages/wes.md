@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pidgin, Cameroon
+title: Cameroon Pidgin
 parent: Languages
 ---
 
-# Pidgin, Cameroon (wes)
+# Cameroon Pidgin (wes)
 
 ## Overview
 
-**Language**: Pidgin, Cameroon  
+**Language**: Cameroon Pidgin  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 2.08  
-**Digitality Score**: 0.82  
+**Grassroots Presence (z-score)**: 2.08  
+**Web Presence (z-score)**: 0.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pidgin, Cameroon*
+*Help us collect text resources for Cameroon Pidgin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pidgin, Cameroon*
+*Help us collect audio resources for Cameroon Pidgin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pidgin, Cameroon*
+*Help us collect video resources for Cameroon Pidgin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

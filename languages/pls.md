@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Popoloca, San Marcos Tlacoyalco
+title: San Marcos Tlacoyalco Popoloca
 parent: Languages
 ---
 
-# Popoloca, San Marcos Tlacoyalco (pls)
+# San Marcos Tlacoyalco Popoloca (pls)
 
 ## Overview
 
-**Language**: Popoloca, San Marcos Tlacoyalco  
+**Language**: San Marcos Tlacoyalco Popoloca  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.22  
-**Digitality Score**: 1.03  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: 1.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Popoloca, San Marcos Tlacoyalco*
+*Help us collect text resources for San Marcos Tlacoyalco Popoloca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Popoloca, San Marcos Tlacoyalco*
+*Help us collect audio resources for San Marcos Tlacoyalco Popoloca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Popoloca, San Marcos Tlacoyalco*
+*Help us collect video resources for San Marcos Tlacoyalco Popoloca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

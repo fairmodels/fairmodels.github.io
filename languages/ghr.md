@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ghera  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ghera*
+*Help us collect text resources for Ghera*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ghera*
+*Help us collect audio resources for Ghera*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ghera*
+*Help us collect video resources for Ghera*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

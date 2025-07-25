@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ghale, Northern
+title: Northern Ghale
 parent: Languages
 ---
 
-# Ghale, Northern (ghh)
+# Northern Ghale (ghh)
 
 ## Overview
 
-**Language**: Ghale, Northern  
+**Language**: Northern Ghale  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.02  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ghale, Northern*
+*Help us collect text resources for Northern Ghale*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ghale, Northern*
+*Help us collect audio resources for Northern Ghale*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ghale, Northern*
+*Help us collect video resources for Northern Ghale*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

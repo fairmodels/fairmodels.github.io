@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyahkur  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: -0.32  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: -0.32  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyahkur*
+*Help us collect text resources for Nyahkur*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyahkur*
+*Help us collect audio resources for Nyahkur*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyahkur*
+*Help us collect video resources for Nyahkur*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

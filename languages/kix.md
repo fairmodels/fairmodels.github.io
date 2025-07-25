@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Khiamniungan
+title: Khiamniungan Naga
 parent: Languages
 ---
 
-# Naga, Khiamniungan (kix)
+# Khiamniungan Naga (kix)
 
 ## Overview
 
-**Language**: Naga, Khiamniungan  
+**Language**: Khiamniungan Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.80  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Khiamniungan*
+*Help us collect text resources for Khiamniungan Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Khiamniungan*
+*Help us collect audio resources for Khiamniungan Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Khiamniungan*
+*Help us collect video resources for Khiamniungan Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

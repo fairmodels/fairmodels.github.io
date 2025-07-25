@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Sumi
+title: Sumi Naga
 parent: Languages
 ---
 
-# Naga, Sumi (nsm)
+# Sumi Naga (nsm)
 
 ## Overview
 
-**Language**: Naga, Sumi  
+**Language**: Sumi Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.56  
-**Digitality Score**: 0.72  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: 0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Sumi*
+*Help us collect text resources for Sumi Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Sumi*
+*Help us collect audio resources for Sumi Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Sumi*
+*Help us collect video resources for Sumi Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

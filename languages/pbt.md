@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pashto, Southern
+title: Southern Pashto
 parent: Languages
 ---
 
-# Pashto, Southern (pbt)
+# Southern Pashto (pbt)
 
 ## Overview
 
-**Language**: Pashto, Southern  
+**Language**: Southern Pashto  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.78  
-**Digitality Score**: 2.78  
+**Grassroots Presence (z-score)**: 2.78  
+**Web Presence (z-score)**: 2.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pashto, Southern*
+*Help us collect text resources for Southern Pashto*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pashto, Southern*
+*Help us collect audio resources for Southern Pashto*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pashto, Southern*
+*Help us collect video resources for Southern Pashto*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

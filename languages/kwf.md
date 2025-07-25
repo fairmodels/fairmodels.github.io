@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kwara’ae  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.76  
-**Digitality Score**: 1.21  
+**Grassroots Presence (z-score)**: 0.76  
+**Web Presence (z-score)**: 1.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kwara’ae*
+*Help us collect text resources for Kwara’ae*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kwara’ae*
+*Help us collect audio resources for Kwara’ae*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kwara’ae*
+*Help us collect video resources for Kwara’ae*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

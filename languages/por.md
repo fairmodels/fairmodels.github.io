@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Portuguese  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 3.10  
-**Digitality Score**: 7.07  
+**Grassroots Presence (z-score)**: 3.10  
+**Web Presence (z-score)**: 7.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Portuguese*
+*Help us collect text resources for Portuguese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Portuguese*
+*Help us collect audio resources for Portuguese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Portuguese*
+*Help us collect video resources for Portuguese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

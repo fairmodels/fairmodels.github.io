@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Murut, Keningau
+title: Keningau Murut
 parent: Languages
 ---
 
-# Murut, Keningau (kxi)
+# Keningau Murut (kxi)
 
 ## Overview
 
-**Language**: Murut, Keningau  
+**Language**: Keningau Murut  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.23  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Murut, Keningau*
+*Help us collect text resources for Keningau Murut*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Murut, Keningau*
+*Help us collect audio resources for Keningau Murut*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Murut, Keningau*
+*Help us collect video resources for Keningau Murut*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

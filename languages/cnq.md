@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chung  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.33  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: 0.33  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chung*
+*Help us collect text resources for Chung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chung*
+*Help us collect audio resources for Chung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chung*
+*Help us collect video resources for Chung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

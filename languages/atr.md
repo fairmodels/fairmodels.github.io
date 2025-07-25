@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Waimiri-Atroarí  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Waimiri-Atroarí*
+*Help us collect text resources for Waimiri-Atroarí*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Waimiri-Atroarí*
+*Help us collect audio resources for Waimiri-Atroarí*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Waimiri-Atroarí*
+*Help us collect video resources for Waimiri-Atroarí*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

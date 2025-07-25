@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yuracare  
 **Region/Area**: South America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -0.29  
-**Digitality Score**: 1.04  
+**Grassroots Presence (z-score)**: -0.29  
+**Web Presence (z-score)**: 1.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yuracare*
+*Help us collect text resources for Yuracare*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yuracare*
+*Help us collect audio resources for Yuracare*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yuracare*
+*Help us collect video resources for Yuracare*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

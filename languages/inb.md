@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Inga  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.18  
-**Digitality Score**: 1.47  
+**Grassroots Presence (z-score)**: 0.18  
+**Web Presence (z-score)**: 1.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Inga*
+*Help us collect text resources for Inga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Inga*
+*Help us collect audio resources for Inga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Inga*
+*Help us collect video resources for Inga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

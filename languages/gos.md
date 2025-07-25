@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gronings  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.97  
-**Digitality Score**: 0.94  
+**Grassroots Presence (z-score)**: 0.97  
+**Web Presence (z-score)**: 0.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gronings*
+*Help us collect text resources for Gronings*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gronings*
+*Help us collect audio resources for Gronings*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gronings*
+*Help us collect video resources for Gronings*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

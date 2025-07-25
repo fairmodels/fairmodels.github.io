@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wolof  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.13  
-**Digitality Score**: 3.64  
+**Grassroots Presence (z-score)**: 2.13  
+**Web Presence (z-score)**: 3.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wolof*
+*Help us collect text resources for Wolof*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wolof*
+*Help us collect audio resources for Wolof*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wolof*
+*Help us collect video resources for Wolof*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

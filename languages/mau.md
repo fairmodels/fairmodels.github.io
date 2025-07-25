@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mazatec, Huautla
+title: Huautla Mazatec
 parent: Languages
 ---
 
-# Mazatec, Huautla (mau)
+# Huautla Mazatec (mau)
 
 ## Overview
 
-**Language**: Mazatec, Huautla  
+**Language**: Huautla Mazatec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.49  
-**Digitality Score**: 1.17  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: 1.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mazatec, Huautla*
+*Help us collect text resources for Huautla Mazatec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mazatec, Huautla*
+*Help us collect audio resources for Huautla Mazatec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mazatec, Huautla*
+*Help us collect video resources for Huautla Mazatec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

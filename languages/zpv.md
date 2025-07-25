@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Chichicapan
+title: Chichicapan Zapotec
 parent: Languages
 ---
 
-# Zapotec, Chichicapan (zpv)
+# Chichicapan Zapotec (zpv)
 
 ## Overview
 
-**Language**: Zapotec, Chichicapan  
+**Language**: Chichicapan Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.24  
-**Digitality Score**: 1.54  
+**Grassroots Presence (z-score)**: -0.24  
+**Web Presence (z-score)**: 1.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Chichicapan*
+*Help us collect text resources for Chichicapan Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Chichicapan*
+*Help us collect audio resources for Chichicapan Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Chichicapan*
+*Help us collect video resources for Chichicapan Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

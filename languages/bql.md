@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karian  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -1.11  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -1.11  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karian*
+*Help us collect text resources for Karian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karian*
+*Help us collect audio resources for Karian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karian*
+*Help us collect video resources for Karian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

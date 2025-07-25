@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yemsa  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.15  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 1.15  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yemsa*
+*Help us collect text resources for Yemsa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yemsa*
+*Help us collect audio resources for Yemsa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yemsa*
+*Help us collect video resources for Yemsa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

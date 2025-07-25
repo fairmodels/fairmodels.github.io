@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bote  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.10  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bote*
+*Help us collect text resources for Bote*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bote*
+*Help us collect audio resources for Bote*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bote*
+*Help us collect video resources for Bote*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

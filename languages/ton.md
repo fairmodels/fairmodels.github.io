@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tongan  
 **Region/Area**: Polynesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 2.18  
-**Digitality Score**: 3.01  
+**Grassroots Presence (z-score)**: 2.18  
+**Web Presence (z-score)**: 3.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tongan*
+*Help us collect text resources for Tongan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tongan*
+*Help us collect audio resources for Tongan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tongan*
+*Help us collect video resources for Tongan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

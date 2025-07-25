@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ma’anyan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ma’anyan*
+*Help us collect text resources for Ma’anyan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ma’anyan*
+*Help us collect audio resources for Ma’anyan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ma’anyan*
+*Help us collect video resources for Ma’anyan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

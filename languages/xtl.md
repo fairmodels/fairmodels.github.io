@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Tijaltepec
+title: Tijaltepec Mixtec
 parent: Languages
 ---
 
-# Mixtec, Tijaltepec (xtl)
+# Tijaltepec Mixtec (xtl)
 
 ## Overview
 
-**Language**: Mixtec, Tijaltepec  
+**Language**: Tijaltepec Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.09  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: 0.09  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Tijaltepec*
+*Help us collect text resources for Tijaltepec Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Tijaltepec*
+*Help us collect audio resources for Tijaltepec Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Tijaltepec*
+*Help us collect video resources for Tijaltepec Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

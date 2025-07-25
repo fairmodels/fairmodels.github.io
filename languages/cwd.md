@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cree, Woods
+title: Woods Cree
 parent: Languages
 ---
 
-# Cree, Woods (cwd)
+# Woods Cree (cwd)
 
 ## Overview
 
-**Language**: Cree, Woods  
+**Language**: Woods Cree  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -0.01  
-**Digitality Score**: 0.29  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: 0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cree, Woods*
+*Help us collect text resources for Woods Cree*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cree, Woods*
+*Help us collect audio resources for Woods Cree*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cree, Woods*
+*Help us collect video resources for Woods Cree*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

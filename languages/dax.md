@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dayi  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.91  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: -0.91  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dayi*
+*Help us collect text resources for Dayi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dayi*
+*Help us collect audio resources for Dayi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dayi*
+*Help us collect video resources for Dayi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

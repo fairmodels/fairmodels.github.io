@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Comorian, Maore
+title: Maore Comorian
 parent: Languages
 ---
 
-# Comorian, Maore (swb)
+# Maore Comorian (swb)
 
 ## Overview
 
-**Language**: Comorian, Maore  
+**Language**: Maore Comorian  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.93  
-**Digitality Score**: 0.63  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 0.63  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Comorian, Maore*
+*Help us collect text resources for Maore Comorian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Comorian, Maore*
+*Help us collect audio resources for Maore Comorian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Comorian, Maore*
+*Help us collect video resources for Maore Comorian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

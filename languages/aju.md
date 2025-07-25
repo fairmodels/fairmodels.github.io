@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Judeo-Moroccan
+title: Judeo-Moroccan Arabic
 parent: Languages
 ---
 
-# Arabic, Judeo-Moroccan (aju)
+# Judeo-Moroccan Arabic (aju)
 
 ## Overview
 
-**Language**: Arabic, Judeo-Moroccan  
+**Language**: Judeo-Moroccan Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.16  
-**Digitality Score**: -0.59  
+**Grassroots Presence (z-score)**: 0.16  
+**Web Presence (z-score)**: -0.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Judeo-Moroccan*
+*Help us collect text resources for Judeo-Moroccan Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Judeo-Moroccan*
+*Help us collect audio resources for Judeo-Moroccan Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Judeo-Moroccan*
+*Help us collect video resources for Judeo-Moroccan Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

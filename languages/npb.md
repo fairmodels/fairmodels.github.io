@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nupbikha  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nupbikha*
+*Help us collect text resources for Nupbikha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nupbikha*
+*Help us collect audio resources for Nupbikha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nupbikha*
+*Help us collect video resources for Nupbikha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

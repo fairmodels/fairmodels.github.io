@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Itundujia
+title: Itundujia Mixtec
 parent: Languages
 ---
 
-# Mixtec, Itundujia (mce)
+# Itundujia Mixtec (mce)
 
 ## Overview
 
-**Language**: Mixtec, Itundujia  
+**Language**: Itundujia Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.39  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.39  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Itundujia*
+*Help us collect text resources for Itundujia Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Itundujia*
+*Help us collect audio resources for Itundujia Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Itundujia*
+*Help us collect video resources for Itundujia Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

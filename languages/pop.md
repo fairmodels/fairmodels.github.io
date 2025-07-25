@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pwapwâ  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -1.25  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.25  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pwapwâ*
+*Help us collect text resources for Pwapwâ*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pwapwâ*
+*Help us collect audio resources for Pwapwâ*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pwapwâ*
+*Help us collect video resources for Pwapwâ*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

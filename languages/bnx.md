@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bangubangu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.76  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: 0.76  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bangubangu*
+*Help us collect text resources for Bangubangu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bangubangu*
+*Help us collect audio resources for Bangubangu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bangubangu*
+*Help us collect video resources for Bangubangu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

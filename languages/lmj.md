@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Labalekan-Mingar  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.05  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.05  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Labalekan-Mingar*
+*Help us collect text resources for Labalekan-Mingar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Labalekan-Mingar*
+*Help us collect audio resources for Labalekan-Mingar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Labalekan-Mingar*
+*Help us collect video resources for Labalekan-Mingar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

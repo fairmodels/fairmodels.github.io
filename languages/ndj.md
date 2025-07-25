@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ndamba  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.46  
-**Digitality Score**: 0.21  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ndamba*
+*Help us collect text resources for Ndamba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ndamba*
+*Help us collect audio resources for Ndamba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ndamba*
+*Help us collect video resources for Ndamba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

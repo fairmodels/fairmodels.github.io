@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbalanhu  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbalanhu*
+*Help us collect text resources for Mbalanhu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbalanhu*
+*Help us collect audio resources for Mbalanhu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbalanhu*
+*Help us collect video resources for Mbalanhu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bashkort  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: 2.10  
-**Digitality Score**: 3.33  
+**Grassroots Presence (z-score)**: 2.10  
+**Web Presence (z-score)**: 3.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bashkort*
+*Help us collect text resources for Bashkort*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bashkort*
+*Help us collect audio resources for Bashkort*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bashkort*
+*Help us collect video resources for Bashkort*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

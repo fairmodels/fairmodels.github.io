@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lolopo, Southern
+title: Southern Lolopo
 parent: Languages
 ---
 
-# Lolopo, Southern (ysp)
+# Southern Lolopo (ysp)
 
 ## Overview
 
-**Language**: Lolopo, Southern  
+**Language**: Southern Lolopo  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.45  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: 0.45  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lolopo, Southern*
+*Help us collect text resources for Southern Lolopo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lolopo, Southern*
+*Help us collect audio resources for Southern Lolopo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lolopo, Southern*
+*Help us collect video resources for Southern Lolopo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

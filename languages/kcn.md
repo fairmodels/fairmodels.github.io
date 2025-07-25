@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nubi  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nubi*
+*Help us collect text resources for Nubi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nubi*
+*Help us collect audio resources for Nubi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nubi*
+*Help us collect video resources for Nubi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

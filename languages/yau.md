@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hodï  
 **Region/Area**: South America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -0.00  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.00  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hodï*
+*Help us collect text resources for Hodï*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hodï*
+*Help us collect audio resources for Hodï*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hodï*
+*Help us collect video resources for Hodï*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

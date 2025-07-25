@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gwama  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.13  
-**Digitality Score**: 0.29  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: 0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gwama*
+*Help us collect text resources for Gwama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gwama*
+*Help us collect audio resources for Gwama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gwama*
+*Help us collect video resources for Gwama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

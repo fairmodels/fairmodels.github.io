@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quichua, Loja Highland
+title: Loja Highland Quichua
 parent: Languages
 ---
 
-# Quichua, Loja Highland (qvj)
+# Loja Highland Quichua (qvj)
 
 ## Overview
 
-**Language**: Quichua, Loja Highland  
+**Language**: Loja Highland Quichua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -0.25  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quichua, Loja Highland*
+*Help us collect text resources for Loja Highland Quichua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quichua, Loja Highland*
+*Help us collect audio resources for Loja Highland Quichua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quichua, Loja Highland*
+*Help us collect video resources for Loja Highland Quichua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

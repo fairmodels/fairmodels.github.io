@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lutachoni  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.82  
-**Digitality Score**: 0.42  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lutachoni*
+*Help us collect text resources for Lutachoni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lutachoni*
+*Help us collect audio resources for Lutachoni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lutachoni*
+*Help us collect video resources for Lutachoni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

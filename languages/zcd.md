@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Las Delicias
+title: Las Delicias Zapotec
 parent: Languages
 ---
 
-# Zapotec, Las Delicias (zcd)
+# Las Delicias Zapotec (zcd)
 
 ## Overview
 
-**Language**: Zapotec, Las Delicias  
+**Language**: Las Delicias Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.62  
-**Digitality Score**: 0.52  
+**Grassroots Presence (z-score)**: 0.62  
+**Web Presence (z-score)**: 0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Las Delicias*
+*Help us collect text resources for Las Delicias Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Las Delicias*
+*Help us collect audio resources for Las Delicias Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Las Delicias*
+*Help us collect video resources for Las Delicias Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

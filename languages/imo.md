@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Imbongu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.69  
-**Digitality Score**: 0.51  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 0.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Imbongu*
+*Help us collect text resources for Imbongu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Imbongu*
+*Help us collect audio resources for Imbongu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Imbongu*
+*Help us collect video resources for Imbongu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

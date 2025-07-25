@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.40  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lari*
+*Help us collect text resources for Lari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lari*
+*Help us collect audio resources for Lari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lari*
+*Help us collect video resources for Lari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

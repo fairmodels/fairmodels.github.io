@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nagumi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nagumi*
+*Help us collect text resources for Nagumi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nagumi*
+*Help us collect audio resources for Nagumi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nagumi*
+*Help us collect video resources for Nagumi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

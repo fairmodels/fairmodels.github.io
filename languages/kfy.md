@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kumaoni  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.23  
-**Digitality Score**: 0.34  
+**Grassroots Presence (z-score)**: 1.23  
+**Web Presence (z-score)**: 0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kumaoni*
+*Help us collect text resources for Kumaoni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kumaoni*
+*Help us collect audio resources for Kumaoni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kumaoni*
+*Help us collect video resources for Kumaoni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Angal  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.63  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: 0.63  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Angal*
+*Help us collect text resources for Angal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Angal*
+*Help us collect audio resources for Angal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Angal*
+*Help us collect video resources for Angal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

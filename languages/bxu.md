@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Buriat, China
+title: China Buriat
 parent: Languages
 ---
 
-# Buriat, China (bxu)
+# China Buriat (bxu)
 
 ## Overview
 
-**Language**: Buriat, China  
+**Language**: China Buriat  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Mongolic  
-**Vitality Score**: 0.19  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Buriat, China*
+*Help us collect text resources for China Buriat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Buriat, China*
+*Help us collect audio resources for China Buriat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Buriat, China*
+*Help us collect video resources for China Buriat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

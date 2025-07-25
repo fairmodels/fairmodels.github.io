@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Libyan
+title: Libyan Arabic
 parent: Languages
 ---
 
-# Arabic, Libyan (ayl)
+# Libyan Arabic (ayl)
 
 ## Overview
 
-**Language**: Arabic, Libyan  
+**Language**: Libyan Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.99  
-**Digitality Score**: 2.32  
+**Grassroots Presence (z-score)**: 1.99  
+**Web Presence (z-score)**: 2.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Libyan*
+*Help us collect text resources for Libyan Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Libyan*
+*Help us collect audio resources for Libyan Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Libyan*
+*Help us collect video resources for Libyan Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

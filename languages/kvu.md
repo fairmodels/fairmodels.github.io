@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yinbaw  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yinbaw*
+*Help us collect text resources for Yinbaw*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yinbaw*
+*Help us collect audio resources for Yinbaw*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yinbaw*
+*Help us collect video resources for Yinbaw*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

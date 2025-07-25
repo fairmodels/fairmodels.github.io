@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tucano  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: 1.20  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: 1.20  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tucano*
+*Help us collect text resources for Tucano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tucano*
+*Help us collect audio resources for Tucano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tucano*
+*Help us collect video resources for Tucano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

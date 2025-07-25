@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Namakura  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.15  
-**Digitality Score**: 0.42  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: 0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Namakura*
+*Help us collect text resources for Namakura*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Namakura*
+*Help us collect audio resources for Namakura*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Namakura*
+*Help us collect video resources for Namakura*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

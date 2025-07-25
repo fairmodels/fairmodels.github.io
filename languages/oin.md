@@ -1,30 +1,30 @@
 ---
 layout: default
-title: One, Inebu
+title: Inebu One
 parent: Languages
 ---
 
-# One, Inebu (oin)
+# Inebu One (oin)
 
 ## Overview
 
-**Language**: One, Inebu  
+**Language**: Inebu One  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.07  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for One, Inebu*
+*Help us collect text resources for Inebu One*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for One, Inebu*
+*Help us collect audio resources for Inebu One*
 
 ### Video Resources
-*Coming soon - help us collect video resources for One, Inebu*
+*Help us collect video resources for Inebu One*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

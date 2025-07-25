@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Venda  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.53  
-**Digitality Score**: 2.58  
+**Grassroots Presence (z-score)**: 2.53  
+**Web Presence (z-score)**: 2.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Venda*
+*Help us collect text resources for Venda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Venda*
+*Help us collect audio resources for Venda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Venda*
+*Help us collect video resources for Venda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

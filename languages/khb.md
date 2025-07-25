@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lü  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 1.69  
-**Digitality Score**: 1.07  
+**Grassroots Presence (z-score)**: 1.69  
+**Web Presence (z-score)**: 1.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lü*
+*Help us collect text resources for Lü*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lü*
+*Help us collect audio resources for Lü*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lü*
+*Help us collect video resources for Lü*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

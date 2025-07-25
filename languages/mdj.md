@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mangbetu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.08  
-**Digitality Score**: 0.32  
+**Grassroots Presence (z-score)**: 1.08  
+**Web Presence (z-score)**: 0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mangbetu*
+*Help us collect text resources for Mangbetu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mangbetu*
+*Help us collect audio resources for Mangbetu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mangbetu*
+*Help us collect video resources for Mangbetu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

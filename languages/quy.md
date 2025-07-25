@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Ayacucho
+title: Ayacucho Quechua
 parent: Languages
 ---
 
-# Quechua, Ayacucho (quy)
+# Ayacucho Quechua (quy)
 
 ## Overview
 
-**Language**: Quechua, Ayacucho  
+**Language**: Ayacucho Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 1.79  
-**Digitality Score**: 2.26  
+**Grassroots Presence (z-score)**: 1.79  
+**Web Presence (z-score)**: 2.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Ayacucho*
+*Help us collect text resources for Ayacucho Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Ayacucho*
+*Help us collect audio resources for Ayacucho Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Ayacucho*
+*Help us collect video resources for Ayacucho Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

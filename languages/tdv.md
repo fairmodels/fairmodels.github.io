@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Atoro  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.10  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Atoro*
+*Help us collect text resources for Atoro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Atoro*
+*Help us collect audio resources for Atoro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Atoro*
+*Help us collect video resources for Atoro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kendayan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.62  
-**Digitality Score**: 0.45  
+**Grassroots Presence (z-score)**: 1.62  
+**Web Presence (z-score)**: 0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kendayan*
+*Help us collect text resources for Kendayan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kendayan*
+*Help us collect audio resources for Kendayan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kendayan*
+*Help us collect video resources for Kendayan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

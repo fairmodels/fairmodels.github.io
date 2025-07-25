@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ashtiani  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.05  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.05  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ashtiani*
+*Help us collect text resources for Ashtiani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ashtiani*
+*Help us collect audio resources for Ashtiani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ashtiani*
+*Help us collect video resources for Ashtiani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

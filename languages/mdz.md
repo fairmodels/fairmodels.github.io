@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Suruí do Pará  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -0.22  
-**Digitality Score**: -0.44  
+**Grassroots Presence (z-score)**: -0.22  
+**Web Presence (z-score)**: -0.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Suruí do Pará*
+*Help us collect text resources for Suruí do Pará*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Suruí do Pará*
+*Help us collect audio resources for Suruí do Pará*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Suruí do Pará*
+*Help us collect video resources for Suruí do Pará*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

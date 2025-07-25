@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jaru  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.44  
-**Digitality Score**: -0.63  
+**Grassroots Presence (z-score)**: -0.44  
+**Web Presence (z-score)**: -0.63  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jaru*
+*Help us collect text resources for Jaru*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jaru*
+*Help us collect audio resources for Jaru*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jaru*
+*Help us collect video resources for Jaru*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

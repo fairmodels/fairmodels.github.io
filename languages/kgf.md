@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kube  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kube*
+*Help us collect text resources for Kube*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kube*
+*Help us collect audio resources for Kube*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kube*
+*Help us collect video resources for Kube*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

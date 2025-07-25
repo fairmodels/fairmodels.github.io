@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Otomi, Temoaya
+title: Temoaya Otomi
 parent: Languages
 ---
 
-# Otomi, Temoaya (ott)
+# Temoaya Otomi (ott)
 
 ## Overview
 
-**Language**: Otomi, Temoaya  
+**Language**: Temoaya Otomi  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.09  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: 0.09  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Otomi, Temoaya*
+*Help us collect text resources for Temoaya Otomi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Otomi, Temoaya*
+*Help us collect audio resources for Temoaya Otomi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Otomi, Temoaya*
+*Help us collect video resources for Temoaya Otomi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

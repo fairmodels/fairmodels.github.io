@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wampís  
 **Region/Area**: South America, Americas  
 **Family**: Jivaroan  
-**Vitality Score**: 0.55  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wampís*
+*Help us collect text resources for Wampís*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wampís*
+*Help us collect audio resources for Wampís*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wampís*
+*Help us collect video resources for Wampís*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

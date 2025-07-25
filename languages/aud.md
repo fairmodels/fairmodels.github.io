@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Anuta  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -1.01  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -1.01  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Anuta*
+*Help us collect text resources for Anuta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Anuta*
+*Help us collect audio resources for Anuta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Anuta*
+*Help us collect video resources for Anuta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

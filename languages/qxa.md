@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Chiquián
+title: Chiquián Quechua
 parent: Languages
 ---
 
-# Quechua, Chiquián (qxa)
+# Chiquián Quechua (qxa)
 
 ## Overview
 
-**Language**: Quechua, Chiquián  
+**Language**: Chiquián Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -0.17  
-**Digitality Score**: 0.63  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: 0.63  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Chiquián*
+*Help us collect text resources for Chiquián Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Chiquián*
+*Help us collect audio resources for Chiquián Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Chiquián*
+*Help us collect video resources for Chiquián Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

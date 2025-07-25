@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tainae  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.05  
-**Digitality Score**: -0.66  
+**Grassroots Presence (z-score)**: -0.05  
+**Web Presence (z-score)**: -0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tainae*
+*Help us collect text resources for Tainae*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tainae*
+*Help us collect audio resources for Tainae*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tainae*
+*Help us collect video resources for Tainae*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

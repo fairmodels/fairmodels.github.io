@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sardinian, Sassarese
+title: Sassarese Sardinian
 parent: Languages
 ---
 
-# Sardinian, Sassarese (sdc)
+# Sassarese Sardinian (sdc)
 
 ## Overview
 
-**Language**: Sardinian, Sassarese  
+**Language**: Sassarese Sardinian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.37  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sardinian, Sassarese*
+*Help us collect text resources for Sassarese Sardinian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sardinian, Sassarese*
+*Help us collect audio resources for Sassarese Sardinian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sardinian, Sassarese*
+*Help us collect video resources for Sassarese Sardinian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

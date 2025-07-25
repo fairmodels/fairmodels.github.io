@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Lotha
+title: Lotha Naga
 parent: Languages
 ---
 
-# Naga, Lotha (njh)
+# Lotha Naga (njh)
 
 ## Overview
 
-**Language**: Naga, Lotha  
+**Language**: Lotha Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.23  
-**Digitality Score**: -0.06  
+**Grassroots Presence (z-score)**: 1.23  
+**Web Presence (z-score)**: -0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Lotha*
+*Help us collect text resources for Lotha Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Lotha*
+*Help us collect audio resources for Lotha Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Lotha*
+*Help us collect video resources for Lotha Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

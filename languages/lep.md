@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lepcha  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.29  
-**Digitality Score**: 0.65  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: 0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lepcha*
+*Help us collect text resources for Lepcha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lepcha*
+*Help us collect audio resources for Lepcha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lepcha*
+*Help us collect video resources for Lepcha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

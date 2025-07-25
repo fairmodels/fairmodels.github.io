@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixe, Coatlán
+title: Coatlán Mixe
 parent: Languages
 ---
 
-# Mixe, Coatlán (mco)
+# Coatlán Mixe (mco)
 
 ## Overview
 
-**Language**: Mixe, Coatlán  
+**Language**: Coatlán Mixe  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: 0.46  
-**Digitality Score**: 0.71  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 0.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixe, Coatlán*
+*Help us collect text resources for Coatlán Mixe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixe, Coatlán*
+*Help us collect audio resources for Coatlán Mixe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixe, Coatlán*
+*Help us collect video resources for Coatlán Mixe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

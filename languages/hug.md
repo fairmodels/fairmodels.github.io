@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Huachipaeri  
 **Region/Area**: South America, Americas  
 **Family**: Harákmbut  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Huachipaeri*
+*Help us collect text resources for Huachipaeri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Huachipaeri*
+*Help us collect audio resources for Huachipaeri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Huachipaeri*
+*Help us collect video resources for Huachipaeri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yankunytjatjara  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.75  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: -0.75  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yankunytjatjara*
+*Help us collect text resources for Yankunytjatjara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yankunytjatjara*
+*Help us collect audio resources for Yankunytjatjara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yankunytjatjara*
+*Help us collect video resources for Yankunytjatjara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

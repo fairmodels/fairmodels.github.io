@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yaroamë  
 **Region/Area**: South America, Americas  
 **Family**: Yanomaman  
-**Vitality Score**: -0.16  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yaroamë*
+*Help us collect text resources for Yaroamë*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yaroamë*
+*Help us collect audio resources for Yaroamë*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yaroamë*
+*Help us collect video resources for Yaroamë*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

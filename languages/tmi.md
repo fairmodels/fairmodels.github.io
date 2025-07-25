@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Vinekula  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Vinekula*
+*Help us collect text resources for Vinekula*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Vinekula*
+*Help us collect audio resources for Vinekula*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Vinekula*
+*Help us collect video resources for Vinekula*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

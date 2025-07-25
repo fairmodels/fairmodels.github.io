@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Maring
+title: Maring Naga
 parent: Languages
 ---
 
-# Naga, Maring (nng)
+# Maring Naga (nng)
 
 ## Overview
 
-**Language**: Naga, Maring  
+**Language**: Maring Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.67  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Maring*
+*Help us collect text resources for Maring Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Maring*
+*Help us collect audio resources for Maring Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Maring*
+*Help us collect video resources for Maring Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

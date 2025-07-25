@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Riang Lai  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.11  
-**Digitality Score**: 0.00  
+**Grassroots Presence (z-score)**: 0.11  
+**Web Presence (z-score)**: 0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Riang Lai*
+*Help us collect text resources for Riang Lai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Riang Lai*
+*Help us collect audio resources for Riang Lai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Riang Lai*
+*Help us collect video resources for Riang Lai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tulu  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 1.26  
-**Digitality Score**: 1.78  
+**Grassroots Presence (z-score)**: 1.26  
+**Web Presence (z-score)**: 1.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tulu*
+*Help us collect text resources for Tulu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tulu*
+*Help us collect audio resources for Tulu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tulu*
+*Help us collect video resources for Tulu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cun  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.50  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cun*
+*Help us collect text resources for Cun*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cun*
+*Help us collect audio resources for Cun*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cun*
+*Help us collect video resources for Cun*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

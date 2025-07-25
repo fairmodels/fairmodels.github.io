@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nuni, Northern
+title: Northern Nuni
 parent: Languages
 ---
 
-# Nuni, Northern (nuv)
+# Northern Nuni (nuv)
 
 ## Overview
 
-**Language**: Nuni, Northern  
+**Language**: Northern Nuni  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.45  
-**Digitality Score**: -0.66  
+**Grassroots Presence (z-score)**: 0.45  
+**Web Presence (z-score)**: -0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nuni, Northern*
+*Help us collect text resources for Northern Nuni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nuni, Northern*
+*Help us collect audio resources for Northern Nuni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nuni, Northern*
+*Help us collect video resources for Northern Nuni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

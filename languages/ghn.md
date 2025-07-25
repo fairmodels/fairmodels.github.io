@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ghanongga  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.11  
-**Digitality Score**: 0.15  
+**Grassroots Presence (z-score)**: 0.11  
+**Web Presence (z-score)**: 0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ghanongga*
+*Help us collect text resources for Ghanongga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ghanongga*
+*Help us collect audio resources for Ghanongga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ghanongga*
+*Help us collect video resources for Ghanongga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

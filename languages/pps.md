@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Popoloca, San Luís Temalacayuca
+title: San Luís Temalacayuca Popoloca
 parent: Languages
 ---
 
-# Popoloca, San Luís Temalacayuca (pps)
+# San Luís Temalacayuca Popoloca (pps)
 
 ## Overview
 
-**Language**: Popoloca, San Luís Temalacayuca  
+**Language**: San Luís Temalacayuca Popoloca  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.46  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Popoloca, San Luís Temalacayuca*
+*Help us collect text resources for San Luís Temalacayuca Popoloca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Popoloca, San Luís Temalacayuca*
+*Help us collect audio resources for San Luís Temalacayuca Popoloca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Popoloca, San Luís Temalacayuca*
+*Help us collect video resources for San Luís Temalacayuca Popoloca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

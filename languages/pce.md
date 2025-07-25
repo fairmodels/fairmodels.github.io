@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Palaung, Ruching
+title: Ruching Palaung
 parent: Languages
 ---
 
-# Palaung, Ruching (pce)
+# Ruching Palaung (pce)
 
 ## Overview
 
-**Language**: Palaung, Ruching  
+**Language**: Ruching Palaung  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.97  
-**Digitality Score**: 0.46  
+**Grassroots Presence (z-score)**: 0.97  
+**Web Presence (z-score)**: 0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Palaung, Ruching*
+*Help us collect text resources for Ruching Palaung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Palaung, Ruching*
+*Help us collect audio resources for Ruching Palaung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Palaung, Ruching*
+*Help us collect video resources for Ruching Palaung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

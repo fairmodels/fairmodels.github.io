@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kendem  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kendem*
+*Help us collect text resources for Kendem*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kendem*
+*Help us collect audio resources for Kendem*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kendem*
+*Help us collect video resources for Kendem*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

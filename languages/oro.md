@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Orokolo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.29  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Orokolo*
+*Help us collect text resources for Orokolo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Orokolo*
+*Help us collect audio resources for Orokolo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Orokolo*
+*Help us collect video resources for Orokolo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cahuilla  
 **Region/Area**: Northern America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -1.47  
-**Digitality Score**: 0.26  
+**Grassroots Presence (z-score)**: -1.47  
+**Web Presence (z-score)**: 0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cahuilla*
+*Help us collect text resources for Cahuilla*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cahuilla*
+*Help us collect audio resources for Cahuilla*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cahuilla*
+*Help us collect video resources for Cahuilla*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

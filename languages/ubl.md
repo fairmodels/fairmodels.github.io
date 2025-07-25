@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bikol, Buhi’non
+title: Buhi’non Bikol
 parent: Languages
 ---
 
-# Bikol, Buhi’non (ubl)
+# Buhi’non Bikol (ubl)
 
 ## Overview
 
-**Language**: Bikol, Buhi’non  
+**Language**: Buhi’non Bikol  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.80  
-**Digitality Score**: 1.10  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: 1.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bikol, Buhi’non*
+*Help us collect text resources for Buhi’non Bikol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bikol, Buhi’non*
+*Help us collect audio resources for Buhi’non Bikol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bikol, Buhi’non*
+*Help us collect video resources for Buhi’non Bikol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

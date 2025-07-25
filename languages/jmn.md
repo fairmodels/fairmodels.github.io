@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Makuri
+title: Makuri Naga
 parent: Languages
 ---
 
-# Naga, Makuri (jmn)
+# Makuri Naga (jmn)
 
 ## Overview
 
-**Language**: Naga, Makuri  
+**Language**: Makuri Naga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.50  
-**Digitality Score**: -0.23  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: -0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Makuri*
+*Help us collect text resources for Makuri Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Makuri*
+*Help us collect audio resources for Makuri Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Makuri*
+*Help us collect video resources for Makuri Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

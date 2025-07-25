@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gurindji  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.43  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: -0.43  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gurindji*
+*Help us collect text resources for Gurindji*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gurindji*
+*Help us collect audio resources for Gurindji*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gurindji*
+*Help us collect video resources for Gurindji*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

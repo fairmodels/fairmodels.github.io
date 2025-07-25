@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Ixtayutla
+title: Ixtayutla Mixtec
 parent: Languages
 ---
 
-# Mixtec, Ixtayutla (vmj)
+# Ixtayutla Mixtec (vmj)
 
 ## Overview
 
-**Language**: Mixtec, Ixtayutla  
+**Language**: Ixtayutla Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.18  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: 0.18  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Ixtayutla*
+*Help us collect text resources for Ixtayutla Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Ixtayutla*
+*Help us collect audio resources for Ixtayutla Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Ixtayutla*
+*Help us collect video resources for Ixtayutla Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

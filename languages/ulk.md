@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Meriam Mir  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Eastern Trans-Fly  
-**Vitality Score**: -0.38  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: -0.38  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Meriam Mir*
+*Help us collect text resources for Meriam Mir*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Meriam Mir*
+*Help us collect audio resources for Meriam Mir*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Meriam Mir*
+*Help us collect video resources for Meriam Mir*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

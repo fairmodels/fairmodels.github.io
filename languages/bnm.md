@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Batanga  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.12  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Batanga*
+*Help us collect text resources for Batanga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Batanga*
+*Help us collect audio resources for Batanga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Batanga*
+*Help us collect video resources for Batanga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

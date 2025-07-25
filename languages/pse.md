@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Central
+title: Central Malay
 parent: Languages
 ---
 
-# Malay, Central (pse)
+# Central Malay (pse)
 
 ## Overview
 
-**Language**: Malay, Central  
+**Language**: Central Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.87  
-**Digitality Score**: 2.25  
+**Grassroots Presence (z-score)**: 0.87  
+**Web Presence (z-score)**: 2.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Central*
+*Help us collect text resources for Central Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Central*
+*Help us collect audio resources for Central Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Central*
+*Help us collect video resources for Central Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

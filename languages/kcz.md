@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Konongo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Konongo*
+*Help us collect text resources for Konongo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Konongo*
+*Help us collect audio resources for Konongo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Konongo*
+*Help us collect video resources for Konongo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

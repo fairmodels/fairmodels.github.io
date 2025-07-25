@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tetun  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.04  
-**Digitality Score**: 2.84  
+**Grassroots Presence (z-score)**: 1.04  
+**Web Presence (z-score)**: 2.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tetun*
+*Help us collect text resources for Tetun*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tetun*
+*Help us collect audio resources for Tetun*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tetun*
+*Help us collect video resources for Tetun*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 2.19  
-**Digitality Score**: 3.54  
+**Grassroots Presence (z-score)**: 2.19  
+**Web Presence (z-score)**: 3.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay*
+*Help us collect text resources for Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay*
+*Help us collect audio resources for Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay*
+*Help us collect video resources for Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

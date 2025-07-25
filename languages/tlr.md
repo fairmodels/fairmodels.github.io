@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Talise  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.04  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Talise*
+*Help us collect text resources for Talise*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Talise*
+*Help us collect audio resources for Talise*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Talise*
+*Help us collect video resources for Talise*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

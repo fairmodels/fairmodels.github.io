@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bushoong  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.75  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: 0.75  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bushoong*
+*Help us collect text resources for Bushoong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bushoong*
+*Help us collect audio resources for Bushoong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bushoong*
+*Help us collect video resources for Bushoong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tibetan, Khams
+title: Khams Tibetan
 parent: Languages
 ---
 
-# Tibetan, Khams (khg)
+# Khams Tibetan (khg)
 
 ## Overview
 
-**Language**: Tibetan, Khams  
+**Language**: Khams Tibetan  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.86  
-**Digitality Score**: 0.64  
+**Grassroots Presence (z-score)**: 0.86  
+**Web Presence (z-score)**: 0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tibetan, Khams*
+*Help us collect text resources for Khams Tibetan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tibetan, Khams*
+*Help us collect audio resources for Khams Tibetan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tibetan, Khams*
+*Help us collect video resources for Khams Tibetan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

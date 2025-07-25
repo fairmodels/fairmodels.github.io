@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Laru  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.01  
-**Digitality Score**: -0.04  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: -0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Laru*
+*Help us collect text resources for Laru*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Laru*
+*Help us collect audio resources for Laru*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Laru*
+*Help us collect video resources for Laru*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

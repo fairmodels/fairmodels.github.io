@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kola  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.20  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kola*
+*Help us collect text resources for Kola*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kola*
+*Help us collect audio resources for Kola*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kola*
+*Help us collect video resources for Kola*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

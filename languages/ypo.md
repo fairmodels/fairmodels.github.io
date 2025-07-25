@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Phola, Alo
+title: Alo Phola
 parent: Languages
 ---
 
-# Phola, Alo (ypo)
+# Alo Phola (ypo)
 
 ## Overview
 
-**Language**: Phola, Alo  
+**Language**: Alo Phola  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.14  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Phola, Alo*
+*Help us collect text resources for Alo Phola*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Phola, Alo*
+*Help us collect audio resources for Alo Phola*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Phola, Alo*
+*Help us collect video resources for Alo Phola*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

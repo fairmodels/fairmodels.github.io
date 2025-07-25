@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dameli  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dameli*
+*Help us collect text resources for Dameli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dameli*
+*Help us collect audio resources for Dameli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dameli*
+*Help us collect video resources for Dameli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

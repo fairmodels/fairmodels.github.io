@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Burui  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -0.38  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.38  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Burui*
+*Help us collect text resources for Burui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Burui*
+*Help us collect audio resources for Burui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Burui*
+*Help us collect video resources for Burui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

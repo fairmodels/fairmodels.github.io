@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.66  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karon*
+*Help us collect text resources for Karon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karon*
+*Help us collect audio resources for Karon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karon*
+*Help us collect video resources for Karon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

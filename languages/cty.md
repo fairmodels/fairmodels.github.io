@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chetti, Moundadan
+title: Moundadan Chetti
 parent: Languages
 ---
 
-# Chetti, Moundadan (cty)
+# Moundadan Chetti (cty)
 
 ## Overview
 
-**Language**: Chetti, Moundadan  
+**Language**: Moundadan Chetti  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Mixed language  
-**Vitality Score**: 0.47  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.47  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chetti, Moundadan*
+*Help us collect text resources for Moundadan Chetti*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chetti, Moundadan*
+*Help us collect audio resources for Moundadan Chetti*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chetti, Moundadan*
+*Help us collect video resources for Moundadan Chetti*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

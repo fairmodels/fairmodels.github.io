@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pame, Southern
+title: Southern Pame
 parent: Languages
 ---
 
-# Pame, Southern (pmz)
+# Southern Pame (pmz)
 
 ## Overview
 
-**Language**: Pame, Southern  
+**Language**: Southern Pame  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pame, Southern*
+*Help us collect text resources for Southern Pame*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pame, Southern*
+*Help us collect audio resources for Southern Pame*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pame, Southern*
+*Help us collect video resources for Southern Pame*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

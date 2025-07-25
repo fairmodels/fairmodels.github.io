@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Berawan, West
+title: West Berawan
 parent: Languages
 ---
 
-# Berawan, West (zbw)
+# West Berawan (zbw)
 
 ## Overview
 
-**Language**: Berawan, West  
+**Language**: West Berawan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Berawan, West*
+*Help us collect text resources for West Berawan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Berawan, West*
+*Help us collect audio resources for West Berawan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Berawan, West*
+*Help us collect video resources for West Berawan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

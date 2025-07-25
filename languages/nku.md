@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kulango, Bouna
+title: Bouna Kulango
 parent: Languages
 ---
 
-# Kulango, Bouna (nku)
+# Bouna Kulango (nku)
 
 ## Overview
 
-**Language**: Kulango, Bouna  
+**Language**: Bouna Kulango  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.66  
-**Digitality Score**: -0.14  
+**Grassroots Presence (z-score)**: 0.66  
+**Web Presence (z-score)**: -0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kulango, Bouna*
+*Help us collect text resources for Bouna Kulango*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kulango, Bouna*
+*Help us collect audio resources for Bouna Kulango*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kulango, Bouna*
+*Help us collect video resources for Bouna Kulango*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

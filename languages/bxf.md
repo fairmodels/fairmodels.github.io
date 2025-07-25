@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Minigir  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.13  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Minigir*
+*Help us collect text resources for Minigir*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Minigir*
+*Help us collect audio resources for Minigir*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Minigir*
+*Help us collect video resources for Minigir*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

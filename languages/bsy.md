@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bisaya, Sabah
+title: Sabah Bisaya
 parent: Languages
 ---
 
-# Bisaya, Sabah (bsy)
+# Sabah Bisaya (bsy)
 
 ## Overview
 
-**Language**: Bisaya, Sabah  
+**Language**: Sabah Bisaya  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.09  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: -1.09  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bisaya, Sabah*
+*Help us collect text resources for Sabah Bisaya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bisaya, Sabah*
+*Help us collect audio resources for Sabah Bisaya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bisaya, Sabah*
+*Help us collect video resources for Sabah Bisaya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mikasuki  
 **Region/Area**: Northern America, Americas  
 **Family**: Muskogean  
-**Vitality Score**: -0.37  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mikasuki*
+*Help us collect text resources for Mikasuki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mikasuki*
+*Help us collect audio resources for Mikasuki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mikasuki*
+*Help us collect video resources for Mikasuki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

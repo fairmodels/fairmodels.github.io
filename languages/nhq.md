@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Huaxcaleca
+title: Huaxcaleca Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Huaxcaleca (nhq)
+# Huaxcaleca Nahuatl (nhq)
 
 ## Overview
 
-**Language**: Nahuatl, Huaxcaleca  
+**Language**: Huaxcaleca Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.65  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Huaxcaleca*
+*Help us collect text resources for Huaxcaleca Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Huaxcaleca*
+*Help us collect audio resources for Huaxcaleca Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Huaxcaleca*
+*Help us collect video resources for Huaxcaleca Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

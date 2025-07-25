@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 2.59  
-**Digitality Score**: 4.24  
+**Grassroots Presence (z-score)**: 2.59  
+**Web Presence (z-score)**: 4.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lao*
+*Help us collect text resources for Lao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lao*
+*Help us collect audio resources for Lao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lao*
+*Help us collect video resources for Lao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

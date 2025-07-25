@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kamwe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.08  
-**Digitality Score**: 0.96  
+**Grassroots Presence (z-score)**: 1.08  
+**Web Presence (z-score)**: 0.96  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kamwe*
+*Help us collect text resources for Kamwe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kamwe*
+*Help us collect audio resources for Kamwe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kamwe*
+*Help us collect video resources for Kamwe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

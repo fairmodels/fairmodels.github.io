@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kaike  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.02  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: 0.02  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaike*
+*Help us collect text resources for Kaike*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaike*
+*Help us collect audio resources for Kaike*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaike*
+*Help us collect video resources for Kaike*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

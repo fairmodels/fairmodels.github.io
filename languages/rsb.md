@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Romano-Serbian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Mixed language  
-**Vitality Score**: 0.52  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romano-Serbian*
+*Help us collect text resources for Romano-Serbian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romano-Serbian*
+*Help us collect audio resources for Romano-Serbian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romano-Serbian*
+*Help us collect video resources for Romano-Serbian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

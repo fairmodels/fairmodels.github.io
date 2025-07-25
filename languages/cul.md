@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kulina  
 **Region/Area**: South America, Americas  
 **Family**: Arauan  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.59  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kulina*
+*Help us collect text resources for Kulina*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kulina*
+*Help us collect audio resources for Kulina*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kulina*
+*Help us collect video resources for Kulina*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Terêna  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -0.02  
-**Digitality Score**: 1.09  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: 1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Terêna*
+*Help us collect text resources for Terêna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Terêna*
+*Help us collect audio resources for Terêna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Terêna*
+*Help us collect video resources for Terêna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

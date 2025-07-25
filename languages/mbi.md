@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Ilianen
+title: Ilianen Manobo
 parent: Languages
 ---
 
-# Manobo, Ilianen (mbi)
+# Ilianen Manobo (mbi)
 
 ## Overview
 
-**Language**: Manobo, Ilianen  
+**Language**: Ilianen Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.60  
-**Digitality Score**: 0.60  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: 0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Ilianen*
+*Help us collect text resources for Ilianen Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Ilianen*
+*Help us collect audio resources for Ilianen Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Ilianen*
+*Help us collect video resources for Ilianen Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

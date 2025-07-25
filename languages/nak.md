@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nakanai  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.69  
-**Digitality Score**: 0.83  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 0.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nakanai*
+*Help us collect text resources for Nakanai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nakanai*
+*Help us collect audio resources for Nakanai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nakanai*
+*Help us collect video resources for Nakanai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

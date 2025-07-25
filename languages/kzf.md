@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kaili, Da’a
+title: Da’a Kaili
 parent: Languages
 ---
 
-# Kaili, Da’a (kzf)
+# Da’a Kaili (kzf)
 
 ## Overview
 
-**Language**: Kaili, Da’a  
+**Language**: Da’a Kaili  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.78  
-**Digitality Score**: 0.71  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 0.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaili, Da’a*
+*Help us collect text resources for Da’a Kaili*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaili, Da’a*
+*Help us collect audio resources for Da’a Kaili*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaili, Da’a*
+*Help us collect video resources for Da’a Kaili*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

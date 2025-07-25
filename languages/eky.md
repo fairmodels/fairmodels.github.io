@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kayah, Eastern
+title: Eastern Kayah
 parent: Languages
 ---
 
-# Kayah, Eastern (eky)
+# Eastern Kayah (eky)
 
 ## Overview
 
-**Language**: Kayah, Eastern  
+**Language**: Eastern Kayah  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.67  
-**Digitality Score**: 0.06  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: 0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayah, Eastern*
+*Help us collect text resources for Eastern Kayah*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayah, Eastern*
+*Help us collect audio resources for Eastern Kayah*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayah, Eastern*
+*Help us collect video resources for Eastern Kayah*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

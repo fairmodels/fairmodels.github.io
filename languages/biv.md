@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Birifor, Southern
+title: Southern Birifor
 parent: Languages
 ---
 
-# Birifor, Southern (biv)
+# Southern Birifor (biv)
 
 ## Overview
 
-**Language**: Birifor, Southern  
+**Language**: Southern Birifor  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.92  
-**Digitality Score**: 0.60  
+**Grassroots Presence (z-score)**: 0.92  
+**Web Presence (z-score)**: 0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Birifor, Southern*
+*Help us collect text resources for Southern Birifor*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Birifor, Southern*
+*Help us collect audio resources for Southern Birifor*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Birifor, Southern*
+*Help us collect video resources for Southern Birifor*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Krongo  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.77  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 0.77  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Krongo*
+*Help us collect text resources for Krongo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Krongo*
+*Help us collect audio resources for Krongo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Krongo*
+*Help us collect video resources for Krongo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

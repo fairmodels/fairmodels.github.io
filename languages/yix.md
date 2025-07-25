@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Axi  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.39  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Axi*
+*Help us collect text resources for Axi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Axi*
+*Help us collect audio resources for Axi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Axi*
+*Help us collect video resources for Axi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

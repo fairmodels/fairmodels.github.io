@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ke’o  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ke’o*
+*Help us collect text resources for Ke’o*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ke’o*
+*Help us collect audio resources for Ke’o*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ke’o*
+*Help us collect video resources for Ke’o*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

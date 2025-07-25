@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Uni  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Skou  
-**Vitality Score**: 0.21  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Uni*
+*Help us collect text resources for Uni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Uni*
+*Help us collect audio resources for Uni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Uni*
+*Help us collect video resources for Uni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

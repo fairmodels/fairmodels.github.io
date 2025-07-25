@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nonuya  
 **Region/Area**: South America, Americas  
 **Family**: Witotoan  
-**Vitality Score**: -1.58  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: -1.58  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nonuya*
+*Help us collect text resources for Nonuya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nonuya*
+*Help us collect audio resources for Nonuya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nonuya*
+*Help us collect video resources for Nonuya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

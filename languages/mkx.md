@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Kinamiging
+title: Kinamiging Manobo
 parent: Languages
 ---
 
-# Manobo, Kinamiging (mkx)
+# Kinamiging Manobo (mkx)
 
 ## Overview
 
-**Language**: Manobo, Kinamiging  
+**Language**: Kinamiging Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.11  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.11  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Kinamiging*
+*Help us collect text resources for Kinamiging Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Kinamiging*
+*Help us collect audio resources for Kinamiging Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Kinamiging*
+*Help us collect video resources for Kinamiging Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

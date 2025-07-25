@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Makian, West
+title: West Makian
 parent: Languages
 ---
 
-# Makian, West (mqs)
+# West Makian (mqs)
 
 ## Overview
 
-**Language**: Makian, West  
+**Language**: West Makian  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: West Papuan  
-**Vitality Score**: 0.13  
-**Digitality Score**: -0.49  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: -0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Makian, West*
+*Help us collect text resources for West Makian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Makian, West*
+*Help us collect audio resources for West Makian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Makian, West*
+*Help us collect video resources for West Makian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dizin  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.03  
-**Digitality Score**: -0.00  
+**Grassroots Presence (z-score)**: 1.03  
+**Web Presence (z-score)**: -0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dizin*
+*Help us collect text resources for Dizin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dizin*
+*Help us collect audio resources for Dizin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dizin*
+*Help us collect video resources for Dizin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

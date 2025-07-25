@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lomavren  
 **Region/Area**: Western Asia, Asia  
 **Family**: Mixed language  
-**Vitality Score**: -0.75  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.75  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lomavren*
+*Help us collect text resources for Lomavren*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lomavren*
+*Help us collect audio resources for Lomavren*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lomavren*
+*Help us collect video resources for Lomavren*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

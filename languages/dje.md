@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zarma  
 **Region/Area**: Western Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.66  
-**Digitality Score**: 1.91  
+**Grassroots Presence (z-score)**: 1.66  
+**Web Presence (z-score)**: 1.91  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zarma*
+*Help us collect text resources for Zarma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zarma*
+*Help us collect audio resources for Zarma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zarma*
+*Help us collect video resources for Zarma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

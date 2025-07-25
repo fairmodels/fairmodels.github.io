@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tagbanwa, Central
+title: Central Tagbanwa
 parent: Languages
 ---
 
-# Tagbanwa, Central (tgt)
+# Central Tagbanwa (tgt)
 
 ## Overview
 
-**Language**: Tagbanwa, Central  
+**Language**: Central Tagbanwa  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.75  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: -0.75  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tagbanwa, Central*
+*Help us collect text resources for Central Tagbanwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tagbanwa, Central*
+*Help us collect audio resources for Central Tagbanwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tagbanwa, Central*
+*Help us collect video resources for Central Tagbanwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rakahanga-Manihiki  
 **Region/Area**: Polynesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.24  
-**Digitality Score**: -0.41  
+**Grassroots Presence (z-score)**: -0.24  
+**Web Presence (z-score)**: -0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rakahanga-Manihiki*
+*Help us collect text resources for Rakahanga-Manihiki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rakahanga-Manihiki*
+*Help us collect audio resources for Rakahanga-Manihiki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rakahanga-Manihiki*
+*Help us collect video resources for Rakahanga-Manihiki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

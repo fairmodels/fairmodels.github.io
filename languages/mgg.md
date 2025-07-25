@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mpumpong  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.74  
-**Digitality Score**: 0.20  
+**Grassroots Presence (z-score)**: 0.74  
+**Web Presence (z-score)**: 0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mpumpong*
+*Help us collect text resources for Mpumpong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mpumpong*
+*Help us collect audio resources for Mpumpong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mpumpong*
+*Help us collect video resources for Mpumpong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nabi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nabi*
+*Help us collect text resources for Nabi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nabi*
+*Help us collect audio resources for Nabi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nabi*
+*Help us collect video resources for Nabi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

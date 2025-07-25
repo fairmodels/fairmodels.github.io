@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bobot  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.90  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.90  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bobot*
+*Help us collect text resources for Bobot*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bobot*
+*Help us collect audio resources for Bobot*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bobot*
+*Help us collect video resources for Bobot*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

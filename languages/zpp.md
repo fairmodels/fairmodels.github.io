@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, El Alto
+title: El Alto Zapotec
 parent: Languages
 ---
 
-# Zapotec, El Alto (zpp)
+# El Alto Zapotec (zpp)
 
 ## Overview
 
-**Language**: Zapotec, El Alto  
+**Language**: El Alto Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, El Alto*
+*Help us collect text resources for El Alto Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, El Alto*
+*Help us collect audio resources for El Alto Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, El Alto*
+*Help us collect video resources for El Alto Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

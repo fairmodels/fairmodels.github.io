@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Southeastern Ixtlán
+title: Southeastern Ixtlán Zapotec
 parent: Languages
 ---
 
-# Zapotec, Southeastern Ixtlán (zpd)
+# Southeastern Ixtlán Zapotec (zpd)
 
 ## Overview
 
-**Language**: Zapotec, Southeastern Ixtlán  
+**Language**: Southeastern Ixtlán Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.01  
-**Digitality Score**: 1.03  
+**Grassroots Presence (z-score)**: 0.01  
+**Web Presence (z-score)**: 1.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Southeastern Ixtlán*
+*Help us collect text resources for Southeastern Ixtlán Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Southeastern Ixtlán*
+*Help us collect audio resources for Southeastern Ixtlán Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Southeastern Ixtlán*
+*Help us collect video resources for Southeastern Ixtlán Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Newar  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.44  
-**Digitality Score**: 2.20  
+**Grassroots Presence (z-score)**: 1.44  
+**Web Presence (z-score)**: 2.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Newar*
+*Help us collect text resources for Newar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Newar*
+*Help us collect audio resources for Newar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Newar*
+*Help us collect video resources for Newar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

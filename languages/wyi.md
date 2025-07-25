@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Woiwurrung  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Woiwurrung*
+*Help us collect text resources for Woiwurrung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Woiwurrung*
+*Help us collect audio resources for Woiwurrung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Woiwurrung*
+*Help us collect video resources for Woiwurrung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

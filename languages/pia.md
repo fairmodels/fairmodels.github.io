@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pima Bajo  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pima Bajo*
+*Help us collect text resources for Pima Bajo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pima Bajo*
+*Help us collect audio resources for Pima Bajo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pima Bajo*
+*Help us collect video resources for Pima Bajo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

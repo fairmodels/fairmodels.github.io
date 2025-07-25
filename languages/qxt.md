@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Santa Ana de Tusi Pasco
+title: Santa Ana de Tusi Pasco Quechua
 parent: Languages
 ---
 
-# Quechua, Santa Ana de Tusi Pasco (qxt)
+# Santa Ana de Tusi Pasco Quechua (qxt)
 
 ## Overview
 
-**Language**: Quechua, Santa Ana de Tusi Pasco  
+**Language**: Santa Ana de Tusi Pasco Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -0.02  
-**Digitality Score**: 0.39  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: 0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Santa Ana de Tusi Pasco*
+*Help us collect text resources for Santa Ana de Tusi Pasco Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Santa Ana de Tusi Pasco*
+*Help us collect audio resources for Santa Ana de Tusi Pasco Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Santa Ana de Tusi Pasco*
+*Help us collect video resources for Santa Ana de Tusi Pasco Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

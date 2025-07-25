@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Huilliche  
 **Region/Area**: South America, Americas  
 **Family**: Mapudungu  
-**Vitality Score**: -1.72  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: -1.72  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Huilliche*
+*Help us collect text resources for Huilliche*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Huilliche*
+*Help us collect audio resources for Huilliche*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Huilliche*
+*Help us collect video resources for Huilliche*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

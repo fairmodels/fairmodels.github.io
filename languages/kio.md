@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kiowa  
 **Region/Area**: Northern America, Americas  
 **Family**: Kiowa-Tanoan  
-**Vitality Score**: -0.80  
-**Digitality Score**: 0.17  
+**Grassroots Presence (z-score)**: -0.80  
+**Web Presence (z-score)**: 0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kiowa*
+*Help us collect text resources for Kiowa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kiowa*
+*Help us collect audio resources for Kiowa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kiowa*
+*Help us collect video resources for Kiowa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ngen  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.72  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ngen*
+*Help us collect text resources for Ngen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ngen*
+*Help us collect audio resources for Ngen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ngen*
+*Help us collect video resources for Ngen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

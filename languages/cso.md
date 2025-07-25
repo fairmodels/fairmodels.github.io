@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Sochiapam
+title: Sochiapam Chinantec
 parent: Languages
 ---
 
-# Chinantec, Sochiapam (cso)
+# Sochiapam Chinantec (cso)
 
 ## Overview
 
-**Language**: Chinantec, Sochiapam  
+**Language**: Sochiapam Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.81  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Sochiapam*
+*Help us collect text resources for Sochiapam Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Sochiapam*
+*Help us collect audio resources for Sochiapam Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Sochiapam*
+*Help us collect video resources for Sochiapam Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

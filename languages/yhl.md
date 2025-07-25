@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Phowa, Hlepho
+title: Hlepho Phowa
 parent: Languages
 ---
 
-# Phowa, Hlepho (yhl)
+# Hlepho Phowa (yhl)
 
 ## Overview
 
-**Language**: Phowa, Hlepho  
+**Language**: Hlepho Phowa  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Phowa, Hlepho*
+*Help us collect text resources for Hlepho Phowa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Phowa, Hlepho*
+*Help us collect audio resources for Hlepho Phowa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Phowa, Hlepho*
+*Help us collect video resources for Hlepho Phowa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

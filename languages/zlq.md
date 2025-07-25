@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Liuqian
+title: Liuqian Zhuang
 parent: Languages
 ---
 
-# Zhuang, Liuqian (zlq)
+# Liuqian Zhuang (zlq)
 
 ## Overview
 
-**Language**: Zhuang, Liuqian  
+**Language**: Liuqian Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.54  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: 0.54  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Liuqian*
+*Help us collect text resources for Liuqian Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Liuqian*
+*Help us collect audio resources for Liuqian Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Liuqian*
+*Help us collect video resources for Liuqian Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

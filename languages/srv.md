@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sorsoganon, Southern
+title: Southern Sorsoganon
 parent: Languages
 ---
 
-# Sorsoganon, Southern (srv)
+# Southern Sorsoganon (srv)
 
 ## Overview
 
-**Language**: Sorsoganon, Southern  
+**Language**: Southern Sorsoganon  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.61  
-**Digitality Score**: -0.34  
+**Grassroots Presence (z-score)**: 0.61  
+**Web Presence (z-score)**: -0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sorsoganon, Southern*
+*Help us collect text resources for Southern Sorsoganon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sorsoganon, Southern*
+*Help us collect audio resources for Southern Sorsoganon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sorsoganon, Southern*
+*Help us collect video resources for Southern Sorsoganon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

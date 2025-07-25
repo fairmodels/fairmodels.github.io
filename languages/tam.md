@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tamil  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 2.96  
-**Digitality Score**: 4.80  
+**Grassroots Presence (z-score)**: 2.96  
+**Web Presence (z-score)**: 4.80  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tamil*
+*Help us collect text resources for Tamil*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tamil*
+*Help us collect audio resources for Tamil*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tamil*
+*Help us collect video resources for Tamil*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

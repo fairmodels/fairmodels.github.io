@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Alutor  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Chukotko-Kamchatkan  
-**Vitality Score**: -1.07  
-**Digitality Score**: -0.46  
+**Grassroots Presence (z-score)**: -1.07  
+**Web Presence (z-score)**: -0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Alutor*
+*Help us collect text resources for Alutor*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Alutor*
+*Help us collect audio resources for Alutor*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Alutor*
+*Help us collect video resources for Alutor*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

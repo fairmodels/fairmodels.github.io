@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ditammari  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.98  
-**Digitality Score**: 1.35  
+**Grassroots Presence (z-score)**: 0.98  
+**Web Presence (z-score)**: 1.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ditammari*
+*Help us collect text resources for Ditammari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ditammari*
+*Help us collect audio resources for Ditammari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ditammari*
+*Help us collect video resources for Ditammari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

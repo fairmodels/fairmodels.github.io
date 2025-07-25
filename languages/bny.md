@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Vaie  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.05  
-**Digitality Score**: -0.66  
+**Grassroots Presence (z-score)**: -0.05  
+**Web Presence (z-score)**: -0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Vaie*
+*Help us collect text resources for Vaie*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Vaie*
+*Help us collect audio resources for Vaie*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Vaie*
+*Help us collect video resources for Vaie*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

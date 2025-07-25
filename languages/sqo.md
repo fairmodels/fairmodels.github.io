@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sorkhei  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.26  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sorkhei*
+*Help us collect text resources for Sorkhei*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sorkhei*
+*Help us collect audio resources for Sorkhei*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sorkhei*
+*Help us collect video resources for Sorkhei*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

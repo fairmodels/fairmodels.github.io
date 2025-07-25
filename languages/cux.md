@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cuicatec, Tepeuxila
+title: Tepeuxila Cuicatec
 parent: Languages
 ---
 
-# Cuicatec, Tepeuxila (cux)
+# Tepeuxila Cuicatec (cux)
 
 ## Overview
 
-**Language**: Cuicatec, Tepeuxila  
+**Language**: Tepeuxila Cuicatec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.22  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cuicatec, Tepeuxila*
+*Help us collect text resources for Tepeuxila Cuicatec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cuicatec, Tepeuxila*
+*Help us collect audio resources for Tepeuxila Cuicatec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cuicatec, Tepeuxila*
+*Help us collect video resources for Tepeuxila Cuicatec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

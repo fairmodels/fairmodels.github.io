@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chambeali  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.87  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: 0.87  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chambeali*
+*Help us collect text resources for Chambeali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chambeali*
+*Help us collect audio resources for Chambeali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chambeali*
+*Help us collect video resources for Chambeali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ugong  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.92  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: -0.92  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ugong*
+*Help us collect text resources for Ugong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ugong*
+*Help us collect audio resources for Ugong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ugong*
+*Help us collect video resources for Ugong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

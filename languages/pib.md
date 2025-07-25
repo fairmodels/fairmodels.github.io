@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yine  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 0.41  
-**Digitality Score**: 1.09  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: 1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yine*
+*Help us collect text resources for Yine*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yine*
+*Help us collect audio resources for Yine*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yine*
+*Help us collect video resources for Yine*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Embera Catío  
 **Region/Area**: South America, Americas  
 **Family**: Chocoan  
-**Vitality Score**: 0.29  
-**Digitality Score**: 0.60  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: 0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Embera Catío*
+*Help us collect text resources for Embera Catío*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Embera Catío*
+*Help us collect audio resources for Embera Catío*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Embera Catío*
+*Help us collect video resources for Embera Catío*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

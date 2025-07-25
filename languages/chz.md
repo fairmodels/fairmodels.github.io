@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Ozumacín
+title: Ozumacín Chinantec
 parent: Languages
 ---
 
-# Chinantec, Ozumacín (chz)
+# Ozumacín Chinantec (chz)
 
 ## Overview
 
-**Language**: Chinantec, Ozumacín  
+**Language**: Ozumacín Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.64  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Ozumacín*
+*Help us collect text resources for Ozumacín Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Ozumacín*
+*Help us collect audio resources for Ozumacín Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Ozumacín*
+*Help us collect video resources for Ozumacín Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

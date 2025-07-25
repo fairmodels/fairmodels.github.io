@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Malila  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.81  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: 0.81  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malila*
+*Help us collect text resources for Malila*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malila*
+*Help us collect audio resources for Malila*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malila*
+*Help us collect video resources for Malila*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

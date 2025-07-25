@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Eastern Huasteca
+title: Eastern Huasteca Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Eastern Huasteca (nhe)
+# Eastern Huasteca Nahuatl (nhe)
 
 ## Overview
 
-**Language**: Nahuatl, Eastern Huasteca  
+**Language**: Eastern Huasteca Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 1.05  
-**Digitality Score**: 1.94  
+**Grassroots Presence (z-score)**: 1.05  
+**Web Presence (z-score)**: 1.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Eastern Huasteca*
+*Help us collect text resources for Eastern Huasteca Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Eastern Huasteca*
+*Help us collect audio resources for Eastern Huasteca Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Eastern Huasteca*
+*Help us collect video resources for Eastern Huasteca Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

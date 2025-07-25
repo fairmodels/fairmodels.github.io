@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Albanian, Gheg
+title: Gheg Albanian
 parent: Languages
 ---
 
-# Albanian, Gheg (aln)
+# Gheg Albanian (aln)
 
 ## Overview
 
-**Language**: Albanian, Gheg  
+**Language**: Gheg Albanian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.59  
-**Digitality Score**: 1.64  
+**Grassroots Presence (z-score)**: 2.59  
+**Web Presence (z-score)**: 1.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Albanian, Gheg*
+*Help us collect text resources for Gheg Albanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Albanian, Gheg*
+*Help us collect audio resources for Gheg Albanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Albanian, Gheg*
+*Help us collect video resources for Gheg Albanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

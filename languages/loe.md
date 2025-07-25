@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Saluan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.29  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saluan*
+*Help us collect text resources for Saluan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saluan*
+*Help us collect audio resources for Saluan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saluan*
+*Help us collect video resources for Saluan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

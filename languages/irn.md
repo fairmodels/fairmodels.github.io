@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Irántxe  
 **Region/Area**: South America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -0.99  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: -0.99  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Irántxe*
+*Help us collect text resources for Irántxe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Irántxe*
+*Help us collect audio resources for Irántxe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Irántxe*
+*Help us collect video resources for Irántxe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

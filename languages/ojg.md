@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ojibwa, Eastern
+title: Eastern Ojibwa
 parent: Languages
 ---
 
-# Ojibwa, Eastern (ojg)
+# Eastern Ojibwa (ojg)
 
 ## Overview
 
-**Language**: Ojibwa, Eastern  
+**Language**: Eastern Ojibwa  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: 0.20  
-**Digitality Score**: 0.96  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: 0.96  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ojibwa, Eastern*
+*Help us collect text resources for Eastern Ojibwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ojibwa, Eastern*
+*Help us collect audio resources for Eastern Ojibwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ojibwa, Eastern*
+*Help us collect video resources for Eastern Ojibwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

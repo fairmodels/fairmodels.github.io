@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Aizi, Tiagbamrin
+title: Tiagbamrin Aizi
 parent: Languages
 ---
 
-# Aizi, Tiagbamrin (ahi)
+# Tiagbamrin Aizi (ahi)
 
 ## Overview
 
-**Language**: Aizi, Tiagbamrin  
+**Language**: Tiagbamrin Aizi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aizi, Tiagbamrin*
+*Help us collect text resources for Tiagbamrin Aizi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aizi, Tiagbamrin*
+*Help us collect audio resources for Tiagbamrin Aizi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aizi, Tiagbamrin*
+*Help us collect video resources for Tiagbamrin Aizi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

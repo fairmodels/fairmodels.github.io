@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Coatzospan
+title: Coatzospan Mixtec
 parent: Languages
 ---
 
-# Mixtec, Coatzospan (miz)
+# Coatzospan Mixtec (miz)
 
 ## Overview
 
-**Language**: Mixtec, Coatzospan  
+**Language**: Coatzospan Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.12  
-**Digitality Score**: 0.73  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: 0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Coatzospan*
+*Help us collect text resources for Coatzospan Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Coatzospan*
+*Help us collect audio resources for Coatzospan Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Coatzospan*
+*Help us collect video resources for Coatzospan Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

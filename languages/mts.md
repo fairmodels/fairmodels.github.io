@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yura  
 **Region/Area**: South America, Americas  
 **Family**: Panoan  
-**Vitality Score**: -0.16  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yura*
+*Help us collect text resources for Yura*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yura*
+*Help us collect audio resources for Yura*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yura*
+*Help us collect video resources for Yura*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

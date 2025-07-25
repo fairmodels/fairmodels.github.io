@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bhojpuri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.95  
-**Digitality Score**: 2.88  
+**Grassroots Presence (z-score)**: 1.95  
+**Web Presence (z-score)**: 2.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bhojpuri*
+*Help us collect text resources for Bhojpuri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bhojpuri*
+*Help us collect audio resources for Bhojpuri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bhojpuri*
+*Help us collect video resources for Bhojpuri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Anjam  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.12  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Anjam*
+*Help us collect text resources for Anjam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Anjam*
+*Help us collect audio resources for Anjam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Anjam*
+*Help us collect video resources for Anjam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

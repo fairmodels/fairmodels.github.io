@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mazatec, Jalapa de Díaz
+title: Jalapa de Díaz Mazatec
 parent: Languages
 ---
 
-# Mazatec, Jalapa de Díaz (maj)
+# Jalapa de Díaz Mazatec (maj)
 
 ## Overview
 
-**Language**: Mazatec, Jalapa de Díaz  
+**Language**: Jalapa de Díaz Mazatec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.62  
-**Digitality Score**: 0.81  
+**Grassroots Presence (z-score)**: 0.62  
+**Web Presence (z-score)**: 0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mazatec, Jalapa de Díaz*
+*Help us collect text resources for Jalapa de Díaz Mazatec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mazatec, Jalapa de Díaz*
+*Help us collect audio resources for Jalapa de Díaz Mazatec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mazatec, Jalapa de Díaz*
+*Help us collect video resources for Jalapa de Díaz Mazatec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

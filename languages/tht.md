@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tahltan  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -1.08  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: -1.08  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tahltan*
+*Help us collect text resources for Tahltan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tahltan*
+*Help us collect audio resources for Tahltan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tahltan*
+*Help us collect video resources for Tahltan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

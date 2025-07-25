@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tepecano  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.72  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tepecano*
+*Help us collect text resources for Tepecano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tepecano*
+*Help us collect audio resources for Tepecano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tepecano*
+*Help us collect video resources for Tepecano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

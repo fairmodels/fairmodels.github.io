@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Abau  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.95  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.95  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Abau*
+*Help us collect text resources for Abau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Abau*
+*Help us collect audio resources for Abau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Abau*
+*Help us collect video resources for Abau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

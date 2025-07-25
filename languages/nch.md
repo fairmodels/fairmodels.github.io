@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Central Huasteca
+title: Central Huasteca Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Central Huasteca (nch)
+# Central Huasteca Nahuatl (nch)
 
 ## Overview
 
-**Language**: Nahuatl, Central Huasteca  
+**Language**: Central Huasteca Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.93  
-**Digitality Score**: 0.94  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 0.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Central Huasteca*
+*Help us collect text resources for Central Huasteca Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Central Huasteca*
+*Help us collect audio resources for Central Huasteca Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Central Huasteca*
+*Help us collect video resources for Central Huasteca Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

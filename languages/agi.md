@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Agariya  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.49  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Agariya*
+*Help us collect text resources for Agariya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Agariya*
+*Help us collect audio resources for Agariya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Agariya*
+*Help us collect video resources for Agariya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

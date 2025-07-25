@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ulau-Suain  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.08  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ulau-Suain*
+*Help us collect text resources for Ulau-Suain*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ulau-Suain*
+*Help us collect audio resources for Ulau-Suain*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ulau-Suain*
+*Help us collect video resources for Ulau-Suain*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

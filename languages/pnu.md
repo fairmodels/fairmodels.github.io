@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bunu, Jiongnai
+title: Jiongnai Bunu
 parent: Languages
 ---
 
-# Bunu, Jiongnai (pnu)
+# Jiongnai Bunu (pnu)
 
 ## Overview
 
-**Language**: Bunu, Jiongnai  
+**Language**: Jiongnai Bunu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: -0.20  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: -0.20  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bunu, Jiongnai*
+*Help us collect text resources for Jiongnai Bunu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bunu, Jiongnai*
+*Help us collect audio resources for Jiongnai Bunu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bunu, Jiongnai*
+*Help us collect video resources for Jiongnai Bunu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

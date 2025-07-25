@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miwok, Plains
+title: Plains Miwok
 parent: Languages
 ---
 
-# Miwok, Plains (pmw)
+# Plains Miwok (pmw)
 
 ## Overview
 
-**Language**: Miwok, Plains  
+**Language**: Plains Miwok  
 **Region/Area**: Northern America, Americas  
 **Family**: Miwok-Costanoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miwok, Plains*
+*Help us collect text resources for Plains Miwok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miwok, Plains*
+*Help us collect audio resources for Plains Miwok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miwok, Plains*
+*Help us collect video resources for Plains Miwok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Balochi, Eastern
+title: Eastern Balochi
 parent: Languages
 ---
 
-# Balochi, Eastern (bgp)
+# Eastern Balochi (bgp)
 
 ## Overview
 
-**Language**: Balochi, Eastern  
+**Language**: Eastern Balochi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.30  
-**Digitality Score**: 2.03  
+**Grassroots Presence (z-score)**: 1.30  
+**Web Presence (z-score)**: 2.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Balochi, Eastern*
+*Help us collect text resources for Eastern Balochi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Balochi, Eastern*
+*Help us collect audio resources for Eastern Balochi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Balochi, Eastern*
+*Help us collect video resources for Eastern Balochi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

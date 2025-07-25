@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Negidal  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Tungusic  
-**Vitality Score**: -1.16  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: -1.16  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Negidal*
+*Help us collect text resources for Negidal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Negidal*
+*Help us collect audio resources for Negidal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Negidal*
+*Help us collect video resources for Negidal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

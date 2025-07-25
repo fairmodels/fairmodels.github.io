@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Maewo, Central
+title: Central Maewo
 parent: Languages
 ---
 
-# Maewo, Central (mwo)
+# Central Maewo (mwo)
 
 ## Overview
 
-**Language**: Maewo, Central  
+**Language**: Central Maewo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.17  
-**Digitality Score**: -0.46  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: -0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maewo, Central*
+*Help us collect text resources for Central Maewo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maewo, Central*
+*Help us collect audio resources for Central Maewo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maewo, Central*
+*Help us collect video resources for Central Maewo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

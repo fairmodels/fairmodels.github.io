@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kwere  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.70  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kwere*
+*Help us collect text resources for Kwere*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kwere*
+*Help us collect audio resources for Kwere*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kwere*
+*Help us collect video resources for Kwere*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pondi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Mongol-Langam  
-**Vitality Score**: -0.84  
-**Digitality Score**: -0.54  
+**Grassroots Presence (z-score)**: -0.84  
+**Web Presence (z-score)**: -0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pondi*
+*Help us collect text resources for Pondi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pondi*
+*Help us collect audio resources for Pondi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pondi*
+*Help us collect video resources for Pondi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

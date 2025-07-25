@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Me’phaa, Tlacoapa
+title: Tlacoapa Me’phaa
 parent: Languages
 ---
 
-# Me’phaa, Tlacoapa (tpl)
+# Tlacoapa Me’phaa (tpl)
 
 ## Overview
 
-**Language**: Me’phaa, Tlacoapa  
+**Language**: Tlacoapa Me’phaa  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.18  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Me’phaa, Tlacoapa*
+*Help us collect text resources for Tlacoapa Me’phaa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Me’phaa, Tlacoapa*
+*Help us collect audio resources for Tlacoapa Me’phaa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Me’phaa, Tlacoapa*
+*Help us collect video resources for Tlacoapa Me’phaa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

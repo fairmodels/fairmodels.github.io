@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zoque, Rayón
+title: Rayón Zoque
 parent: Languages
 ---
 
-# Zoque, Rayón (zor)
+# Rayón Zoque (zor)
 
 ## Overview
 
-**Language**: Zoque, Rayón  
+**Language**: Rayón Zoque  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zoque, Rayón*
+*Help us collect text resources for Rayón Zoque*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zoque, Rayón*
+*Help us collect audio resources for Rayón Zoque*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zoque, Rayón*
+*Help us collect video resources for Rayón Zoque*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

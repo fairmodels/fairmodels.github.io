@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Arequipa-La Unión
+title: Arequipa-La Unión Quechua
 parent: Languages
 ---
 
-# Quechua, Arequipa-La Unión (qxu)
+# Arequipa-La Unión Quechua (qxu)
 
 ## Overview
 
-**Language**: Quechua, Arequipa-La Unión  
+**Language**: Arequipa-La Unión Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.63  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: 0.63  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Arequipa-La Unión*
+*Help us collect text resources for Arequipa-La Unión Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Arequipa-La Unión*
+*Help us collect audio resources for Arequipa-La Unión Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Arequipa-La Unión*
+*Help us collect video resources for Arequipa-La Unión Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

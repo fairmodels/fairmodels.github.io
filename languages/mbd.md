@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Dibabawon
+title: Dibabawon Manobo
 parent: Languages
 ---
 
-# Manobo, Dibabawon (mbd)
+# Dibabawon Manobo (mbd)
 
 ## Overview
 
-**Language**: Manobo, Dibabawon  
+**Language**: Dibabawon Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.54  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: 0.54  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Dibabawon*
+*Help us collect text resources for Dibabawon Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Dibabawon*
+*Help us collect audio resources for Dibabawon Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Dibabawon*
+*Help us collect video resources for Dibabawon Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

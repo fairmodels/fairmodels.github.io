@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Coeur d’Alene  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Coeur d’Alene*
+*Help us collect text resources for Coeur d’Alene*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Coeur d’Alene*
+*Help us collect audio resources for Coeur d’Alene*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Coeur d’Alene*
+*Help us collect video resources for Coeur d’Alene*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

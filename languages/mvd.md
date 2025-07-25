@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mamboru  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mamboru*
+*Help us collect text resources for Mamboru*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mamboru*
+*Help us collect audio resources for Mamboru*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mamboru*
+*Help us collect video resources for Mamboru*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tamazight, Temacine
+title: Temacine Tamazight
 parent: Languages
 ---
 
-# Tamazight, Temacine (tjo)
+# Temacine Tamazight (tjo)
 
 ## Overview
 
-**Language**: Tamazight, Temacine  
+**Language**: Temacine Tamazight  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -0.10  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tamazight, Temacine*
+*Help us collect text resources for Temacine Tamazight*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tamazight, Temacine*
+*Help us collect audio resources for Temacine Tamazight*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tamazight, Temacine*
+*Help us collect video resources for Temacine Tamazight*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

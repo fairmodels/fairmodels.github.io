@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Liberian English  
 **Region/Area**: Western Africa, Africa  
 **Family**: Pidgin  
-**Vitality Score**: 1.97  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 1.97  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Liberian English*
+*Help us collect text resources for Liberian English*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Liberian English*
+*Help us collect audio resources for Liberian English*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Liberian English*
+*Help us collect video resources for Liberian English*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

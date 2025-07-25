@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Persian, Iranian
+title: Iranian Persian
 parent: Languages
 ---
 
-# Persian, Iranian (pes)
+# Iranian Persian (pes)
 
 ## Overview
 
-**Language**: Persian, Iranian  
+**Language**: Iranian Persian  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.95  
-**Digitality Score**: 3.88  
+**Grassroots Presence (z-score)**: 2.95  
+**Web Presence (z-score)**: 3.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Persian, Iranian*
+*Help us collect text resources for Iranian Persian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Persian, Iranian*
+*Help us collect audio resources for Iranian Persian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Persian, Iranian*
+*Help us collect video resources for Iranian Persian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

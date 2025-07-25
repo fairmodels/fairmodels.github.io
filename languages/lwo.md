@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Luwo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.96  
-**Digitality Score**: 0.51  
+**Grassroots Presence (z-score)**: 0.96  
+**Web Presence (z-score)**: 0.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Luwo*
+*Help us collect text resources for Luwo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Luwo*
+*Help us collect audio resources for Luwo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Luwo*
+*Help us collect video resources for Luwo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

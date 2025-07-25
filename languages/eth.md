@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ethiopian Sign Language  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Sign language  
-**Vitality Score**: 1.06  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: 1.06  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ethiopian Sign Language*
+*Help us collect text resources for Ethiopian Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ethiopian Sign Language*
+*Help us collect audio resources for Ethiopian Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ethiopian Sign Language*
+*Help us collect video resources for Ethiopian Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

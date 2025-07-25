@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shabo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Language isolate  
-**Vitality Score**: -0.33  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -0.33  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shabo*
+*Help us collect text resources for Shabo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shabo*
+*Help us collect audio resources for Shabo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shabo*
+*Help us collect video resources for Shabo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

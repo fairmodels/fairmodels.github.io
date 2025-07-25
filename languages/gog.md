@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gogo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.14  
-**Digitality Score**: 0.87  
+**Grassroots Presence (z-score)**: 1.14  
+**Web Presence (z-score)**: 0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gogo*
+*Help us collect text resources for Gogo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gogo*
+*Help us collect audio resources for Gogo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gogo*
+*Help us collect video resources for Gogo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

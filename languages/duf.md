@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Drubea  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.19  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Drubea*
+*Help us collect text resources for Drubea*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Drubea*
+*Help us collect audio resources for Drubea*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Drubea*
+*Help us collect video resources for Drubea*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

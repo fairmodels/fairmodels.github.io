@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Takelma  
 **Region/Area**: Northern America, Americas  
 **Family**: Unclassified  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.55  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Takelma*
+*Help us collect text resources for Takelma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Takelma*
+*Help us collect audio resources for Takelma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Takelma*
+*Help us collect video resources for Takelma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

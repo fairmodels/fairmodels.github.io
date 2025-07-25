@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Omani
+title: Omani Arabic
 parent: Languages
 ---
 
-# Arabic, Omani (acx)
+# Omani Arabic (acx)
 
 ## Overview
 
-**Language**: Arabic, Omani  
+**Language**: Omani Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.97  
-**Digitality Score**: 1.94  
+**Grassroots Presence (z-score)**: 0.97  
+**Web Presence (z-score)**: 1.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Omani*
+*Help us collect text resources for Omani Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Omani*
+*Help us collect audio resources for Omani Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Omani*
+*Help us collect video resources for Omani Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

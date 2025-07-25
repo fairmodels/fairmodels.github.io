@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nunggubuyu  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.37  
-**Digitality Score**: 1.09  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: 1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nunggubuyu*
+*Help us collect text resources for Nunggubuyu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nunggubuyu*
+*Help us collect audio resources for Nunggubuyu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nunggubuyu*
+*Help us collect video resources for Nunggubuyu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

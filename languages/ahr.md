@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ahirani  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.20  
-**Digitality Score**: 0.25  
+**Grassroots Presence (z-score)**: 1.20  
+**Web Presence (z-score)**: 0.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ahirani*
+*Help us collect text resources for Ahirani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ahirani*
+*Help us collect audio resources for Ahirani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ahirani*
+*Help us collect video resources for Ahirani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Afrikaans  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Indo-European  
-**Vitality Score**: 2.76  
-**Digitality Score**: 4.62  
+**Grassroots Presence (z-score)**: 2.76  
+**Web Presence (z-score)**: 4.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Afrikaans*
+*Help us collect text resources for Afrikaans*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Afrikaans*
+*Help us collect audio resources for Afrikaans*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Afrikaans*
+*Help us collect video resources for Afrikaans*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

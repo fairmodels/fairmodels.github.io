@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Michif  
 **Region/Area**: Northern America, Americas  
 **Family**: Mixed language  
-**Vitality Score**: -0.75  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: -0.75  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Michif*
+*Help us collect text resources for Michif*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Michif*
+*Help us collect audio resources for Michif*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Michif*
+*Help us collect video resources for Michif*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

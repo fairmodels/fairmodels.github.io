@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Alaba-K’abeena  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.99  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.99  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Alaba-K’abeena*
+*Help us collect text resources for Alaba-K’abeena*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Alaba-K’abeena*
+*Help us collect audio resources for Alaba-K’abeena*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Alaba-K’abeena*
+*Help us collect video resources for Alaba-K’abeena*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

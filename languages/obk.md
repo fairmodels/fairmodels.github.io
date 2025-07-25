@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bontok, Southern
+title: Southern Bontok
 parent: Languages
 ---
 
-# Bontok, Southern (obk)
+# Southern Bontok (obk)
 
 ## Overview
 
-**Language**: Bontok, Southern  
+**Language**: Southern Bontok  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.07  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bontok, Southern*
+*Help us collect text resources for Southern Bontok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bontok, Southern*
+*Help us collect audio resources for Southern Bontok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bontok, Southern*
+*Help us collect video resources for Southern Bontok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

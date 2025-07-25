@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mampruli  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.99  
-**Digitality Score**: 0.85  
+**Grassroots Presence (z-score)**: 0.99  
+**Web Presence (z-score)**: 0.85  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mampruli*
+*Help us collect text resources for Mampruli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mampruli*
+*Help us collect audio resources for Mampruli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mampruli*
+*Help us collect video resources for Mampruli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

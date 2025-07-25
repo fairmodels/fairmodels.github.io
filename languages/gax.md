@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Oromo, Borana-Arsi-Guji
+title: Borana-Arsi-Guji Oromo
 parent: Languages
 ---
 
-# Oromo, Borana-Arsi-Guji (gax)
+# Borana-Arsi-Guji Oromo (gax)
 
 ## Overview
 
-**Language**: Oromo, Borana-Arsi-Guji  
+**Language**: Borana-Arsi-Guji Oromo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.43  
-**Digitality Score**: 1.46  
+**Grassroots Presence (z-score)**: 1.43  
+**Web Presence (z-score)**: 1.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Oromo, Borana-Arsi-Guji*
+*Help us collect text resources for Borana-Arsi-Guji Oromo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Oromo, Borana-Arsi-Guji*
+*Help us collect audio resources for Borana-Arsi-Guji Oromo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Oromo, Borana-Arsi-Guji*
+*Help us collect video resources for Borana-Arsi-Guji Oromo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

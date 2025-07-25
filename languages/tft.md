@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ternate  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: West Papuan  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.06  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ternate*
+*Help us collect text resources for Ternate*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ternate*
+*Help us collect audio resources for Ternate*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ternate*
+*Help us collect video resources for Ternate*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dari, Zoroastrian
+title: Zoroastrian Dari
 parent: Languages
 ---
 
-# Dari, Zoroastrian (gbz)
+# Zoroastrian Dari (gbz)
 
 ## Overview
 
-**Language**: Dari, Zoroastrian  
+**Language**: Zoroastrian Dari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: -0.42  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: -0.42  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dari, Zoroastrian*
+*Help us collect text resources for Zoroastrian Dari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dari, Zoroastrian*
+*Help us collect audio resources for Zoroastrian Dari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dari, Zoroastrian*
+*Help us collect video resources for Zoroastrian Dari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

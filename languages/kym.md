@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kpatili  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.14  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.14  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kpatili*
+*Help us collect text resources for Kpatili*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kpatili*
+*Help us collect audio resources for Kpatili*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kpatili*
+*Help us collect video resources for Kpatili*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

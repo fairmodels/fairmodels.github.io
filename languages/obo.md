@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Obo
+title: Obo Manobo
 parent: Languages
 ---
 
-# Manobo, Obo (obo)
+# Obo Manobo (obo)
 
 ## Overview
 
-**Language**: Manobo, Obo  
+**Language**: Obo Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.30  
-**Digitality Score**: 1.29  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: 1.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Obo*
+*Help us collect text resources for Obo Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Obo*
+*Help us collect audio resources for Obo Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Obo*
+*Help us collect video resources for Obo Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

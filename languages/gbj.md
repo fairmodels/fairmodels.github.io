@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gadaba, Bodo
+title: Bodo Gadaba
 parent: Languages
 ---
 
-# Gadaba, Bodo (gbj)
+# Bodo Gadaba (gbj)
 
 ## Overview
 
-**Language**: Gadaba, Bodo  
+**Language**: Bodo Gadaba  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.05  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: 0.05  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gadaba, Bodo*
+*Help us collect text resources for Bodo Gadaba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gadaba, Bodo*
+*Help us collect audio resources for Bodo Gadaba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gadaba, Bodo*
+*Help us collect video resources for Bodo Gadaba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

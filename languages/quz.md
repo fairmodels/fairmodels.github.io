@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Cusco
+title: Cusco Quechua
 parent: Languages
 ---
 
-# Quechua, Cusco (quz)
+# Cusco Quechua (quz)
 
 ## Overview
 
-**Language**: Quechua, Cusco  
+**Language**: Cusco Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 1.71  
-**Digitality Score**: 2.35  
+**Grassroots Presence (z-score)**: 1.71  
+**Web Presence (z-score)**: 2.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Cusco*
+*Help us collect text resources for Cusco Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Cusco*
+*Help us collect audio resources for Cusco Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Cusco*
+*Help us collect video resources for Cusco Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

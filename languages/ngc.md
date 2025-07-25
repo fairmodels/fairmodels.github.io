@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ngombe  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.89  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ngombe*
+*Help us collect text resources for Ngombe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ngombe*
+*Help us collect audio resources for Ngombe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ngombe*
+*Help us collect video resources for Ngombe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Bondum Dom
+title: Bondum Dom Dogon
 parent: Languages
 ---
 
-# Dogon, Bondum Dom (dbu)
+# Bondum Dom Dogon (dbu)
 
 ## Overview
 
-**Language**: Dogon, Bondum Dom  
+**Language**: Bondum Dom Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.35  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Bondum Dom*
+*Help us collect text resources for Bondum Dom Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Bondum Dom*
+*Help us collect audio resources for Bondum Dom Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Bondum Dom*
+*Help us collect video resources for Bondum Dom Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

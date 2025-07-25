@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Asu  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.74  
-**Digitality Score**: 0.31  
+**Grassroots Presence (z-score)**: 0.74  
+**Web Presence (z-score)**: 0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Asu*
+*Help us collect text resources for Asu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Asu*
+*Help us collect audio resources for Asu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Asu*
+*Help us collect video resources for Asu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Grebo, Gboloo
+title: Gboloo Grebo
 parent: Languages
 ---
 
-# Grebo, Gboloo (gec)
+# Gboloo Grebo (gec)
 
 ## Overview
 
-**Language**: Grebo, Gboloo  
+**Language**: Gboloo Grebo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.55  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Grebo, Gboloo*
+*Help us collect text resources for Gboloo Grebo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Grebo, Gboloo*
+*Help us collect audio resources for Gboloo Grebo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Grebo, Gboloo*
+*Help us collect video resources for Gboloo Grebo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

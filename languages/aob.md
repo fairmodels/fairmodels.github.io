@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Abom  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -1.54  
-**Digitality Score**: -0.36  
+**Grassroots Presence (z-score)**: -1.54  
+**Web Presence (z-score)**: -0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Abom*
+*Help us collect text resources for Abom*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Abom*
+*Help us collect audio resources for Abom*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Abom*
+*Help us collect video resources for Abom*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

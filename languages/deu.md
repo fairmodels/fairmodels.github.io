@@ -1,30 +1,30 @@
 ---
 layout: default
-title: German, Standard
+title: Standard German
 parent: Languages
 ---
 
-# German, Standard (deu)
+# Standard German (deu)
 
 ## Overview
 
-**Language**: German, Standard  
+**Language**: Standard German  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 3.01  
-**Digitality Score**: 8.20  
+**Grassroots Presence (z-score)**: 3.01  
+**Web Presence (z-score)**: 8.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for German, Standard*
+*Help us collect text resources for Standard German*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for German, Standard*
+*Help us collect audio resources for Standard German*
 
 ### Video Resources
-*Coming soon - help us collect video resources for German, Standard*
+*Help us collect video resources for Standard German*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Southern Rincon
+title: Southern Rincon Zapotec
 parent: Languages
 ---
 
-# Zapotec, Southern Rincon (zsr)
+# Southern Rincon Zapotec (zsr)
 
 ## Overview
 
-**Language**: Zapotec, Southern Rincon  
+**Language**: Southern Rincon Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.57  
-**Digitality Score**: 1.19  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: 1.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Southern Rincon*
+*Help us collect text resources for Southern Rincon Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Southern Rincon*
+*Help us collect audio resources for Southern Rincon Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Southern Rincon*
+*Help us collect video resources for Southern Rincon Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

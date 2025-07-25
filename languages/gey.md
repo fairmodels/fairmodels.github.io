@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Enya  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Enya*
+*Help us collect text resources for Enya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Enya*
+*Help us collect audio resources for Enya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Enya*
+*Help us collect video resources for Enya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

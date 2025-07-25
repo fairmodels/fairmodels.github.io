@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Poumai
+title: Poumai Naga
 parent: Languages
 ---
 
-# Naga, Poumai (pmx)
+# Poumai Naga (pmx)
 
 ## Overview
 
-**Language**: Naga, Poumai  
+**Language**: Poumai Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.89  
-**Digitality Score**: 0.25  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 0.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Poumai*
+*Help us collect text resources for Poumai Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Poumai*
+*Help us collect audio resources for Poumai Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Poumai*
+*Help us collect video resources for Poumai Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

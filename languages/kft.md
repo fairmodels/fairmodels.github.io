@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kanjari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.62  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: 0.62  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanjari*
+*Help us collect text resources for Kanjari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanjari*
+*Help us collect audio resources for Kanjari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanjari*
+*Help us collect video resources for Kanjari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

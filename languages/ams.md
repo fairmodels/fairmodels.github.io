@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Amami-Oshima, Southern
+title: Southern Amami-Oshima
 parent: Languages
 ---
 
-# Amami-Oshima, Southern (ams)
+# Southern Amami-Oshima (ams)
 
 ## Overview
 
-**Language**: Amami-Oshima, Southern  
+**Language**: Southern Amami-Oshima  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Japonic  
-**Vitality Score**: -0.29  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -0.29  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Amami-Oshima, Southern*
+*Help us collect text resources for Southern Amami-Oshima*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Amami-Oshima, Southern*
+*Help us collect audio resources for Southern Amami-Oshima*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Amami-Oshima, Southern*
+*Help us collect video resources for Southern Amami-Oshima*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

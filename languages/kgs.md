@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kumbainggar  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kumbainggar*
+*Help us collect text resources for Kumbainggar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kumbainggar*
+*Help us collect audio resources for Kumbainggar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kumbainggar*
+*Help us collect video resources for Kumbainggar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

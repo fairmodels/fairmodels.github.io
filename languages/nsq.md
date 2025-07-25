@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miwok, Northern Sierra
+title: Northern Sierra Miwok
 parent: Languages
 ---
 
-# Miwok, Northern Sierra (nsq)
+# Northern Sierra Miwok (nsq)
 
 ## Overview
 
-**Language**: Miwok, Northern Sierra  
+**Language**: Northern Sierra Miwok  
 **Region/Area**: Northern America, Americas  
 **Family**: Miwok-Costanoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.33  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miwok, Northern Sierra*
+*Help us collect text resources for Northern Sierra Miwok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miwok, Northern Sierra*
+*Help us collect audio resources for Northern Sierra Miwok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miwok, Northern Sierra*
+*Help us collect video resources for Northern Sierra Miwok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

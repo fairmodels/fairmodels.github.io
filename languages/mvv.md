@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Murut, Tahol
+title: Tahol Murut
 parent: Languages
 ---
 
-# Murut, Tahol (mvv)
+# Tahol Murut (mvv)
 
 ## Overview
 
-**Language**: Murut, Tahol  
+**Language**: Tahol Murut  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.18  
-**Digitality Score**: 0.49  
+**Grassroots Presence (z-score)**: 0.18  
+**Web Presence (z-score)**: 0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Murut, Tahol*
+*Help us collect text resources for Tahol Murut*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Murut, Tahol*
+*Help us collect audio resources for Tahol Murut*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Murut, Tahol*
+*Help us collect video resources for Tahol Murut*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

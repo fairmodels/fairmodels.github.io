@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nuaulu, North
+title: North Nuaulu
 parent: Languages
 ---
 
-# Nuaulu, North (nni)
+# North Nuaulu (nni)
 
 ## Overview
 
-**Language**: Nuaulu, North  
+**Language**: North Nuaulu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nuaulu, North*
+*Help us collect text resources for North Nuaulu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nuaulu, North*
+*Help us collect audio resources for North Nuaulu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nuaulu, North*
+*Help us collect video resources for North Nuaulu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

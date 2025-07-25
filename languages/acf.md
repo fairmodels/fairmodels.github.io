@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lesser Antillean French Creole  
 **Region/Area**: Caribbean, Americas  
 **Family**: Creole  
-**Vitality Score**: 1.10  
-**Digitality Score**: 1.86  
+**Grassroots Presence (z-score)**: 1.10  
+**Web Presence (z-score)**: 1.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lesser Antillean French Creole*
+*Help us collect text resources for Lesser Antillean French Creole*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lesser Antillean French Creole*
+*Help us collect audio resources for Lesser Antillean French Creole*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lesser Antillean French Creole*
+*Help us collect video resources for Lesser Antillean French Creole*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

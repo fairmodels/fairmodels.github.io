@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Qiubei
+title: Qiubei Zhuang
 parent: Languages
 ---
 
-# Zhuang, Qiubei (zqe)
+# Qiubei Zhuang (zqe)
 
 ## Overview
 
-**Language**: Zhuang, Qiubei  
+**Language**: Qiubei Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.57  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Qiubei*
+*Help us collect text resources for Qiubei Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Qiubei*
+*Help us collect audio resources for Qiubei Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Qiubei*
+*Help us collect video resources for Qiubei Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

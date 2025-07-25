@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Siuslaw  
 **Region/Area**: Northern America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.55  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Siuslaw*
+*Help us collect text resources for Siuslaw*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Siuslaw*
+*Help us collect audio resources for Siuslaw*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Siuslaw*
+*Help us collect video resources for Siuslaw*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

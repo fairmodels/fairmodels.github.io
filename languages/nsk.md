@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Naskapi  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: 0.58  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naskapi*
+*Help us collect text resources for Naskapi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naskapi*
+*Help us collect audio resources for Naskapi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naskapi*
+*Help us collect video resources for Naskapi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

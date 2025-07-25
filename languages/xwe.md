@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gbe, Xwela
+title: Xwela Gbe
 parent: Languages
 ---
 
-# Gbe, Xwela (xwe)
+# Xwela Gbe (xwe)
 
 ## Overview
 
-**Language**: Gbe, Xwela  
+**Language**: Xwela Gbe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.53  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbe, Xwela*
+*Help us collect text resources for Xwela Gbe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbe, Xwela*
+*Help us collect audio resources for Xwela Gbe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbe, Xwela*
+*Help us collect video resources for Xwela Gbe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

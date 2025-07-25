@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Omagua  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.54  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Omagua*
+*Help us collect text resources for Omagua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Omagua*
+*Help us collect audio resources for Omagua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Omagua*
+*Help us collect video resources for Omagua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

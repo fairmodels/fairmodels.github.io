@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nambikuára, Southern
+title: Southern Nambikuára
 parent: Languages
 ---
 
-# Nambikuára, Southern (nab)
+# Southern Nambikuára (nab)
 
 ## Overview
 
-**Language**: Nambikuára, Southern  
+**Language**: Southern Nambikuára  
 **Region/Area**: South America, Americas  
 **Family**: Nambikwara  
-**Vitality Score**: 0.22  
-**Digitality Score**: 0.77  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: 0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nambikuára, Southern*
+*Help us collect text resources for Southern Nambikuára*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nambikuára, Southern*
+*Help us collect audio resources for Southern Nambikuára*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nambikuára, Southern*
+*Help us collect video resources for Southern Nambikuára*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

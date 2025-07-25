@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Andaandi  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Andaandi*
+*Help us collect text resources for Andaandi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Andaandi*
+*Help us collect audio resources for Andaandi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Andaandi*
+*Help us collect video resources for Andaandi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

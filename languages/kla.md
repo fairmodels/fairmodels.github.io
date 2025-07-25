@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Klamath-Modoc  
 **Region/Area**: Northern America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -1.63  
-**Digitality Score**: 0.24  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: 0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Klamath-Modoc*
+*Help us collect text resources for Klamath-Modoc*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Klamath-Modoc*
+*Help us collect audio resources for Klamath-Modoc*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Klamath-Modoc*
+*Help us collect video resources for Klamath-Modoc*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

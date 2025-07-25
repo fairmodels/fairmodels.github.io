@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Talysh  
 **Region/Area**: Western Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.93  
-**Digitality Score**: 1.47  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 1.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Talysh*
+*Help us collect text resources for Talysh*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Talysh*
+*Help us collect audio resources for Talysh*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Talysh*
+*Help us collect video resources for Talysh*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

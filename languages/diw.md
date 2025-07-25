@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dinka, Northwestern
+title: Northwestern Dinka
 parent: Languages
 ---
 
-# Dinka, Northwestern (diw)
+# Northwestern Dinka (diw)
 
 ## Overview
 
-**Language**: Dinka, Northwestern  
+**Language**: Northwestern Dinka  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.52  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dinka, Northwestern*
+*Help us collect text resources for Northwestern Dinka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dinka, Northwestern*
+*Help us collect audio resources for Northwestern Dinka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dinka, Northwestern*
+*Help us collect video resources for Northwestern Dinka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

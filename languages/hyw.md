@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Armenian, Western
+title: Western Armenian
 parent: Languages
 ---
 
-# Armenian, Western (hyw)
+# Western Armenian (hyw)
 
 ## Overview
 
-**Language**: Armenian, Western  
+**Language**: Western Armenian  
 **Region/Area**: Western Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.22  
-**Digitality Score**: 1.15  
+**Grassroots Presence (z-score)**: 1.22  
+**Web Presence (z-score)**: 1.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Armenian, Western*
+*Help us collect text resources for Western Armenian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Armenian, Western*
+*Help us collect audio resources for Western Armenian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Armenian, Western*
+*Help us collect video resources for Western Armenian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

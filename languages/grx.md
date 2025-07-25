@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Muno  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Kwomtari  
-**Vitality Score**: -0.16  
-**Digitality Score**: 0.05  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: 0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Muno*
+*Help us collect text resources for Muno*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Muno*
+*Help us collect audio resources for Muno*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Muno*
+*Help us collect video resources for Muno*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

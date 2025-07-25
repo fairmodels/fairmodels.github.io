@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gorontalo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.58  
-**Digitality Score**: 1.72  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 1.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gorontalo*
+*Help us collect text resources for Gorontalo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gorontalo*
+*Help us collect audio resources for Gorontalo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gorontalo*
+*Help us collect video resources for Gorontalo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wae Rana  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.07  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wae Rana*
+*Help us collect text resources for Wae Rana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wae Rana*
+*Help us collect audio resources for Wae Rana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wae Rana*
+*Help us collect video resources for Wae Rana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

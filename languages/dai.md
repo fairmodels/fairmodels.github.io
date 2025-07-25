@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Day  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Day*
+*Help us collect text resources for Day*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Day*
+*Help us collect audio resources for Day*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Day*
+*Help us collect video resources for Day*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

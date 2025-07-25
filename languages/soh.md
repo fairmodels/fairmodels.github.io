@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aka  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -0.84  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: -0.84  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aka*
+*Help us collect text resources for Aka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aka*
+*Help us collect audio resources for Aka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aka*
+*Help us collect video resources for Aka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

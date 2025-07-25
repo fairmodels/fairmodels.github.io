@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lalu, Western
+title: Western Lalu
 parent: Languages
 ---
 
-# Lalu, Western (ywl)
+# Western Lalu (ywl)
 
 ## Overview
 
-**Language**: Lalu, Western  
+**Language**: Western Lalu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.25  
-**Digitality Score**: -0.34  
+**Grassroots Presence (z-score)**: 0.25  
+**Web Presence (z-score)**: -0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lalu, Western*
+*Help us collect text resources for Western Lalu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lalu, Western*
+*Help us collect audio resources for Western Lalu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lalu, Western*
+*Help us collect video resources for Western Lalu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

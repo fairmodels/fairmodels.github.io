@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Lianshan
+title: Lianshan Zhuang
 parent: Languages
 ---
 
-# Zhuang, Lianshan (zln)
+# Lianshan Zhuang (zln)
 
 ## Overview
 
-**Language**: Zhuang, Lianshan  
+**Language**: Lianshan Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: -0.19  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Lianshan*
+*Help us collect text resources for Lianshan Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Lianshan*
+*Help us collect audio resources for Lianshan Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Lianshan*
+*Help us collect video resources for Lianshan Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

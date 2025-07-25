@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Magar, Eastern
+title: Eastern Magar
 parent: Languages
 ---
 
-# Magar, Eastern (mgp)
+# Eastern Magar (mgp)
 
 ## Overview
 
-**Language**: Magar, Eastern  
+**Language**: Eastern Magar  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.60  
-**Digitality Score**: 0.41  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: 0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Magar, Eastern*
+*Help us collect text resources for Eastern Magar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Magar, Eastern*
+*Help us collect audio resources for Eastern Magar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Magar, Eastern*
+*Help us collect video resources for Eastern Magar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

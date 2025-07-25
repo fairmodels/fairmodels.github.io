@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nago, Southern
+title: Southern Nago
 parent: Languages
 ---
 
-# Nago, Southern (nqg)
+# Southern Nago (nqg)
 
 ## Overview
 
-**Language**: Nago, Southern  
+**Language**: Southern Nago  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.79  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: 0.79  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nago, Southern*
+*Help us collect text resources for Southern Nago*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nago, Southern*
+*Help us collect audio resources for Southern Nago*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nago, Southern*
+*Help us collect video resources for Southern Nago*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

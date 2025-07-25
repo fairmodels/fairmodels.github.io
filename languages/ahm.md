@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Aizi, Mobumrin
+title: Mobumrin Aizi
 parent: Languages
 ---
 
-# Aizi, Mobumrin (ahm)
+# Mobumrin Aizi (ahm)
 
 ## Overview
 
-**Language**: Aizi, Mobumrin  
+**Language**: Mobumrin Aizi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aizi, Mobumrin*
+*Help us collect text resources for Mobumrin Aizi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aizi, Mobumrin*
+*Help us collect audio resources for Mobumrin Aizi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aizi, Mobumrin*
+*Help us collect video resources for Mobumrin Aizi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

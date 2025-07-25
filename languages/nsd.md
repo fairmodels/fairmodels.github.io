@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nisu, Southern
+title: Southern Nisu
 parent: Languages
 ---
 
-# Nisu, Southern (nsd)
+# Southern Nisu (nsd)
 
 ## Overview
 
-**Language**: Nisu, Southern  
+**Language**: Southern Nisu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.01  
-**Digitality Score**: -0.67  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: -0.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nisu, Southern*
+*Help us collect text resources for Southern Nisu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nisu, Southern*
+*Help us collect audio resources for Southern Nisu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nisu, Southern*
+*Help us collect video resources for Southern Nisu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

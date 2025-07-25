@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Niuafo’ou  
 **Region/Area**: Polynesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.58  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Niuafo’ou*
+*Help us collect text resources for Niuafo’ou*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Niuafo’ou*
+*Help us collect audio resources for Niuafo’ou*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Niuafo’ou*
+*Help us collect video resources for Niuafo’ou*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

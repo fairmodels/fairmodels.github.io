@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mandaic, Classical
+title: Classical Mandaic
 parent: Languages
 ---
 
-# Mandaic, Classical (myz)
+# Classical Mandaic (myz)
 
 ## Overview
 
-**Language**: Mandaic, Classical  
+**Language**: Classical Mandaic  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mandaic, Classical*
+*Help us collect text resources for Classical Mandaic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mandaic, Classical*
+*Help us collect audio resources for Classical Mandaic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mandaic, Classical*
+*Help us collect video resources for Classical Mandaic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

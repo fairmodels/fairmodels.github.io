@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tunebo, Central
+title: Central Tunebo
 parent: Languages
 ---
 
-# Tunebo, Central (tuf)
+# Central Tunebo (tuf)
 
 ## Overview
 
-**Language**: Tunebo, Central  
+**Language**: Central Tunebo  
 **Region/Area**: South America, Americas  
 **Family**: Chibchan  
-**Vitality Score**: 0.38  
-**Digitality Score**: 0.82  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: 0.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tunebo, Central*
+*Help us collect text resources for Central Tunebo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tunebo, Central*
+*Help us collect audio resources for Central Tunebo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tunebo, Central*
+*Help us collect video resources for Central Tunebo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

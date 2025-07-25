@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Abenaki, Western
+title: Western Abenaki
 parent: Languages
 ---
 
-# Abenaki, Western (abe)
+# Western Abenaki (abe)
 
 ## Overview
 
-**Language**: Abenaki, Western  
+**Language**: Western Abenaki  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -1.37  
-**Digitality Score**: -0.48  
+**Grassroots Presence (z-score)**: -1.37  
+**Web Presence (z-score)**: -0.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Abenaki, Western*
+*Help us collect text resources for Western Abenaki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Abenaki, Western*
+*Help us collect audio resources for Western Abenaki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Abenaki, Western*
+*Help us collect video resources for Western Abenaki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

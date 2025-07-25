@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Taabwa  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.04  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: 1.04  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Taabwa*
+*Help us collect text resources for Taabwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Taabwa*
+*Help us collect audio resources for Taabwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Taabwa*
+*Help us collect video resources for Taabwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

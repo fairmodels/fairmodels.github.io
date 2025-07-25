@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Citak, Tamnim
+title: Tamnim Citak
 parent: Languages
 ---
 
-# Citak, Tamnim (tml)
+# Tamnim Citak (tml)
 
 ## Overview
 
-**Language**: Citak, Tamnim  
+**Language**: Tamnim Citak  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.10  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Citak, Tamnim*
+*Help us collect text resources for Tamnim Citak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Citak, Tamnim*
+*Help us collect audio resources for Tamnim Citak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Citak, Tamnim*
+*Help us collect video resources for Tamnim Citak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

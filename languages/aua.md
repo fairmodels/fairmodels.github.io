@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Asumboa  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -1.04  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -1.04  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Asumboa*
+*Help us collect text resources for Asumboa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Asumboa*
+*Help us collect audio resources for Asumboa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Asumboa*
+*Help us collect video resources for Asumboa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

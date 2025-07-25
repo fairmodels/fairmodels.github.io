@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ruwila  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.16  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.16  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ruwila*
+*Help us collect text resources for Ruwila*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ruwila*
+*Help us collect audio resources for Ruwila*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ruwila*
+*Help us collect video resources for Ruwila*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

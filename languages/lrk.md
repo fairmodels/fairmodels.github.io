@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Loarki  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Loarki*
+*Help us collect text resources for Loarki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Loarki*
+*Help us collect audio resources for Loarki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Loarki*
+*Help us collect video resources for Loarki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

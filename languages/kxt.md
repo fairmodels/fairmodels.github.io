@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Koiwat  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -0.08  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koiwat*
+*Help us collect text resources for Koiwat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koiwat*
+*Help us collect audio resources for Koiwat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koiwat*
+*Help us collect video resources for Koiwat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

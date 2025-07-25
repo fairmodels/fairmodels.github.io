@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chatino, Eastern Highland
+title: Eastern Highland Chatino
 parent: Languages
 ---
 
-# Chatino, Eastern Highland (cly)
+# Eastern Highland Chatino (cly)
 
 ## Overview
 
-**Language**: Chatino, Eastern Highland  
+**Language**: Eastern Highland Chatino  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.33  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: 0.33  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chatino, Eastern Highland*
+*Help us collect text resources for Eastern Highland Chatino*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chatino, Eastern Highland*
+*Help us collect audio resources for Eastern Highland Chatino*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chatino, Eastern Highland*
+*Help us collect video resources for Eastern Highland Chatino*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

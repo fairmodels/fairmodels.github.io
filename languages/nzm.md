@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Zeme
+title: Zeme Naga
 parent: Languages
 ---
 
-# Naga, Zeme (nzm)
+# Zeme Naga (nzm)
 
 ## Overview
 
-**Language**: Naga, Zeme  
+**Language**: Zeme Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.80  
-**Digitality Score**: 0.14  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: 0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Zeme*
+*Help us collect text resources for Zeme Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Zeme*
+*Help us collect audio resources for Zeme Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Zeme*
+*Help us collect video resources for Zeme Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

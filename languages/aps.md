@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Orop  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.31  
-**Digitality Score**: -0.49  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: -0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Orop*
+*Help us collect text resources for Orop*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Orop*
+*Help us collect audio resources for Orop*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Orop*
+*Help us collect video resources for Orop*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

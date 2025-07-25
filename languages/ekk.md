@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Estonian, Standard
+title: Standard Estonian
 parent: Languages
 ---
 
-# Estonian, Standard (ekk)
+# Standard Estonian (ekk)
 
 ## Overview
 
-**Language**: Estonian, Standard  
+**Language**: Standard Estonian  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: 2.39  
-**Digitality Score**: 2.70  
+**Grassroots Presence (z-score)**: 2.39  
+**Web Presence (z-score)**: 2.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Estonian, Standard*
+*Help us collect text resources for Standard Estonian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Estonian, Standard*
+*Help us collect audio resources for Standard Estonian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Estonian, Standard*
+*Help us collect video resources for Standard Estonian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

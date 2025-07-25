@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Silesian, Lower
+title: Lower Silesian
 parent: Languages
 ---
 
-# Silesian, Lower (sli)
+# Lower Silesian (sli)
 
 ## Overview
 
-**Language**: Silesian, Lower  
+**Language**: Lower Silesian  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.34  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: 0.34  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Silesian, Lower*
+*Help us collect text resources for Lower Silesian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Silesian, Lower*
+*Help us collect audio resources for Lower Silesian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Silesian, Lower*
+*Help us collect video resources for Lower Silesian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

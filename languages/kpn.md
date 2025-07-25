@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kepkiriwát  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kepkiriwát*
+*Help us collect text resources for Kepkiriwát*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kepkiriwát*
+*Help us collect audio resources for Kepkiriwát*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kepkiriwát*
+*Help us collect video resources for Kepkiriwát*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

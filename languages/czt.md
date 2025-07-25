@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Zotung
+title: Zotung Chin
 parent: Languages
 ---
 
-# Chin, Zotung (czt)
+# Zotung Chin (czt)
 
 ## Overview
 
-**Language**: Chin, Zotung  
+**Language**: Zotung Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.73  
-**Digitality Score**: 0.56  
+**Grassroots Presence (z-score)**: 0.73  
+**Web Presence (z-score)**: 0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Zotung*
+*Help us collect text resources for Zotung Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Zotung*
+*Help us collect audio resources for Zotung Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Zotung*
+*Help us collect video resources for Zotung Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

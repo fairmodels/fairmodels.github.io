@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pole  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.48  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pole*
+*Help us collect text resources for Pole*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pole*
+*Help us collect audio resources for Pole*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pole*
+*Help us collect video resources for Pole*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

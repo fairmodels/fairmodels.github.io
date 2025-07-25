@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Margos-Yarowilca-Lauricocha
+title: Margos-Yarowilca-Lauricocha Quechua
 parent: Languages
 ---
 
-# Quechua, Margos-Yarowilca-Lauricocha (qvm)
+# Margos-Yarowilca-Lauricocha Quechua (qvm)
 
 ## Overview
 
-**Language**: Quechua, Margos-Yarowilca-Lauricocha  
+**Language**: Margos-Yarowilca-Lauricocha Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.70  
-**Digitality Score**: 1.31  
+**Grassroots Presence (z-score)**: 0.70  
+**Web Presence (z-score)**: 1.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Margos-Yarowilca-Lauricocha*
+*Help us collect text resources for Margos-Yarowilca-Lauricocha Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Margos-Yarowilca-Lauricocha*
+*Help us collect audio resources for Margos-Yarowilca-Lauricocha Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Margos-Yarowilca-Lauricocha*
+*Help us collect video resources for Margos-Yarowilca-Lauricocha Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

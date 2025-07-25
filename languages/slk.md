@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Slovak  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.65  
-**Digitality Score**: 4.71  
+**Grassroots Presence (z-score)**: 2.65  
+**Web Presence (z-score)**: 4.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Slovak*
+*Help us collect text resources for Slovak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Slovak*
+*Help us collect audio resources for Slovak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Slovak*
+*Help us collect video resources for Slovak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

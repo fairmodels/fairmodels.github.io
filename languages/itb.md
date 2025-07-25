@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Itneg, Binongan
+title: Binongan Itneg
 parent: Languages
 ---
 
-# Itneg, Binongan (itb)
+# Binongan Itneg (itb)
 
 ## Overview
 
-**Language**: Itneg, Binongan  
+**Language**: Binongan Itneg  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.07  
-**Digitality Score**: -0.57  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: -0.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Itneg, Binongan*
+*Help us collect text resources for Binongan Itneg*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Itneg, Binongan*
+*Help us collect audio resources for Binongan Itneg*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Itneg, Binongan*
+*Help us collect video resources for Binongan Itneg*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

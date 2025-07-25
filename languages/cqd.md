@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Chuanqiandian Cluster
+title: Chuanqiandian Cluster Miao
 parent: Languages
 ---
 
-# Miao, Chuanqiandian Cluster (cqd)
+# Chuanqiandian Cluster Miao (cqd)
 
 ## Overview
 
-**Language**: Miao, Chuanqiandian Cluster  
+**Language**: Chuanqiandian Cluster Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 1.18  
-**Digitality Score**: 2.43  
+**Grassroots Presence (z-score)**: 1.18  
+**Web Presence (z-score)**: 2.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Chuanqiandian Cluster*
+*Help us collect text resources for Chuanqiandian Cluster Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Chuanqiandian Cluster*
+*Help us collect audio resources for Chuanqiandian Cluster Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Chuanqiandian Cluster*
+*Help us collect video resources for Chuanqiandian Cluster Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

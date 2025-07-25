@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Murut, Paluan
+title: Paluan Murut
 parent: Languages
 ---
 
-# Murut, Paluan (plz)
+# Paluan Murut (plz)
 
 ## Overview
 
-**Language**: Murut, Paluan  
+**Language**: Paluan Murut  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.00  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: 0.00  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Murut, Paluan*
+*Help us collect text resources for Paluan Murut*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Murut, Paluan*
+*Help us collect audio resources for Paluan Murut*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Murut, Paluan*
+*Help us collect video resources for Paluan Murut*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

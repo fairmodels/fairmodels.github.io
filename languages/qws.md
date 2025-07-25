@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Sihuas Ancash
+title: Sihuas Ancash Quechua
 parent: Languages
 ---
 
-# Quechua, Sihuas Ancash (qws)
+# Sihuas Ancash Quechua (qws)
 
 ## Overview
 
-**Language**: Quechua, Sihuas Ancash  
+**Language**: Sihuas Ancash Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.04  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: 0.04  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Sihuas Ancash*
+*Help us collect text resources for Sihuas Ancash Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Sihuas Ancash*
+*Help us collect audio resources for Sihuas Ancash Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Sihuas Ancash*
+*Help us collect video resources for Sihuas Ancash Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

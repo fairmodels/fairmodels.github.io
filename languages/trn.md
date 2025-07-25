@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Trinitario  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -0.22  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: -0.22  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Trinitario*
+*Help us collect text resources for Trinitario*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Trinitario*
+*Help us collect audio resources for Trinitario*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Trinitario*
+*Help us collect video resources for Trinitario*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tuamotuan  
 **Region/Area**: Polynesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.08  
-**Digitality Score**: -0.49  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: -0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tuamotuan*
+*Help us collect text resources for Tuamotuan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tuamotuan*
+*Help us collect audio resources for Tuamotuan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tuamotuan*
+*Help us collect video resources for Tuamotuan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mazahua, Michoacán
+title: Michoacán Mazahua
 parent: Languages
 ---
 
-# Mazahua, Michoacán (mmc)
+# Michoacán Mazahua (mmc)
 
 ## Overview
 
-**Language**: Mazahua, Michoacán  
+**Language**: Michoacán Mazahua  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.36  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.36  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mazahua, Michoacán*
+*Help us collect text resources for Michoacán Mazahua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mazahua, Michoacán*
+*Help us collect audio resources for Michoacán Mazahua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mazahua, Michoacán*
+*Help us collect video resources for Michoacán Mazahua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

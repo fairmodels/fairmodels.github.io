@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kominimung  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kominimung*
+*Help us collect text resources for Kominimung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kominimung*
+*Help us collect audio resources for Kominimung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kominimung*
+*Help us collect video resources for Kominimung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

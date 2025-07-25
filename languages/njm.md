@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Angami
+title: Angami Naga
 parent: Languages
 ---
 
-# Naga, Angami (njm)
+# Angami Naga (njm)
 
 ## Overview
 
-**Language**: Naga, Angami  
+**Language**: Angami Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.53  
-**Digitality Score**: 0.58  
+**Grassroots Presence (z-score)**: 1.53  
+**Web Presence (z-score)**: 0.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Angami*
+*Help us collect text resources for Angami Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Angami*
+*Help us collect audio resources for Angami Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Angami*
+*Help us collect video resources for Angami Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

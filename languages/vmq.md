@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Soyaltepec
+title: Soyaltepec Mixtec
 parent: Languages
 ---
 
-# Mixtec, Soyaltepec (vmq)
+# Soyaltepec Mixtec (vmq)
 
 ## Overview
 
-**Language**: Mixtec, Soyaltepec  
+**Language**: Soyaltepec Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.40  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.40  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Soyaltepec*
+*Help us collect text resources for Soyaltepec Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Soyaltepec*
+*Help us collect audio resources for Soyaltepec Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Soyaltepec*
+*Help us collect video resources for Soyaltepec Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

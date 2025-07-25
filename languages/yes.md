@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyankpa  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.48  
-**Digitality Score**: -0.08  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: -0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyankpa*
+*Help us collect text resources for Nyankpa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyankpa*
+*Help us collect audio resources for Nyankpa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyankpa*
+*Help us collect video resources for Nyankpa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

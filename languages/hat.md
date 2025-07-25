@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Haitian Creole  
 **Region/Area**: Caribbean, Americas  
 **Family**: Creole  
-**Vitality Score**: 2.73  
-**Digitality Score**: 3.92  
+**Grassroots Presence (z-score)**: 2.73  
+**Web Presence (z-score)**: 3.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Haitian Creole*
+*Help us collect text resources for Haitian Creole*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Haitian Creole*
+*Help us collect audio resources for Haitian Creole*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Haitian Creole*
+*Help us collect video resources for Haitian Creole*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

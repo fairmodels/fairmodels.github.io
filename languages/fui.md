@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fulfulde, Bagirmi
+title: Bagirmi Fulfulde
 parent: Languages
 ---
 
-# Fulfulde, Bagirmi (fui)
+# Bagirmi Fulfulde (fui)
 
 ## Overview
 
-**Language**: Fulfulde, Bagirmi  
+**Language**: Bagirmi Fulfulde  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.43  
-**Digitality Score**: 0.51  
+**Grassroots Presence (z-score)**: 0.43  
+**Web Presence (z-score)**: 0.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fulfulde, Bagirmi*
+*Help us collect text resources for Bagirmi Fulfulde*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fulfulde, Bagirmi*
+*Help us collect audio resources for Bagirmi Fulfulde*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fulfulde, Bagirmi*
+*Help us collect video resources for Bagirmi Fulfulde*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

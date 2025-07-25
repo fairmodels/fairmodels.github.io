@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Inpui
+title: Inpui Naga
 parent: Languages
 ---
 
-# Naga, Inpui (nkf)
+# Inpui Naga (nkf)
 
 ## Overview
 
-**Language**: Naga, Inpui  
+**Language**: Inpui Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.77  
-**Digitality Score**: -0.33  
+**Grassroots Presence (z-score)**: 0.77  
+**Web Presence (z-score)**: -0.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Inpui*
+*Help us collect text resources for Inpui Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Inpui*
+*Help us collect audio resources for Inpui Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Inpui*
+*Help us collect video resources for Inpui Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Grebo, Southern
+title: Southern Grebo
 parent: Languages
 ---
 
-# Grebo, Southern (grj)
+# Southern Grebo (grj)
 
 ## Overview
 
-**Language**: Grebo, Southern  
+**Language**: Southern Grebo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.61  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.61  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Grebo, Southern*
+*Help us collect text resources for Southern Grebo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Grebo, Southern*
+*Help us collect audio resources for Southern Grebo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Grebo, Southern*
+*Help us collect video resources for Southern Grebo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

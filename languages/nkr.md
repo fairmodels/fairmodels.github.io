@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nukuoro  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.20  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nukuoro*
+*Help us collect text resources for Nukuoro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nukuoro*
+*Help us collect audio resources for Nukuoro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nukuoro*
+*Help us collect video resources for Nukuoro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: German, Colonia Tovar
+title: Colonia Tovar German
 parent: Languages
 ---
 
-# German, Colonia Tovar (gct)
+# Colonia Tovar German (gct)
 
 ## Overview
 
-**Language**: German, Colonia Tovar  
+**Language**: Colonia Tovar German  
 **Region/Area**: South America, Americas  
 **Family**: Indo-European  
-**Vitality Score**: -0.32  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.32  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for German, Colonia Tovar*
+*Help us collect text resources for Colonia Tovar German*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for German, Colonia Tovar*
+*Help us collect audio resources for Colonia Tovar German*
 
 ### Video Resources
-*Coming soon - help us collect video resources for German, Colonia Tovar*
+*Help us collect video resources for Colonia Tovar German*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

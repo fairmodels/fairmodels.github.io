@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Usoi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.65  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Usoi*
+*Help us collect text resources for Usoi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Usoi*
+*Help us collect audio resources for Usoi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Usoi*
+*Help us collect video resources for Usoi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

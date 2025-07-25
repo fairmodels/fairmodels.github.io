@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nisu, Southwestern
+title: Southwestern Nisu
 parent: Languages
 ---
 
-# Nisu, Southwestern (nsv)
+# Southwestern Nisu (nsv)
 
 ## Overview
 
-**Language**: Nisu, Southwestern  
+**Language**: Southwestern Nisu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.13  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nisu, Southwestern*
+*Help us collect text resources for Southwestern Nisu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nisu, Southwestern*
+*Help us collect audio resources for Southwestern Nisu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nisu, Southwestern*
+*Help us collect video resources for Southwestern Nisu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

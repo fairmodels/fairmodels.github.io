@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Barikewa  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.20  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.20  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Barikewa*
+*Help us collect text resources for Barikewa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Barikewa*
+*Help us collect audio resources for Barikewa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Barikewa*
+*Help us collect video resources for Barikewa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

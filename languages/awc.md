@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cicipu  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cicipu*
+*Help us collect text resources for Cicipu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cicipu*
+*Help us collect audio resources for Cicipu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cicipu*
+*Help us collect video resources for Cicipu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

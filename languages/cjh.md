@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chehalis, Upper
+title: Upper Chehalis
 parent: Languages
 ---
 
-# Chehalis, Upper (cjh)
+# Upper Chehalis (cjh)
 
 ## Overview
 
-**Language**: Chehalis, Upper  
+**Language**: Upper Chehalis  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chehalis, Upper*
+*Help us collect text resources for Upper Chehalis*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chehalis, Upper*
+*Help us collect audio resources for Upper Chehalis*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chehalis, Upper*
+*Help us collect video resources for Upper Chehalis*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

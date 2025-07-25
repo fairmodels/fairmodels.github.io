@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tasmanian, Southeast
+title: Southeast Tasmanian
 parent: Languages
 ---
 
-# Tasmanian, Southeast (xpf)
+# Southeast Tasmanian (xpf)
 
 ## Overview
 
-**Language**: Tasmanian, Southeast  
+**Language**: Southeast Tasmanian  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tasmanian, Southeast*
+*Help us collect text resources for Southeast Tasmanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tasmanian, Southeast*
+*Help us collect audio resources for Southeast Tasmanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tasmanian, Southeast*
+*Help us collect video resources for Southeast Tasmanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

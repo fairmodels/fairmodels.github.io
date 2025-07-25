@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nungura  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.53  
-**Digitality Score**: 0.14  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: 0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nungura*
+*Help us collect text resources for Nungura*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nungura*
+*Help us collect audio resources for Nungura*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nungura*
+*Help us collect video resources for Nungura*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Latin  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -1.87  
-**Digitality Score**: 4.62  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: 4.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Latin*
+*Help us collect text resources for Latin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Latin*
+*Help us collect audio resources for Latin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Latin*
+*Help us collect video resources for Latin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

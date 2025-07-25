@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sénoufo, Djimini
+title: Djimini Sénoufo
 parent: Languages
 ---
 
-# Sénoufo, Djimini (dyi)
+# Djimini Sénoufo (dyi)
 
 ## Overview
 
-**Language**: Sénoufo, Djimini  
+**Language**: Djimini Sénoufo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.91  
-**Digitality Score**: 0.54  
+**Grassroots Presence (z-score)**: 0.91  
+**Web Presence (z-score)**: 0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sénoufo, Djimini*
+*Help us collect text resources for Djimini Sénoufo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sénoufo, Djimini*
+*Help us collect audio resources for Djimini Sénoufo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sénoufo, Djimini*
+*Help us collect video resources for Djimini Sénoufo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

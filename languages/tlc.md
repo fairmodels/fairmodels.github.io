@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Totonac, Yecuatla
+title: Yecuatla Totonac
 parent: Languages
 ---
 
-# Totonac, Yecuatla (tlc)
+# Yecuatla Totonac (tlc)
 
 ## Overview
 
-**Language**: Totonac, Yecuatla  
+**Language**: Yecuatla Totonac  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: -0.77  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: -0.77  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Totonac, Yecuatla*
+*Help us collect text resources for Yecuatla Totonac*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Totonac, Yecuatla*
+*Help us collect audio resources for Yecuatla Totonac*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Totonac, Yecuatla*
+*Help us collect video resources for Yecuatla Totonac*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

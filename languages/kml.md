@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kalinga, Tanudan
+title: Tanudan Kalinga
 parent: Languages
 ---
 
-# Kalinga, Tanudan (kml)
+# Tanudan Kalinga (kml)
 
 ## Overview
 
-**Language**: Kalinga, Tanudan  
+**Language**: Tanudan Kalinga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.57  
-**Digitality Score**: 0.13  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: 0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalinga, Tanudan*
+*Help us collect text resources for Tanudan Kalinga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalinga, Tanudan*
+*Help us collect audio resources for Tanudan Kalinga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalinga, Tanudan*
+*Help us collect video resources for Tanudan Kalinga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

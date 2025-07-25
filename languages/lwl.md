@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lawa, Eastern
+title: Eastern Lawa
 parent: Languages
 ---
 
-# Lawa, Eastern (lwl)
+# Eastern Lawa (lwl)
 
 ## Overview
 
-**Language**: Lawa, Eastern  
+**Language**: Eastern Lawa  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.19  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lawa, Eastern*
+*Help us collect text resources for Eastern Lawa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lawa, Eastern*
+*Help us collect audio resources for Eastern Lawa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lawa, Eastern*
+*Help us collect video resources for Eastern Lawa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

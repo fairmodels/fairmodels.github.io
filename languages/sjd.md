@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saami, Kildin
+title: Kildin Saami
 parent: Languages
 ---
 
-# Saami, Kildin (sjd)
+# Kildin Saami (sjd)
 
 ## Overview
 
-**Language**: Saami, Kildin  
+**Language**: Kildin Saami  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -0.75  
-**Digitality Score**: 0.70  
+**Grassroots Presence (z-score)**: -0.75  
+**Web Presence (z-score)**: 0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saami, Kildin*
+*Help us collect text resources for Kildin Saami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saami, Kildin*
+*Help us collect audio resources for Kildin Saami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saami, Kildin*
+*Help us collect video resources for Kildin Saami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

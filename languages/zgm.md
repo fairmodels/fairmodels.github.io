@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Minz
+title: Minz Zhuang
 parent: Languages
 ---
 
-# Zhuang, Minz (zgm)
+# Minz Zhuang (zgm)
 
 ## Overview
 
-**Language**: Zhuang, Minz  
+**Language**: Minz Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.60  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Minz*
+*Help us collect text resources for Minz Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Minz*
+*Help us collect audio resources for Minz Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Minz*
+*Help us collect video resources for Minz Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

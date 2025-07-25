@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mangayat  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.96  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.96  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mangayat*
+*Help us collect text resources for Mangayat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mangayat*
+*Help us collect audio resources for Mangayat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mangayat*
+*Help us collect video resources for Mangayat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

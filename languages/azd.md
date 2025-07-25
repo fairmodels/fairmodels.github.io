@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Eastern Durango
+title: Eastern Durango Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Eastern Durango (azd)
+# Eastern Durango Nahuatl (azd)
 
 ## Overview
 
-**Language**: Nahuatl, Eastern Durango  
+**Language**: Eastern Durango Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.33  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: -0.33  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Eastern Durango*
+*Help us collect text resources for Eastern Durango Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Eastern Durango*
+*Help us collect audio resources for Eastern Durango Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Eastern Durango*
+*Help us collect video resources for Eastern Durango Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

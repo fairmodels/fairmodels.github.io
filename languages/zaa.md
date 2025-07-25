@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Sierra de Juárez
+title: Sierra de Juárez Zapotec
 parent: Languages
 ---
 
-# Zapotec, Sierra de Juárez (zaa)
+# Sierra de Juárez Zapotec (zaa)
 
 ## Overview
 
-**Language**: Zapotec, Sierra de Juárez  
+**Language**: Sierra de Juárez Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.12  
-**Digitality Score**: 1.69  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 1.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Sierra de Juárez*
+*Help us collect text resources for Sierra de Juárez Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Sierra de Juárez*
+*Help us collect audio resources for Sierra de Juárez Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Sierra de Juárez*
+*Help us collect video resources for Sierra de Juárez Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

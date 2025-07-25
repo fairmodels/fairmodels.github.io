@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rade  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.92  
-**Digitality Score**: 0.52  
+**Grassroots Presence (z-score)**: 0.92  
+**Web Presence (z-score)**: 0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rade*
+*Help us collect text resources for Rade*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rade*
+*Help us collect audio resources for Rade*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rade*
+*Help us collect video resources for Rade*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

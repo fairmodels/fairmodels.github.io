@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Kupang
+title: Kupang Malay
 parent: Languages
 ---
 
-# Malay, Kupang (mkn)
+# Kupang Malay (mkn)
 
 ## Overview
 
-**Language**: Malay, Kupang  
+**Language**: Kupang Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: 1.63  
-**Digitality Score**: 1.95  
+**Grassroots Presence (z-score)**: 1.63  
+**Web Presence (z-score)**: 1.95  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Kupang*
+*Help us collect text resources for Kupang Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Kupang*
+*Help us collect audio resources for Kupang Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Kupang*
+*Help us collect video resources for Kupang Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

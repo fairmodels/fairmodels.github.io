@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Binandere  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.82  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Binandere*
+*Help us collect text resources for Binandere*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Binandere*
+*Help us collect audio resources for Binandere*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Binandere*
+*Help us collect video resources for Binandere*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

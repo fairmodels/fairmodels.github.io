@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shuswap  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -0.89  
-**Digitality Score**: 0.69  
+**Grassroots Presence (z-score)**: -0.89  
+**Web Presence (z-score)**: 0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shuswap*
+*Help us collect text resources for Shuswap*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shuswap*
+*Help us collect audio resources for Shuswap*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shuswap*
+*Help us collect video resources for Shuswap*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

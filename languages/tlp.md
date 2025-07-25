@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Totonac, Filomena Mata-Coahuitlán
+title: Filomena Mata-Coahuitlán Totonac
 parent: Languages
 ---
 
-# Totonac, Filomena Mata-Coahuitlán (tlp)
+# Filomena Mata-Coahuitlán Totonac (tlp)
 
 ## Overview
 
-**Language**: Totonac, Filomena Mata-Coahuitlán  
+**Language**: Filomena Mata-Coahuitlán Totonac  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Totonac, Filomena Mata-Coahuitlán*
+*Help us collect text resources for Filomena Mata-Coahuitlán Totonac*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Totonac, Filomena Mata-Coahuitlán*
+*Help us collect audio resources for Filomena Mata-Coahuitlán Totonac*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Totonac, Filomena Mata-Coahuitlán*
+*Help us collect video resources for Filomena Mata-Coahuitlán Totonac*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

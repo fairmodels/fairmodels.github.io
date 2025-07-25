@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Opo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Opo*
+*Help us collect text resources for Opo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Opo*
+*Help us collect audio resources for Opo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Opo*
+*Help us collect video resources for Opo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

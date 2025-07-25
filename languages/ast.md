@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Asturian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.62  
-**Digitality Score**: 2.99  
+**Grassroots Presence (z-score)**: 0.62  
+**Web Presence (z-score)**: 2.99  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Asturian*
+*Help us collect text resources for Asturian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Asturian*
+*Help us collect audio resources for Asturian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Asturian*
+*Help us collect video resources for Asturian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

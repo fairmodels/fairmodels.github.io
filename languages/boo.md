@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bozo, Tiemacèwè
+title: Tiemacèwè Bozo
 parent: Languages
 ---
 
-# Bozo, Tiemacèwè (boo)
+# Tiemacèwè Bozo (boo)
 
 ## Overview
 
-**Language**: Bozo, Tiemacèwè  
+**Language**: Tiemacèwè Bozo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.06  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: 0.06  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bozo, Tiemacèwè*
+*Help us collect text resources for Tiemacèwè Bozo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bozo, Tiemacèwè*
+*Help us collect audio resources for Tiemacèwè Bozo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bozo, Tiemacèwè*
+*Help us collect video resources for Tiemacèwè Bozo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

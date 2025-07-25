@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tidore  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: West Papuan  
-**Vitality Score**: 0.31  
-**Digitality Score**: -0.44  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: -0.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tidore*
+*Help us collect text resources for Tidore*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tidore*
+*Help us collect audio resources for Tidore*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tidore*
+*Help us collect video resources for Tidore*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

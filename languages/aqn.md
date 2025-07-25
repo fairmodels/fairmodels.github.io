@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Alta, Northern
+title: Northern Alta
 parent: Languages
 ---
 
-# Alta, Northern (aqn)
+# Northern Alta (aqn)
 
 ## Overview
 
-**Language**: Alta, Northern  
+**Language**: Northern Alta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.39  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: -0.39  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Alta, Northern*
+*Help us collect text resources for Northern Alta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Alta, Northern*
+*Help us collect audio resources for Northern Alta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Alta, Northern*
+*Help us collect video resources for Northern Alta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

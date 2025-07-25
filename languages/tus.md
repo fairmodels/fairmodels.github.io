@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tuscarora  
 **Region/Area**: Northern America, Americas  
 **Family**: Iroquoian  
-**Vitality Score**: -1.87  
-**Digitality Score**: 0.48  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: 0.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tuscarora*
+*Help us collect text resources for Tuscarora*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tuscarora*
+*Help us collect audio resources for Tuscarora*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tuscarora*
+*Help us collect video resources for Tuscarora*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

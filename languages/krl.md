@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karelian  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: 0.17  
-**Digitality Score**: 1.71  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: 1.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karelian*
+*Help us collect text resources for Karelian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karelian*
+*Help us collect audio resources for Karelian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karelian*
+*Help us collect video resources for Karelian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

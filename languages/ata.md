@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pele-Ata  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Yele-West New Britain  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.54  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pele-Ata*
+*Help us collect text resources for Pele-Ata*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pele-Ata*
+*Help us collect audio resources for Pele-Ata*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pele-Ata*
+*Help us collect video resources for Pele-Ata*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

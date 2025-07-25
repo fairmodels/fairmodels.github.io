@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Malayalam  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 2.54  
-**Digitality Score**: 4.31  
+**Grassroots Presence (z-score)**: 2.54  
+**Web Presence (z-score)**: 4.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malayalam*
+*Help us collect text resources for Malayalam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malayalam*
+*Help us collect audio resources for Malayalam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malayalam*
+*Help us collect video resources for Malayalam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

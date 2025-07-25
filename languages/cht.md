@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cholón  
 **Region/Area**: South America, Americas  
 **Family**: Cholonan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.72  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cholón*
+*Help us collect text resources for Cholón*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cholón*
+*Help us collect audio resources for Cholón*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cholón*
+*Help us collect video resources for Cholón*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

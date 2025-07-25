@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Sanaani
+title: Sanaani Arabic
 parent: Languages
 ---
 
-# Arabic, Sanaani (ayn)
+# Sanaani Arabic (ayn)
 
 ## Overview
 
-**Language**: Arabic, Sanaani  
+**Language**: Sanaani Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.14  
-**Digitality Score**: 2.29  
+**Grassroots Presence (z-score)**: 1.14  
+**Web Presence (z-score)**: 2.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Sanaani*
+*Help us collect text resources for Sanaani Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Sanaani*
+*Help us collect audio resources for Sanaani Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Sanaani*
+*Help us collect video resources for Sanaani Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

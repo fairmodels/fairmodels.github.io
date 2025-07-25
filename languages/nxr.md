@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ninggerum  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ninggerum*
+*Help us collect text resources for Ninggerum*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ninggerum*
+*Help us collect audio resources for Ninggerum*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ninggerum*
+*Help us collect video resources for Ninggerum*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

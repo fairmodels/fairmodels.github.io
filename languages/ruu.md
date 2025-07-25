@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lobu, Lanas
+title: Lanas Lobu
 parent: Languages
 ---
 
-# Lobu, Lanas (ruu)
+# Lanas Lobu (ruu)
 
 ## Overview
 
-**Language**: Lobu, Lanas  
+**Language**: Lanas Lobu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.04  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lobu, Lanas*
+*Help us collect text resources for Lanas Lobu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lobu, Lanas*
+*Help us collect audio resources for Lanas Lobu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lobu, Lanas*
+*Help us collect video resources for Lanas Lobu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

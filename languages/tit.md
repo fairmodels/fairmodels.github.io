@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tinigua  
 **Region/Area**: South America, Americas  
 **Family**: Tiniguan  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tinigua*
+*Help us collect text resources for Tinigua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tinigua*
+*Help us collect audio resources for Tinigua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tinigua*
+*Help us collect video resources for Tinigua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

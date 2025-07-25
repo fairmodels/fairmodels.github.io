@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bemba  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.63  
-**Digitality Score**: 2.55  
+**Grassroots Presence (z-score)**: 1.63  
+**Web Presence (z-score)**: 2.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bemba*
+*Help us collect text resources for Bemba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bemba*
+*Help us collect audio resources for Bemba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bemba*
+*Help us collect video resources for Bemba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

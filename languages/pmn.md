@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pam  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -1.12  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -1.12  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pam*
+*Help us collect text resources for Pam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pam*
+*Help us collect audio resources for Pam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pam*
+*Help us collect video resources for Pam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bandi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.90  
-**Digitality Score**: 0.05  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: 0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bandi*
+*Help us collect text resources for Bandi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bandi*
+*Help us collect audio resources for Bandi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bandi*
+*Help us collect video resources for Bandi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

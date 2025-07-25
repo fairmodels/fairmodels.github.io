@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Andi  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.66  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Andi*
+*Help us collect text resources for Andi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Andi*
+*Help us collect audio resources for Andi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Andi*
+*Help us collect video resources for Andi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

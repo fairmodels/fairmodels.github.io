@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Alyawarr  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.13  
-**Digitality Score**: 0.92  
+**Grassroots Presence (z-score)**: -0.13  
+**Web Presence (z-score)**: 0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Alyawarr*
+*Help us collect text resources for Alyawarr*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Alyawarr*
+*Help us collect audio resources for Alyawarr*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Alyawarr*
+*Help us collect video resources for Alyawarr*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

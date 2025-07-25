@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Central Mashan
+title: Central Mashan Miao
 parent: Languages
 ---
 
-# Miao, Central Mashan (hmm)
+# Central Mashan Miao (hmm)
 
 ## Overview
 
-**Language**: Miao, Central Mashan  
+**Language**: Central Mashan Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.48  
-**Digitality Score**: 0.93  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: 0.93  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Central Mashan*
+*Help us collect text resources for Central Mashan Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Central Mashan*
+*Help us collect audio resources for Central Mashan Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Central Mashan*
+*Help us collect video resources for Central Mashan Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

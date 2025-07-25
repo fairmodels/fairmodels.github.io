@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lenje  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.87  
-**Digitality Score**: 0.20  
+**Grassroots Presence (z-score)**: 0.87  
+**Web Presence (z-score)**: 0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lenje*
+*Help us collect text resources for Lenje*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lenje*
+*Help us collect audio resources for Lenje*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lenje*
+*Help us collect video resources for Lenje*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

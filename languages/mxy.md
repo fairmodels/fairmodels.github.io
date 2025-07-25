@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Southeastern Nochixtlán
+title: Southeastern Nochixtlán Mixtec
 parent: Languages
 ---
 
-# Mixtec, Southeastern Nochixtlán (mxy)
+# Southeastern Nochixtlán Mixtec (mxy)
 
 ## Overview
 
-**Language**: Mixtec, Southeastern Nochixtlán  
+**Language**: Southeastern Nochixtlán Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.03  
-**Digitality Score**: 0.13  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: 0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Southeastern Nochixtlán*
+*Help us collect text resources for Southeastern Nochixtlán Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Southeastern Nochixtlán*
+*Help us collect audio resources for Southeastern Nochixtlán Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Southeastern Nochixtlán*
+*Help us collect video resources for Southeastern Nochixtlán Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

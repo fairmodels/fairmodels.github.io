@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Norwegian  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.61  
-**Digitality Score**: 4.71  
+**Grassroots Presence (z-score)**: 2.61  
+**Web Presence (z-score)**: 4.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Norwegian*
+*Help us collect text resources for Norwegian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Norwegian*
+*Help us collect audio resources for Norwegian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Norwegian*
+*Help us collect video resources for Norwegian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

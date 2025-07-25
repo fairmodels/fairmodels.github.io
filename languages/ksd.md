@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kuanua  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 1.52  
-**Digitality Score**: 1.62  
+**Grassroots Presence (z-score)**: 1.52  
+**Web Presence (z-score)**: 1.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kuanua*
+*Help us collect text resources for Kuanua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kuanua*
+*Help us collect audio resources for Kuanua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kuanua*
+*Help us collect video resources for Kuanua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

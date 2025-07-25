@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, San Baltazar Loxicha
+title: San Baltazar Loxicha Zapotec
 parent: Languages
 ---
 
-# Zapotec, San Baltazar Loxicha (zpx)
+# San Baltazar Loxicha Zapotec (zpx)
 
 ## Overview
 
-**Language**: Zapotec, San Baltazar Loxicha  
+**Language**: San Baltazar Loxicha Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.57  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: -0.57  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, San Baltazar Loxicha*
+*Help us collect text resources for San Baltazar Loxicha Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, San Baltazar Loxicha*
+*Help us collect audio resources for San Baltazar Loxicha Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, San Baltazar Loxicha*
+*Help us collect video resources for San Baltazar Loxicha Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

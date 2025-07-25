@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Yauyos
+title: Yauyos Quechua
 parent: Languages
 ---
 
-# Quechua, Yauyos (qux)
+# Yauyos Quechua (qux)
 
 ## Overview
 
-**Language**: Quechua, Yauyos  
+**Language**: Yauyos Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -0.75  
-**Digitality Score**: 0.71  
+**Grassroots Presence (z-score)**: -0.75  
+**Web Presence (z-score)**: 0.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Yauyos*
+*Help us collect text resources for Yauyos Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Yauyos*
+*Help us collect audio resources for Yauyos Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Yauyos*
+*Help us collect video resources for Yauyos Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

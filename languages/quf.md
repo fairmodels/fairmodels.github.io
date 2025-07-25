@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Lambayeque
+title: Lambayeque Quechua
 parent: Languages
 ---
 
-# Quechua, Lambayeque (quf)
+# Lambayeque Quechua (quf)
 
 ## Overview
 
-**Language**: Quechua, Lambayeque  
+**Language**: Lambayeque Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.69  
-**Digitality Score**: 1.79  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 1.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Lambayeque*
+*Help us collect text resources for Lambayeque Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Lambayeque*
+*Help us collect audio resources for Lambayeque Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Lambayeque*
+*Help us collect video resources for Lambayeque Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

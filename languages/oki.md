@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Okiek  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -0.54  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: -0.54  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Okiek*
+*Help us collect text resources for Okiek*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Okiek*
+*Help us collect audio resources for Okiek*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Okiek*
+*Help us collect video resources for Okiek*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

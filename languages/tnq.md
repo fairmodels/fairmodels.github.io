@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Taíno  
 **Region/Area**: Caribbean, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.61  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Taíno*
+*Help us collect text resources for Taíno*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Taíno*
+*Help us collect audio resources for Taíno*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Taíno*
+*Help us collect video resources for Taíno*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

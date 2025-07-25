@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tauade  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.26  
-**Digitality Score**: -0.61  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: -0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tauade*
+*Help us collect text resources for Tauade*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tauade*
+*Help us collect audio resources for Tauade*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tauade*
+*Help us collect video resources for Tauade*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

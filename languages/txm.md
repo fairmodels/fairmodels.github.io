@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tomini  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.17  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tomini*
+*Help us collect text resources for Tomini*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tomini*
+*Help us collect audio resources for Tomini*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tomini*
+*Help us collect video resources for Tomini*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

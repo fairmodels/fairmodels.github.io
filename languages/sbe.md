@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Saliba  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.71  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saliba*
+*Help us collect text resources for Saliba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saliba*
+*Help us collect audio resources for Saliba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saliba*
+*Help us collect video resources for Saliba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

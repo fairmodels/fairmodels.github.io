@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Santa María la Alta
+title: Santa María la Alta Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Santa María la Alta (nhz)
+# Santa María la Alta Nahuatl (nhz)
 
 ## Overview
 
-**Language**: Nahuatl, Santa María la Alta  
+**Language**: Santa María la Alta Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.25  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Santa María la Alta*
+*Help us collect text resources for Santa María la Alta Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Santa María la Alta*
+*Help us collect audio resources for Santa María la Alta Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Santa María la Alta*
+*Help us collect video resources for Santa María la Alta Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

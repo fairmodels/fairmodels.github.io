@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Stieng, Bulo
+title: Bulo Stieng
 parent: Languages
 ---
 
-# Stieng, Bulo (sti)
+# Bulo Stieng (sti)
 
 ## Overview
 
-**Language**: Stieng, Bulo  
+**Language**: Bulo Stieng  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.46  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Stieng, Bulo*
+*Help us collect text resources for Bulo Stieng*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Stieng, Bulo*
+*Help us collect audio resources for Bulo Stieng*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Stieng, Bulo*
+*Help us collect video resources for Bulo Stieng*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

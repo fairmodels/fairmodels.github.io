@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bikol, Miraya
+title: Miraya Bikol
 parent: Languages
 ---
 
-# Bikol, Miraya (rbl)
+# Miraya Bikol (rbl)
 
 ## Overview
 
-**Language**: Bikol, Miraya  
+**Language**: Miraya Bikol  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.67  
-**Digitality Score**: 0.97  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: 0.97  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bikol, Miraya*
+*Help us collect text resources for Miraya Bikol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bikol, Miraya*
+*Help us collect audio resources for Miraya Bikol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bikol, Miraya*
+*Help us collect video resources for Miraya Bikol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

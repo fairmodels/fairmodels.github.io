@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Buyang, Langnian
+title: Langnian Buyang
 parent: Languages
 ---
 
-# Buyang, Langnian (yln)
+# Langnian Buyang (yln)
 
 ## Overview
 
-**Language**: Buyang, Langnian  
+**Language**: Langnian Buyang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: -0.84  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.84  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Buyang, Langnian*
+*Help us collect text resources for Langnian Buyang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Buyang, Langnian*
+*Help us collect audio resources for Langnian Buyang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Buyang, Langnian*
+*Help us collect video resources for Langnian Buyang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

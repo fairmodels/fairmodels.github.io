@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Konchri Sain  
 **Region/Area**: Caribbean, Americas  
 **Family**: Sign language  
-**Vitality Score**: -0.77  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: -0.77  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Konchri Sain*
+*Help us collect text resources for Konchri Sain*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Konchri Sain*
+*Help us collect audio resources for Konchri Sain*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Konchri Sain*
+*Help us collect video resources for Konchri Sain*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karagas  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: -0.98  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: -0.98  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karagas*
+*Help us collect text resources for Karagas*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karagas*
+*Help us collect audio resources for Karagas*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karagas*
+*Help us collect video resources for Karagas*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gurani  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.51  
-**Digitality Score**: 0.52  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gurani*
+*Help us collect text resources for Gurani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gurani*
+*Help us collect audio resources for Gurani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gurani*
+*Help us collect video resources for Gurani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

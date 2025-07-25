@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fulfulde, Borgu
+title: Borgu Fulfulde
 parent: Languages
 ---
 
-# Fulfulde, Borgu (fue)
+# Borgu Fulfulde (fue)
 
 ## Overview
 
-**Language**: Fulfulde, Borgu  
+**Language**: Borgu Fulfulde  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.12  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: 1.12  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fulfulde, Borgu*
+*Help us collect text resources for Borgu Fulfulde*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fulfulde, Borgu*
+*Help us collect audio resources for Borgu Fulfulde*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fulfulde, Borgu*
+*Help us collect video resources for Borgu Fulfulde*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

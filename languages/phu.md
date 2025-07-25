@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Phuan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.67  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Phuan*
+*Help us collect text resources for Phuan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Phuan*
+*Help us collect audio resources for Phuan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Phuan*
+*Help us collect video resources for Phuan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

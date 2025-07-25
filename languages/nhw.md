@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Western Huasteca
+title: Western Huasteca Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Western Huasteca (nhw)
+# Western Huasteca Nahuatl (nhw)
 
 ## Overview
 
-**Language**: Nahuatl, Western Huasteca  
+**Language**: Western Huasteca Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 1.02  
-**Digitality Score**: 0.79  
+**Grassroots Presence (z-score)**: 1.02  
+**Web Presence (z-score)**: 0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Western Huasteca*
+*Help us collect text resources for Western Huasteca Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Western Huasteca*
+*Help us collect audio resources for Western Huasteca Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Western Huasteca*
+*Help us collect video resources for Western Huasteca Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

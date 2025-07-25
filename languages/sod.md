@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Songoora  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Songoora*
+*Help us collect text resources for Songoora*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Songoora*
+*Help us collect audio resources for Songoora*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Songoora*
+*Help us collect video resources for Songoora*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

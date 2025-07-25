@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Bunoge
+title: Bunoge Dogon
 parent: Languages
 ---
 
-# Dogon, Bunoge (dgb)
+# Bunoge Dogon (dgb)
 
 ## Overview
 
-**Language**: Dogon, Bunoge  
+**Language**: Bunoge Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Bunoge*
+*Help us collect text resources for Bunoge Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Bunoge*
+*Help us collect audio resources for Bunoge Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Bunoge*
+*Help us collect video resources for Bunoge Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

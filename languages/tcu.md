@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tarahumara, Southeastern
+title: Southeastern Tarahumara
 parent: Languages
 ---
 
-# Tarahumara, Southeastern (tcu)
+# Southeastern Tarahumara (tcu)
 
 ## Overview
 
-**Language**: Tarahumara, Southeastern  
+**Language**: Southeastern Tarahumara  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.16  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tarahumara, Southeastern*
+*Help us collect text resources for Southeastern Tarahumara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tarahumara, Southeastern*
+*Help us collect audio resources for Southeastern Tarahumara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tarahumara, Southeastern*
+*Help us collect video resources for Southeastern Tarahumara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

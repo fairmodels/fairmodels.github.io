@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cree, Northern East
+title: Northern East Cree
 parent: Languages
 ---
 
-# Cree, Northern East (crl)
+# Northern East Cree (crl)
 
 ## Overview
 
-**Language**: Cree, Northern East  
+**Language**: Northern East Cree  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: 0.46  
-**Digitality Score**: 0.81  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cree, Northern East*
+*Help us collect text resources for Northern East Cree*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cree, Northern East*
+*Help us collect audio resources for Northern East Cree*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cree, Northern East*
+*Help us collect video resources for Northern East Cree*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

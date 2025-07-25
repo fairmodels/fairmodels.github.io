@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Inupiatun, Northwest Alaska
+title: Northwest Alaska Inupiatun
 parent: Languages
 ---
 
-# Inupiatun, Northwest Alaska (esk)
+# Northwest Alaska Inupiatun (esk)
 
 ## Overview
 
-**Language**: Inupiatun, Northwest Alaska  
+**Language**: Northwest Alaska Inupiatun  
 **Region/Area**: Northern America, Americas  
 **Family**: Eskimo-Aleut  
-**Vitality Score**: -1.56  
-**Digitality Score**: 1.11  
+**Grassroots Presence (z-score)**: -1.56  
+**Web Presence (z-score)**: 1.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Inupiatun, Northwest Alaska*
+*Help us collect text resources for Northwest Alaska Inupiatun*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Inupiatun, Northwest Alaska*
+*Help us collect audio resources for Northwest Alaska Inupiatun*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Inupiatun, Northwest Alaska*
+*Help us collect video resources for Northwest Alaska Inupiatun*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

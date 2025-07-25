@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Buksa  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.46  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Buksa*
+*Help us collect text resources for Buksa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Buksa*
+*Help us collect audio resources for Buksa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Buksa*
+*Help us collect video resources for Buksa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

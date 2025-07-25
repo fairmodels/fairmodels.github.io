@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gwich’in  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.44  
-**Digitality Score**: 1.33  
+**Grassroots Presence (z-score)**: -0.44  
+**Web Presence (z-score)**: 1.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gwich’in*
+*Help us collect text resources for Gwich’in*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gwich’in*
+*Help us collect audio resources for Gwich’in*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gwich’in*
+*Help us collect video resources for Gwich’in*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

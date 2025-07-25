@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mewahang, Western
+title: Western Mewahang
 parent: Languages
 ---
 
-# Mewahang, Western (raf)
+# Western Mewahang (raf)
 
 ## Overview
 
-**Language**: Mewahang, Western  
+**Language**: Western Mewahang  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.33  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mewahang, Western*
+*Help us collect text resources for Western Mewahang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mewahang, Western*
+*Help us collect audio resources for Western Mewahang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mewahang, Western*
+*Help us collect video resources for Western Mewahang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

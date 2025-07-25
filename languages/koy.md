@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Koyukon  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.92  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: -0.92  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koyukon*
+*Help us collect text resources for Koyukon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koyukon*
+*Help us collect audio resources for Koyukon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koyukon*
+*Help us collect video resources for Koyukon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Ojitlán
+title: Ojitlán Chinantec
 parent: Languages
 ---
 
-# Chinantec, Ojitlán (chj)
+# Ojitlán Chinantec (chj)
 
 ## Overview
 
-**Language**: Chinantec, Ojitlán  
+**Language**: Ojitlán Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.72  
-**Digitality Score**: 0.52  
+**Grassroots Presence (z-score)**: 0.72  
+**Web Presence (z-score)**: 0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Ojitlán*
+*Help us collect text resources for Ojitlán Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Ojitlán*
+*Help us collect audio resources for Ojitlán Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Ojitlán*
+*Help us collect video resources for Ojitlán Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

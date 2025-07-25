@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Totonac, Coyutla
+title: Coyutla Totonac
 parent: Languages
 ---
 
-# Totonac, Coyutla (toc)
+# Coyutla Totonac (toc)
 
 ## Overview
 
-**Language**: Totonac, Coyutla  
+**Language**: Coyutla Totonac  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: 0.75  
-**Digitality Score**: 0.25  
+**Grassroots Presence (z-score)**: 0.75  
+**Web Presence (z-score)**: 0.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Totonac, Coyutla*
+*Help us collect text resources for Coyutla Totonac*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Totonac, Coyutla*
+*Help us collect audio resources for Coyutla Totonac*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Totonac, Coyutla*
+*Help us collect video resources for Coyutla Totonac*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

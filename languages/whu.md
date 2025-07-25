@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kayan, Wahau
+title: Wahau Kayan
 parent: Languages
 ---
 
-# Kayan, Wahau (whu)
+# Wahau Kayan (whu)
 
 ## Overview
 
-**Language**: Kayan, Wahau  
+**Language**: Wahau Kayan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.30  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.30  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayan, Wahau*
+*Help us collect text resources for Wahau Kayan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayan, Wahau*
+*Help us collect audio resources for Wahau Kayan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayan, Wahau*
+*Help us collect video resources for Wahau Kayan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

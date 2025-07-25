@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kudiya  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kudiya*
+*Help us collect text resources for Kudiya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kudiya*
+*Help us collect audio resources for Kudiya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kudiya*
+*Help us collect video resources for Kudiya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

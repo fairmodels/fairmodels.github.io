@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cebuano  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 2.15  
-**Digitality Score**: 3.59  
+**Grassroots Presence (z-score)**: 2.15  
+**Web Presence (z-score)**: 3.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cebuano*
+*Help us collect text resources for Cebuano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cebuano*
+*Help us collect audio resources for Cebuano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cebuano*
+*Help us collect video resources for Cebuano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

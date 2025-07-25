@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Subanon, Western
+title: Western Subanon
 parent: Languages
 ---
 
-# Subanon, Western (suc)
+# Western Subanon (suc)
 
 ## Overview
 
-**Language**: Subanon, Western  
+**Language**: Western Subanon  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.40  
-**Digitality Score**: 0.72  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: 0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Subanon, Western*
+*Help us collect text resources for Western Subanon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Subanon, Western*
+*Help us collect audio resources for Western Subanon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Subanon, Western*
+*Help us collect video resources for Western Subanon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

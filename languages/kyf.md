@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kouya  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.55  
-**Digitality Score**: 0.70  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kouya*
+*Help us collect text resources for Kouya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kouya*
+*Help us collect audio resources for Kouya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kouya*
+*Help us collect video resources for Kouya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

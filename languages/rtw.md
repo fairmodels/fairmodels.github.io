@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rathawi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.72  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.72  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rathawi*
+*Help us collect text resources for Rathawi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rathawi*
+*Help us collect audio resources for Rathawi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rathawi*
+*Help us collect video resources for Rathawi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

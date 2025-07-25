@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karachay-Balkar  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: 0.97  
-**Digitality Score**: 1.90  
+**Grassroots Presence (z-score)**: 0.97  
+**Web Presence (z-score)**: 1.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karachay-Balkar*
+*Help us collect text resources for Karachay-Balkar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karachay-Balkar*
+*Help us collect audio resources for Karachay-Balkar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karachay-Balkar*
+*Help us collect video resources for Karachay-Balkar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

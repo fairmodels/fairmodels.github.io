@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nkumbi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.09  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: 1.09  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nkumbi*
+*Help us collect text resources for Nkumbi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nkumbi*
+*Help us collect audio resources for Nkumbi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nkumbi*
+*Help us collect video resources for Nkumbi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

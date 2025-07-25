@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Corongo Ancash
+title: Corongo Ancash Quechua
 parent: Languages
 ---
 
-# Quechua, Corongo Ancash (qwa)
+# Corongo Ancash Quechua (qwa)
 
 ## Overview
 
-**Language**: Quechua, Corongo Ancash  
+**Language**: Corongo Ancash Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -0.25  
-**Digitality Score**: 0.79  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: 0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Corongo Ancash*
+*Help us collect text resources for Corongo Ancash Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Corongo Ancash*
+*Help us collect audio resources for Corongo Ancash Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Corongo Ancash*
+*Help us collect video resources for Corongo Ancash Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

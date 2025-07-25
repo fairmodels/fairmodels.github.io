@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Vula’a  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.46  
-**Digitality Score**: -0.00  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: -0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Vula’a*
+*Help us collect text resources for Vula’a*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Vula’a*
+*Help us collect audio resources for Vula’a*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Vula’a*
+*Help us collect video resources for Vula’a*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

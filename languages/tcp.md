@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Tawr
+title: Tawr Chin
 parent: Languages
 ---
 
-# Chin, Tawr (tcp)
+# Tawr Chin (tcp)
 
 ## Overview
 
-**Language**: Chin, Tawr  
+**Language**: Tawr Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Tawr*
+*Help us collect text resources for Tawr Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Tawr*
+*Help us collect audio resources for Tawr Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Tawr*
+*Help us collect video resources for Tawr Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

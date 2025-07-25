@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Koba  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.31  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.31  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koba*
+*Help us collect text resources for Koba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koba*
+*Help us collect audio resources for Koba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koba*
+*Help us collect video resources for Koba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

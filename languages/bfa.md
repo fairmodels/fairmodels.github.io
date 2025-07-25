@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bari  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.76  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: 1.76  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bari*
+*Help us collect text resources for Bari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bari*
+*Help us collect audio resources for Bari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bari*
+*Help us collect video resources for Bari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

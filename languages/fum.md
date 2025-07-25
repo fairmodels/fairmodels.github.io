@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Fum  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.93  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fum*
+*Help us collect text resources for Fum*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fum*
+*Help us collect audio resources for Fum*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fum*
+*Help us collect video resources for Fum*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

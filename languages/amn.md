@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Amanab  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Border  
-**Vitality Score**: -0.02  
-**Digitality Score**: 0.63  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: 0.63  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Amanab*
+*Help us collect text resources for Amanab*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Amanab*
+*Help us collect audio resources for Amanab*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Amanab*
+*Help us collect video resources for Amanab*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

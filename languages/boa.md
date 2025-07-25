@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bora  
 **Region/Area**: South America, Americas  
 **Family**: Witotoan  
-**Vitality Score**: -0.33  
-**Digitality Score**: 1.43  
+**Grassroots Presence (z-score)**: -0.33  
+**Web Presence (z-score)**: 1.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bora*
+*Help us collect text resources for Bora*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bora*
+*Help us collect audio resources for Bora*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bora*
+*Help us collect video resources for Bora*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

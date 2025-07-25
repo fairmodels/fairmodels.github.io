@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dumi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.06  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: 0.06  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dumi*
+*Help us collect text resources for Dumi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dumi*
+*Help us collect audio resources for Dumi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dumi*
+*Help us collect video resources for Dumi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cree, Southern East
+title: Southern East Cree
 parent: Languages
 ---
 
-# Cree, Southern East (crj)
+# Southern East Cree (crj)
 
 ## Overview
 
-**Language**: Cree, Southern East  
+**Language**: Southern East Cree  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -0.70  
-**Digitality Score**: 0.74  
+**Grassroots Presence (z-score)**: -0.70  
+**Web Presence (z-score)**: 0.74  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cree, Southern East*
+*Help us collect text resources for Southern East Cree*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cree, Southern East*
+*Help us collect audio resources for Southern East Cree*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cree, Southern East*
+*Help us collect video resources for Southern East Cree*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

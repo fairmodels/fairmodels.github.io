@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Logir  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.29  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Logir*
+*Help us collect text resources for Logir*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Logir*
+*Help us collect audio resources for Logir*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Logir*
+*Help us collect video resources for Logir*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

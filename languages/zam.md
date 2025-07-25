@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Miahuatlán
+title: Miahuatlán Zapotec
 parent: Languages
 ---
 
-# Zapotec, Miahuatlán (zam)
+# Miahuatlán Zapotec (zam)
 
 ## Overview
 
-**Language**: Zapotec, Miahuatlán  
+**Language**: Miahuatlán Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.21  
-**Digitality Score**: 1.71  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: 1.71  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Miahuatlán*
+*Help us collect text resources for Miahuatlán Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Miahuatlán*
+*Help us collect audio resources for Miahuatlán Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Miahuatlán*
+*Help us collect video resources for Miahuatlán Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

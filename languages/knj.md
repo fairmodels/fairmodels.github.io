@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Akateko  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.77  
-**Digitality Score**: 1.36  
+**Grassroots Presence (z-score)**: 0.77  
+**Web Presence (z-score)**: 1.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Akateko*
+*Help us collect text resources for Akateko*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Akateko*
+*Help us collect audio resources for Akateko*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Akateko*
+*Help us collect video resources for Akateko*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ikhin-Aokho  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ikhin-Aokho*
+*Help us collect text resources for Ikhin-Aokho*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ikhin-Aokho*
+*Help us collect audio resources for Ikhin-Aokho*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ikhin-Aokho*
+*Help us collect video resources for Ikhin-Aokho*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

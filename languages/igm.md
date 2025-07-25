@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kanggape  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: 0.02  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.02  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanggape*
+*Help us collect text resources for Kanggape*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanggape*
+*Help us collect audio resources for Kanggape*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanggape*
+*Help us collect video resources for Kanggape*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

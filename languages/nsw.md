@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Balen  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.17  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Balen*
+*Help us collect text resources for Balen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Balen*
+*Help us collect audio resources for Balen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Balen*
+*Help us collect video resources for Balen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nyiha, Malawi
+title: Malawi Nyiha
 parent: Languages
 ---
 
-# Nyiha, Malawi (nyr)
+# Malawi Nyiha (nyr)
 
 ## Overview
 
-**Language**: Nyiha, Malawi  
+**Language**: Malawi Nyiha  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyiha, Malawi*
+*Help us collect text resources for Malawi Nyiha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyiha, Malawi*
+*Help us collect audio resources for Malawi Nyiha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyiha, Malawi*
+*Help us collect video resources for Malawi Nyiha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

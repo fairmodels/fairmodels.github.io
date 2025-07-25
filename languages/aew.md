@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ambakich  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: -0.40  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -0.40  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ambakich*
+*Help us collect text resources for Ambakich*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ambakich*
+*Help us collect audio resources for Ambakich*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ambakich*
+*Help us collect video resources for Ambakich*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

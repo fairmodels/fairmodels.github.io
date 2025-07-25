@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Amurdak  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.67  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Amurdak*
+*Help us collect text resources for Amurdak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Amurdak*
+*Help us collect audio resources for Amurdak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Amurdak*
+*Help us collect video resources for Amurdak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

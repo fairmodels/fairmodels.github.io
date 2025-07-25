@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sikiana  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: -1.07  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.07  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sikiana*
+*Help us collect text resources for Sikiana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sikiana*
+*Help us collect audio resources for Sikiana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sikiana*
+*Help us collect video resources for Sikiana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

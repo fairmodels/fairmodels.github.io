@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Suena  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.67  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Suena*
+*Help us collect text resources for Suena*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Suena*
+*Help us collect audio resources for Suena*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Suena*
+*Help us collect video resources for Suena*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

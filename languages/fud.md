@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Futuna, East
+title: East Futuna
 parent: Languages
 ---
 
-# Futuna, East (fud)
+# East Futuna (fud)
 
 ## Overview
 
-**Language**: Futuna, East  
+**Language**: East Futuna  
 **Region/Area**: Polynesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.50  
-**Digitality Score**: 0.45  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: 0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Futuna, East*
+*Help us collect text resources for East Futuna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Futuna, East*
+*Help us collect audio resources for East Futuna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Futuna, East*
+*Help us collect video resources for East Futuna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

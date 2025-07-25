@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kâte  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 1.41  
-**Digitality Score**: 0.80  
+**Grassroots Presence (z-score)**: 1.41  
+**Web Presence (z-score)**: 0.80  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kâte*
+*Help us collect text resources for Kâte*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kâte*
+*Help us collect audio resources for Kâte*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kâte*
+*Help us collect video resources for Kâte*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

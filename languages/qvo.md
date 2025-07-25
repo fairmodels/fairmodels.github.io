@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quichua, Napo
+title: Napo Quichua
 parent: Languages
 ---
 
-# Quichua, Napo (qvo)
+# Napo Quichua (qvo)
 
 ## Overview
 
-**Language**: Quichua, Napo  
+**Language**: Napo Quichua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.68  
-**Digitality Score**: 1.59  
+**Grassroots Presence (z-score)**: 0.68  
+**Web Presence (z-score)**: 1.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quichua, Napo*
+*Help us collect text resources for Napo Quichua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quichua, Napo*
+*Help us collect audio resources for Napo Quichua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quichua, Napo*
+*Help us collect video resources for Napo Quichua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

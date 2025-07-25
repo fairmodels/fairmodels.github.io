@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sowanda  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Border  
-**Vitality Score**: -0.03  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sowanda*
+*Help us collect text resources for Sowanda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sowanda*
+*Help us collect audio resources for Sowanda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sowanda*
+*Help us collect video resources for Sowanda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sakapulteko  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: -0.13  
-**Digitality Score**: 0.56  
+**Grassroots Presence (z-score)**: -0.13  
+**Web Presence (z-score)**: 0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sakapulteko*
+*Help us collect text resources for Sakapulteko*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sakapulteko*
+*Help us collect audio resources for Sakapulteko*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sakapulteko*
+*Help us collect video resources for Sakapulteko*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

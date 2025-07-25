@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Buriat, Mongolia
+title: Mongolia Buriat
 parent: Languages
 ---
 
-# Buriat, Mongolia (bxm)
+# Mongolia Buriat (bxm)
 
 ## Overview
 
-**Language**: Buriat, Mongolia  
+**Language**: Mongolia Buriat  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Mongolic  
-**Vitality Score**: 0.44  
-**Digitality Score**: 1.03  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 1.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Buriat, Mongolia*
+*Help us collect text resources for Mongolia Buriat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Buriat, Mongolia*
+*Help us collect audio resources for Mongolia Buriat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Buriat, Mongolia*
+*Help us collect video resources for Mongolia Buriat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

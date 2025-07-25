@@ -11,20 +11,20 @@ parent: Languages
 **Language**: ‡Ungkue  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Tuu  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for ‡Ungkue*
+*Help us collect text resources for ‡Ungkue*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for ‡Ungkue*
+*Help us collect audio resources for ‡Ungkue*
 
 ### Video Resources
-*Coming soon - help us collect video resources for ‡Ungkue*
+*Help us collect video resources for ‡Ungkue*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

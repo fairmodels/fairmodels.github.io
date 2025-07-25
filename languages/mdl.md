@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maltese Sign Language  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Sign language  
-**Vitality Score**: 0.06  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.06  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maltese Sign Language*
+*Help us collect text resources for Maltese Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maltese Sign Language*
+*Help us collect audio resources for Maltese Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maltese Sign Language*
+*Help us collect video resources for Maltese Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

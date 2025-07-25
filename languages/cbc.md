@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Carapana  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: 0.18  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: 0.18  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Carapana*
+*Help us collect text resources for Carapana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Carapana*
+*Help us collect audio resources for Carapana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Carapana*
+*Help us collect video resources for Carapana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

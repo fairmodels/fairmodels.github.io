@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ogbia  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.03  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 1.03  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ogbia*
+*Help us collect text resources for Ogbia*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ogbia*
+*Help us collect audio resources for Ogbia*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ogbia*
+*Help us collect video resources for Ogbia*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

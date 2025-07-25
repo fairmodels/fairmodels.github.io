@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mundabli  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.29  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: -0.29  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mundabli*
+*Help us collect text resources for Mundabli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mundabli*
+*Help us collect audio resources for Mundabli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mundabli*
+*Help us collect video resources for Mundabli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

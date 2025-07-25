@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Namia  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: 0.19  
-**Digitality Score**: 0.06  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: 0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Namia*
+*Help us collect text resources for Namia*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Namia*
+*Help us collect audio resources for Namia*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Namia*
+*Help us collect video resources for Namia*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

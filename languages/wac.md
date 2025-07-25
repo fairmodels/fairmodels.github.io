@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wasco-Wishram  
 **Region/Area**: Northern America, Americas  
 **Family**: Chinookan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wasco-Wishram*
+*Help us collect text resources for Wasco-Wishram*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wasco-Wishram*
+*Help us collect audio resources for Wasco-Wishram*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wasco-Wishram*
+*Help us collect video resources for Wasco-Wishram*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

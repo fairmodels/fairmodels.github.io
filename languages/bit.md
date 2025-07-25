@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Berinomo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -0.34  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.34  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Berinomo*
+*Help us collect text resources for Berinomo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Berinomo*
+*Help us collect audio resources for Berinomo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Berinomo*
+*Help us collect video resources for Berinomo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mapoyo  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: -1.58  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -1.58  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mapoyo*
+*Help us collect text resources for Mapoyo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mapoyo*
+*Help us collect audio resources for Mapoyo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mapoyo*
+*Help us collect video resources for Mapoyo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

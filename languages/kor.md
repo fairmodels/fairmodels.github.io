@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Korean  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Koreanic  
-**Vitality Score**: 2.95  
-**Digitality Score**: 6.05  
+**Grassroots Presence (z-score)**: 2.95  
+**Web Presence (z-score)**: 6.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Korean*
+*Help us collect text resources for Korean*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Korean*
+*Help us collect audio resources for Korean*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Korean*
+*Help us collect video resources for Korean*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sumau  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.07  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sumau*
+*Help us collect text resources for Sumau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sumau*
+*Help us collect audio resources for Sumau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sumau*
+*Help us collect video resources for Sumau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

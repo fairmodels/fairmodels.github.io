@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lohar, Gade
+title: Gade Lohar
 parent: Languages
 ---
 
-# Lohar, Gade (gda)
+# Gade Lohar (gda)
 
 ## Overview
 
-**Language**: Lohar, Gade  
+**Language**: Gade Lohar  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.73  
-**Digitality Score**: 0.44  
+**Grassroots Presence (z-score)**: 0.73  
+**Web Presence (z-score)**: 0.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lohar, Gade*
+*Help us collect text resources for Gade Lohar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lohar, Gade*
+*Help us collect audio resources for Gade Lohar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lohar, Gade*
+*Help us collect video resources for Gade Lohar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

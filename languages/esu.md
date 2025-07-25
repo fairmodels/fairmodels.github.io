@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yupik, Central
+title: Central Yupik
 parent: Languages
 ---
 
-# Yupik, Central (esu)
+# Central Yupik (esu)
 
 ## Overview
 
-**Language**: Yupik, Central  
+**Language**: Central Yupik  
 **Region/Area**: Northern America, Americas  
 **Family**: Eskimo-Aleut  
-**Vitality Score**: 0.08  
-**Digitality Score**: 1.03  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: 1.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yupik, Central*
+*Help us collect text resources for Central Yupik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yupik, Central*
+*Help us collect audio resources for Central Yupik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yupik, Central*
+*Help us collect video resources for Central Yupik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tupuri  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.99  
-**Digitality Score**: 0.40  
+**Grassroots Presence (z-score)**: 0.99  
+**Web Presence (z-score)**: 0.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tupuri*
+*Help us collect text resources for Tupuri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tupuri*
+*Help us collect audio resources for Tupuri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tupuri*
+*Help us collect video resources for Tupuri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

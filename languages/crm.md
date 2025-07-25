@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cree, Moose
+title: Moose Cree
 parent: Languages
 ---
 
-# Cree, Moose (crm)
+# Moose Cree (crm)
 
 ## Overview
 
-**Language**: Cree, Moose  
+**Language**: Moose Cree  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -0.32  
-**Digitality Score**: 0.45  
+**Grassroots Presence (z-score)**: -0.32  
+**Web Presence (z-score)**: 0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cree, Moose*
+*Help us collect text resources for Moose Cree*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cree, Moose*
+*Help us collect audio resources for Moose Cree*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cree, Moose*
+*Help us collect video resources for Moose Cree*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

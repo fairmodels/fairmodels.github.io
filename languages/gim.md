@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gimi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.66  
-**Digitality Score**: 0.05  
+**Grassroots Presence (z-score)**: 0.66  
+**Web Presence (z-score)**: 0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gimi*
+*Help us collect text resources for Gimi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gimi*
+*Help us collect audio resources for Gimi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gimi*
+*Help us collect video resources for Gimi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

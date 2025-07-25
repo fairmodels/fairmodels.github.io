@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tala  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -1.06  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -1.06  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tala*
+*Help us collect text resources for Tala*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tala*
+*Help us collect audio resources for Tala*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tala*
+*Help us collect video resources for Tala*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

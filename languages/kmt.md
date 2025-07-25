@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kemtuik  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Nimboran  
-**Vitality Score**: -0.25  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kemtuik*
+*Help us collect text resources for Kemtuik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kemtuik*
+*Help us collect audio resources for Kemtuik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kemtuik*
+*Help us collect video resources for Kemtuik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

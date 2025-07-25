@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Digaro-Mishmi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.43  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: 0.43  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Digaro-Mishmi*
+*Help us collect text resources for Digaro-Mishmi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Digaro-Mishmi*
+*Help us collect audio resources for Digaro-Mishmi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Digaro-Mishmi*
+*Help us collect video resources for Digaro-Mishmi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

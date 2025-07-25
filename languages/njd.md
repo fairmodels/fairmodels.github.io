@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ndonde Hamba  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.10  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ndonde Hamba*
+*Help us collect text resources for Ndonde Hamba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ndonde Hamba*
+*Help us collect audio resources for Ndonde Hamba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ndonde Hamba*
+*Help us collect video resources for Ndonde Hamba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

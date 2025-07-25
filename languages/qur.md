@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Chaupihuaranga
+title: Chaupihuaranga Quechua
 parent: Languages
 ---
 
-# Quechua, Chaupihuaranga (qur)
+# Chaupihuaranga Quechua (qur)
 
 ## Overview
 
-**Language**: Quechua, Chaupihuaranga  
+**Language**: Chaupihuaranga Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.39  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Chaupihuaranga*
+*Help us collect text resources for Chaupihuaranga Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Chaupihuaranga*
+*Help us collect audio resources for Chaupihuaranga Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Chaupihuaranga*
+*Help us collect video resources for Chaupihuaranga Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

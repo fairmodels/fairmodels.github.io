@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Indonesian, Peranakan
+title: Peranakan Indonesian
 parent: Languages
 ---
 
-# Indonesian, Peranakan (pea)
+# Peranakan Indonesian (pea)
 
 ## Overview
 
-**Language**: Indonesian, Peranakan  
+**Language**: Peranakan Indonesian  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: 0.01  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: 0.01  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Indonesian, Peranakan*
+*Help us collect text resources for Peranakan Indonesian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Indonesian, Peranakan*
+*Help us collect audio resources for Peranakan Indonesian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Indonesian, Peranakan*
+*Help us collect video resources for Peranakan Indonesian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

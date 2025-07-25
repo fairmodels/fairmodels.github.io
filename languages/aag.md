@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ambrak  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.37  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ambrak*
+*Help us collect text resources for Ambrak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ambrak*
+*Help us collect audio resources for Ambrak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ambrak*
+*Help us collect video resources for Ambrak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

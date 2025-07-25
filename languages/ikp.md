@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ikpeshi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.16  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.16  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ikpeshi*
+*Help us collect text resources for Ikpeshi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ikpeshi*
+*Help us collect audio resources for Ikpeshi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ikpeshi*
+*Help us collect video resources for Ikpeshi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

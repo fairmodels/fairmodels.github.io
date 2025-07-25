@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Aymara, Central
+title: Central Aymara
 parent: Languages
 ---
 
-# Aymara, Central (ayr)
+# Central Aymara (ayr)
 
 ## Overview
 
-**Language**: Aymara, Central  
+**Language**: Central Aymara  
 **Region/Area**: South America, Americas  
 **Family**: Aymaran  
-**Vitality Score**: 1.18  
-**Digitality Score**: 2.72  
+**Grassroots Presence (z-score)**: 1.18  
+**Web Presence (z-score)**: 2.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aymara, Central*
+*Help us collect text resources for Central Aymara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aymara, Central*
+*Help us collect audio resources for Central Aymara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aymara, Central*
+*Help us collect video resources for Central Aymara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

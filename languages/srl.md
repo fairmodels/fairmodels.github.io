@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Isirawa  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Tor-Kwerba  
-**Vitality Score**: -0.14  
-**Digitality Score**: -0.04  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: -0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Isirawa*
+*Help us collect text resources for Isirawa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Isirawa*
+*Help us collect audio resources for Isirawa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Isirawa*
+*Help us collect video resources for Isirawa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

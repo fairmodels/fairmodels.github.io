@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Haida, Southern
+title: Southern Haida
 parent: Languages
 ---
 
-# Haida, Southern (hax)
+# Southern Haida (hax)
 
 ## Overview
 
-**Language**: Haida, Southern  
+**Language**: Southern Haida  
 **Region/Area**: Northern America, Americas  
 **Family**: Haida  
-**Vitality Score**: -1.45  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -1.45  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Haida, Southern*
+*Help us collect text resources for Southern Haida*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Haida, Southern*
+*Help us collect audio resources for Southern Haida*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Haida, Southern*
+*Help us collect video resources for Southern Haida*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

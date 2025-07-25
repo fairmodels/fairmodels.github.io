@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Manda  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: -0.04  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manda*
+*Help us collect text resources for Manda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manda*
+*Help us collect audio resources for Manda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manda*
+*Help us collect video resources for Manda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

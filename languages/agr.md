@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Awajún  
 **Region/Area**: South America, Americas  
 **Family**: Jivaroan  
-**Vitality Score**: 1.08  
-**Digitality Score**: 1.76  
+**Grassroots Presence (z-score)**: 1.08  
+**Web Presence (z-score)**: 1.76  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Awajún*
+*Help us collect text resources for Awajún*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Awajún*
+*Help us collect audio resources for Awajún*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Awajún*
+*Help us collect video resources for Awajún*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

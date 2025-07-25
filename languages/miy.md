@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Ayutla
+title: Ayutla Mixtec
 parent: Languages
 ---
 
-# Mixtec, Ayutla (miy)
+# Ayutla Mixtec (miy)
 
 ## Overview
 
-**Language**: Mixtec, Ayutla  
+**Language**: Ayutla Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.57  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Ayutla*
+*Help us collect text resources for Ayutla Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Ayutla*
+*Help us collect audio resources for Ayutla Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Ayutla*
+*Help us collect video resources for Ayutla Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

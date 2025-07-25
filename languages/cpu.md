@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ashéninka, Pichis
+title: Pichis Ashéninka
 parent: Languages
 ---
 
-# Ashéninka, Pichis (cpu)
+# Pichis Ashéninka (cpu)
 
 ## Overview
 
-**Language**: Ashéninka, Pichis  
+**Language**: Pichis Ashéninka  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 0.09  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: 0.09  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ashéninka, Pichis*
+*Help us collect text resources for Pichis Ashéninka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ashéninka, Pichis*
+*Help us collect audio resources for Pichis Ashéninka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ashéninka, Pichis*
+*Help us collect video resources for Pichis Ashéninka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

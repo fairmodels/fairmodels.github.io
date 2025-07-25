@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Muyu, South
+title: South Muyu
 parent: Languages
 ---
 
-# Muyu, South (kts)
+# South Muyu (kts)
 
 ## Overview
 
-**Language**: Muyu, South  
+**Language**: South Muyu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.27  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.27  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Muyu, South*
+*Help us collect text resources for South Muyu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Muyu, South*
+*Help us collect audio resources for South Muyu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Muyu, South*
+*Help us collect video resources for South Muyu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

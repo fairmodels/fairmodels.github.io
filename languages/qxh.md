@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Panao
+title: Panao Quechua
 parent: Languages
 ---
 
-# Quechua, Panao (qxh)
+# Panao Quechua (qxh)
 
 ## Overview
 
-**Language**: Quechua, Panao  
+**Language**: Panao Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.69  
-**Digitality Score**: 1.25  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 1.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Panao*
+*Help us collect text resources for Panao Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Panao*
+*Help us collect audio resources for Panao Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Panao*
+*Help us collect video resources for Panao Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

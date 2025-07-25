@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ifugao, Batad
+title: Batad Ifugao
 parent: Languages
 ---
 
-# Ifugao, Batad (ifb)
+# Batad Ifugao (ifb)
 
 ## Overview
 
-**Language**: Ifugao, Batad  
+**Language**: Batad Ifugao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.55  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ifugao, Batad*
+*Help us collect text resources for Batad Ifugao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ifugao, Batad*
+*Help us collect audio resources for Batad Ifugao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ifugao, Batad*
+*Help us collect video resources for Batad Ifugao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

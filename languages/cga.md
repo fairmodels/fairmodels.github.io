@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Changriwa  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Yuat  
-**Vitality Score**: -0.10  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Changriwa*
+*Help us collect text resources for Changriwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Changriwa*
+*Help us collect audio resources for Changriwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Changriwa*
+*Help us collect video resources for Changriwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

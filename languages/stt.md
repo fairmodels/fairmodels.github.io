@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Stieng, Budeh
+title: Budeh Stieng
 parent: Languages
 ---
 
-# Stieng, Budeh (stt)
+# Budeh Stieng (stt)
 
 ## Overview
 
-**Language**: Stieng, Budeh  
+**Language**: Budeh Stieng  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.75  
-**Digitality Score**: -0.34  
+**Grassroots Presence (z-score)**: 0.75  
+**Web Presence (z-score)**: -0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Stieng, Budeh*
+*Help us collect text resources for Budeh Stieng*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Stieng, Budeh*
+*Help us collect audio resources for Budeh Stieng*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Stieng, Budeh*
+*Help us collect video resources for Budeh Stieng*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

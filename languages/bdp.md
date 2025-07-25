@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bende  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.42  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bende*
+*Help us collect text resources for Bende*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bende*
+*Help us collect audio resources for Bende*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bende*
+*Help us collect video resources for Bende*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

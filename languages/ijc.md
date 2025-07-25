@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Izon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.26  
-**Digitality Score**: 0.49  
+**Grassroots Presence (z-score)**: 1.26  
+**Web Presence (z-score)**: 0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Izon*
+*Help us collect text resources for Izon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Izon*
+*Help us collect audio resources for Izon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Izon*
+*Help us collect video resources for Izon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lipo  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.64  
-**Digitality Score**: 0.14  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lipo*
+*Help us collect text resources for Lipo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lipo*
+*Help us collect audio resources for Lipo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lipo*
+*Help us collect video resources for Lipo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

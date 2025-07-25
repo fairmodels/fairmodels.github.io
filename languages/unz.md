@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kaili, Unde
+title: Unde Kaili
 parent: Languages
 ---
 
-# Kaili, Unde (unz)
+# Unde Kaili (unz)
 
 ## Overview
 
-**Language**: Kaili, Unde  
+**Language**: Unde Kaili  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.40  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaili, Unde*
+*Help us collect text resources for Unde Kaili*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaili, Unde*
+*Help us collect audio resources for Unde Kaili*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaili, Unde*
+*Help us collect video resources for Unde Kaili*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

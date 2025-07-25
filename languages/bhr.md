@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malagasy, Bara
+title: Bara Malagasy
 parent: Languages
 ---
 
-# Malagasy, Bara (bhr)
+# Bara Malagasy (bhr)
 
 ## Overview
 
-**Language**: Malagasy, Bara  
+**Language**: Bara Malagasy  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Austronesian  
-**Vitality Score**: 0.78  
-**Digitality Score**: 0.69  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malagasy, Bara*
+*Help us collect text resources for Bara Malagasy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malagasy, Bara*
+*Help us collect audio resources for Bara Malagasy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malagasy, Bara*
+*Help us collect video resources for Bara Malagasy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

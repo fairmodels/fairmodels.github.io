@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Banda  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.23  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Banda*
+*Help us collect text resources for Banda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Banda*
+*Help us collect audio resources for Banda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Banda*
+*Help us collect video resources for Banda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

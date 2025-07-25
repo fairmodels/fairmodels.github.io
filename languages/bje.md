@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Biao-Jiao Mien  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: -0.37  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Biao-Jiao Mien*
+*Help us collect text resources for Biao-Jiao Mien*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Biao-Jiao Mien*
+*Help us collect audio resources for Biao-Jiao Mien*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Biao-Jiao Mien*
+*Help us collect video resources for Biao-Jiao Mien*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

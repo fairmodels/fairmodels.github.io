@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Standard
+title: Standard Malay
 parent: Languages
 ---
 
-# Malay, Standard (zsm)
+# Standard Malay (zsm)
 
 ## Overview
 
-**Language**: Malay, Standard  
+**Language**: Standard Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.64  
-**Digitality Score**: 3.81  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 3.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Standard*
+*Help us collect text resources for Standard Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Standard*
+*Help us collect audio resources for Standard Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Standard*
+*Help us collect video resources for Standard Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

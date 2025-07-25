@@ -11,20 +11,20 @@ parent: Languages
 **Language**: West Flemish  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.69  
-**Digitality Score**: 1.35  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 1.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for West Flemish*
+*Help us collect text resources for West Flemish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for West Flemish*
+*Help us collect audio resources for West Flemish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for West Flemish*
+*Help us collect video resources for West Flemish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

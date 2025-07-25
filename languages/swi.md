@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sui  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.67  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sui*
+*Help us collect text resources for Sui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sui*
+*Help us collect audio resources for Sui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sui*
+*Help us collect video resources for Sui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

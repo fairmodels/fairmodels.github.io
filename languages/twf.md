@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tiwa, Northern
+title: Northern Tiwa
 parent: Languages
 ---
 
-# Tiwa, Northern (twf)
+# Northern Tiwa (twf)
 
 ## Overview
 
-**Language**: Tiwa, Northern  
+**Language**: Northern Tiwa  
 **Region/Area**: Northern America, Americas  
 **Family**: Kiowa-Tanoan  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.00  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tiwa, Northern*
+*Help us collect text resources for Northern Tiwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tiwa, Northern*
+*Help us collect audio resources for Northern Tiwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tiwa, Northern*
+*Help us collect video resources for Northern Tiwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

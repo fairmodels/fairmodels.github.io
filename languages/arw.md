@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Arawak  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -0.67  
-**Digitality Score**: 0.22  
+**Grassroots Presence (z-score)**: -0.67  
+**Web Presence (z-score)**: 0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arawak*
+*Help us collect text resources for Arawak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arawak*
+*Help us collect audio resources for Arawak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arawak*
+*Help us collect video resources for Arawak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

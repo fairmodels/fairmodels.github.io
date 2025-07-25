@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Agta, Umiray Dumaget
+title: Umiray Dumaget Agta
 parent: Languages
 ---
 
-# Agta, Umiray Dumaget (due)
+# Umiray Dumaget Agta (due)
 
 ## Overview
 
-**Language**: Agta, Umiray Dumaget  
+**Language**: Umiray Dumaget Agta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Agta, Umiray Dumaget*
+*Help us collect text resources for Umiray Dumaget Agta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Agta, Umiray Dumaget*
+*Help us collect audio resources for Umiray Dumaget Agta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Agta, Umiray Dumaget*
+*Help us collect video resources for Umiray Dumaget Agta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

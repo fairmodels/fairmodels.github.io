@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kaburi  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaburi*
+*Help us collect text resources for Kaburi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaburi*
+*Help us collect audio resources for Kaburi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaburi*
+*Help us collect video resources for Kaburi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

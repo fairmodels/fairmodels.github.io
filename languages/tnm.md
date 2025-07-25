@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tabla  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: East Bird’s Head-Sentani  
-**Vitality Score**: -0.52  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: -0.52  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tabla*
+*Help us collect text resources for Tabla*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tabla*
+*Help us collect audio resources for Tabla*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tabla*
+*Help us collect video resources for Tabla*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

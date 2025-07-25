@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Alacatlatzala
+title: Alacatlatzala Mixtec
 parent: Languages
 ---
 
-# Mixtec, Alacatlatzala (mim)
+# Alacatlatzala Mixtec (mim)
 
 ## Overview
 
-**Language**: Mixtec, Alacatlatzala  
+**Language**: Alacatlatzala Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.69  
-**Digitality Score**: 0.39  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Alacatlatzala*
+*Help us collect text resources for Alacatlatzala Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Alacatlatzala*
+*Help us collect audio resources for Alacatlatzala Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Alacatlatzala*
+*Help us collect video resources for Alacatlatzala Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

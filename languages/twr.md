@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tarahumara, Southwestern
+title: Southwestern Tarahumara
 parent: Languages
 ---
 
-# Tarahumara, Southwestern (twr)
+# Southwestern Tarahumara (twr)
 
 ## Overview
 
-**Language**: Tarahumara, Southwestern  
+**Language**: Southwestern Tarahumara  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.97  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: -0.97  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tarahumara, Southwestern*
+*Help us collect text resources for Southwestern Tarahumara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tarahumara, Southwestern*
+*Help us collect audio resources for Southwestern Tarahumara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tarahumara, Southwestern*
+*Help us collect video resources for Southwestern Tarahumara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

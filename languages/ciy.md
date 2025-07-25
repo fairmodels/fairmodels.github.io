@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chaima  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: -1.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chaima*
+*Help us collect text resources for Chaima*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chaima*
+*Help us collect audio resources for Chaima*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chaima*
+*Help us collect video resources for Chaima*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

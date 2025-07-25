@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kham, Eastern Parbate
+title: Eastern Parbate Kham
 parent: Languages
 ---
 
-# Kham, Eastern Parbate (kif)
+# Eastern Parbate Kham (kif)
 
 ## Overview
 
-**Language**: Kham, Eastern Parbate  
+**Language**: Eastern Parbate Kham  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.01  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kham, Eastern Parbate*
+*Help us collect text resources for Eastern Parbate Kham*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kham, Eastern Parbate*
+*Help us collect audio resources for Eastern Parbate Kham*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kham, Eastern Parbate*
+*Help us collect video resources for Eastern Parbate Kham*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tatuyo  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: -0.19  
-**Digitality Score**: 0.54  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: 0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tatuyo*
+*Help us collect text resources for Tatuyo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tatuyo*
+*Help us collect audio resources for Tatuyo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tatuyo*
+*Help us collect video resources for Tatuyo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

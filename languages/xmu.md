@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kamu  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kamu*
+*Help us collect text resources for Kamu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kamu*
+*Help us collect audio resources for Kamu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kamu*
+*Help us collect video resources for Kamu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

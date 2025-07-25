@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Forak  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.37  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Forak*
+*Help us collect text resources for Forak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Forak*
+*Help us collect audio resources for Forak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Forak*
+*Help us collect video resources for Forak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

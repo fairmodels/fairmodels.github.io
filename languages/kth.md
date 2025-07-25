@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karanga  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karanga*
+*Help us collect text resources for Karanga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karanga*
+*Help us collect audio resources for Karanga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karanga*
+*Help us collect video resources for Karanga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

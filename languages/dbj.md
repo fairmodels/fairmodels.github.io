@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ida’an  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.08  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ida’an*
+*Help us collect text resources for Ida’an*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ida’an*
+*Help us collect audio resources for Ida’an*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ida’an*
+*Help us collect video resources for Ida’an*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

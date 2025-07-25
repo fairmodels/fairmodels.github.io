@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Matukar Panau  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.60  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: -0.60  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Matukar Panau*
+*Help us collect text resources for Matukar Panau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Matukar Panau*
+*Help us collect audio resources for Matukar Panau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Matukar Panau*
+*Help us collect video resources for Matukar Panau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

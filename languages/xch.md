@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chemakum  
 **Region/Area**: Northern America, Americas  
 **Family**: Chimakuan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chemakum*
+*Help us collect text resources for Chemakum*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chemakum*
+*Help us collect audio resources for Chemakum*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chemakum*
+*Help us collect video resources for Chemakum*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

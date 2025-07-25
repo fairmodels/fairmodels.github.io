@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Abishi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.21  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Abishi*
+*Help us collect text resources for Abishi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Abishi*
+*Help us collect audio resources for Abishi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Abishi*
+*Help us collect video resources for Abishi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

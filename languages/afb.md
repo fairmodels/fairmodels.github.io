@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Gulf
+title: Gulf Arabic
 parent: Languages
 ---
 
-# Arabic, Gulf (afb)
+# Gulf Arabic (afb)
 
 ## Overview
 
-**Language**: Arabic, Gulf  
+**Language**: Gulf Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.06  
-**Digitality Score**: 2.60  
+**Grassroots Presence (z-score)**: 2.06  
+**Web Presence (z-score)**: 2.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Gulf*
+*Help us collect text resources for Gulf Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Gulf*
+*Help us collect audio resources for Gulf Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Gulf*
+*Help us collect video resources for Gulf Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

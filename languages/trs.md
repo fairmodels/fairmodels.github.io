@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Triqui, Chicahuaxtla
+title: Chicahuaxtla Triqui
 parent: Languages
 ---
 
-# Triqui, Chicahuaxtla (trs)
+# Chicahuaxtla Triqui (trs)
 
 ## Overview
 
-**Language**: Triqui, Chicahuaxtla  
+**Language**: Chicahuaxtla Triqui  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.12  
-**Digitality Score**: 0.81  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Triqui, Chicahuaxtla*
+*Help us collect text resources for Chicahuaxtla Triqui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Triqui, Chicahuaxtla*
+*Help us collect audio resources for Chicahuaxtla Triqui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Triqui, Chicahuaxtla*
+*Help us collect video resources for Chicahuaxtla Triqui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

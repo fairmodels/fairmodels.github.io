@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bai, Panyi
+title: Panyi Bai
 parent: Languages
 ---
 
-# Bai, Panyi (bfc)
+# Panyi Bai (bfc)
 
 ## Overview
 
-**Language**: Bai, Panyi  
+**Language**: Panyi Bai  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.30  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bai, Panyi*
+*Help us collect text resources for Panyi Bai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bai, Panyi*
+*Help us collect audio resources for Panyi Bai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bai, Panyi*
+*Help us collect video resources for Panyi Bai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kwoma  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: 0.12  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kwoma*
+*Help us collect text resources for Kwoma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kwoma*
+*Help us collect audio resources for Kwoma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kwoma*
+*Help us collect video resources for Kwoma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

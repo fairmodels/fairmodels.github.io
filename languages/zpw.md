@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Zaniza
+title: Zaniza Zapotec
 parent: Languages
 ---
 
-# Zapotec, Zaniza (zpw)
+# Zaniza Zapotec (zpw)
 
 ## Overview
 
-**Language**: Zapotec, Zaniza  
+**Language**: Zaniza Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.25  
-**Digitality Score**: 0.94  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: 0.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Zaniza*
+*Help us collect text resources for Zaniza Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Zaniza*
+*Help us collect audio resources for Zaniza Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Zaniza*
+*Help us collect video resources for Zaniza Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

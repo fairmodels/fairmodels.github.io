@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Ocotlán
+title: Ocotlán Zapotec
 parent: Languages
 ---
 
-# Zapotec, Ocotlán (zac)
+# Ocotlán Zapotec (zac)
 
 ## Overview
 
-**Language**: Zapotec, Ocotlán  
+**Language**: Ocotlán Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.29  
-**Digitality Score**: 1.40  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: 1.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Ocotlán*
+*Help us collect text resources for Ocotlán Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Ocotlán*
+*Help us collect audio resources for Ocotlán Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Ocotlán*
+*Help us collect video resources for Ocotlán Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

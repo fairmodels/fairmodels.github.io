@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ngbandi, Northern
+title: Northern Ngbandi
 parent: Languages
 ---
 
-# Ngbandi, Northern (ngb)
+# Northern Ngbandi (ngb)
 
 ## Overview
 
-**Language**: Ngbandi, Northern  
+**Language**: Northern Ngbandi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.96  
-**Digitality Score**: 0.28  
+**Grassroots Presence (z-score)**: 0.96  
+**Web Presence (z-score)**: 0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ngbandi, Northern*
+*Help us collect text resources for Northern Ngbandi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ngbandi, Northern*
+*Help us collect audio resources for Northern Ngbandi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ngbandi, Northern*
+*Help us collect video resources for Northern Ngbandi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

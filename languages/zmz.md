@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbandja  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.06  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 1.06  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbandja*
+*Help us collect text resources for Mbandja*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbandja*
+*Help us collect audio resources for Mbandja*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbandja*
+*Help us collect video resources for Mbandja*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

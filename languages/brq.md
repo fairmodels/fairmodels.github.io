@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Breri  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: 0.45  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: 0.45  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Breri*
+*Help us collect text resources for Breri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Breri*
+*Help us collect audio resources for Breri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Breri*
+*Help us collect video resources for Breri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

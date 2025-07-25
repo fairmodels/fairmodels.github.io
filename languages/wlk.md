@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wailaki  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wailaki*
+*Help us collect text resources for Wailaki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wailaki*
+*Help us collect audio resources for Wailaki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wailaki*
+*Help us collect video resources for Wailaki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yapese  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 1.41  
-**Digitality Score**: 1.74  
+**Grassroots Presence (z-score)**: 1.41  
+**Web Presence (z-score)**: 1.74  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yapese*
+*Help us collect text resources for Yapese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yapese*
+*Help us collect audio resources for Yapese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yapese*
+*Help us collect video resources for Yapese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

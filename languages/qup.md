@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Southern Pastaza
+title: Southern Pastaza Quechua
 parent: Languages
 ---
 
-# Quechua, Southern Pastaza (qup)
+# Southern Pastaza Quechua (qup)
 
 ## Overview
 
-**Language**: Quechua, Southern Pastaza  
+**Language**: Southern Pastaza Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.32  
-**Digitality Score**: 1.65  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 1.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Southern Pastaza*
+*Help us collect text resources for Southern Pastaza Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Southern Pastaza*
+*Help us collect audio resources for Southern Pastaza Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Southern Pastaza*
+*Help us collect video resources for Southern Pastaza Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Elotepec
+title: Elotepec Zapotec
 parent: Languages
 ---
 
-# Zapotec, Elotepec (zte)
+# Elotepec Zapotec (zte)
 
 ## Overview
 
-**Language**: Zapotec, Elotepec  
+**Language**: Elotepec Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.89  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: -0.89  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Elotepec*
+*Help us collect text resources for Elotepec Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Elotepec*
+*Help us collect audio resources for Elotepec Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Elotepec*
+*Help us collect video resources for Elotepec Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

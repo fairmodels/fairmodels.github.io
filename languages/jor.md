@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jorá  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jorá*
+*Help us collect text resources for Jorá*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jorá*
+*Help us collect audio resources for Jorá*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jorá*
+*Help us collect video resources for Jorá*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

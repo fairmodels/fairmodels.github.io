@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Budu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.97  
-**Digitality Score**: 0.19  
+**Grassroots Presence (z-score)**: 0.97  
+**Web Presence (z-score)**: 0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Budu*
+*Help us collect text resources for Budu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Budu*
+*Help us collect audio resources for Budu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Budu*
+*Help us collect video resources for Budu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

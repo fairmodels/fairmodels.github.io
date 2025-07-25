@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kalinga, Mabaka Valley
+title: Mabaka Valley Kalinga
 parent: Languages
 ---
 
-# Kalinga, Mabaka Valley (kkg)
+# Mabaka Valley Kalinga (kkg)
 
 ## Overview
 
-**Language**: Kalinga, Mabaka Valley  
+**Language**: Mabaka Valley Kalinga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.93  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalinga, Mabaka Valley*
+*Help us collect text resources for Mabaka Valley Kalinga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalinga, Mabaka Valley*
+*Help us collect audio resources for Mabaka Valley Kalinga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalinga, Mabaka Valley*
+*Help us collect video resources for Mabaka Valley Kalinga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Beele  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Beele*
+*Help us collect text resources for Beele*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Beele*
+*Help us collect audio resources for Beele*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Beele*
+*Help us collect video resources for Beele*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

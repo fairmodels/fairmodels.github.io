@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Molale  
 **Region/Area**: Northern America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.55  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Molale*
+*Help us collect text resources for Molale*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Molale*
+*Help us collect audio resources for Molale*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Molale*
+*Help us collect video resources for Molale*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

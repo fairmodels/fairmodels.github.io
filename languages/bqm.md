@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wumboko  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.04  
-**Digitality Score**: -0.59  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: -0.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wumboko*
+*Help us collect text resources for Wumboko*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wumboko*
+*Help us collect audio resources for Wumboko*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wumboko*
+*Help us collect video resources for Wumboko*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Romani, Sinte
+title: Sinte Romani
 parent: Languages
 ---
 
-# Romani, Sinte (rmo)
+# Sinte Romani (rmo)
 
 ## Overview
 
-**Language**: Romani, Sinte  
+**Language**: Sinte Romani  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.94  
-**Digitality Score**: 1.24  
+**Grassroots Presence (z-score)**: 0.94  
+**Web Presence (z-score)**: 1.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romani, Sinte*
+*Help us collect text resources for Sinte Romani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romani, Sinte*
+*Help us collect audio resources for Sinte Romani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romani, Sinte*
+*Help us collect video resources for Sinte Romani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

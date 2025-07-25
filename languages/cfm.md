@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Falam
+title: Falam Chin
 parent: Languages
 ---
 
-# Chin, Falam (cfm)
+# Falam Chin (cfm)
 
 ## Overview
 
-**Language**: Chin, Falam  
+**Language**: Falam Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.85  
-**Digitality Score**: 1.23  
+**Grassroots Presence (z-score)**: 0.85  
+**Web Presence (z-score)**: 1.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Falam*
+*Help us collect text resources for Falam Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Falam*
+*Help us collect audio resources for Falam Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Falam*
+*Help us collect video resources for Falam Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

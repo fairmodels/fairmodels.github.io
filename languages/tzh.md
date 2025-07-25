@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tzeltal  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 1.07  
-**Digitality Score**: 1.96  
+**Grassroots Presence (z-score)**: 1.07  
+**Web Presence (z-score)**: 1.96  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tzeltal*
+*Help us collect text resources for Tzeltal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tzeltal*
+*Help us collect audio resources for Tzeltal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tzeltal*
+*Help us collect video resources for Tzeltal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

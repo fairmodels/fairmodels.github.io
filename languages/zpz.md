@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Texmelucan
+title: Texmelucan Zapotec
 parent: Languages
 ---
 
-# Zapotec, Texmelucan (zpz)
+# Texmelucan Zapotec (zpz)
 
 ## Overview
 
-**Language**: Zapotec, Texmelucan  
+**Language**: Texmelucan Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.45  
-**Digitality Score**: 1.39  
+**Grassroots Presence (z-score)**: 0.45  
+**Web Presence (z-score)**: 1.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Texmelucan*
+*Help us collect text resources for Texmelucan Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Texmelucan*
+*Help us collect audio resources for Texmelucan Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Texmelucan*
+*Help us collect video resources for Texmelucan Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

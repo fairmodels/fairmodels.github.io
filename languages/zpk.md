@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Tlacolulita
+title: Tlacolulita Zapotec
 parent: Languages
 ---
 
-# Zapotec, Tlacolulita (zpk)
+# Tlacolulita Zapotec (zpk)
 
 ## Overview
 
-**Language**: Zapotec, Tlacolulita  
+**Language**: Tlacolulita Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -1.05  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: -1.05  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Tlacolulita*
+*Help us collect text resources for Tlacolulita Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Tlacolulita*
+*Help us collect audio resources for Tlacolulita Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Tlacolulita*
+*Help us collect video resources for Tlacolulita Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Emplawas  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.38  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.38  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Emplawas*
+*Help us collect text resources for Emplawas*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Emplawas*
+*Help us collect audio resources for Emplawas*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Emplawas*
+*Help us collect video resources for Emplawas*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

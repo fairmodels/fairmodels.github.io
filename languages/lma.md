@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Limba, East
+title: East Limba
 parent: Languages
 ---
 
-# Limba, East (lma)
+# East Limba (lma)
 
 ## Overview
 
-**Language**: Limba, East  
+**Language**: East Limba  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.01  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Limba, East*
+*Help us collect text resources for East Limba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Limba, East*
+*Help us collect audio resources for East Limba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Limba, East*
+*Help us collect video resources for East Limba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

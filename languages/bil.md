@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bille  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.25  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: 0.25  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bille*
+*Help us collect text resources for Bille*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bille*
+*Help us collect audio resources for Bille*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bille*
+*Help us collect video resources for Bille*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

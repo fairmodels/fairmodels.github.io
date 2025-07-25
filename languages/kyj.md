@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.35  
-**Digitality Score**: -0.46  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: -0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karao*
+*Help us collect text resources for Karao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karao*
+*Help us collect audio resources for Karao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karao*
+*Help us collect video resources for Karao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

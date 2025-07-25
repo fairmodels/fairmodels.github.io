@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tajuasohn  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.28  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tajuasohn*
+*Help us collect text resources for Tajuasohn*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tajuasohn*
+*Help us collect audio resources for Tajuasohn*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tajuasohn*
+*Help us collect video resources for Tajuasohn*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

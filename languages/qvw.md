@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Huaylla Wanca
+title: Huaylla Wanca Quechua
 parent: Languages
 ---
 
-# Quechua, Huaylla Wanca (qvw)
+# Huaylla Wanca Quechua (qvw)
 
 ## Overview
 
-**Language**: Quechua, Huaylla Wanca  
+**Language**: Huaylla Wanca Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.96  
-**Digitality Score**: 1.35  
+**Grassroots Presence (z-score)**: 0.96  
+**Web Presence (z-score)**: 1.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Huaylla Wanca*
+*Help us collect text resources for Huaylla Wanca Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Huaylla Wanca*
+*Help us collect audio resources for Huaylla Wanca Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Huaylla Wanca*
+*Help us collect video resources for Huaylla Wanca Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

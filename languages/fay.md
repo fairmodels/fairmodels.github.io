@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fars, Southwestern
+title: Southwestern Fars
 parent: Languages
 ---
 
-# Fars, Southwestern (fay)
+# Southwestern Fars (fay)
 
 ## Overview
 
-**Language**: Fars, Southwestern  
+**Language**: Southwestern Fars  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.23  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.23  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fars, Southwestern*
+*Help us collect text resources for Southwestern Fars*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fars, Southwestern*
+*Help us collect audio resources for Southwestern Fars*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fars, Southwestern*
+*Help us collect video resources for Southwestern Fars*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

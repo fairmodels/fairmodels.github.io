@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tarangan, West
+title: West Tarangan
 parent: Languages
 ---
 
-# Tarangan, West (txn)
+# West Tarangan (txn)
 
 ## Overview
 
-**Language**: Tarangan, West  
+**Language**: West Tarangan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.00  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.00  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tarangan, West*
+*Help us collect text resources for West Tarangan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tarangan, West*
+*Help us collect audio resources for West Tarangan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tarangan, West*
+*Help us collect video resources for West Tarangan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

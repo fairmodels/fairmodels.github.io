@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ayta, Sorsogon
+title: Sorsogon Ayta
 parent: Languages
 ---
 
-# Ayta, Sorsogon (ays)
+# Sorsogon Ayta (ays)
 
 ## Overview
 
-**Language**: Ayta, Sorsogon  
+**Language**: Sorsogon Ayta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.37  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.37  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ayta, Sorsogon*
+*Help us collect text resources for Sorsogon Ayta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ayta, Sorsogon*
+*Help us collect audio resources for Sorsogon Ayta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ayta, Sorsogon*
+*Help us collect video resources for Sorsogon Ayta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

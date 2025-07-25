@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Punjabi, Western
+title: Western Punjabi
 parent: Languages
 ---
 
-# Punjabi, Western (pnb)
+# Western Punjabi (pnb)
 
 ## Overview
 
-**Language**: Punjabi, Western  
+**Language**: Western Punjabi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.71  
-**Digitality Score**: 1.74  
+**Grassroots Presence (z-score)**: 1.71  
+**Web Presence (z-score)**: 1.74  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Punjabi, Western*
+*Help us collect text resources for Western Punjabi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Punjabi, Western*
+*Help us collect audio resources for Western Punjabi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Punjabi, Western*
+*Help us collect video resources for Western Punjabi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

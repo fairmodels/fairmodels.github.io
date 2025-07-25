@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Anuak  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.95  
-**Digitality Score**: 0.46  
+**Grassroots Presence (z-score)**: 0.95  
+**Web Presence (z-score)**: 0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Anuak*
+*Help us collect text resources for Anuak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Anuak*
+*Help us collect audio resources for Anuak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Anuak*
+*Help us collect video resources for Anuak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

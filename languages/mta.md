@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Cotabato
+title: Cotabato Manobo
 parent: Languages
 ---
 
-# Manobo, Cotabato (mta)
+# Cotabato Manobo (mta)
 
 ## Overview
 
-**Language**: Manobo, Cotabato  
+**Language**: Cotabato Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.69  
-**Digitality Score**: 1.15  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 1.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Cotabato*
+*Help us collect text resources for Cotabato Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Cotabato*
+*Help us collect audio resources for Cotabato Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Cotabato*
+*Help us collect video resources for Cotabato Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

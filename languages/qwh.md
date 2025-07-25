@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Huaylas Ancash
+title: Huaylas Ancash Quechua
 parent: Languages
 ---
 
-# Quechua, Huaylas Ancash (qwh)
+# Huaylas Ancash Quechua (qwh)
 
 ## Overview
 
-**Language**: Quechua, Huaylas Ancash  
+**Language**: Huaylas Ancash Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.44  
-**Digitality Score**: 1.50  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 1.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Huaylas Ancash*
+*Help us collect text resources for Huaylas Ancash Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Huaylas Ancash*
+*Help us collect audio resources for Huaylas Ancash Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Huaylas Ancash*
+*Help us collect video resources for Huaylas Ancash Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

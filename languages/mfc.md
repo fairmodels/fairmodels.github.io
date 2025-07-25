@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mba  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.56  
-**Digitality Score**: -0.15  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: -0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mba*
+*Help us collect text resources for Mba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mba*
+*Help us collect audio resources for Mba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mba*
+*Help us collect video resources for Mba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jamamadí  
 **Region/Area**: South America, Americas  
 **Family**: Arauan  
-**Vitality Score**: 0.23  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: 0.23  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jamamadí*
+*Help us collect text resources for Jamamadí*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jamamadí*
+*Help us collect audio resources for Jamamadí*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jamamadí*
+*Help us collect video resources for Jamamadí*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

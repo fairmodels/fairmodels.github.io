@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Evenki  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Tungusic  
-**Vitality Score**: 0.15  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Evenki*
+*Help us collect text resources for Evenki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Evenki*
+*Help us collect audio resources for Evenki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Evenki*
+*Help us collect video resources for Evenki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

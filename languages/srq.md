@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sirionó  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -0.58  
-**Digitality Score**: 1.31  
+**Grassroots Presence (z-score)**: -0.58  
+**Web Presence (z-score)**: 1.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sirionó*
+*Help us collect text resources for Sirionó*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sirionó*
+*Help us collect audio resources for Sirionó*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sirionó*
+*Help us collect video resources for Sirionó*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

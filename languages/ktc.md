@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kholok  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -0.10  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kholok*
+*Help us collect text resources for Kholok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kholok*
+*Help us collect audio resources for Kholok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kholok*
+*Help us collect video resources for Kholok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

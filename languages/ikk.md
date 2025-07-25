@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ika  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.66  
-**Digitality Score**: 0.57  
+**Grassroots Presence (z-score)**: 0.66  
+**Web Presence (z-score)**: 0.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ika*
+*Help us collect text resources for Ika*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ika*
+*Help us collect audio resources for Ika*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ika*
+*Help us collect video resources for Ika*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

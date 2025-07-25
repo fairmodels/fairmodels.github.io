@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Uripiv-Wala-Rano-Atchin  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.54  
-**Digitality Score**: 0.80  
+**Grassroots Presence (z-score)**: 0.54  
+**Web Presence (z-score)**: 0.80  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Uripiv-Wala-Rano-Atchin*
+*Help us collect text resources for Uripiv-Wala-Rano-Atchin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Uripiv-Wala-Rano-Atchin*
+*Help us collect audio resources for Uripiv-Wala-Rano-Atchin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Uripiv-Wala-Rano-Atchin*
+*Help us collect video resources for Uripiv-Wala-Rano-Atchin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

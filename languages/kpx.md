@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Koiali, Mountain
+title: Mountain Koiali
 parent: Languages
 ---
 
-# Koiali, Mountain (kpx)
+# Mountain Koiali (kpx)
 
 ## Overview
 
-**Language**: Koiali, Mountain  
+**Language**: Mountain Koiali  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.39  
-**Digitality Score**: 0.54  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: 0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koiali, Mountain*
+*Help us collect text resources for Mountain Koiali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koiali, Mountain*
+*Help us collect audio resources for Mountain Koiali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koiali, Mountain*
+*Help us collect video resources for Mountain Koiali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

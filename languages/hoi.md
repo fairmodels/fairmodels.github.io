@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Holikachuk  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.55  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Holikachuk*
+*Help us collect text resources for Holikachuk*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Holikachuk*
+*Help us collect audio resources for Holikachuk*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Holikachuk*
+*Help us collect video resources for Holikachuk*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

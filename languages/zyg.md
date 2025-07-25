@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Yang
+title: Yang Zhuang
 parent: Languages
 ---
 
-# Zhuang, Yang (zyg)
+# Yang Zhuang (zyg)
 
 ## Overview
 
-**Language**: Zhuang, Yang  
+**Language**: Yang Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.79  
-**Digitality Score**: 0.43  
+**Grassroots Presence (z-score)**: 0.79  
+**Web Presence (z-score)**: 0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Yang*
+*Help us collect text resources for Yang Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Yang*
+*Help us collect audio resources for Yang Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Yang*
+*Help us collect video resources for Yang Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

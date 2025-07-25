@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Roglai, Northern
+title: Northern Roglai
 parent: Languages
 ---
 
-# Roglai, Northern (rog)
+# Northern Roglai (rog)
 
 ## Overview
 
-**Language**: Roglai, Northern  
+**Language**: Northern Roglai  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.65  
-**Digitality Score**: 0.11  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Roglai, Northern*
+*Help us collect text resources for Northern Roglai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Roglai, Northern*
+*Help us collect audio resources for Northern Roglai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Roglai, Northern*
+*Help us collect video resources for Northern Roglai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mazatec, Mazatlán
+title: Mazatlán Mazatec
 parent: Languages
 ---
 
-# Mazatec, Mazatlán (vmz)
+# Mazatlán Mazatec (vmz)
 
 ## Overview
 
-**Language**: Mazatec, Mazatlán  
+**Language**: Mazatlán Mazatec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.57  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mazatec, Mazatlán*
+*Help us collect text resources for Mazatlán Mazatec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mazatec, Mazatlán*
+*Help us collect audio resources for Mazatlán Mazatec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mazatec, Mazatlán*
+*Help us collect video resources for Mazatlán Mazatec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Michoacán
+title: Michoacán Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Michoacán (ncl)
+# Michoacán Nahuatl (ncl)
 
 ## Overview
 
-**Language**: Nahuatl, Michoacán  
+**Language**: Michoacán Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.79  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Michoacán*
+*Help us collect text resources for Michoacán Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Michoacán*
+*Help us collect audio resources for Michoacán Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Michoacán*
+*Help us collect video resources for Michoacán Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

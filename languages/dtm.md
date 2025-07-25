@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Tomo Kan
+title: Tomo Kan Dogon
 parent: Languages
 ---
 
-# Dogon, Tomo Kan (dtm)
+# Tomo Kan Dogon (dtm)
 
 ## Overview
 
-**Language**: Dogon, Tomo Kan  
+**Language**: Tomo Kan Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.56  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Tomo Kan*
+*Help us collect text resources for Tomo Kan Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Tomo Kan*
+*Help us collect audio resources for Tomo Kan Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Tomo Kan*
+*Help us collect video resources for Tomo Kan Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

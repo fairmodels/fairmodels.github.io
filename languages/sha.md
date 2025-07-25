@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shall-Zwall  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.41  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: -0.41  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shall-Zwall*
+*Help us collect text resources for Shall-Zwall*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shall-Zwall*
+*Help us collect audio resources for Shall-Zwall*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shall-Zwall*
+*Help us collect video resources for Shall-Zwall*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

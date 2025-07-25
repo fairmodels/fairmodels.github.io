@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nindi  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.15  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.15  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nindi*
+*Help us collect text resources for Nindi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nindi*
+*Help us collect audio resources for Nindi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nindi*
+*Help us collect video resources for Nindi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

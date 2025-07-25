@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Hindko, Northern
+title: Northern Hindko
 parent: Languages
 ---
 
-# Hindko, Northern (hno)
+# Northern Hindko (hno)
 
 ## Overview
 
-**Language**: Hindko, Northern  
+**Language**: Northern Hindko  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.28  
-**Digitality Score**: 1.02  
+**Grassroots Presence (z-score)**: 1.28  
+**Web Presence (z-score)**: 1.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hindko, Northern*
+*Help us collect text resources for Northern Hindko*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hindko, Northern*
+*Help us collect audio resources for Northern Hindko*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hindko, Northern*
+*Help us collect video resources for Northern Hindko*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyakyusa-Ngonde  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.21  
-**Digitality Score**: 1.19  
+**Grassroots Presence (z-score)**: 1.21  
+**Web Presence (z-score)**: 1.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyakyusa-Ngonde*
+*Help us collect text resources for Nyakyusa-Ngonde*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyakyusa-Ngonde*
+*Help us collect audio resources for Nyakyusa-Ngonde*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyakyusa-Ngonde*
+*Help us collect video resources for Nyakyusa-Ngonde*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

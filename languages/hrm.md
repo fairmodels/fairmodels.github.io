@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Horned
+title: Horned Miao
 parent: Languages
 ---
 
-# Miao, Horned (hrm)
+# Horned Miao (hrm)
 
 ## Overview
 
-**Language**: Miao, Horned  
+**Language**: Horned Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.44  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Horned*
+*Help us collect text resources for Horned Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Horned*
+*Help us collect audio resources for Horned Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Horned*
+*Help us collect video resources for Horned Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

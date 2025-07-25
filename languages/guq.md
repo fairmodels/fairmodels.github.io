@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aché  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: 0.25  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: 0.25  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aché*
+*Help us collect text resources for Aché*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aché*
+*Help us collect audio resources for Aché*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aché*
+*Help us collect video resources for Aché*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

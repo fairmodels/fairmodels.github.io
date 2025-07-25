@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Azerbaijani, South
+title: South Azerbaijani
 parent: Languages
 ---
 
-# Azerbaijani, South (azb)
+# South Azerbaijani (azb)
 
 ## Overview
 
-**Language**: Azerbaijani, South  
+**Language**: South Azerbaijani  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Turkic  
-**Vitality Score**: 2.10  
-**Digitality Score**: 2.59  
+**Grassroots Presence (z-score)**: 2.10  
+**Web Presence (z-score)**: 2.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Azerbaijani, South*
+*Help us collect text resources for South Azerbaijani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Azerbaijani, South*
+*Help us collect audio resources for South Azerbaijani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Azerbaijani, South*
+*Help us collect video resources for South Azerbaijani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

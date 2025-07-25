@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Satawalese  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.17  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Satawalese*
+*Help us collect text resources for Satawalese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Satawalese*
+*Help us collect audio resources for Satawalese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Satawalese*
+*Help us collect video resources for Satawalese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

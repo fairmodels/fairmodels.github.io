@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Zoogocho
+title: Zoogocho Zapotec
 parent: Languages
 ---
 
-# Zapotec, Zoogocho (zpq)
+# Zoogocho Zapotec (zpq)
 
 ## Overview
 
-**Language**: Zapotec, Zoogocho  
+**Language**: Zoogocho Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.21  
-**Digitality Score**: 1.60  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: 1.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Zoogocho*
+*Help us collect text resources for Zoogocho Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Zoogocho*
+*Help us collect audio resources for Zoogocho Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Zoogocho*
+*Help us collect video resources for Zoogocho Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kumyk  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: 1.02  
-**Digitality Score**: 1.59  
+**Grassroots Presence (z-score)**: 1.02  
+**Web Presence (z-score)**: 1.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kumyk*
+*Help us collect text resources for Kumyk*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kumyk*
+*Help us collect audio resources for Kumyk*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kumyk*
+*Help us collect video resources for Kumyk*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

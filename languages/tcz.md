@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Thado
+title: Thado Chin
 parent: Languages
 ---
 
-# Chin, Thado (tcz)
+# Thado Chin (tcz)
 
 ## Overview
 
-**Language**: Chin, Thado  
+**Language**: Thado Chin  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.00  
-**Digitality Score**: 0.52  
+**Grassroots Presence (z-score)**: 1.00  
+**Web Presence (z-score)**: 0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Thado*
+*Help us collect text resources for Thado Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Thado*
+*Help us collect audio resources for Thado Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Thado*
+*Help us collect video resources for Thado Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

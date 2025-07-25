@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Central Hongshuihe
+title: Central Hongshuihe Zhuang
 parent: Languages
 ---
 
-# Zhuang, Central Hongshuihe (zch)
+# Central Hongshuihe Zhuang (zch)
 
 ## Overview
 
-**Language**: Zhuang, Central Hongshuihe  
+**Language**: Central Hongshuihe Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.83  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Central Hongshuihe*
+*Help us collect text resources for Central Hongshuihe Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Central Hongshuihe*
+*Help us collect audio resources for Central Hongshuihe Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Central Hongshuihe*
+*Help us collect video resources for Central Hongshuihe Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

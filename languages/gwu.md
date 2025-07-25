@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Guwamu  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Guwamu*
+*Help us collect text resources for Guwamu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Guwamu*
+*Help us collect audio resources for Guwamu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Guwamu*
+*Help us collect video resources for Guwamu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

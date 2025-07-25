@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kayan, Kayan River
+title: Kayan River Kayan
 parent: Languages
 ---
 
-# Kayan, Kayan River (xkn)
+# Kayan River Kayan (xkn)
 
 ## Overview
 
-**Language**: Kayan, Kayan River  
+**Language**: Kayan River Kayan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayan, Kayan River*
+*Help us collect text resources for Kayan River Kayan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayan, Kayan River*
+*Help us collect audio resources for Kayan River Kayan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayan, Kayan River*
+*Help us collect video resources for Kayan River Kayan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

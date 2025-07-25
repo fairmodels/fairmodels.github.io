@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kaili, Ledo
+title: Ledo Kaili
 parent: Languages
 ---
 
-# Kaili, Ledo (lew)
+# Ledo Kaili (lew)
 
 ## Overview
 
-**Language**: Kaili, Ledo  
+**Language**: Ledo Kaili  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.57  
-**Digitality Score**: 0.98  
+**Grassroots Presence (z-score)**: 1.57  
+**Web Presence (z-score)**: 0.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaili, Ledo*
+*Help us collect text resources for Ledo Kaili*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaili, Ledo*
+*Help us collect audio resources for Ledo Kaili*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaili, Ledo*
+*Help us collect video resources for Ledo Kaili*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

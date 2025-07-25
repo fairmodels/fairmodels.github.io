@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cerma  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.82  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cerma*
+*Help us collect text resources for Cerma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cerma*
+*Help us collect audio resources for Cerma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cerma*
+*Help us collect video resources for Cerma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

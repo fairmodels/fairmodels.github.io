@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Karipuna  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -1.26  
-**Digitality Score**: -0.72  
+**Grassroots Presence (z-score)**: -1.26  
+**Web Presence (z-score)**: -0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karipuna*
+*Help us collect text resources for Karipuna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karipuna*
+*Help us collect audio resources for Karipuna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karipuna*
+*Help us collect video resources for Karipuna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Sierra Negra
+title: Sierra Negra Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Sierra Negra (nsu)
+# Sierra Negra Nahuatl (nsu)
 
 ## Overview
 
-**Language**: Nahuatl, Sierra Negra  
+**Language**: Sierra Negra Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.67  
-**Digitality Score**: 0.42  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: 0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Sierra Negra*
+*Help us collect text resources for Sierra Negra Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Sierra Negra*
+*Help us collect audio resources for Sierra Negra Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Sierra Negra*
+*Help us collect video resources for Sierra Negra Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

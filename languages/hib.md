@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hibito  
 **Region/Area**: South America, Americas  
 **Family**: Cholonan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hibito*
+*Help us collect text resources for Hibito*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hibito*
+*Help us collect audio resources for Hibito*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hibito*
+*Help us collect video resources for Hibito*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

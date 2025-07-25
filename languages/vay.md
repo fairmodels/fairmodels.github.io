@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wayu  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.16  
-**Digitality Score**: 0.25  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: 0.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wayu*
+*Help us collect text resources for Wayu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wayu*
+*Help us collect audio resources for Wayu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wayu*
+*Help us collect video resources for Wayu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

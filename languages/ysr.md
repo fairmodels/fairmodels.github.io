@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yupik, Sirenik
+title: Sirenik Yupik
 parent: Languages
 ---
 
-# Yupik, Sirenik (ysr)
+# Sirenik Yupik (ysr)
 
 ## Overview
 
-**Language**: Yupik, Sirenik  
+**Language**: Sirenik Yupik  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Eskimo-Aleut  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.61  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yupik, Sirenik*
+*Help us collect text resources for Sirenik Yupik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yupik, Sirenik*
+*Help us collect audio resources for Sirenik Yupik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yupik, Sirenik*
+*Help us collect video resources for Sirenik Yupik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

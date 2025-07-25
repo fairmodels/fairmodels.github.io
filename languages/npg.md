@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Ponyo-Gongwang
+title: Ponyo-Gongwang Naga
 parent: Languages
 ---
 
-# Naga, Ponyo-Gongwang (npg)
+# Ponyo-Gongwang Naga (npg)
 
 ## Overview
 
-**Language**: Naga, Ponyo-Gongwang  
+**Language**: Ponyo-Gongwang Naga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Ponyo-Gongwang*
+*Help us collect text resources for Ponyo-Gongwang Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Ponyo-Gongwang*
+*Help us collect audio resources for Ponyo-Gongwang Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Ponyo-Gongwang*
+*Help us collect video resources for Ponyo-Gongwang Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Friulian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.60  
-**Digitality Score**: 2.59  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: 2.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Friulian*
+*Help us collect text resources for Friulian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Friulian*
+*Help us collect audio resources for Friulian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Friulian*
+*Help us collect video resources for Friulian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

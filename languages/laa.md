@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Subanen, Southern
+title: Southern Subanen
 parent: Languages
 ---
 
-# Subanen, Southern (laa)
+# Southern Subanen (laa)
 
 ## Overview
 
-**Language**: Subanen, Southern  
+**Language**: Southern Subanen  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.21  
-**Digitality Score**: 0.44  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: 0.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Subanen, Southern*
+*Help us collect text resources for Southern Subanen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Subanen, Southern*
+*Help us collect audio resources for Southern Subanen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Subanen, Southern*
+*Help us collect video resources for Southern Subanen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

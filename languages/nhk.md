@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Isthmus-Cosoleacaque
+title: Isthmus-Cosoleacaque Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Isthmus-Cosoleacaque (nhk)
+# Isthmus-Cosoleacaque Nahuatl (nhk)
 
 ## Overview
 
-**Language**: Nahuatl, Isthmus-Cosoleacaque  
+**Language**: Isthmus-Cosoleacaque Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.48  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: -0.48  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Isthmus-Cosoleacaque*
+*Help us collect text resources for Isthmus-Cosoleacaque Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Isthmus-Cosoleacaque*
+*Help us collect audio resources for Isthmus-Cosoleacaque Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Isthmus-Cosoleacaque*
+*Help us collect video resources for Isthmus-Cosoleacaque Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

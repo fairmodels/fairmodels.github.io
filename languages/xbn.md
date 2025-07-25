@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kenaboi  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.98  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kenaboi*
+*Help us collect text resources for Kenaboi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kenaboi*
+*Help us collect audio resources for Kenaboi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kenaboi*
+*Help us collect video resources for Kenaboi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dakota  
 **Region/Area**: Northern America, Americas  
 **Family**: Siouan-Catawban  
-**Vitality Score**: -0.62  
-**Digitality Score**: 0.83  
+**Grassroots Presence (z-score)**: -0.62  
+**Web Presence (z-score)**: 0.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dakota*
+*Help us collect text resources for Dakota*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dakota*
+*Help us collect audio resources for Dakota*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dakota*
+*Help us collect video resources for Dakota*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

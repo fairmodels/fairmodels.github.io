@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nepali  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.84  
-**Digitality Score**: 3.51  
+**Grassroots Presence (z-score)**: 2.84  
+**Web Presence (z-score)**: 3.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nepali*
+*Help us collect text resources for Nepali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nepali*
+*Help us collect audio resources for Nepali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nepali*
+*Help us collect video resources for Nepali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

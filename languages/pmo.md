@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pom  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pom*
+*Help us collect text resources for Pom*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pom*
+*Help us collect audio resources for Pom*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pom*
+*Help us collect video resources for Pom*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

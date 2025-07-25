@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ske  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ske*
+*Help us collect text resources for Ske*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ske*
+*Help us collect audio resources for Ske*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ske*
+*Help us collect video resources for Ske*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

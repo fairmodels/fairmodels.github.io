@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lak  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: 1.16  
-**Digitality Score**: 1.42  
+**Grassroots Presence (z-score)**: 1.16  
+**Web Presence (z-score)**: 1.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lak*
+*Help us collect text resources for Lak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lak*
+*Help us collect audio resources for Lak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lak*
+*Help us collect video resources for Lak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Odual  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.63  
-**Digitality Score**: 0.05  
+**Grassroots Presence (z-score)**: 0.63  
+**Web Presence (z-score)**: 0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Odual*
+*Help us collect text resources for Odual*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Odual*
+*Help us collect audio resources for Odual*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Odual*
+*Help us collect video resources for Odual*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

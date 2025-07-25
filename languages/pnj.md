@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pinjarup  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pinjarup*
+*Help us collect text resources for Pinjarup*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pinjarup*
+*Help us collect audio resources for Pinjarup*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pinjarup*
+*Help us collect video resources for Pinjarup*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

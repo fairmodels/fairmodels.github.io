@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pááfang  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.65  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.65  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pááfang*
+*Help us collect text resources for Pááfang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pááfang*
+*Help us collect audio resources for Pááfang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pááfang*
+*Help us collect video resources for Pááfang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

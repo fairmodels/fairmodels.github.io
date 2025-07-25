@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Babar, Southeast
+title: Southeast Babar
 parent: Languages
 ---
 
-# Babar, Southeast (vbb)
+# Southeast Babar (vbb)
 
 ## Overview
 
-**Language**: Babar, Southeast  
+**Language**: Southeast Babar  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.71  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.71  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Babar, Southeast*
+*Help us collect text resources for Southeast Babar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Babar, Southeast*
+*Help us collect audio resources for Southeast Babar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Babar, Southeast*
+*Help us collect video resources for Southeast Babar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

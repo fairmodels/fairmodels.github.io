@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tariana  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -0.97  
-**Digitality Score**: -0.54  
+**Grassroots Presence (z-score)**: -0.97  
+**Web Presence (z-score)**: -0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tariana*
+*Help us collect text resources for Tariana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tariana*
+*Help us collect audio resources for Tariana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tariana*
+*Help us collect video resources for Tariana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

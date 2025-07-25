@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ambrym, Southeast
+title: Southeast Ambrym
 parent: Languages
 ---
 
-# Ambrym, Southeast (tvk)
+# Southeast Ambrym (tvk)
 
 ## Overview
 
-**Language**: Ambrym, Southeast  
+**Language**: Southeast Ambrym  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.79  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ambrym, Southeast*
+*Help us collect text resources for Southeast Ambrym*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ambrym, Southeast*
+*Help us collect audio resources for Southeast Ambrym*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ambrym, Southeast*
+*Help us collect video resources for Southeast Ambrym*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

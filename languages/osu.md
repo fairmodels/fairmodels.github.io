@@ -1,30 +1,30 @@
 ---
 layout: default
-title: One, Southern
+title: Southern One
 parent: Languages
 ---
 
-# One, Southern (osu)
+# Southern One (osu)
 
 ## Overview
 
-**Language**: One, Southern  
+**Language**: Southern One  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.42  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.42  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for One, Southern*
+*Help us collect text resources for Southern One*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for One, Southern*
+*Help us collect audio resources for Southern One*
 
 ### Video Resources
-*Coming soon - help us collect video resources for One, Southern*
+*Help us collect video resources for Southern One*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

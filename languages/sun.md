@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sunda  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.59  
-**Digitality Score**: 3.76  
+**Grassroots Presence (z-score)**: 1.59  
+**Web Presence (z-score)**: 3.76  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sunda*
+*Help us collect text resources for Sunda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sunda*
+*Help us collect audio resources for Sunda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sunda*
+*Help us collect video resources for Sunda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

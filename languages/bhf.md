@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Odiai  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Language isolate  
-**Vitality Score**: -0.18  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: -0.18  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Odiai*
+*Help us collect text resources for Odiai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Odiai*
+*Help us collect audio resources for Odiai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Odiai*
+*Help us collect video resources for Odiai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixe, Tlahuitoltepec
+title: Tlahuitoltepec Mixe
 parent: Languages
 ---
 
-# Mixe, Tlahuitoltepec (mxp)
+# Tlahuitoltepec Mixe (mxp)
 
 ## Overview
 
-**Language**: Mixe, Tlahuitoltepec  
+**Language**: Tlahuitoltepec Mixe  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: 0.30  
-**Digitality Score**: 0.63  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: 0.63  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixe, Tlahuitoltepec*
+*Help us collect text resources for Tlahuitoltepec Mixe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixe, Tlahuitoltepec*
+*Help us collect audio resources for Tlahuitoltepec Mixe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixe, Tlahuitoltepec*
+*Help us collect video resources for Tlahuitoltepec Mixe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

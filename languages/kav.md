@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Katukína  
 **Region/Area**: South America, Americas  
 **Family**: Katukinan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Katukína*
+*Help us collect text resources for Katukína*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Katukína*
+*Help us collect audio resources for Katukína*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Katukína*
+*Help us collect video resources for Katukína*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

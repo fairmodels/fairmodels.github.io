@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mazatec, Chiquihuitlán
+title: Chiquihuitlán Mazatec
 parent: Languages
 ---
 
-# Mazatec, Chiquihuitlán (maq)
+# Chiquihuitlán Mazatec (maq)
 
 ## Overview
 
-**Language**: Mazatec, Chiquihuitlán  
+**Language**: Chiquihuitlán Mazatec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.16  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mazatec, Chiquihuitlán*
+*Help us collect text resources for Chiquihuitlán Mazatec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mazatec, Chiquihuitlán*
+*Help us collect audio resources for Chiquihuitlán Mazatec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mazatec, Chiquihuitlán*
+*Help us collect video resources for Chiquihuitlán Mazatec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

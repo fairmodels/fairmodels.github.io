@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Maria, Dandami
+title: Dandami Maria
 parent: Languages
 ---
 
-# Maria, Dandami (daq)
+# Dandami Maria (daq)
 
 ## Overview
 
-**Language**: Maria, Dandami  
+**Language**: Dandami Maria  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.93  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maria, Dandami*
+*Help us collect text resources for Dandami Maria*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maria, Dandami*
+*Help us collect audio resources for Dandami Maria*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maria, Dandami*
+*Help us collect video resources for Dandami Maria*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

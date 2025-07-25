@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sukur  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sukur*
+*Help us collect text resources for Sukur*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sukur*
+*Help us collect audio resources for Sukur*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sukur*
+*Help us collect video resources for Sukur*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

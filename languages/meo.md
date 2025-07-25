@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Kedah
+title: Kedah Malay
 parent: Languages
 ---
 
-# Malay, Kedah (meo)
+# Kedah Malay (meo)
 
 ## Overview
 
-**Language**: Malay, Kedah  
+**Language**: Kedah Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.89  
-**Digitality Score**: 1.57  
+**Grassroots Presence (z-score)**: 1.89  
+**Web Presence (z-score)**: 1.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Kedah*
+*Help us collect text resources for Kedah Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Kedah*
+*Help us collect audio resources for Kedah Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Kedah*
+*Help us collect video resources for Kedah Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

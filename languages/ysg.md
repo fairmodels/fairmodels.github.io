@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sonaga  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sonaga*
+*Help us collect text resources for Sonaga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sonaga*
+*Help us collect audio resources for Sonaga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sonaga*
+*Help us collect video resources for Sonaga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

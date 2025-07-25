@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wersing  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.11  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: 0.11  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wersing*
+*Help us collect text resources for Wersing*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wersing*
+*Help us collect audio resources for Wersing*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wersing*
+*Help us collect video resources for Wersing*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

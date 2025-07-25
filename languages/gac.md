@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Great Andamanese, Mixed
+title: Mixed Great Andamanese
 parent: Languages
 ---
 
-# Great Andamanese, Mixed (gac)
+# Mixed Great Andamanese (gac)
 
 ## Overview
 
-**Language**: Great Andamanese, Mixed  
+**Language**: Mixed Great Andamanese  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Andamanese  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Great Andamanese, Mixed*
+*Help us collect text resources for Mixed Great Andamanese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Great Andamanese, Mixed*
+*Help us collect audio resources for Mixed Great Andamanese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Great Andamanese, Mixed*
+*Help us collect video resources for Mixed Great Andamanese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

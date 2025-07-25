@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sambalpuri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.57  
-**Digitality Score**: 0.48  
+**Grassroots Presence (z-score)**: 1.57  
+**Web Presence (z-score)**: 0.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sambalpuri*
+*Help us collect text resources for Sambalpuri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sambalpuri*
+*Help us collect audio resources for Sambalpuri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sambalpuri*
+*Help us collect video resources for Sambalpuri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

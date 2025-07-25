@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Arigidi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.44  
-**Digitality Score**: 0.32  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arigidi*
+*Help us collect text resources for Arigidi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arigidi*
+*Help us collect audio resources for Arigidi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arigidi*
+*Help us collect video resources for Arigidi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

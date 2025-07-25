@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Engenni  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: 0.10  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Engenni*
+*Help us collect text resources for Engenni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Engenni*
+*Help us collect audio resources for Engenni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Engenni*
+*Help us collect video resources for Engenni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

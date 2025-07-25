@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lubu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.02  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lubu*
+*Help us collect text resources for Lubu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lubu*
+*Help us collect audio resources for Lubu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lubu*
+*Help us collect video resources for Lubu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

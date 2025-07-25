@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ndom  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.19  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ndom*
+*Help us collect text resources for Ndom*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ndom*
+*Help us collect audio resources for Ndom*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ndom*
+*Help us collect video resources for Ndom*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kasanga  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.53  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: -0.53  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kasanga*
+*Help us collect text resources for Kasanga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kasanga*
+*Help us collect audio resources for Kasanga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kasanga*
+*Help us collect video resources for Kasanga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

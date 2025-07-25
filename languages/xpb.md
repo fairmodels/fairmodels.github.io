@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tasmanian, Northeastern
+title: Northeastern Tasmanian
 parent: Languages
 ---
 
-# Tasmanian, Northeastern (xpb)
+# Northeastern Tasmanian (xpb)
 
 ## Overview
 
-**Language**: Tasmanian, Northeastern  
+**Language**: Northeastern Tasmanian  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tasmanian, Northeastern*
+*Help us collect text resources for Northeastern Tasmanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tasmanian, Northeastern*
+*Help us collect audio resources for Northeastern Tasmanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tasmanian, Northeastern*
+*Help us collect video resources for Northeastern Tasmanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

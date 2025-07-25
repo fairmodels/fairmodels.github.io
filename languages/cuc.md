@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Usila
+title: Usila Chinantec
 parent: Languages
 ---
 
-# Chinantec, Usila (cuc)
+# Usila Chinantec (cuc)
 
 ## Overview
 
-**Language**: Chinantec, Usila  
+**Language**: Usila Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.20  
-**Digitality Score**: 0.70  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: 0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Usila*
+*Help us collect text resources for Usila Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Usila*
+*Help us collect audio resources for Usila Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Usila*
+*Help us collect video resources for Usila Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

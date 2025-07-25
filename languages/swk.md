@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sena, Malawi
+title: Malawi Sena
 parent: Languages
 ---
 
-# Sena, Malawi (swk)
+# Malawi Sena (swk)
 
 ## Overview
 
-**Language**: Sena, Malawi  
+**Language**: Malawi Sena  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.11  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 1.11  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sena, Malawi*
+*Help us collect text resources for Malawi Sena*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sena, Malawi*
+*Help us collect audio resources for Malawi Sena*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sena, Malawi*
+*Help us collect video resources for Malawi Sena*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

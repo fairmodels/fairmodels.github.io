@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Burak  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.12  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Burak*
+*Help us collect text resources for Burak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Burak*
+*Help us collect audio resources for Burak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Burak*
+*Help us collect video resources for Burak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dumo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Skou  
-**Vitality Score**: -0.09  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: -0.09  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dumo*
+*Help us collect text resources for Dumo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dumo*
+*Help us collect audio resources for Dumo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dumo*
+*Help us collect video resources for Dumo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

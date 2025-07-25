@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nehan  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.51  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nehan*
+*Help us collect text resources for Nehan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nehan*
+*Help us collect audio resources for Nehan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nehan*
+*Help us collect video resources for Nehan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

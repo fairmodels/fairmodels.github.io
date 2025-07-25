@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Angaataha  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.38  
-**Digitality Score**: 0.58  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: 0.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Angaataha*
+*Help us collect text resources for Angaataha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Angaataha*
+*Help us collect audio resources for Angaataha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Angaataha*
+*Help us collect video resources for Angaataha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

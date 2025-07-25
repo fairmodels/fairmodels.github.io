@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lika  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.78  
-**Digitality Score**: 0.17  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lika*
+*Help us collect text resources for Lika*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lika*
+*Help us collect audio resources for Lika*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lika*
+*Help us collect video resources for Lika*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

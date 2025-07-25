@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Barapasi  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: East Geelvink Bay  
-**Vitality Score**: -0.10  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Barapasi*
+*Help us collect text resources for Barapasi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Barapasi*
+*Help us collect audio resources for Barapasi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Barapasi*
+*Help us collect video resources for Barapasi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

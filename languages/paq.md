@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Parya  
 **Region/Area**: Central Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.07  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Parya*
+*Help us collect text resources for Parya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Parya*
+*Help us collect audio resources for Parya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Parya*
+*Help us collect video resources for Parya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Awad Bing  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.31  
-**Digitality Score**: -0.47  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: -0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Awad Bing*
+*Help us collect text resources for Awad Bing*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Awad Bing*
+*Help us collect audio resources for Awad Bing*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Awad Bing*
+*Help us collect video resources for Awad Bing*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Oro Win  
 **Region/Area**: South America, Americas  
 **Family**: Chapacuran  
-**Vitality Score**: -1.49  
-**Digitality Score**: -0.54  
+**Grassroots Presence (z-score)**: -1.49  
+**Web Presence (z-score)**: -0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Oro Win*
+*Help us collect text resources for Oro Win*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Oro Win*
+*Help us collect audio resources for Oro Win*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Oro Win*
+*Help us collect video resources for Oro Win*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

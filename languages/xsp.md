@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Silopi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.43  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.43  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Silopi*
+*Help us collect text resources for Silopi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Silopi*
+*Help us collect audio resources for Silopi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Silopi*
+*Help us collect video resources for Silopi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

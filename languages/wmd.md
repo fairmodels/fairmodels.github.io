@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mamaindê  
 **Region/Area**: South America, Americas  
 **Family**: Nambikwara  
-**Vitality Score**: -0.36  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mamaindê*
+*Help us collect text resources for Mamaindê*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mamaindê*
+*Help us collect audio resources for Mamaindê*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mamaindê*
+*Help us collect video resources for Mamaindê*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

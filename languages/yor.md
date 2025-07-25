@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yoruba  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.57  
-**Digitality Score**: 4.01  
+**Grassroots Presence (z-score)**: 2.57  
+**Web Presence (z-score)**: 4.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yoruba*
+*Help us collect text resources for Yoruba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yoruba*
+*Help us collect audio resources for Yoruba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yoruba*
+*Help us collect video resources for Yoruba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

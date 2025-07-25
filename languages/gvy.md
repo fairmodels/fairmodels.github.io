@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Guyani  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Guyani*
+*Help us collect text resources for Guyani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Guyani*
+*Help us collect audio resources for Guyani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Guyani*
+*Help us collect video resources for Guyani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

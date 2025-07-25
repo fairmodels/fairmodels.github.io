@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Rungtu
+title: Rungtu Chin
 parent: Languages
 ---
 
-# Chin, Rungtu (rtc)
+# Rungtu Chin (rtc)
 
 ## Overview
 
-**Language**: Chin, Rungtu  
+**Language**: Rungtu Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.04  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Rungtu*
+*Help us collect text resources for Rungtu Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Rungtu*
+*Help us collect audio resources for Rungtu Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Rungtu*
+*Help us collect video resources for Rungtu Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fali, South
+title: South Fali
 parent: Languages
 ---
 
-# Fali, South (fal)
+# South Fali (fal)
 
 ## Overview
 
-**Language**: Fali, South  
+**Language**: South Fali  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.64  
-**Digitality Score**: 0.48  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 0.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fali, South*
+*Help us collect text resources for South Fali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fali, South*
+*Help us collect audio resources for South Fali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fali, South*
+*Help us collect video resources for South Fali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

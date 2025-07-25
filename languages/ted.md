@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Krumen, Tepo
+title: Tepo Krumen
 parent: Languages
 ---
 
-# Krumen, Tepo (ted)
+# Tepo Krumen (ted)
 
 ## Overview
 
-**Language**: Krumen, Tepo  
+**Language**: Tepo Krumen  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.71  
-**Digitality Score**: 0.38  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: 0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Krumen, Tepo*
+*Help us collect text resources for Tepo Krumen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Krumen, Tepo*
+*Help us collect audio resources for Tepo Krumen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Krumen, Tepo*
+*Help us collect video resources for Tepo Krumen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

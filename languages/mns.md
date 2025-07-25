@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mansi  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -0.17  
-**Digitality Score**: 1.18  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: 1.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mansi*
+*Help us collect text resources for Mansi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mansi*
+*Help us collect audio resources for Mansi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mansi*
+*Help us collect video resources for Mansi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

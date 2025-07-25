@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ayi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -0.16  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ayi*
+*Help us collect text resources for Ayi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ayi*
+*Help us collect audio resources for Ayi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ayi*
+*Help us collect video resources for Ayi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

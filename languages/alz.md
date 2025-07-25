@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Alur  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.57  
-**Digitality Score**: 1.45  
+**Grassroots Presence (z-score)**: 1.57  
+**Web Presence (z-score)**: 1.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Alur*
+*Help us collect text resources for Alur*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Alur*
+*Help us collect audio resources for Alur*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Alur*
+*Help us collect video resources for Alur*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

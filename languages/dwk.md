@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kui, Dawik
+title: Dawik Kui
 parent: Languages
 ---
 
-# Kui, Dawik (dwk)
+# Dawik Kui (dwk)
 
 ## Overview
 
-**Language**: Kui, Dawik  
+**Language**: Dawik Kui  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.93  
-**Digitality Score**: -0.98  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: -0.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kui, Dawik*
+*Help us collect text resources for Dawik Kui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kui, Dawik*
+*Help us collect audio resources for Dawik Kui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kui, Dawik*
+*Help us collect video resources for Dawik Kui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

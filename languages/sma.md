@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saami, South
+title: South Saami
 parent: Languages
 ---
 
-# Saami, South (sma)
+# South Saami (sma)
 
 ## Overview
 
-**Language**: Saami, South  
+**Language**: South Saami  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -0.28  
-**Digitality Score**: 1.44  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: 1.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saami, South*
+*Help us collect text resources for South Saami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saami, South*
+*Help us collect audio resources for South Saami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saami, South*
+*Help us collect video resources for South Saami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

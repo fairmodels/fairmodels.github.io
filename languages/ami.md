@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Amis  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.38  
-**Digitality Score**: 1.27  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: 1.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Amis*
+*Help us collect text resources for Amis*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Amis*
+*Help us collect audio resources for Amis*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Amis*
+*Help us collect video resources for Amis*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

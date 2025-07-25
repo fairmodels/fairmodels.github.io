@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nicobarese, Central
+title: Central Nicobarese
 parent: Languages
 ---
 
-# Nicobarese, Central (ncb)
+# Central Nicobarese (ncb)
 
 ## Overview
 
-**Language**: Nicobarese, Central  
+**Language**: Central Nicobarese  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.55  
-**Digitality Score**: 0.04  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nicobarese, Central*
+*Help us collect text resources for Central Nicobarese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nicobarese, Central*
+*Help us collect audio resources for Central Nicobarese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nicobarese, Central*
+*Help us collect video resources for Central Nicobarese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Buyang, Baha
+title: Baha Buyang
 parent: Languages
 ---
 
-# Buyang, Baha (yha)
+# Baha Buyang (yha)
 
 ## Overview
 
-**Language**: Buyang, Baha  
+**Language**: Baha Buyang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Buyang, Baha*
+*Help us collect text resources for Baha Buyang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Buyang, Baha*
+*Help us collect audio resources for Baha Buyang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Buyang, Baha*
+*Help us collect video resources for Baha Buyang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

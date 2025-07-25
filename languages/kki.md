@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kagulu  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.00  
-**Digitality Score**: 0.49  
+**Grassroots Presence (z-score)**: 1.00  
+**Web Presence (z-score)**: 0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kagulu*
+*Help us collect text resources for Kagulu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kagulu*
+*Help us collect audio resources for Kagulu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kagulu*
+*Help us collect video resources for Kagulu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

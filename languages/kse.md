@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kuni  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.06  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.06  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kuni*
+*Help us collect text resources for Kuni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kuni*
+*Help us collect audio resources for Kuni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kuni*
+*Help us collect video resources for Kuni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

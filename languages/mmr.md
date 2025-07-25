@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Western Xiangxi
+title: Western Xiangxi Miao
 parent: Languages
 ---
 
-# Miao, Western Xiangxi (mmr)
+# Western Xiangxi Miao (mmr)
 
 ## Overview
 
-**Language**: Miao, Western Xiangxi  
+**Language**: Western Xiangxi Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.80  
-**Digitality Score**: 0.85  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: 0.85  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Western Xiangxi*
+*Help us collect text resources for Western Xiangxi Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Western Xiangxi*
+*Help us collect audio resources for Western Xiangxi Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Western Xiangxi*
+*Help us collect video resources for Western Xiangxi Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Paranawát  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Paranawát*
+*Help us collect text resources for Paranawát*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Paranawát*
+*Help us collect audio resources for Paranawát*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Paranawát*
+*Help us collect video resources for Paranawát*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

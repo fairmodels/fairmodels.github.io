@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Triqui, Copala
+title: Copala Triqui
 parent: Languages
 ---
 
-# Triqui, Copala (trc)
+# Copala Triqui (trc)
 
 ## Overview
 
-**Language**: Triqui, Copala  
+**Language**: Copala Triqui  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.69  
-**Digitality Score**: 0.97  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 0.97  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Triqui, Copala*
+*Help us collect text resources for Copala Triqui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Triqui, Copala*
+*Help us collect audio resources for Copala Triqui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Triqui, Copala*
+*Help us collect video resources for Copala Triqui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

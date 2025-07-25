@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bokobaru  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.78  
-**Digitality Score**: 1.08  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 1.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bokobaru*
+*Help us collect text resources for Bokobaru*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bokobaru*
+*Help us collect audio resources for Bokobaru*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bokobaru*
+*Help us collect video resources for Bokobaru*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

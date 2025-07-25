@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kalumpang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.31  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalumpang*
+*Help us collect text resources for Kalumpang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalumpang*
+*Help us collect audio resources for Kalumpang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalumpang*
+*Help us collect video resources for Kalumpang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

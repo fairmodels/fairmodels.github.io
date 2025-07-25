@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Muratayak  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.01  
-**Digitality Score**: -0.67  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: -0.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Muratayak*
+*Help us collect text resources for Muratayak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Muratayak*
+*Help us collect audio resources for Muratayak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Muratayak*
+*Help us collect video resources for Muratayak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

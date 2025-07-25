@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Levantine
+title: Levantine Arabic
 parent: Languages
 ---
 
-# Arabic, Levantine (apc)
+# Levantine Arabic (apc)
 
 ## Overview
 
-**Language**: Arabic, Levantine  
+**Language**: Levantine Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.28  
-**Digitality Score**: 3.07  
+**Grassroots Presence (z-score)**: 2.28  
+**Web Presence (z-score)**: 3.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Levantine*
+*Help us collect text resources for Levantine Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Levantine*
+*Help us collect audio resources for Levantine Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Levantine*
+*Help us collect video resources for Levantine Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Altai, Northern
+title: Northern Altai
 parent: Languages
 ---
 
-# Altai, Northern (atv)
+# Northern Altai (atv)
 
 ## Overview
 
-**Language**: Altai, Northern  
+**Language**: Northern Altai  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: 0.31  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Altai, Northern*
+*Help us collect text resources for Northern Altai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Altai, Northern*
+*Help us collect audio resources for Northern Altai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Altai, Northern*
+*Help us collect video resources for Northern Altai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

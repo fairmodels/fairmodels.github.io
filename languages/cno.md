@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Con  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Con*
+*Help us collect text resources for Con*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Con*
+*Help us collect audio resources for Con*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Con*
+*Help us collect video resources for Con*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

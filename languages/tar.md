@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tarahumara, Central
+title: Central Tarahumara
 parent: Languages
 ---
 
-# Tarahumara, Central (tar)
+# Central Tarahumara (tar)
 
 ## Overview
 
-**Language**: Tarahumara, Central  
+**Language**: Central Tarahumara  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.37  
-**Digitality Score**: 0.81  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: 0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tarahumara, Central*
+*Help us collect text resources for Central Tarahumara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tarahumara, Central*
+*Help us collect audio resources for Central Tarahumara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tarahumara, Central*
+*Help us collect video resources for Central Tarahumara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

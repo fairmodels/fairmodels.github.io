@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lalo, Central
+title: Central Lalo
 parent: Languages
 ---
 
-# Lalo, Central (ywt)
+# Central Lalo (ywt)
 
 ## Overview
 
-**Language**: Lalo, Central  
+**Language**: Central Lalo  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.31  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: 0.31  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lalo, Central*
+*Help us collect text resources for Central Lalo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lalo, Central*
+*Help us collect audio resources for Central Lalo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lalo, Central*
+*Help us collect video resources for Central Lalo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

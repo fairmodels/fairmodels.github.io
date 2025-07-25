@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Teke-Tege  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.57  
-**Digitality Score**: -0.53  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: -0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Teke-Tege*
+*Help us collect text resources for Teke-Tege*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Teke-Tege*
+*Help us collect audio resources for Teke-Tege*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Teke-Tege*
+*Help us collect video resources for Teke-Tege*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hijuk  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hijuk*
+*Help us collect text resources for Hijuk*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hijuk*
+*Help us collect audio resources for Hijuk*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hijuk*
+*Help us collect video resources for Hijuk*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

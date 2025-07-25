@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dabe  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Tor-Kwerba  
-**Vitality Score**: -0.47  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.47  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dabe*
+*Help us collect text resources for Dabe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dabe*
+*Help us collect audio resources for Dabe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dabe*
+*Help us collect video resources for Dabe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

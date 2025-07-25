@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Tlamacazapa
+title: Tlamacazapa Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Tlamacazapa (nuz)
+# Tlamacazapa Nahuatl (nuz)
 
 ## Overview
 
-**Language**: Nahuatl, Tlamacazapa  
+**Language**: Tlamacazapa Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.16  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Tlamacazapa*
+*Help us collect text resources for Tlamacazapa Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Tlamacazapa*
+*Help us collect audio resources for Tlamacazapa Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Tlamacazapa*
+*Help us collect video resources for Tlamacazapa Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

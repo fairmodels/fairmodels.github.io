@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mand  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -1.44  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: -1.44  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mand*
+*Help us collect text resources for Mand*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mand*
+*Help us collect audio resources for Mand*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mand*
+*Help us collect video resources for Mand*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kibet  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.51  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kibet*
+*Help us collect text resources for Kibet*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kibet*
+*Help us collect audio resources for Kibet*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kibet*
+*Help us collect video resources for Kibet*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

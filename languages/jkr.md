@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Koro  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.16  
-**Digitality Score**: -0.34  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: -0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koro*
+*Help us collect text resources for Koro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koro*
+*Help us collect audio resources for Koro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koro*
+*Help us collect video resources for Koro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cuicatec, Teutila
+title: Teutila Cuicatec
 parent: Languages
 ---
 
-# Cuicatec, Teutila (cut)
+# Teutila Cuicatec (cut)
 
 ## Overview
 
-**Language**: Cuicatec, Teutila  
+**Language**: Teutila Cuicatec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.54  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cuicatec, Teutila*
+*Help us collect text resources for Teutila Cuicatec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cuicatec, Teutila*
+*Help us collect audio resources for Teutila Cuicatec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cuicatec, Teutila*
+*Help us collect video resources for Teutila Cuicatec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

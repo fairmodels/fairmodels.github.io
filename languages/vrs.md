@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Varisi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.53  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Varisi*
+*Help us collect text resources for Varisi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Varisi*
+*Help us collect audio resources for Varisi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Varisi*
+*Help us collect video resources for Varisi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

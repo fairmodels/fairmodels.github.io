@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dawida  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.00  
-**Digitality Score**: 0.46  
+**Grassroots Presence (z-score)**: 1.00  
+**Web Presence (z-score)**: 0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dawida*
+*Help us collect text resources for Dawida*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dawida*
+*Help us collect audio resources for Dawida*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dawida*
+*Help us collect video resources for Dawida*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

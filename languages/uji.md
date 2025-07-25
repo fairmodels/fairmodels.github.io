@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rjili  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rjili*
+*Help us collect text resources for Rjili*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rjili*
+*Help us collect audio resources for Rjili*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rjili*
+*Help us collect video resources for Rjili*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

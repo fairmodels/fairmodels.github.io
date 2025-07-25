@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Icelandic  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.25  
-**Digitality Score**: 4.30  
+**Grassroots Presence (z-score)**: 2.25  
+**Web Presence (z-score)**: 4.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Icelandic*
+*Help us collect text resources for Icelandic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Icelandic*
+*Help us collect audio resources for Icelandic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Icelandic*
+*Help us collect video resources for Icelandic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

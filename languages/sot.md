@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sotho, Southern
+title: Southern Sotho
 parent: Languages
 ---
 
-# Sotho, Southern (sot)
+# Southern Sotho (sot)
 
 ## Overview
 
-**Language**: Sotho, Southern  
+**Language**: Southern Sotho  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.72  
-**Digitality Score**: 3.25  
+**Grassroots Presence (z-score)**: 2.72  
+**Web Presence (z-score)**: 3.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sotho, Southern*
+*Help us collect text resources for Southern Sotho*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sotho, Southern*
+*Help us collect audio resources for Southern Sotho*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sotho, Southern*
+*Help us collect video resources for Southern Sotho*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

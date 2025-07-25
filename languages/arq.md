@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Algerian
+title: Algerian Arabic
 parent: Languages
 ---
 
-# Arabic, Algerian (arq)
+# Algerian Arabic (arq)
 
 ## Overview
 
-**Language**: Arabic, Algerian  
+**Language**: Algerian Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.24  
-**Digitality Score**: 3.05  
+**Grassroots Presence (z-score)**: 2.24  
+**Web Presence (z-score)**: 3.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Algerian*
+*Help us collect text resources for Algerian Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Algerian*
+*Help us collect audio resources for Algerian Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Algerian*
+*Help us collect video resources for Algerian Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

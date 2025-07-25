@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kwa  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.03  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kwa*
+*Help us collect text resources for Kwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kwa*
+*Help us collect audio resources for Kwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kwa*
+*Help us collect video resources for Kwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

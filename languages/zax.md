@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Xadani
+title: Xadani Zapotec
 parent: Languages
 ---
 
-# Zapotec, Xadani (zax)
+# Xadani Zapotec (zax)
 
 ## Overview
 
-**Language**: Zapotec, Xadani  
+**Language**: Xadani Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.11  
-**Digitality Score**: 0.81  
+**Grassroots Presence (z-score)**: -0.11  
+**Web Presence (z-score)**: 0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Xadani*
+*Help us collect text resources for Xadani Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Xadani*
+*Help us collect audio resources for Xadani Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Xadani*
+*Help us collect video resources for Xadani Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

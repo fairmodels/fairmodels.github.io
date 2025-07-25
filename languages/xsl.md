@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Slavey, South
+title: South Slavey
 parent: Languages
 ---
 
-# Slavey, South (xsl)
+# South Slavey (xsl)
 
 ## Overview
 
-**Language**: Slavey, South  
+**Language**: South Slavey  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.40  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: -0.40  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Slavey, South*
+*Help us collect text resources for South Slavey*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Slavey, South*
+*Help us collect audio resources for South Slavey*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Slavey, South*
+*Help us collect video resources for South Slavey*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Avokaya  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.84  
-**Digitality Score**: 0.82  
+**Grassroots Presence (z-score)**: 0.84  
+**Web Presence (z-score)**: 0.82  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Avokaya*
+*Help us collect text resources for Avokaya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Avokaya*
+*Help us collect audio resources for Avokaya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Avokaya*
+*Help us collect video resources for Avokaya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

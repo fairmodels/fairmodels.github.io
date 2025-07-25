@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Katang, Northern
+title: Northern Katang
 parent: Languages
 ---
 
-# Katang, Northern (ncq)
+# Northern Katang (ncq)
 
 ## Overview
 
-**Language**: Katang, Northern  
+**Language**: Northern Katang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.79  
-**Digitality Score**: 0.05  
+**Grassroots Presence (z-score)**: 0.79  
+**Web Presence (z-score)**: 0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Katang, Northern*
+*Help us collect text resources for Northern Katang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Katang, Northern*
+*Help us collect audio resources for Northern Katang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Katang, Northern*
+*Help us collect video resources for Northern Katang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

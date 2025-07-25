@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bamanankan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.10  
-**Digitality Score**: 3.52  
+**Grassroots Presence (z-score)**: 2.10  
+**Web Presence (z-score)**: 3.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bamanankan*
+*Help us collect text resources for Bamanankan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bamanankan*
+*Help us collect audio resources for Bamanankan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bamanankan*
+*Help us collect video resources for Bamanankan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

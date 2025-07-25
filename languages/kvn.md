@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kuna, Border
+title: Border Kuna
 parent: Languages
 ---
 
-# Kuna, Border (kvn)
+# Border Kuna (kvn)
 
 ## Overview
 
-**Language**: Kuna, Border  
+**Language**: Border Kuna  
 **Region/Area**: South America, Americas  
 **Family**: Chibchan  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.59  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kuna, Border*
+*Help us collect text resources for Border Kuna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kuna, Border*
+*Help us collect audio resources for Border Kuna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kuna, Border*
+*Help us collect video resources for Border Kuna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

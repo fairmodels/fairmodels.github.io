@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Baibai  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Fas  
-**Vitality Score**: -0.19  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Baibai*
+*Help us collect text resources for Baibai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Baibai*
+*Help us collect audio resources for Baibai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Baibai*
+*Help us collect video resources for Baibai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

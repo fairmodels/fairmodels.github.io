@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mmen  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.65  
-**Digitality Score**: 0.37  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mmen*
+*Help us collect text resources for Mmen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mmen*
+*Help us collect audio resources for Mmen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mmen*
+*Help us collect video resources for Mmen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Youjiang
+title: Youjiang Zhuang
 parent: Languages
 ---
 
-# Zhuang, Youjiang (zyj)
+# Youjiang Zhuang (zyj)
 
 ## Overview
 
-**Language**: Zhuang, Youjiang  
+**Language**: Youjiang Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.80  
-**Digitality Score**: 0.28  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: 0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Youjiang*
+*Help us collect text resources for Youjiang Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Youjiang*
+*Help us collect audio resources for Youjiang Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Youjiang*
+*Help us collect video resources for Youjiang Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

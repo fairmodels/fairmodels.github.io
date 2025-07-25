@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tarahumara, Northern
+title: Northern Tarahumara
 parent: Languages
 ---
 
-# Tarahumara, Northern (thh)
+# Northern Tarahumara (thh)
 
 ## Overview
 
-**Language**: Tarahumara, Northern  
+**Language**: Northern Tarahumara  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tarahumara, Northern*
+*Help us collect text resources for Northern Tarahumara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tarahumara, Northern*
+*Help us collect audio resources for Northern Tarahumara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tarahumara, Northern*
+*Help us collect video resources for Northern Tarahumara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

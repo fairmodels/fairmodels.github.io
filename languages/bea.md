@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Beaver  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.92  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: -0.92  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Beaver*
+*Help us collect text resources for Beaver*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Beaver*
+*Help us collect audio resources for Beaver*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Beaver*
+*Help us collect video resources for Beaver*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

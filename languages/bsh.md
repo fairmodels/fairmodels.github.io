@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kateviri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.88  
-**Digitality Score**: -0.12  
+**Grassroots Presence (z-score)**: 0.88  
+**Web Presence (z-score)**: -0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kateviri*
+*Help us collect text resources for Kateviri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kateviri*
+*Help us collect audio resources for Kateviri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kateviri*
+*Help us collect video resources for Kateviri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

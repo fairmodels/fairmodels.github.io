@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Temein  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.11  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.11  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Temein*
+*Help us collect text resources for Temein*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Temein*
+*Help us collect audio resources for Temein*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Temein*
+*Help us collect video resources for Temein*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

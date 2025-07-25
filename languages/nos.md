@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nisu, Eastern
+title: Eastern Nisu
 parent: Languages
 ---
 
-# Nisu, Eastern (nos)
+# Eastern Nisu (nos)
 
 ## Overview
 
-**Language**: Nisu, Eastern  
+**Language**: Eastern Nisu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.33  
-**Digitality Score**: -0.36  
+**Grassroots Presence (z-score)**: 0.33  
+**Web Presence (z-score)**: -0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nisu, Eastern*
+*Help us collect text resources for Eastern Nisu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nisu, Eastern*
+*Help us collect audio resources for Eastern Nisu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nisu, Eastern*
+*Help us collect video resources for Eastern Nisu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

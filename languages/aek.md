@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Haeke  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.99  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.99  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Haeke*
+*Help us collect text resources for Haeke*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Haeke*
+*Help us collect audio resources for Haeke*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Haeke*
+*Help us collect video resources for Haeke*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

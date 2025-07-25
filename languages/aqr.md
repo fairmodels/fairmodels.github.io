@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Arhâ  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.91  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.91  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arhâ*
+*Help us collect text resources for Arhâ*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arhâ*
+*Help us collect audio resources for Arhâ*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arhâ*
+*Help us collect video resources for Arhâ*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

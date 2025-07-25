@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kalamsé  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.37  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalamsé*
+*Help us collect text resources for Kalamsé*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalamsé*
+*Help us collect audio resources for Kalamsé*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalamsé*
+*Help us collect video resources for Kalamsé*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

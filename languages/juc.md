@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jurchen  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Tungusic  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jurchen*
+*Help us collect text resources for Jurchen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jurchen*
+*Help us collect audio resources for Jurchen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jurchen*
+*Help us collect video resources for Jurchen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

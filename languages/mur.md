@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Murle  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.93  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Murle*
+*Help us collect text resources for Murle*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Murle*
+*Help us collect audio resources for Murle*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Murle*
+*Help us collect video resources for Murle*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

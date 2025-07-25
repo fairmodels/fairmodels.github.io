@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kadazan, Klias River
+title: Klias River Kadazan
 parent: Languages
 ---
 
-# Kadazan, Klias River (kqt)
+# Klias River Kadazan (kqt)
 
 ## Overview
 
-**Language**: Kadazan, Klias River  
+**Language**: Klias River Kadazan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.24  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.24  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kadazan, Klias River*
+*Help us collect text resources for Klias River Kadazan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kadazan, Klias River*
+*Help us collect audio resources for Klias River Kadazan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kadazan, Klias River*
+*Help us collect video resources for Klias River Kadazan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

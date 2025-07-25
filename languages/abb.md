@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bankon  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.11  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: 0.11  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bankon*
+*Help us collect text resources for Bankon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bankon*
+*Help us collect audio resources for Bankon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bankon*
+*Help us collect video resources for Bankon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

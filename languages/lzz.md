@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Laz  
 **Region/Area**: Western Asia, Asia  
 **Family**: Kartvelian  
-**Vitality Score**: 0.02  
-**Digitality Score**: 0.83  
+**Grassroots Presence (z-score)**: 0.02  
+**Web Presence (z-score)**: 0.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Laz*
+*Help us collect text resources for Laz*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Laz*
+*Help us collect audio resources for Laz*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Laz*
+*Help us collect video resources for Laz*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

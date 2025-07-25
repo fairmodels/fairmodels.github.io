@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.83  
-**Digitality Score**: 0.58  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: 0.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zo*
+*Help us collect text resources for Zo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zo*
+*Help us collect audio resources for Zo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zo*
+*Help us collect video resources for Zo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

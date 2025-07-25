@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Unserdeutsch  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Creole  
-**Vitality Score**: -0.96  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: -0.96  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Unserdeutsch*
+*Help us collect text resources for Unserdeutsch*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Unserdeutsch*
+*Help us collect audio resources for Unserdeutsch*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Unserdeutsch*
+*Help us collect video resources for Unserdeutsch*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

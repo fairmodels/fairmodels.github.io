@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Greek, Ancient
+title: Ancient Greek
 parent: Languages
 ---
 
-# Greek, Ancient (grc)
+# Ancient Greek (grc)
 
 ## Overview
 
-**Language**: Greek, Ancient  
+**Language**: Ancient Greek  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -1.87  
-**Digitality Score**: 2.31  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: 2.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Greek, Ancient*
+*Help us collect text resources for Ancient Greek*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Greek, Ancient*
+*Help us collect audio resources for Ancient Greek*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Greek, Ancient*
+*Help us collect video resources for Ancient Greek*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

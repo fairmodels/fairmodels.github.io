@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Iyayu  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.35  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Iyayu*
+*Help us collect text resources for Iyayu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Iyayu*
+*Help us collect audio resources for Iyayu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Iyayu*
+*Help us collect video resources for Iyayu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

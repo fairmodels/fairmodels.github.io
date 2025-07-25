@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aruamu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: 0.57  
-**Digitality Score**: 0.38  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: 0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aruamu*
+*Help us collect text resources for Aruamu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aruamu*
+*Help us collect audio resources for Aruamu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aruamu*
+*Help us collect video resources for Aruamu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

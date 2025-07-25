@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Khaling  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.69  
-**Digitality Score**: 0.37  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Khaling*
+*Help us collect text resources for Khaling*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Khaling*
+*Help us collect audio resources for Khaling*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Khaling*
+*Help us collect video resources for Khaling*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

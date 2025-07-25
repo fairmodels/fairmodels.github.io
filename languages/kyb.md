@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kalinga, Butbut
+title: Butbut Kalinga
 parent: Languages
 ---
 
-# Kalinga, Butbut (kyb)
+# Butbut Kalinga (kyb)
 
 ## Overview
 
-**Language**: Kalinga, Butbut  
+**Language**: Butbut Kalinga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.60  
-**Digitality Score**: 0.02  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: 0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalinga, Butbut*
+*Help us collect text resources for Butbut Kalinga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalinga, Butbut*
+*Help us collect audio resources for Butbut Kalinga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalinga, Butbut*
+*Help us collect video resources for Butbut Kalinga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Minangkabau  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.88  
-**Digitality Score**: 3.16  
+**Grassroots Presence (z-score)**: 0.88  
+**Web Presence (z-score)**: 3.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Minangkabau*
+*Help us collect text resources for Minangkabau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Minangkabau*
+*Help us collect audio resources for Minangkabau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Minangkabau*
+*Help us collect video resources for Minangkabau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

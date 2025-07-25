@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dawro  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.39  
-**Digitality Score**: 0.99  
+**Grassroots Presence (z-score)**: 1.39  
+**Web Presence (z-score)**: 0.99  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dawro*
+*Help us collect text resources for Dawro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dawro*
+*Help us collect audio resources for Dawro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dawro*
+*Help us collect video resources for Dawro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

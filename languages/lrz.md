@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lemerig  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.64  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lemerig*
+*Help us collect text resources for Lemerig*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lemerig*
+*Help us collect audio resources for Lemerig*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lemerig*
+*Help us collect video resources for Lemerig*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

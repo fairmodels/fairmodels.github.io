@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Saami, Lule
+title: Lule Saami
 parent: Languages
 ---
 
-# Saami, Lule (smj)
+# Lule Saami (smj)
 
 ## Overview
 
-**Language**: Saami, Lule  
+**Language**: Lule Saami  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -0.12  
-**Digitality Score**: 1.24  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: 1.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saami, Lule*
+*Help us collect text resources for Lule Saami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saami, Lule*
+*Help us collect audio resources for Lule Saami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saami, Lule*
+*Help us collect video resources for Lule Saami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

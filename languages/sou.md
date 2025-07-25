@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Thai, Southern
+title: Southern Thai
 parent: Languages
 ---
 
-# Thai, Southern (sou)
+# Southern Thai (sou)
 
 ## Overview
 
-**Language**: Thai, Southern  
+**Language**: Southern Thai  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 1.33  
-**Digitality Score**: 0.13  
+**Grassroots Presence (z-score)**: 1.33  
+**Web Presence (z-score)**: 0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Thai, Southern*
+*Help us collect text resources for Southern Thai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Thai, Southern*
+*Help us collect audio resources for Southern Thai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Thai, Southern*
+*Help us collect video resources for Southern Thai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

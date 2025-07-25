@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ubir  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.38  
-**Digitality Score**: 0.81  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: 0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ubir*
+*Help us collect text resources for Ubir*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ubir*
+*Help us collect audio resources for Ubir*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ubir*
+*Help us collect video resources for Ubir*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

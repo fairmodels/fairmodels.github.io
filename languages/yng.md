@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yango  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yango*
+*Help us collect text resources for Yango*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yango*
+*Help us collect audio resources for Yango*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yango*
+*Help us collect video resources for Yango*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

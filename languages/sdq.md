@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Semandang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.84  
-**Digitality Score**: -0.41  
+**Grassroots Presence (z-score)**: 0.84  
+**Web Presence (z-score)**: -0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Semandang*
+*Help us collect text resources for Semandang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Semandang*
+*Help us collect audio resources for Semandang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Semandang*
+*Help us collect video resources for Semandang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

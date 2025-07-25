@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ngundu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.93  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ngundu*
+*Help us collect text resources for Ngundu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ngundu*
+*Help us collect audio resources for Ngundu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ngundu*
+*Help us collect video resources for Ngundu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

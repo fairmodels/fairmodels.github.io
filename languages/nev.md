@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyaheun  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyaheun*
+*Help us collect text resources for Nyaheun*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyaheun*
+*Help us collect audio resources for Nyaheun*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyaheun*
+*Help us collect video resources for Nyaheun*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Marquesan, South
+title: South Marquesan
 parent: Languages
 ---
 
-# Marquesan, South (mqm)
+# South Marquesan (mqm)
 
 ## Overview
 
-**Language**: Marquesan, South  
+**Language**: South Marquesan  
 **Region/Area**: Polynesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.26  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: -0.26  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Marquesan, South*
+*Help us collect text resources for South Marquesan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Marquesan, South*
+*Help us collect audio resources for South Marquesan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Marquesan, South*
+*Help us collect video resources for South Marquesan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

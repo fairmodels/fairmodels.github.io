@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Thai, Northern
+title: Northern Thai
 parent: Languages
 ---
 
-# Thai, Northern (nod)
+# Northern Thai (nod)
 
 ## Overview
 
-**Language**: Thai, Northern  
+**Language**: Northern Thai  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 2.03  
-**Digitality Score**: 1.02  
+**Grassroots Presence (z-score)**: 2.03  
+**Web Presence (z-score)**: 1.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Thai, Northern*
+*Help us collect text resources for Northern Thai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Thai, Northern*
+*Help us collect audio resources for Northern Thai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Thai, Northern*
+*Help us collect video resources for Northern Thai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

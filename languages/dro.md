@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Melanau, Matu Daro
+title: Matu Daro Melanau
 parent: Languages
 ---
 
-# Melanau, Matu Daro (dro)
+# Matu Daro Melanau (dro)
 
 ## Overview
 
-**Language**: Melanau, Matu Daro  
+**Language**: Matu Daro Melanau  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.20  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Melanau, Matu Daro*
+*Help us collect text resources for Matu Daro Melanau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Melanau, Matu Daro*
+*Help us collect audio resources for Matu Daro Melanau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Melanau, Matu Daro*
+*Help us collect video resources for Matu Daro Melanau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Idu-Mishmi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.12  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Idu-Mishmi*
+*Help us collect text resources for Idu-Mishmi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Idu-Mishmi*
+*Help us collect audio resources for Idu-Mishmi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Idu-Mishmi*
+*Help us collect video resources for Idu-Mishmi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

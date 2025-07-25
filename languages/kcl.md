@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kala  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.11  
-**Digitality Score**: 0.44  
+**Grassroots Presence (z-score)**: -0.11  
+**Web Presence (z-score)**: 0.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kala*
+*Help us collect text resources for Kala*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kala*
+*Help us collect audio resources for Kala*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kala*
+*Help us collect video resources for Kala*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

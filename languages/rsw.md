@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rishiwa  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.17  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rishiwa*
+*Help us collect text resources for Rishiwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rishiwa*
+*Help us collect audio resources for Rishiwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rishiwa*
+*Help us collect video resources for Rishiwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

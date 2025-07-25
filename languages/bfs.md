@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bai, Southern
+title: Southern Bai
 parent: Languages
 ---
 
-# Bai, Southern (bfs)
+# Southern Bai (bfs)
 
 ## Overview
 
-**Language**: Bai, Southern  
+**Language**: Southern Bai  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.77  
-**Digitality Score**: -0.12  
+**Grassroots Presence (z-score)**: 0.77  
+**Web Presence (z-score)**: -0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bai, Southern*
+*Help us collect text resources for Southern Bai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bai, Southern*
+*Help us collect audio resources for Southern Bai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bai, Southern*
+*Help us collect video resources for Southern Bai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

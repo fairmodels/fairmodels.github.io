@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Ambonese
+title: Ambonese Malay
 parent: Languages
 ---
 
-# Malay, Ambonese (abs)
+# Ambonese Malay (abs)
 
 ## Overview
 
-**Language**: Malay, Ambonese  
+**Language**: Ambonese Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: 1.83  
-**Digitality Score**: 0.77  
+**Grassroots Presence (z-score)**: 1.83  
+**Web Presence (z-score)**: 0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Ambonese*
+*Help us collect text resources for Ambonese Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Ambonese*
+*Help us collect audio resources for Ambonese Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Ambonese*
+*Help us collect video resources for Ambonese Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

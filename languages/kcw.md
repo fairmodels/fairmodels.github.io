@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kabwari  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.21  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kabwari*
+*Help us collect text resources for Kabwari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kabwari*
+*Help us collect audio resources for Kabwari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kabwari*
+*Help us collect video resources for Kabwari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

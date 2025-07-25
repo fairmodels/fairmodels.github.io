@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yeri  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.92  
-**Digitality Score**: 0.37  
+**Grassroots Presence (z-score)**: -0.92  
+**Web Presence (z-score)**: 0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yeri*
+*Help us collect text resources for Yeri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yeri*
+*Help us collect audio resources for Yeri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yeri*
+*Help us collect video resources for Yeri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

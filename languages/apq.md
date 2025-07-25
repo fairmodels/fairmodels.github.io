@@ -11,20 +11,20 @@ parent: Languages
 **Language**: A-Pucikwar  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Andamanese  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for A-Pucikwar*
+*Help us collect text resources for A-Pucikwar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for A-Pucikwar*
+*Help us collect audio resources for A-Pucikwar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for A-Pucikwar*
+*Help us collect video resources for A-Pucikwar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

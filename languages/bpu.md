@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bongu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.21  
-**Digitality Score**: 0.11  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: 0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bongu*
+*Help us collect text resources for Bongu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bongu*
+*Help us collect audio resources for Bongu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bongu*
+*Help us collect video resources for Bongu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

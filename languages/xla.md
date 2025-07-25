@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kamula  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.27  
-**Digitality Score**: 0.45  
+**Grassroots Presence (z-score)**: 0.27  
+**Web Presence (z-score)**: 0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kamula*
+*Help us collect text resources for Kamula*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kamula*
+*Help us collect audio resources for Kamula*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kamula*
+*Help us collect video resources for Kamula*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: To’abaita  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.32  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for To’abaita*
+*Help us collect text resources for To’abaita*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for To’abaita*
+*Help us collect audio resources for To’abaita*
 
 ### Video Resources
-*Coming soon - help us collect video resources for To’abaita*
+*Help us collect video resources for To’abaita*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

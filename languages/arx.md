@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aruá  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -1.23  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -1.23  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aruá*
+*Help us collect text resources for Aruá*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aruá*
+*Help us collect audio resources for Aruá*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aruá*
+*Help us collect video resources for Aruá*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

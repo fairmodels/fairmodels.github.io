@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Saamya-Gwe  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.41  
-**Digitality Score**: 0.72  
+**Grassroots Presence (z-score)**: 1.41  
+**Web Presence (z-score)**: 0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Saamya-Gwe*
+*Help us collect text resources for Saamya-Gwe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Saamya-Gwe*
+*Help us collect audio resources for Saamya-Gwe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Saamya-Gwe*
+*Help us collect video resources for Saamya-Gwe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

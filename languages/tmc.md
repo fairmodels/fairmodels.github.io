@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tumak  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.44  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tumak*
+*Help us collect text resources for Tumak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tumak*
+*Help us collect audio resources for Tumak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tumak*
+*Help us collect video resources for Tumak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

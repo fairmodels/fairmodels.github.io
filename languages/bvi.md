@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Belanda Viri  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.96  
-**Digitality Score**: 0.16  
+**Grassroots Presence (z-score)**: 0.96  
+**Web Presence (z-score)**: 0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Belanda Viri*
+*Help us collect text resources for Belanda Viri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Belanda Viri*
+*Help us collect audio resources for Belanda Viri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Belanda Viri*
+*Help us collect video resources for Belanda Viri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

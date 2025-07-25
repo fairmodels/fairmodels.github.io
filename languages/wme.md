@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wambule  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.64  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wambule*
+*Help us collect text resources for Wambule*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wambule*
+*Help us collect audio resources for Wambule*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wambule*
+*Help us collect video resources for Wambule*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

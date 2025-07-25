@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tujia, Northern
+title: Northern Tujia
 parent: Languages
 ---
 
-# Tujia, Northern (tji)
+# Northern Tujia (tji)
 
 ## Overview
 
-**Language**: Tujia, Northern  
+**Language**: Northern Tujia  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.17  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tujia, Northern*
+*Help us collect text resources for Northern Tujia*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tujia, Northern*
+*Help us collect audio resources for Northern Tujia*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tujia, Northern*
+*Help us collect video resources for Northern Tujia*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

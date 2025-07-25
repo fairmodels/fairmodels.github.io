@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tokelauan  
 **Region/Area**: Polynesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.05  
-**Digitality Score**: 1.04  
+**Grassroots Presence (z-score)**: -0.05  
+**Web Presence (z-score)**: 1.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tokelauan*
+*Help us collect text resources for Tokelauan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tokelauan*
+*Help us collect audio resources for Tokelauan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tokelauan*
+*Help us collect video resources for Tokelauan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

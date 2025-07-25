@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gana  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.86  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.86  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gana*
+*Help us collect text resources for Gana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gana*
+*Help us collect audio resources for Gana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gana*
+*Help us collect video resources for Gana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Maninkakan, Western
+title: Western Maninkakan
 parent: Languages
 ---
 
-# Maninkakan, Western (mlq)
+# Western Maninkakan (mlq)
 
 ## Overview
 
-**Language**: Maninkakan, Western  
+**Language**: Western Maninkakan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.24  
-**Digitality Score**: 0.32  
+**Grassroots Presence (z-score)**: 1.24  
+**Web Presence (z-score)**: 0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maninkakan, Western*
+*Help us collect text resources for Western Maninkakan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maninkakan, Western*
+*Help us collect audio resources for Western Maninkakan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maninkakan, Western*
+*Help us collect video resources for Western Maninkakan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

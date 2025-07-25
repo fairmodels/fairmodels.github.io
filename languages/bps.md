@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Blaan, Sarangani
+title: Sarangani Blaan
 parent: Languages
 ---
 
-# Blaan, Sarangani (bps)
+# Sarangani Blaan (bps)
 
 ## Overview
 
-**Language**: Blaan, Sarangani  
+**Language**: Sarangani Blaan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.83  
-**Digitality Score**: 1.09  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: 1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Blaan, Sarangani*
+*Help us collect text resources for Sarangani Blaan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Blaan, Sarangani*
+*Help us collect audio resources for Sarangani Blaan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Blaan, Sarangani*
+*Help us collect video resources for Sarangani Blaan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

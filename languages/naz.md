@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Coatepec
+title: Coatepec Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Coatepec (naz)
+# Coatepec Nahuatl (naz)
 
 ## Overview
 
-**Language**: Nahuatl, Coatepec  
+**Language**: Coatepec Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.33  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: -0.33  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Coatepec*
+*Help us collect text resources for Coatepec Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Coatepec*
+*Help us collect audio resources for Coatepec Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Coatepec*
+*Help us collect video resources for Coatepec Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

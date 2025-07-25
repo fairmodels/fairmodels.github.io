@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pech  
 **Region/Area**: Central America, Americas  
 **Family**: Chibchan  
-**Vitality Score**: -0.84  
-**Digitality Score**: 0.15  
+**Grassroots Presence (z-score)**: -0.84  
+**Web Presence (z-score)**: 0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pech*
+*Help us collect text resources for Pech*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pech*
+*Help us collect audio resources for Pech*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pech*
+*Help us collect video resources for Pech*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

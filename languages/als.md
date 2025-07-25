@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Albanian, Tosk
+title: Tosk Albanian
 parent: Languages
 ---
 
-# Albanian, Tosk (als)
+# Tosk Albanian (als)
 
 ## Overview
 
-**Language**: Albanian, Tosk  
+**Language**: Tosk Albanian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.41  
-**Digitality Score**: 3.25  
+**Grassroots Presence (z-score)**: 2.41  
+**Web Presence (z-score)**: 3.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Albanian, Tosk*
+*Help us collect text resources for Tosk Albanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Albanian, Tosk*
+*Help us collect audio resources for Tosk Albanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Albanian, Tosk*
+*Help us collect video resources for Tosk Albanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

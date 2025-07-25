@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Takwane  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.01  
-**Digitality Score**: 0.51  
+**Grassroots Presence (z-score)**: 1.01  
+**Web Presence (z-score)**: 0.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Takwane*
+*Help us collect text resources for Takwane*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Takwane*
+*Help us collect audio resources for Takwane*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Takwane*
+*Help us collect video resources for Takwane*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

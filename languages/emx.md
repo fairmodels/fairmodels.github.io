@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Erromintxela  
 **Region/Area**: Western Europe, Europe  
 **Family**: Mixed language  
-**Vitality Score**: -0.68  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: -0.68  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Erromintxela*
+*Help us collect text resources for Erromintxela*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Erromintxela*
+*Help us collect audio resources for Erromintxela*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Erromintxela*
+*Help us collect video resources for Erromintxela*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

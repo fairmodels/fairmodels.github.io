@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Trimuris  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Tor-Kwerba  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Trimuris*
+*Help us collect text resources for Trimuris*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Trimuris*
+*Help us collect audio resources for Trimuris*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Trimuris*
+*Help us collect video resources for Trimuris*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Warao  
 **Region/Area**: South America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: 0.39  
-**Digitality Score**: 0.66  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: 0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Warao*
+*Help us collect text resources for Warao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Warao*
+*Help us collect audio resources for Warao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Warao*
+*Help us collect video resources for Warao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

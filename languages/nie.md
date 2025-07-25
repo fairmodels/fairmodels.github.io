@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Niellim  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.47  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: 0.47  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Niellim*
+*Help us collect text resources for Niellim*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Niellim*
+*Help us collect audio resources for Niellim*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Niellim*
+*Help us collect video resources for Niellim*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

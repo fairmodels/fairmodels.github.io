@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Tajiki
+title: Tajiki Arabic
 parent: Languages
 ---
 
-# Arabic, Tajiki (abh)
+# Tajiki Arabic (abh)
 
 ## Overview
 
-**Language**: Arabic, Tajiki  
+**Language**: Tajiki Arabic  
 **Region/Area**: Central Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.08  
-**Digitality Score**: 1.80  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: 1.80  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Tajiki*
+*Help us collect text resources for Tajiki Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Tajiki*
+*Help us collect audio resources for Tajiki Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Tajiki*
+*Help us collect video resources for Tajiki Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

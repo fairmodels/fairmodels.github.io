@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Papiamentu  
 **Region/Area**: Caribbean, Americas  
 **Family**: Creole  
-**Vitality Score**: 2.25  
-**Digitality Score**: 3.02  
+**Grassroots Presence (z-score)**: 2.25  
+**Web Presence (z-score)**: 3.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Papiamentu*
+*Help us collect text resources for Papiamentu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Papiamentu*
+*Help us collect audio resources for Papiamentu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Papiamentu*
+*Help us collect video resources for Papiamentu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

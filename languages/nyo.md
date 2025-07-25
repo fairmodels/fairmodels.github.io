@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyoro  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.48  
-**Digitality Score**: 1.03  
+**Grassroots Presence (z-score)**: 1.48  
+**Web Presence (z-score)**: 1.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyoro*
+*Help us collect text resources for Nyoro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyoro*
+*Help us collect audio resources for Nyoro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyoro*
+*Help us collect video resources for Nyoro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

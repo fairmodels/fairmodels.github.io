@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tugen  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.62  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: 0.62  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tugen*
+*Help us collect text resources for Tugen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tugen*
+*Help us collect audio resources for Tugen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tugen*
+*Help us collect video resources for Tugen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

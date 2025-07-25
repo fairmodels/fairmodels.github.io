@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wolaytta  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.89  
-**Digitality Score**: 1.87  
+**Grassroots Presence (z-score)**: 1.89  
+**Web Presence (z-score)**: 1.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wolaytta*
+*Help us collect text resources for Wolaytta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wolaytta*
+*Help us collect audio resources for Wolaytta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wolaytta*
+*Help us collect video resources for Wolaytta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

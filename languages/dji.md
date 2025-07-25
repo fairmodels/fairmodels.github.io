@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Djinang  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -0.45  
-**Digitality Score**: -0.12  
+**Grassroots Presence (z-score)**: -0.45  
+**Web Presence (z-score)**: -0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Djinang*
+*Help us collect text resources for Djinang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Djinang*
+*Help us collect audio resources for Djinang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Djinang*
+*Help us collect video resources for Djinang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Giziga, North
+title: North Giziga
 parent: Languages
 ---
 
-# Giziga, North (gis)
+# North Giziga (gis)
 
 ## Overview
 
-**Language**: Giziga, North  
+**Language**: North Giziga  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Giziga, North*
+*Help us collect text resources for North Giziga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Giziga, North*
+*Help us collect audio resources for North Giziga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Giziga, North*
+*Help us collect video resources for North Giziga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

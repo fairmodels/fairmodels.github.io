@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bats  
 **Region/Area**: Western Asia, Asia  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: -0.84  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: -0.84  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bats*
+*Help us collect text resources for Bats*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bats*
+*Help us collect audio resources for Bats*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bats*
+*Help us collect video resources for Bats*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

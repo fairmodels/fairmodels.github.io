@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gamit  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.89  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gamit*
+*Help us collect text resources for Gamit*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gamit*
+*Help us collect audio resources for Gamit*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gamit*
+*Help us collect video resources for Gamit*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Koromu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.25  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koromu*
+*Help us collect text resources for Koromu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koromu*
+*Help us collect audio resources for Koromu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koromu*
+*Help us collect video resources for Koromu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pidgin Bantu  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Pidgin  
-**Vitality Score**: -0.79  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: -0.79  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pidgin Bantu*
+*Help us collect text resources for Pidgin Bantu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pidgin Bantu*
+*Help us collect audio resources for Pidgin Bantu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pidgin Bantu*
+*Help us collect video resources for Pidgin Bantu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

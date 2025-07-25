@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Macedonian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.46  
-**Digitality Score**: 4.16  
+**Grassroots Presence (z-score)**: 2.46  
+**Web Presence (z-score)**: 4.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Macedonian*
+*Help us collect text resources for Macedonian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Macedonian*
+*Help us collect audio resources for Macedonian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Macedonian*
+*Help us collect video resources for Macedonian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

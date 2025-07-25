@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Meitei  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 2.18  
-**Digitality Score**: 2.58  
+**Grassroots Presence (z-score)**: 2.18  
+**Web Presence (z-score)**: 2.58  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Meitei*
+*Help us collect text resources for Meitei*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Meitei*
+*Help us collect audio resources for Meitei*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Meitei*
+*Help us collect video resources for Meitei*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

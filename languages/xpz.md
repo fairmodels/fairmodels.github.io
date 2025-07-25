@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tasmanian, Bruny Island
+title: Bruny Island Tasmanian
 parent: Languages
 ---
 
-# Tasmanian, Bruny Island (xpz)
+# Bruny Island Tasmanian (xpz)
 
 ## Overview
 
-**Language**: Tasmanian, Bruny Island  
+**Language**: Bruny Island Tasmanian  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tasmanian, Bruny Island*
+*Help us collect text resources for Bruny Island Tasmanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tasmanian, Bruny Island*
+*Help us collect audio resources for Bruny Island Tasmanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tasmanian, Bruny Island*
+*Help us collect video resources for Bruny Island Tasmanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

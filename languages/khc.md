@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tukang Besi North  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.39  
-**Digitality Score**: -0.04  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: -0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tukang Besi North*
+*Help us collect text resources for Tukang Besi North*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tukang Besi North*
+*Help us collect audio resources for Tukang Besi North*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tukang Besi North*
+*Help us collect video resources for Tukang Besi North*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

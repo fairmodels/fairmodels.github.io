@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Olumarachi  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.10  
-**Digitality Score**: 0.20  
+**Grassroots Presence (z-score)**: 1.10  
+**Web Presence (z-score)**: 0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Olumarachi*
+*Help us collect text resources for Olumarachi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Olumarachi*
+*Help us collect audio resources for Olumarachi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Olumarachi*
+*Help us collect video resources for Olumarachi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

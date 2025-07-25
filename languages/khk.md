@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mongolian, Halh
+title: Halh Mongolian
 parent: Languages
 ---
 
-# Mongolian, Halh (khk)
+# Halh Mongolian (khk)
 
 ## Overview
 
-**Language**: Mongolian, Halh  
+**Language**: Halh Mongolian  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Mongolic  
-**Vitality Score**: 2.53  
-**Digitality Score**: 3.10  
+**Grassroots Presence (z-score)**: 2.53  
+**Web Presence (z-score)**: 3.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mongolian, Halh*
+*Help us collect text resources for Halh Mongolian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mongolian, Halh*
+*Help us collect audio resources for Halh Mongolian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mongolian, Halh*
+*Help us collect video resources for Halh Mongolian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

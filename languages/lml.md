@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hano  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 1.14  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: 1.14  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hano*
+*Help us collect text resources for Hano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hano*
+*Help us collect audio resources for Hano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hano*
+*Help us collect video resources for Hano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

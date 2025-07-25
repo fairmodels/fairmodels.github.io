@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Burushaski  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Language isolate  
-**Vitality Score**: 0.67  
-**Digitality Score**: 0.36  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: 0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Burushaski*
+*Help us collect text resources for Burushaski*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Burushaski*
+*Help us collect audio resources for Burushaski*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Burushaski*
+*Help us collect video resources for Burushaski*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

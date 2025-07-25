@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tima  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -1.56  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: -1.56  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tima*
+*Help us collect text resources for Tima*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tima*
+*Help us collect audio resources for Tima*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tima*
+*Help us collect video resources for Tima*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

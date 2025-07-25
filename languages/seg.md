@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Segeju  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.29  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: -0.29  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Segeju*
+*Help us collect text resources for Segeju*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Segeju*
+*Help us collect audio resources for Segeju*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Segeju*
+*Help us collect video resources for Segeju*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

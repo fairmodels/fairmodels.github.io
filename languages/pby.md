@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pyu  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Language isolate  
-**Vitality Score**: -0.23  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pyu*
+*Help us collect text resources for Pyu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pyu*
+*Help us collect audio resources for Pyu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pyu*
+*Help us collect video resources for Pyu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

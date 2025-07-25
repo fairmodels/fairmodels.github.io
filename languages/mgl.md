@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maleu-Kilenge  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.52  
-**Digitality Score**: -0.15  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: -0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maleu-Kilenge*
+*Help us collect text resources for Maleu-Kilenge*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maleu-Kilenge*
+*Help us collect audio resources for Maleu-Kilenge*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maleu-Kilenge*
+*Help us collect video resources for Maleu-Kilenge*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

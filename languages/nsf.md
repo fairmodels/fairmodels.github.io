@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nisu, Northwestern
+title: Northwestern Nisu
 parent: Languages
 ---
 
-# Nisu, Northwestern (nsf)
+# Northwestern Nisu (nsf)
 
 ## Overview
 
-**Language**: Nisu, Northwestern  
+**Language**: Northwestern Nisu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.35  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nisu, Northwestern*
+*Help us collect text resources for Northwestern Nisu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nisu, Northwestern*
+*Help us collect audio resources for Northwestern Nisu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nisu, Northwestern*
+*Help us collect video resources for Northwestern Nisu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

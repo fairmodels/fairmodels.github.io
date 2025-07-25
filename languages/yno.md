@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yong  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.11  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.11  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yong*
+*Help us collect text resources for Yong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yong*
+*Help us collect audio resources for Yong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yong*
+*Help us collect video resources for Yong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Sudanese
+title: Sudanese Arabic
 parent: Languages
 ---
 
-# Arabic, Sudanese (apd)
+# Sudanese Arabic (apd)
 
 ## Overview
 
-**Language**: Arabic, Sudanese  
+**Language**: Sudanese Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.27  
-**Digitality Score**: 2.75  
+**Grassroots Presence (z-score)**: 2.27  
+**Web Presence (z-score)**: 2.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Sudanese*
+*Help us collect text resources for Sudanese Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Sudanese*
+*Help us collect audio resources for Sudanese Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Sudanese*
+*Help us collect video resources for Sudanese Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

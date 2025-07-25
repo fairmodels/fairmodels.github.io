@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kurichiya  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kurichiya*
+*Help us collect text resources for Kurichiya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kurichiya*
+*Help us collect audio resources for Kurichiya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kurichiya*
+*Help us collect video resources for Kurichiya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

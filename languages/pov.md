@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Guinea-Bissau Creole  
 **Region/Area**: Western Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 1.85  
-**Digitality Score**: 1.00  
+**Grassroots Presence (z-score)**: 1.85  
+**Web Presence (z-score)**: 1.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Guinea-Bissau Creole*
+*Help us collect text resources for Guinea-Bissau Creole*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Guinea-Bissau Creole*
+*Help us collect audio resources for Guinea-Bissau Creole*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Guinea-Bissau Creole*
+*Help us collect video resources for Guinea-Bissau Creole*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

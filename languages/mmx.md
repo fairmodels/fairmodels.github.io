@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Madak  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Madak*
+*Help us collect text resources for Madak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Madak*
+*Help us collect audio resources for Madak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Madak*
+*Help us collect video resources for Madak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

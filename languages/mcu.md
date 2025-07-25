@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mambila, Cameroon
+title: Cameroon Mambila
 parent: Languages
 ---
 
-# Mambila, Cameroon (mcu)
+# Cameroon Mambila (mcu)
 
 ## Overview
 
-**Language**: Mambila, Cameroon  
+**Language**: Cameroon Mambila  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.68  
-**Digitality Score**: 0.76  
+**Grassroots Presence (z-score)**: 0.68  
+**Web Presence (z-score)**: 0.76  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mambila, Cameroon*
+*Help us collect text resources for Cameroon Mambila*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mambila, Cameroon*
+*Help us collect audio resources for Cameroon Mambila*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mambila, Cameroon*
+*Help us collect video resources for Cameroon Mambila*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

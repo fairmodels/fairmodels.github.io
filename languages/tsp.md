@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Toussian, Northern
+title: Northern Toussian
 parent: Languages
 ---
 
-# Toussian, Northern (tsp)
+# Northern Toussian (tsp)
 
 ## Overview
 
-**Language**: Toussian, Northern  
+**Language**: Northern Toussian  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.36  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Toussian, Northern*
+*Help us collect text resources for Northern Toussian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Toussian, Northern*
+*Help us collect audio resources for Northern Toussian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Toussian, Northern*
+*Help us collect video resources for Northern Toussian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

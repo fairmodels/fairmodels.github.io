@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nggem  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.45  
-**Digitality Score**: 0.14  
+**Grassroots Presence (z-score)**: 0.45  
+**Web Presence (z-score)**: 0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nggem*
+*Help us collect text resources for Nggem*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nggem*
+*Help us collect audio resources for Nggem*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nggem*
+*Help us collect video resources for Nggem*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

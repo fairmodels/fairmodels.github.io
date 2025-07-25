@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Me’phaa, Azoyú
+title: Azoyú Me’phaa
 parent: Languages
 ---
 
-# Me’phaa, Azoyú (tpc)
+# Azoyú Me’phaa (tpc)
 
 ## Overview
 
-**Language**: Me’phaa, Azoyú  
+**Language**: Azoyú Me’phaa  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.75  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -0.75  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Me’phaa, Azoyú*
+*Help us collect text resources for Azoyú Me’phaa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Me’phaa, Azoyú*
+*Help us collect audio resources for Azoyú Me’phaa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Me’phaa, Azoyú*
+*Help us collect video resources for Azoyú Me’phaa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

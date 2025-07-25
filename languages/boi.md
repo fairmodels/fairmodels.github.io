@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Barbareño  
 **Region/Area**: Northern America, Americas  
 **Family**: Chumashan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Barbareño*
+*Help us collect text resources for Barbareño*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Barbareño*
+*Help us collect audio resources for Barbareño*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Barbareño*
+*Help us collect video resources for Barbareño*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gata’  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.04  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gata’*
+*Help us collect text resources for Gata’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gata’*
+*Help us collect audio resources for Gata’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gata’*
+*Help us collect video resources for Gata’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

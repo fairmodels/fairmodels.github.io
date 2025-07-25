@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Maninkakan, Eastern
+title: Eastern Maninkakan
 parent: Languages
 ---
 
-# Maninkakan, Eastern (emk)
+# Eastern Maninkakan (emk)
 
 ## Overview
 
-**Language**: Maninkakan, Eastern  
+**Language**: Eastern Maninkakan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.93  
-**Digitality Score**: 0.47  
+**Grassroots Presence (z-score)**: 1.93  
+**Web Presence (z-score)**: 0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maninkakan, Eastern*
+*Help us collect text resources for Eastern Maninkakan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maninkakan, Eastern*
+*Help us collect audio resources for Eastern Maninkakan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maninkakan, Eastern*
+*Help us collect video resources for Eastern Maninkakan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

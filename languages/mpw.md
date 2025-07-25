@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mapidian  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -1.41  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.41  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mapidian*
+*Help us collect text resources for Mapidian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mapidian*
+*Help us collect audio resources for Mapidian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mapidian*
+*Help us collect video resources for Mapidian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

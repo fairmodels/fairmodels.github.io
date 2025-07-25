@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Frisian  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.04  
-**Digitality Score**: 3.35  
+**Grassroots Presence (z-score)**: 2.04  
+**Web Presence (z-score)**: 3.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Frisian*
+*Help us collect text resources for Frisian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Frisian*
+*Help us collect audio resources for Frisian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Frisian*
+*Help us collect video resources for Frisian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dong, Northern
+title: Northern Dong
 parent: Languages
 ---
 
-# Dong, Northern (doc)
+# Northern Dong (doc)
 
 ## Overview
 
-**Language**: Dong, Northern  
+**Language**: Northern Dong  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 0.57  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dong, Northern*
+*Help us collect text resources for Northern Dong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dong, Northern*
+*Help us collect audio resources for Northern Dong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dong, Northern*
+*Help us collect video resources for Northern Dong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

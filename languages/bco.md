@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kaluli  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.78  
-**Digitality Score**: 0.48  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 0.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaluli*
+*Help us collect text resources for Kaluli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaluli*
+*Help us collect audio resources for Kaluli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaluli*
+*Help us collect video resources for Kaluli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

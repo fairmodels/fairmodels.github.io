@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Koryak  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Chukotko-Kamchatkan  
-**Vitality Score**: -0.56  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: -0.56  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koryak*
+*Help us collect text resources for Koryak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koryak*
+*Help us collect audio resources for Koryak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koryak*
+*Help us collect video resources for Koryak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

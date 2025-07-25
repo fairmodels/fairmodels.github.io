@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zazaki, Northern
+title: Northern Zazaki
 parent: Languages
 ---
 
-# Zazaki, Northern (kiu)
+# Northern Zazaki (kiu)
 
 ## Overview
 
-**Language**: Zazaki, Northern  
+**Language**: Northern Zazaki  
 **Region/Area**: Western Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.49  
-**Digitality Score**: 1.96  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: 1.96  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zazaki, Northern*
+*Help us collect text resources for Northern Zazaki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zazaki, Northern*
+*Help us collect audio resources for Northern Zazaki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zazaki, Northern*
+*Help us collect video resources for Northern Zazaki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

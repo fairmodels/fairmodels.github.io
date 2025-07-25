@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kinabalian  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.28  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.28  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kinabalian*
+*Help us collect text resources for Kinabalian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kinabalian*
+*Help us collect audio resources for Kinabalian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kinabalian*
+*Help us collect video resources for Kinabalian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

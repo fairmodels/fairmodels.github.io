@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lombard  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.99  
-**Digitality Score**: 2.45  
+**Grassroots Presence (z-score)**: 0.99  
+**Web Presence (z-score)**: 2.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lombard*
+*Help us collect text resources for Lombard*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lombard*
+*Help us collect audio resources for Lombard*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lombard*
+*Help us collect video resources for Lombard*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

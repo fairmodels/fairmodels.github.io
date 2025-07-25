@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mamusi  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.17  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mamusi*
+*Help us collect text resources for Mamusi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mamusi*
+*Help us collect audio resources for Mamusi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mamusi*
+*Help us collect video resources for Mamusi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Shina, Kohistani
+title: Kohistani Shina
 parent: Languages
 ---
 
-# Shina, Kohistani (plk)
+# Kohistani Shina (plk)
 
 ## Overview
 
-**Language**: Shina, Kohistani  
+**Language**: Kohistani Shina  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.83  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shina, Kohistani*
+*Help us collect text resources for Kohistani Shina*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shina, Kohistani*
+*Help us collect audio resources for Kohistani Shina*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shina, Kohistani*
+*Help us collect video resources for Kohistani Shina*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

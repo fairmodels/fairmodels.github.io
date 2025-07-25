@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Komo  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.58  
-**Digitality Score**: 0.31  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Komo*
+*Help us collect text resources for Komo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Komo*
+*Help us collect audio resources for Komo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Komo*
+*Help us collect video resources for Komo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

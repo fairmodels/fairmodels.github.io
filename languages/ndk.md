@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ndaka  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ndaka*
+*Help us collect text resources for Ndaka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ndaka*
+*Help us collect audio resources for Ndaka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ndaka*
+*Help us collect video resources for Ndaka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

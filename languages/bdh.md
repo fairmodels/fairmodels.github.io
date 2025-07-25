@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Baka  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.78  
-**Digitality Score**: 0.73  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Baka*
+*Help us collect text resources for Baka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Baka*
+*Help us collect audio resources for Baka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Baka*
+*Help us collect video resources for Baka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

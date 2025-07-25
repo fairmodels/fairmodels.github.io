@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mali  
 **Region/Area**: Melanesia, Pacific  
 **Family**: East New Britain  
-**Vitality Score**: -0.01  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: -0.01  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mali*
+*Help us collect text resources for Mali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mali*
+*Help us collect audio resources for Mali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mali*
+*Help us collect video resources for Mali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

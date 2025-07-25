@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Morom  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.14  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: 0.14  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Morom*
+*Help us collect text resources for Morom*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Morom*
+*Help us collect audio resources for Morom*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Morom*
+*Help us collect video resources for Morom*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

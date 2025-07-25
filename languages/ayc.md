@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Aymara, Southern
+title: Southern Aymara
 parent: Languages
 ---
 
-# Aymara, Southern (ayc)
+# Southern Aymara (ayc)
 
 ## Overview
 
-**Language**: Aymara, Southern  
+**Language**: Southern Aymara  
 **Region/Area**: South America, Americas  
 **Family**: Aymaran  
-**Vitality Score**: 0.62  
-**Digitality Score**: 0.76  
+**Grassroots Presence (z-score)**: 0.62  
+**Web Presence (z-score)**: 0.76  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aymara, Southern*
+*Help us collect text resources for Southern Aymara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aymara, Southern*
+*Help us collect audio resources for Southern Aymara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aymara, Southern*
+*Help us collect video resources for Southern Aymara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

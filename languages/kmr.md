@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kurdish, Northern
+title: Northern Kurdish
 parent: Languages
 ---
 
-# Kurdish, Northern (kmr)
+# Northern Kurdish (kmr)
 
 ## Overview
 
-**Language**: Kurdish, Northern  
+**Language**: Northern Kurdish  
 **Region/Area**: Western Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.75  
-**Digitality Score**: 3.13  
+**Grassroots Presence (z-score)**: 2.75  
+**Web Presence (z-score)**: 3.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kurdish, Northern*
+*Help us collect text resources for Northern Kurdish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kurdish, Northern*
+*Help us collect audio resources for Northern Kurdish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kurdish, Northern*
+*Help us collect video resources for Northern Kurdish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

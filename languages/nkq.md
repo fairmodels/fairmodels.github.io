@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nkami  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.19  
-**Digitality Score**: -0.46  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: -0.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nkami*
+*Help us collect text resources for Nkami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nkami*
+*Help us collect audio resources for Nkami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nkami*
+*Help us collect video resources for Nkami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

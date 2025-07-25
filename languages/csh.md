@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Asho
+title: Asho Chin
 parent: Languages
 ---
 
-# Chin, Asho (csh)
+# Asho Chin (csh)
 
 ## Overview
 
-**Language**: Chin, Asho  
+**Language**: Asho Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.92  
-**Digitality Score**: -0.12  
+**Grassroots Presence (z-score)**: 0.92  
+**Web Presence (z-score)**: -0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Asho*
+*Help us collect text resources for Asho Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Asho*
+*Help us collect audio resources for Asho Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Asho*
+*Help us collect video resources for Asho Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

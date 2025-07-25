@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ouma  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ouma*
+*Help us collect text resources for Ouma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ouma*
+*Help us collect audio resources for Ouma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ouma*
+*Help us collect video resources for Ouma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

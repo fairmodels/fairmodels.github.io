@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Napu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.02  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: 0.02  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Napu*
+*Help us collect text resources for Napu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Napu*
+*Help us collect audio resources for Napu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Napu*
+*Help us collect video resources for Napu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

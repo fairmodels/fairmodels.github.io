@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Eudeve  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Eudeve*
+*Help us collect text resources for Eudeve*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Eudeve*
+*Help us collect audio resources for Eudeve*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Eudeve*
+*Help us collect video resources for Eudeve*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

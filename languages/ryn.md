@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Amami-Oshima, Northern
+title: Northern Amami-Oshima
 parent: Languages
 ---
 
-# Amami-Oshima, Northern (ryn)
+# Northern Amami-Oshima (ryn)
 
 ## Overview
 
-**Language**: Amami-Oshima, Northern  
+**Language**: Northern Amami-Oshima  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Japonic  
-**Vitality Score**: -0.08  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Amami-Oshima, Northern*
+*Help us collect text resources for Northern Amami-Oshima*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Amami-Oshima, Northern*
+*Help us collect audio resources for Northern Amami-Oshima*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Amami-Oshima, Northern*
+*Help us collect video resources for Northern Amami-Oshima*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

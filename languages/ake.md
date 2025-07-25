@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Akawaio  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: 0.49  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Akawaio*
+*Help us collect text resources for Akawaio*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Akawaio*
+*Help us collect audio resources for Akawaio*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Akawaio*
+*Help us collect video resources for Akawaio*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

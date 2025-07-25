@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lasi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lasi*
+*Help us collect text resources for Lasi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lasi*
+*Help us collect audio resources for Lasi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lasi*
+*Help us collect video resources for Lasi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

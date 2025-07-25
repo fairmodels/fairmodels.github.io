@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hunzib  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: -0.05  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: -0.05  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hunzib*
+*Help us collect text resources for Hunzib*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hunzib*
+*Help us collect audio resources for Hunzib*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hunzib*
+*Help us collect video resources for Hunzib*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

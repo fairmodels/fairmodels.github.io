@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Warkay-Bipim  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Warkay-Bipim*
+*Help us collect text resources for Warkay-Bipim*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Warkay-Bipim*
+*Help us collect audio resources for Warkay-Bipim*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Warkay-Bipim*
+*Help us collect video resources for Warkay-Bipim*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

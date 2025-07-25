@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Marik  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.42  
-**Digitality Score**: 0.74  
+**Grassroots Presence (z-score)**: 0.42  
+**Web Presence (z-score)**: 0.74  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Marik*
+*Help us collect text resources for Marik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Marik*
+*Help us collect audio resources for Marik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Marik*
+*Help us collect video resources for Marik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

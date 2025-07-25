@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Magɨ  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -1.06  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -1.06  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Magɨ*
+*Help us collect text resources for Magɨ*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Magɨ*
+*Help us collect audio resources for Magɨ*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Magɨ*
+*Help us collect video resources for Magɨ*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lengola  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.53  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lengola*
+*Help us collect text resources for Lengola*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lengola*
+*Help us collect audio resources for Lengola*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lengola*
+*Help us collect video resources for Lengola*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

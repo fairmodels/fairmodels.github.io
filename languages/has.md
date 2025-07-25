@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Haisla  
 **Region/Area**: Northern America, Americas  
 **Family**: Wakashan  
-**Vitality Score**: -0.67  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: -0.67  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Haisla*
+*Help us collect text resources for Haisla*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Haisla*
+*Help us collect audio resources for Haisla*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Haisla*
+*Help us collect video resources for Haisla*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dagaare, Southern
+title: Southern Dagaare
 parent: Languages
 ---
 
-# Dagaare, Southern (dga)
+# Southern Dagaare (dga)
 
 ## Overview
 
-**Language**: Dagaare, Southern  
+**Language**: Southern Dagaare  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.44  
-**Digitality Score**: 1.24  
+**Grassroots Presence (z-score)**: 1.44  
+**Web Presence (z-score)**: 1.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dagaare, Southern*
+*Help us collect text resources for Southern Dagaare*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dagaare, Southern*
+*Help us collect audio resources for Southern Dagaare*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dagaare, Southern*
+*Help us collect video resources for Southern Dagaare*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

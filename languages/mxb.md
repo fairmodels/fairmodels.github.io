@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Tezoatlán
+title: Tezoatlán Mixtec
 parent: Languages
 ---
 
-# Mixtec, Tezoatlán (mxb)
+# Tezoatlán Mixtec (mxb)
 
 ## Overview
 
-**Language**: Mixtec, Tezoatlán  
+**Language**: Tezoatlán Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.47  
-**Digitality Score**: 0.70  
+**Grassroots Presence (z-score)**: 0.47  
+**Web Presence (z-score)**: 0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Tezoatlán*
+*Help us collect text resources for Tezoatlán Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Tezoatlán*
+*Help us collect audio resources for Tezoatlán Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Tezoatlán*
+*Help us collect video resources for Tezoatlán Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

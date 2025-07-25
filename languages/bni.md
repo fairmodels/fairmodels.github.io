@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bangi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.91  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.91  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bangi*
+*Help us collect text resources for Bangi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bangi*
+*Help us collect audio resources for Bangi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bangi*
+*Help us collect video resources for Bangi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

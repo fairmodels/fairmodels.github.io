@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zoque, Copainalá
+title: Copainalá Zoque
 parent: Languages
 ---
 
-# Zoque, Copainalá (zoc)
+# Copainalá Zoque (zoc)
 
 ## Overview
 
-**Language**: Zoque, Copainalá  
+**Language**: Copainalá Zoque  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: 0.24  
-**Digitality Score**: 0.29  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: 0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zoque, Copainalá*
+*Help us collect text resources for Copainalá Zoque*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zoque, Copainalá*
+*Help us collect audio resources for Copainalá Zoque*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zoque, Copainalá*
+*Help us collect video resources for Copainalá Zoque*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

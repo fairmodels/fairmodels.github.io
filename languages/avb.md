@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Avau  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Avau*
+*Help us collect text resources for Avau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Avau*
+*Help us collect audio resources for Avau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Avau*
+*Help us collect video resources for Avau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

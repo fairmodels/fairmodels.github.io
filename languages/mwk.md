@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Maninkakan, Kita
+title: Kita Maninkakan
 parent: Languages
 ---
 
-# Maninkakan, Kita (mwk)
+# Kita Maninkakan (mwk)
 
 ## Overview
 
-**Language**: Maninkakan, Kita  
+**Language**: Kita Maninkakan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.71  
-**Digitality Score**: -0.59  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: -0.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maninkakan, Kita*
+*Help us collect text resources for Kita Maninkakan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maninkakan, Kita*
+*Help us collect audio resources for Kita Maninkakan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maninkakan, Kita*
+*Help us collect video resources for Kita Maninkakan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

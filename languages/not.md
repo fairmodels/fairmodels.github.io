@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nomatsigenga  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 0.52  
-**Digitality Score**: 1.12  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 1.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nomatsigenga*
+*Help us collect text resources for Nomatsigenga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nomatsigenga*
+*Help us collect audio resources for Nomatsigenga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nomatsigenga*
+*Help us collect video resources for Nomatsigenga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

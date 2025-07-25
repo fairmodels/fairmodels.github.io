@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kobuka  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.16  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kobuka*
+*Help us collect text resources for Kobuka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kobuka*
+*Help us collect audio resources for Kobuka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kobuka*
+*Help us collect video resources for Kobuka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Angoram  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: 0.21  
-**Digitality Score**: -0.12  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: -0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Angoram*
+*Help us collect text resources for Angoram*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Angoram*
+*Help us collect audio resources for Angoram*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Angoram*
+*Help us collect video resources for Angoram*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

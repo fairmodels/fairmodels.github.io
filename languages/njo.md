@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Ao
+title: Ao Naga
 parent: Languages
 ---
 
-# Naga, Ao (njo)
+# Ao Naga (njo)
 
 ## Overview
 
-**Language**: Naga, Ao  
+**Language**: Ao Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.96  
-**Digitality Score**: 0.50  
+**Grassroots Presence (z-score)**: 0.96  
+**Web Presence (z-score)**: 0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Ao*
+*Help us collect text resources for Ao Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Ao*
+*Help us collect audio resources for Ao Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Ao*
+*Help us collect video resources for Ao Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

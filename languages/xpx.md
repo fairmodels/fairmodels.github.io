@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tasmanian, Southwestern
+title: Southwestern Tasmanian
 parent: Languages
 ---
 
-# Tasmanian, Southwestern (xpx)
+# Southwestern Tasmanian (xpx)
 
 ## Overview
 
-**Language**: Tasmanian, Southwestern  
+**Language**: Southwestern Tasmanian  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tasmanian, Southwestern*
+*Help us collect text resources for Southwestern Tasmanian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tasmanian, Southwestern*
+*Help us collect audio resources for Southwestern Tasmanian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tasmanian, Southwestern*
+*Help us collect video resources for Southwestern Tasmanian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

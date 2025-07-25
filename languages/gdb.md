@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gadaba, Pottangi Ollar
+title: Pottangi Ollar Gadaba
 parent: Languages
 ---
 
-# Gadaba, Pottangi Ollar (gdb)
+# Pottangi Ollar Gadaba (gdb)
 
 ## Overview
 
-**Language**: Gadaba, Pottangi Ollar  
+**Language**: Pottangi Ollar Gadaba  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.60  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gadaba, Pottangi Ollar*
+*Help us collect text resources for Pottangi Ollar Gadaba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gadaba, Pottangi Ollar*
+*Help us collect audio resources for Pottangi Ollar Gadaba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gadaba, Pottangi Ollar*
+*Help us collect video resources for Pottangi Ollar Gadaba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

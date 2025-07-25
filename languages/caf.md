@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Carrier, Southern
+title: Southern Carrier
 parent: Languages
 ---
 
-# Carrier, Southern (caf)
+# Southern Carrier (caf)
 
 ## Overview
 
-**Language**: Carrier, Southern  
+**Language**: Southern Carrier  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.77  
-**Digitality Score**: 0.42  
+**Grassroots Presence (z-score)**: -0.77  
+**Web Presence (z-score)**: 0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Carrier, Southern*
+*Help us collect text resources for Southern Carrier*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Carrier, Southern*
+*Help us collect audio resources for Southern Carrier*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Carrier, Southern*
+*Help us collect video resources for Southern Carrier*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Javanese, Suriname
+title: Suriname Javanese
 parent: Languages
 ---
 
-# Javanese, Suriname (jvn)
+# Suriname Javanese (jvn)
 
 ## Overview
 
-**Language**: Javanese, Suriname  
+**Language**: Suriname Javanese  
 **Region/Area**: South America, Americas  
 **Family**: Austronesian  
-**Vitality Score**: 0.81  
-**Digitality Score**: 1.18  
+**Grassroots Presence (z-score)**: 0.81  
+**Web Presence (z-score)**: 1.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Javanese, Suriname*
+*Help us collect text resources for Suriname Javanese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Javanese, Suriname*
+*Help us collect audio resources for Suriname Javanese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Javanese, Suriname*
+*Help us collect video resources for Suriname Javanese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gitua  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.07  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gitua*
+*Help us collect text resources for Gitua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gitua*
+*Help us collect audio resources for Gitua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gitua*
+*Help us collect video resources for Gitua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

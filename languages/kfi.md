@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kurumba, Kannada
+title: Kannada Kurumba
 parent: Languages
 ---
 
-# Kurumba, Kannada (kfi)
+# Kannada Kurumba (kfi)
 
 ## Overview
 
-**Language**: Kurumba, Kannada  
+**Language**: Kannada Kurumba  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.92  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 0.92  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kurumba, Kannada*
+*Help us collect text resources for Kannada Kurumba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kurumba, Kannada*
+*Help us collect audio resources for Kannada Kurumba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kurumba, Kannada*
+*Help us collect video resources for Kannada Kurumba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

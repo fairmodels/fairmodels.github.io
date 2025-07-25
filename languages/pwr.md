@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Powari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.52  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Powari*
+*Help us collect text resources for Powari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Powari*
+*Help us collect audio resources for Powari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Powari*
+*Help us collect video resources for Powari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

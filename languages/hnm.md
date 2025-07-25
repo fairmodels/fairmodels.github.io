@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hainanese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.37  
-**Digitality Score**: 3.04  
+**Grassroots Presence (z-score)**: 1.37  
+**Web Presence (z-score)**: 3.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hainanese*
+*Help us collect text resources for Hainanese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hainanese*
+*Help us collect audio resources for Hainanese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hainanese*
+*Help us collect video resources for Hainanese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

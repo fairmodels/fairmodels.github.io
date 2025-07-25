@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ejagham  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.86  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: 0.86  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ejagham*
+*Help us collect text resources for Ejagham*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ejagham*
+*Help us collect audio resources for Ejagham*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ejagham*
+*Help us collect video resources for Ejagham*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mabaan  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.83  
-**Digitality Score**: 0.16  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: 0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mabaan*
+*Help us collect text resources for Mabaan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mabaan*
+*Help us collect audio resources for Mabaan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mabaan*
+*Help us collect video resources for Mabaan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wedau  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 1.22  
-**Digitality Score**: 1.03  
+**Grassroots Presence (z-score)**: 1.22  
+**Web Presence (z-score)**: 1.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wedau*
+*Help us collect text resources for Wedau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wedau*
+*Help us collect audio resources for Wedau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wedau*
+*Help us collect video resources for Wedau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

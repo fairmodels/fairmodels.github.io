@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sénoufo, Nyarafolo
+title: Nyarafolo Sénoufo
 parent: Languages
 ---
 
-# Sénoufo, Nyarafolo (sev)
+# Nyarafolo Sénoufo (sev)
 
 ## Overview
 
-**Language**: Sénoufo, Nyarafolo  
+**Language**: Nyarafolo Sénoufo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.81  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: 0.81  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sénoufo, Nyarafolo*
+*Help us collect text resources for Nyarafolo Sénoufo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sénoufo, Nyarafolo*
+*Help us collect audio resources for Nyarafolo Sénoufo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sénoufo, Nyarafolo*
+*Help us collect video resources for Nyarafolo Sénoufo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

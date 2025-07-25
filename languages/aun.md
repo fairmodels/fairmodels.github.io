@@ -1,30 +1,30 @@
 ---
 layout: default
-title: One, Molmo
+title: Molmo One
 parent: Languages
 ---
 
-# One, Molmo (aun)
+# Molmo One (aun)
 
 ## Overview
 
-**Language**: One, Molmo  
+**Language**: Molmo One  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.26  
-**Digitality Score**: -0.15  
+**Grassroots Presence (z-score)**: -0.26  
+**Web Presence (z-score)**: -0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for One, Molmo*
+*Help us collect text resources for Molmo One*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for One, Molmo*
+*Help us collect audio resources for Molmo One*
 
 ### Video Resources
-*Coming soon - help us collect video resources for One, Molmo*
+*Help us collect video resources for Molmo One*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

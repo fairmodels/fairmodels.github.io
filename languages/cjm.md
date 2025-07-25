@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cham, Eastern
+title: Eastern Cham
 parent: Languages
 ---
 
-# Cham, Eastern (cjm)
+# Eastern Cham (cjm)
 
 ## Overview
 
-**Language**: Cham, Eastern  
+**Language**: Eastern Cham  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.41  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cham, Eastern*
+*Help us collect text resources for Eastern Cham*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cham, Eastern*
+*Help us collect audio resources for Eastern Cham*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cham, Eastern*
+*Help us collect video resources for Eastern Cham*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

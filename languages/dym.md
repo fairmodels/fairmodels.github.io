@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Yanda Dom
+title: Yanda Dom Dogon
 parent: Languages
 ---
 
-# Dogon, Yanda Dom (dym)
+# Yanda Dom Dogon (dym)
 
 ## Overview
 
-**Language**: Dogon, Yanda Dom  
+**Language**: Yanda Dom Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Yanda Dom*
+*Help us collect text resources for Yanda Dom Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Yanda Dom*
+*Help us collect audio resources for Yanda Dom Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Yanda Dom*
+*Help us collect video resources for Yanda Dom Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ayta, Ambala
+title: Ambala Ayta
 parent: Languages
 ---
 
-# Ayta, Ambala (abc)
+# Ambala Ayta (abc)
 
 ## Overview
 
-**Language**: Ayta, Ambala  
+**Language**: Ambala Ayta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.15  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: -0.15  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ayta, Ambala*
+*Help us collect text resources for Ambala Ayta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ayta, Ambala*
+*Help us collect audio resources for Ambala Ayta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ayta, Ambala*
+*Help us collect video resources for Ambala Ayta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

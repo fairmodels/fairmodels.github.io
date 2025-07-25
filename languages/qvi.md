@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quichua, Imbabura Highland
+title: Imbabura Highland Quichua
 parent: Languages
 ---
 
-# Quichua, Imbabura Highland (qvi)
+# Imbabura Highland Quichua (qvi)
 
 ## Overview
 
-**Language**: Quichua, Imbabura Highland  
+**Language**: Imbabura Highland Quichua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.89  
-**Digitality Score**: 1.78  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 1.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quichua, Imbabura Highland*
+*Help us collect text resources for Imbabura Highland Quichua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quichua, Imbabura Highland*
+*Help us collect audio resources for Imbabura Highland Quichua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quichua, Imbabura Highland*
+*Help us collect video resources for Imbabura Highland Quichua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

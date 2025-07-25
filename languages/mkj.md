@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mokilese  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.05  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: -0.05  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mokilese*
+*Help us collect text resources for Mokilese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mokilese*
+*Help us collect audio resources for Mokilese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mokilese*
+*Help us collect video resources for Mokilese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

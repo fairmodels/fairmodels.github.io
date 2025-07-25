@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ladin  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -1.09  
-**Digitality Score**: 1.60  
+**Grassroots Presence (z-score)**: -1.09  
+**Web Presence (z-score)**: 1.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ladin*
+*Help us collect text resources for Ladin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ladin*
+*Help us collect audio resources for Ladin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ladin*
+*Help us collect video resources for Ladin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Katukína, Panoan
+title: Panoan Katukína
 parent: Languages
 ---
 
-# Katukína, Panoan (knt)
+# Panoan Katukína (knt)
 
 ## Overview
 
-**Language**: Katukína, Panoan  
+**Language**: Panoan Katukína  
 **Region/Area**: South America, Americas  
 **Family**: Panoan  
-**Vitality Score**: -0.10  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Katukína, Panoan*
+*Help us collect text resources for Panoan Katukína*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Katukína, Panoan*
+*Help us collect audio resources for Panoan Katukína*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Katukína, Panoan*
+*Help us collect video resources for Panoan Katukína*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sambal, Botolan
+title: Botolan Sambal
 parent: Languages
 ---
 
-# Sambal, Botolan (sbl)
+# Botolan Sambal (sbl)
 
 ## Overview
 
-**Language**: Sambal, Botolan  
+**Language**: Botolan Sambal  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.70  
-**Digitality Score**: 0.96  
+**Grassroots Presence (z-score)**: 0.70  
+**Web Presence (z-score)**: 0.96  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sambal, Botolan*
+*Help us collect text resources for Botolan Sambal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sambal, Botolan*
+*Help us collect audio resources for Botolan Sambal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sambal, Botolan*
+*Help us collect video resources for Botolan Sambal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

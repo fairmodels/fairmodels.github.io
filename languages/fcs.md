@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Quebec Sign Language  
 **Region/Area**: Northern America, Americas  
 **Family**: Sign language  
-**Vitality Score**: 0.52  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quebec Sign Language*
+*Help us collect text resources for Quebec Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quebec Sign Language*
+*Help us collect audio resources for Quebec Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quebec Sign Language*
+*Help us collect video resources for Quebec Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

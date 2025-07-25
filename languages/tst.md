@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tondi Songway Kiini  
 **Region/Area**: Western Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tondi Songway Kiini*
+*Help us collect text resources for Tondi Songway Kiini*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tondi Songway Kiini*
+*Help us collect audio resources for Tondi Songway Kiini*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tondi Songway Kiini*
+*Help us collect video resources for Tondi Songway Kiini*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

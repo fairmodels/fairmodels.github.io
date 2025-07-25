@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nisga’a  
 **Region/Area**: Northern America, Americas  
 **Family**: Tsimshian  
-**Vitality Score**: -0.51  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: -0.51  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nisga’a*
+*Help us collect text resources for Nisga’a*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nisga’a*
+*Help us collect audio resources for Nisga’a*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nisga’a*
+*Help us collect video resources for Nisga’a*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

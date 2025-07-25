@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Hebrew, Ancient
+title: Ancient Hebrew
 parent: Languages
 ---
 
-# Hebrew, Ancient (hbo)
+# Ancient Hebrew (hbo)
 
 ## Overview
 
-**Language**: Hebrew, Ancient  
+**Language**: Ancient Hebrew  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -1.87  
-**Digitality Score**: 1.28  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: 1.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hebrew, Ancient*
+*Help us collect text resources for Ancient Hebrew*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hebrew, Ancient*
+*Help us collect audio resources for Ancient Hebrew*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hebrew, Ancient*
+*Help us collect video resources for Ancient Hebrew*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

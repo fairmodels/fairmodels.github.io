@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lihir  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.60  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lihir*
+*Help us collect text resources for Lihir*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lihir*
+*Help us collect audio resources for Lihir*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lihir*
+*Help us collect video resources for Lihir*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

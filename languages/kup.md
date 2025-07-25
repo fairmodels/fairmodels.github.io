@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kunimaipa  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.53  
-**Digitality Score**: 0.65  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: 0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kunimaipa*
+*Help us collect text resources for Kunimaipa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kunimaipa*
+*Help us collect audio resources for Kunimaipa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kunimaipa*
+*Help us collect video resources for Kunimaipa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

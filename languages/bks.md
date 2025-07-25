@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sorsoganon, Northern
+title: Northern Sorsoganon
 parent: Languages
 ---
 
-# Sorsoganon, Northern (bks)
+# Northern Sorsoganon (bks)
 
 ## Overview
 
-**Language**: Sorsoganon, Northern  
+**Language**: Northern Sorsoganon  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.51  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sorsoganon, Northern*
+*Help us collect text resources for Northern Sorsoganon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sorsoganon, Northern*
+*Help us collect audio resources for Northern Sorsoganon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sorsoganon, Northern*
+*Help us collect video resources for Northern Sorsoganon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

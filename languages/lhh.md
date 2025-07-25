@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Laha  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.93  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Laha*
+*Help us collect text resources for Laha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Laha*
+*Help us collect audio resources for Laha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Laha*
+*Help us collect video resources for Laha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

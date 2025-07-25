@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ingush  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: 1.00  
-**Digitality Score**: 1.54  
+**Grassroots Presence (z-score)**: 1.00  
+**Web Presence (z-score)**: 1.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ingush*
+*Help us collect text resources for Ingush*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ingush*
+*Help us collect audio resources for Ingush*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ingush*
+*Help us collect video resources for Ingush*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

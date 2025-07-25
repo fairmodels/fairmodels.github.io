@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Naba  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.05  
-**Digitality Score**: 0.14  
+**Grassroots Presence (z-score)**: 1.05  
+**Web Presence (z-score)**: 0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naba*
+*Help us collect text resources for Naba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naba*
+*Help us collect audio resources for Naba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naba*
+*Help us collect video resources for Naba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

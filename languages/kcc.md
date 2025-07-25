@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lubila  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lubila*
+*Help us collect text resources for Lubila*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lubila*
+*Help us collect audio resources for Lubila*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lubila*
+*Help us collect video resources for Lubila*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

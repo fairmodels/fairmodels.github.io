@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Levuka  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.12  
-**Digitality Score**: -0.36  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: -0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Levuka*
+*Help us collect text resources for Levuka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Levuka*
+*Help us collect audio resources for Levuka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Levuka*
+*Help us collect video resources for Levuka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

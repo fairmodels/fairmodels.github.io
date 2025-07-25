@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lavukaleve  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Central Solomons  
-**Vitality Score**: 0.08  
-**Digitality Score**: 0.21  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: 0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lavukaleve*
+*Help us collect text resources for Lavukaleve*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lavukaleve*
+*Help us collect audio resources for Lavukaleve*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lavukaleve*
+*Help us collect video resources for Lavukaleve*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

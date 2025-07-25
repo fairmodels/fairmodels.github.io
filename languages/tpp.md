@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tepehua, Pisaflores
+title: Pisaflores Tepehua
 parent: Languages
 ---
 
-# Tepehua, Pisaflores (tpp)
+# Pisaflores Tepehua (tpp)
 
 ## Overview
 
-**Language**: Tepehua, Pisaflores  
+**Language**: Pisaflores Tepehua  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: -0.04  
-**Digitality Score**: 0.32  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: 0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tepehua, Pisaflores*
+*Help us collect text resources for Pisaflores Tepehua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tepehua, Pisaflores*
+*Help us collect audio resources for Pisaflores Tepehua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tepehua, Pisaflores*
+*Help us collect video resources for Pisaflores Tepehua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

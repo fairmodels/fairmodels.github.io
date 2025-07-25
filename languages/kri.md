@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Krio  
 **Region/Area**: Western Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 2.02  
-**Digitality Score**: 2.48  
+**Grassroots Presence (z-score)**: 2.02  
+**Web Presence (z-score)**: 2.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Krio*
+*Help us collect text resources for Krio*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Krio*
+*Help us collect audio resources for Krio*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Krio*
+*Help us collect video resources for Krio*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Spokane  
 **Region/Area**: Northern America, Americas  
 **Family**: Salish  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.22  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Spokane*
+*Help us collect text resources for Spokane*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Spokane*
+*Help us collect audio resources for Spokane*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Spokane*
+*Help us collect video resources for Spokane*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

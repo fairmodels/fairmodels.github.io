@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, San Juan Teita
+title: San Juan Teita Mixtec
 parent: Languages
 ---
 
-# Mixtec, San Juan Teita (xtj)
+# San Juan Teita Mixtec (xtj)
 
 ## Overview
 
-**Language**: Mixtec, San Juan Teita  
+**Language**: San Juan Teita Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.34  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: -0.34  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, San Juan Teita*
+*Help us collect text resources for San Juan Teita Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, San Juan Teita*
+*Help us collect audio resources for San Juan Teita Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, San Juan Teita*
+*Help us collect video resources for San Juan Teita Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kuku  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.37  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kuku*
+*Help us collect text resources for Kuku*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kuku*
+*Help us collect audio resources for Kuku*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kuku*
+*Help us collect video resources for Kuku*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

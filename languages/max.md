@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, North Moluccan
+title: North Moluccan Malay
 parent: Languages
 ---
 
-# Malay, North Moluccan (max)
+# North Moluccan Malay (max)
 
 ## Overview
 
-**Language**: Malay, North Moluccan  
+**Language**: North Moluccan Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: 1.76  
-**Digitality Score**: 1.99  
+**Grassroots Presence (z-score)**: 1.76  
+**Web Presence (z-score)**: 1.99  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, North Moluccan*
+*Help us collect text resources for North Moluccan Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, North Moluccan*
+*Help us collect audio resources for North Moluccan Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, North Moluccan*
+*Help us collect video resources for North Moluccan Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

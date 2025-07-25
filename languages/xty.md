@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Yoloxóchitl
+title: Yoloxóchitl Mixtec
 parent: Languages
 ---
 
-# Mixtec, Yoloxóchitl (xty)
+# Yoloxóchitl Mixtec (xty)
 
 ## Overview
 
-**Language**: Mixtec, Yoloxóchitl  
+**Language**: Yoloxóchitl Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Yoloxóchitl*
+*Help us collect text resources for Yoloxóchitl Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Yoloxóchitl*
+*Help us collect audio resources for Yoloxóchitl Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Yoloxóchitl*
+*Help us collect video resources for Yoloxóchitl Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

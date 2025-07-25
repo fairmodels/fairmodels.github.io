@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Amatlán
+title: Amatlán Zapotec
 parent: Languages
 ---
 
-# Zapotec, Amatlán (zpo)
+# Amatlán Zapotec (zpo)
 
 ## Overview
 
-**Language**: Zapotec, Amatlán  
+**Language**: Amatlán Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.55  
-**Digitality Score**: 1.09  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Amatlán*
+*Help us collect text resources for Amatlán Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Amatlán*
+*Help us collect audio resources for Amatlán Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Amatlán*
+*Help us collect video resources for Amatlán Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

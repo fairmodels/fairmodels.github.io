@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kupsapiiny  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.00  
-**Digitality Score**: 0.54  
+**Grassroots Presence (z-score)**: 1.00  
+**Web Presence (z-score)**: 0.54  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kupsapiiny*
+*Help us collect text resources for Kupsapiiny*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kupsapiiny*
+*Help us collect audio resources for Kupsapiiny*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kupsapiiny*
+*Help us collect video resources for Kupsapiiny*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

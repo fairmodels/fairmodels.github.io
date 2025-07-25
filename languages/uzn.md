@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Uzbek, Northern
+title: Northern Uzbek
 parent: Languages
 ---
 
-# Uzbek, Northern (uzn)
+# Northern Uzbek (uzn)
 
 ## Overview
 
-**Language**: Uzbek, Northern  
+**Language**: Northern Uzbek  
 **Region/Area**: Central Asia, Asia  
 **Family**: Turkic  
-**Vitality Score**: 2.82  
-**Digitality Score**: 3.04  
+**Grassroots Presence (z-score)**: 2.82  
+**Web Presence (z-score)**: 3.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Uzbek, Northern*
+*Help us collect text resources for Northern Uzbek*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Uzbek, Northern*
+*Help us collect audio resources for Northern Uzbek*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Uzbek, Northern*
+*Help us collect video resources for Northern Uzbek*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

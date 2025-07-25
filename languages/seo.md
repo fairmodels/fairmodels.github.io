@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Asaba  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Sepik  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Asaba*
+*Help us collect text resources for Asaba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Asaba*
+*Help us collect audio resources for Asaba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Asaba*
+*Help us collect video resources for Asaba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Banda-Ndélé  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.40  
-**Digitality Score**: -0.49  
+**Grassroots Presence (z-score)**: 0.40  
+**Web Presence (z-score)**: -0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Banda-Ndélé*
+*Help us collect text resources for Banda-Ndélé*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Banda-Ndélé*
+*Help us collect audio resources for Banda-Ndélé*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Banda-Ndélé*
+*Help us collect video resources for Banda-Ndélé*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

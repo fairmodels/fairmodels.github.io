@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tjungundji  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.41  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -1.41  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tjungundji*
+*Help us collect text resources for Tjungundji*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tjungundji*
+*Help us collect audio resources for Tjungundji*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tjungundji*
+*Help us collect video resources for Tjungundji*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

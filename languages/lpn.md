@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Long Phuri
+title: Long Phuri Naga
 parent: Languages
 ---
 
-# Naga, Long Phuri (lpn)
+# Long Phuri Naga (lpn)
 
 ## Overview
 
-**Language**: Naga, Long Phuri  
+**Language**: Long Phuri Naga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.02  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: 0.02  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Long Phuri*
+*Help us collect text resources for Long Phuri Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Long Phuri*
+*Help us collect audio resources for Long Phuri Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Long Phuri*
+*Help us collect video resources for Long Phuri Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

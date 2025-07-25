@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Xingoni  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.76  
-**Digitality Score**: -0.80  
+**Grassroots Presence (z-score)**: 0.76  
+**Web Presence (z-score)**: -0.80  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Xingoni*
+*Help us collect text resources for Xingoni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Xingoni*
+*Help us collect audio resources for Xingoni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Xingoni*
+*Help us collect video resources for Xingoni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

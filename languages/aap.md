@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arara, Pará
+title: Pará Arara
 parent: Languages
 ---
 
-# Arara, Pará (aap)
+# Pará Arara (aap)
 
 ## Overview
 
-**Language**: Arara, Pará  
+**Language**: Pará Arara  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: -0.51  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: -0.51  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arara, Pará*
+*Help us collect text resources for Pará Arara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arara, Pará*
+*Help us collect audio resources for Pará Arara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arara, Pará*
+*Help us collect video resources for Pará Arara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

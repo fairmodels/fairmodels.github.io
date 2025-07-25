@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Akan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.06  
-**Digitality Score**: 3.36  
+**Grassroots Presence (z-score)**: 2.06  
+**Web Presence (z-score)**: 3.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Akan*
+*Help us collect text resources for Akan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Akan*
+*Help us collect audio resources for Akan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Akan*
+*Help us collect video resources for Akan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

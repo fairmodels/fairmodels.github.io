@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yazghulami  
 **Region/Area**: Central Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.07  
-**Digitality Score**: -0.00  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: -0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yazghulami*
+*Help us collect text resources for Yazghulami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yazghulami*
+*Help us collect audio resources for Yazghulami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yazghulami*
+*Help us collect video resources for Yazghulami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, North Mesopotamian
+title: North Mesopotamian Arabic
 parent: Languages
 ---
 
-# Arabic, North Mesopotamian (ayp)
+# North Mesopotamian Arabic (ayp)
 
 ## Overview
 
-**Language**: Arabic, North Mesopotamian  
+**Language**: North Mesopotamian Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.45  
-**Digitality Score**: 1.90  
+**Grassroots Presence (z-score)**: 1.45  
+**Web Presence (z-score)**: 1.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, North Mesopotamian*
+*Help us collect text resources for North Mesopotamian Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, North Mesopotamian*
+*Help us collect audio resources for North Mesopotamian Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, North Mesopotamian*
+*Help us collect video resources for North Mesopotamian Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

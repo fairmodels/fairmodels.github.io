@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Apache, Kiowa
+title: Kiowa Apache
 parent: Languages
 ---
 
-# Apache, Kiowa (apk)
+# Kiowa Apache (apk)
 
 ## Overview
 
-**Language**: Apache, Kiowa  
+**Language**: Kiowa Apache  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Apache, Kiowa*
+*Help us collect text resources for Kiowa Apache*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Apache, Kiowa*
+*Help us collect audio resources for Kiowa Apache*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Apache, Kiowa*
+*Help us collect video resources for Kiowa Apache*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

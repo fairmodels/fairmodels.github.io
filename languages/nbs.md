@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Namibian Sign Language  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Sign language  
-**Vitality Score**: 0.53  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Namibian Sign Language*
+*Help us collect text resources for Namibian Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Namibian Sign Language*
+*Help us collect audio resources for Namibian Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Namibian Sign Language*
+*Help us collect video resources for Namibian Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

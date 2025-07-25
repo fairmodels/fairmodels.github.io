@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nyungar  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.87  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nyungar*
+*Help us collect text resources for Nyungar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nyungar*
+*Help us collect audio resources for Nyungar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nyungar*
+*Help us collect video resources for Nyungar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

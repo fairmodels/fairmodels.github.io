@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zanaki  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.53  
-**Digitality Score**: 0.16  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: 0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zanaki*
+*Help us collect text resources for Zanaki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zanaki*
+*Help us collect audio resources for Zanaki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zanaki*
+*Help us collect video resources for Zanaki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

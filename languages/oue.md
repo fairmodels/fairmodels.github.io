@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Oune  
 **Region/Area**: Melanesia, Pacific  
 **Family**: South Bougainville  
-**Vitality Score**: -0.05  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.05  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Oune*
+*Help us collect text resources for Oune*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Oune*
+*Help us collect audio resources for Oune*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Oune*
+*Help us collect video resources for Oune*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

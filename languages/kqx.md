@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mser  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -0.46  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.46  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mser*
+*Help us collect text resources for Mser*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mser*
+*Help us collect audio resources for Mser*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mser*
+*Help us collect video resources for Mser*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

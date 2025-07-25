@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Zyphe
+title: Zyphe Chin
 parent: Languages
 ---
 
-# Chin, Zyphe (zyp)
+# Zyphe Chin (zyp)
 
 ## Overview
 
-**Language**: Chin, Zyphe  
+**Language**: Zyphe Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.64  
-**Digitality Score**: 0.52  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Zyphe*
+*Help us collect text resources for Zyphe Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Zyphe*
+*Help us collect audio resources for Zyphe Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Zyphe*
+*Help us collect video resources for Zyphe Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

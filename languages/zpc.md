@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Choapan
+title: Choapan Zapotec
 parent: Languages
 ---
 
-# Zapotec, Choapan (zpc)
+# Choapan Zapotec (zpc)
 
 ## Overview
 
-**Language**: Zapotec, Choapan  
+**Language**: Choapan Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.10  
-**Digitality Score**: 1.52  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: 1.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Choapan*
+*Help us collect text resources for Choapan Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Choapan*
+*Help us collect audio resources for Choapan Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Choapan*
+*Help us collect video resources for Choapan Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

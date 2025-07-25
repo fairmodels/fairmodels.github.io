@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pinghua, Northern
+title: Northern Pinghua
 parent: Languages
 ---
 
-# Pinghua, Northern (cnp)
+# Northern Pinghua (cnp)
 
 ## Overview
 
-**Language**: Pinghua, Northern  
+**Language**: Northern Pinghua  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.21  
-**Digitality Score**: 3.04  
+**Grassroots Presence (z-score)**: 1.21  
+**Web Presence (z-score)**: 3.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pinghua, Northern*
+*Help us collect text resources for Northern Pinghua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pinghua, Northern*
+*Help us collect audio resources for Northern Pinghua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pinghua, Northern*
+*Help us collect video resources for Northern Pinghua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

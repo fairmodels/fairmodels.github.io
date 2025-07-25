@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ubykh  
 **Region/Area**: Western Asia, Asia  
 **Family**: Abkhaz-Adyghe  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.23  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ubykh*
+*Help us collect text resources for Ubykh*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ubykh*
+*Help us collect audio resources for Ubykh*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ubykh*
+*Help us collect video resources for Ubykh*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

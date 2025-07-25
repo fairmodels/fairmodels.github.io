@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Boro  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.50  
-**Digitality Score**: 2.10  
+**Grassroots Presence (z-score)**: 1.50  
+**Web Presence (z-score)**: 2.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Boro*
+*Help us collect text resources for Boro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Boro*
+*Help us collect audio resources for Boro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Boro*
+*Help us collect video resources for Boro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

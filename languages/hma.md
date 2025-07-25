@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Southern Mashan
+title: Southern Mashan Miao
 parent: Languages
 ---
 
-# Miao, Southern Mashan (hma)
+# Southern Mashan Miao (hma)
 
 ## Overview
 
-**Language**: Miao, Southern Mashan  
+**Language**: Southern Mashan Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.08  
-**Digitality Score**: 1.04  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: 1.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Southern Mashan*
+*Help us collect text resources for Southern Mashan Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Southern Mashan*
+*Help us collect audio resources for Southern Mashan Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Southern Mashan*
+*Help us collect video resources for Southern Mashan Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Farefare  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.08  
-**Digitality Score**: 1.38  
+**Grassroots Presence (z-score)**: 1.08  
+**Web Presence (z-score)**: 1.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Farefare*
+*Help us collect text resources for Farefare*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Farefare*
+*Help us collect audio resources for Farefare*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Farefare*
+*Help us collect video resources for Farefare*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

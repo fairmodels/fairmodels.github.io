@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lengo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.33  
-**Digitality Score**: 0.19  
+**Grassroots Presence (z-score)**: 0.33  
+**Web Presence (z-score)**: 0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lengo*
+*Help us collect text resources for Lengo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lengo*
+*Help us collect audio resources for Lengo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lengo*
+*Help us collect video resources for Lengo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

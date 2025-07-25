@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miwok, Lake
+title: Lake Miwok
 parent: Languages
 ---
 
-# Miwok, Lake (lmw)
+# Lake Miwok (lmw)
 
 ## Overview
 
-**Language**: Miwok, Lake  
+**Language**: Lake Miwok  
 **Region/Area**: Northern America, Americas  
 **Family**: Miwok-Costanoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miwok, Lake*
+*Help us collect text resources for Lake Miwok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miwok, Lake*
+*Help us collect audio resources for Lake Miwok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miwok, Lake*
+*Help us collect video resources for Lake Miwok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

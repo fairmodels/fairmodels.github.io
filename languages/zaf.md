@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Ayoquesco
+title: Ayoquesco Zapotec
 parent: Languages
 ---
 
-# Zapotec, Ayoquesco (zaf)
+# Ayoquesco Zapotec (zaf)
 
 ## Overview
 
-**Language**: Zapotec, Ayoquesco  
+**Language**: Ayoquesco Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -1.56  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: -1.56  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Ayoquesco*
+*Help us collect text resources for Ayoquesco Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Ayoquesco*
+*Help us collect audio resources for Ayoquesco Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Ayoquesco*
+*Help us collect video resources for Ayoquesco Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

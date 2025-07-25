@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Awyu, Jair
+title: Jair Awyu
 parent: Languages
 ---
 
-# Awyu, Jair (awv)
+# Jair Awyu (awv)
 
 ## Overview
 
-**Language**: Awyu, Jair  
+**Language**: Jair Awyu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.11  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.11  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Awyu, Jair*
+*Help us collect text resources for Jair Awyu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Awyu, Jair*
+*Help us collect audio resources for Jair Awyu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Awyu, Jair*
+*Help us collect video resources for Jair Awyu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

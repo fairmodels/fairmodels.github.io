@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kurdish, Central
+title: Central Kurdish
 parent: Languages
 ---
 
-# Kurdish, Central (ckb)
+# Central Kurdish (ckb)
 
 ## Overview
 
-**Language**: Kurdish, Central  
+**Language**: Central Kurdish  
 **Region/Area**: Western Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.62  
-**Digitality Score**: 3.09  
+**Grassroots Presence (z-score)**: 2.62  
+**Web Presence (z-score)**: 3.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kurdish, Central*
+*Help us collect text resources for Central Kurdish*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kurdish, Central*
+*Help us collect audio resources for Central Kurdish*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kurdish, Central*
+*Help us collect video resources for Central Kurdish*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aer  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: -0.50  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.50  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aer*
+*Help us collect text resources for Aer*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aer*
+*Help us collect audio resources for Aer*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aer*
+*Help us collect video resources for Aer*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

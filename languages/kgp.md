@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kaingang  
 **Region/Area**: South America, Americas  
 **Family**: Jean  
-**Vitality Score**: 0.16  
-**Digitality Score**: 1.01  
+**Grassroots Presence (z-score)**: 0.16  
+**Web Presence (z-score)**: 1.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaingang*
+*Help us collect text resources for Kaingang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaingang*
+*Help us collect audio resources for Kaingang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaingang*
+*Help us collect video resources for Kaingang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kokota  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.21  
-**Digitality Score**: 0.07  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: 0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kokota*
+*Help us collect text resources for Kokota*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kokota*
+*Help us collect audio resources for Kokota*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kokota*
+*Help us collect video resources for Kokota*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

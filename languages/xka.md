@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kalkoti  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kalkoti*
+*Help us collect text resources for Kalkoti*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kalkoti*
+*Help us collect audio resources for Kalkoti*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kalkoti*
+*Help us collect video resources for Kalkoti*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

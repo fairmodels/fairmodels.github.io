@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Indo-Portuguese  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: 0.04  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: 0.04  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Indo-Portuguese*
+*Help us collect text resources for Indo-Portuguese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Indo-Portuguese*
+*Help us collect audio resources for Indo-Portuguese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Indo-Portuguese*
+*Help us collect video resources for Indo-Portuguese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lasalimu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lasalimu*
+*Help us collect text resources for Lasalimu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lasalimu*
+*Help us collect audio resources for Lasalimu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lasalimu*
+*Help us collect video resources for Lasalimu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

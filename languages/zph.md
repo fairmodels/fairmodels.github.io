@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Totomachapan
+title: Totomachapan Zapotec
 parent: Languages
 ---
 
-# Zapotec, Totomachapan (zph)
+# Totomachapan Zapotec (zph)
 
 ## Overview
 
-**Language**: Zapotec, Totomachapan  
+**Language**: Totomachapan Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.85  
-**Digitality Score**: 0.91  
+**Grassroots Presence (z-score)**: -0.85  
+**Web Presence (z-score)**: 0.91  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Totomachapan*
+*Help us collect text resources for Totomachapan Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Totomachapan*
+*Help us collect audio resources for Totomachapan Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Totomachapan*
+*Help us collect video resources for Totomachapan Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

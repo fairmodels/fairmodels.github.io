@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Northern Kalapuya  
 **Region/Area**: Northern America, Americas  
 **Family**: Takelman  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Northern Kalapuya*
+*Help us collect text resources for Northern Kalapuya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Northern Kalapuya*
+*Help us collect audio resources for Northern Kalapuya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Northern Kalapuya*
+*Help us collect video resources for Northern Kalapuya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

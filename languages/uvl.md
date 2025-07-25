@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lote  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.49  
-**Digitality Score**: 0.95  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: 0.95  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lote*
+*Help us collect text resources for Lote*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lote*
+*Help us collect audio resources for Lote*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lote*
+*Help us collect video resources for Lote*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

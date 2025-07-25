@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sisaala, Tumulung
+title: Tumulung Sisaala
 parent: Languages
 ---
 
-# Sisaala, Tumulung (sil)
+# Tumulung Sisaala (sil)
 
 ## Overview
 
-**Language**: Sisaala, Tumulung  
+**Language**: Tumulung Sisaala  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.85  
-**Digitality Score**: 0.72  
+**Grassroots Presence (z-score)**: 0.85  
+**Web Presence (z-score)**: 0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sisaala, Tumulung*
+*Help us collect text resources for Tumulung Sisaala*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sisaala, Tumulung*
+*Help us collect audio resources for Tumulung Sisaala*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sisaala, Tumulung*
+*Help us collect video resources for Tumulung Sisaala*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

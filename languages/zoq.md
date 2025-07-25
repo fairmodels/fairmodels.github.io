@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zoque, Tabasco
+title: Tabasco Zoque
 parent: Languages
 ---
 
-# Zoque, Tabasco (zoq)
+# Tabasco Zoque (zoq)
 
 ## Overview
 
-**Language**: Zoque, Tabasco  
+**Language**: Tabasco Zoque  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: -1.39  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: -1.39  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zoque, Tabasco*
+*Help us collect text resources for Tabasco Zoque*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zoque, Tabasco*
+*Help us collect audio resources for Tabasco Zoque*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zoque, Tabasco*
+*Help us collect video resources for Tabasco Zoque*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

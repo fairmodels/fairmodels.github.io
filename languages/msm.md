@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Agusan
+title: Agusan Manobo
 parent: Languages
 ---
 
-# Manobo, Agusan (msm)
+# Agusan Manobo (msm)
 
 ## Overview
 
-**Language**: Manobo, Agusan  
+**Language**: Agusan Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.78  
-**Digitality Score**: 1.41  
+**Grassroots Presence (z-score)**: 0.78  
+**Web Presence (z-score)**: 1.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Agusan*
+*Help us collect text resources for Agusan Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Agusan*
+*Help us collect audio resources for Agusan Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Agusan*
+*Help us collect video resources for Agusan Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

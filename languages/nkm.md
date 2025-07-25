@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Namat  
 **Region/Area**: Melanesia, Pacific  
 **Family**: South-Central Papuan  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.67  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Namat*
+*Help us collect text resources for Namat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Namat*
+*Help us collect audio resources for Namat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Namat*
+*Help us collect video resources for Namat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

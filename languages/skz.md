@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sekar  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.31  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.31  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sekar*
+*Help us collect text resources for Sekar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sekar*
+*Help us collect audio resources for Sekar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sekar*
+*Help us collect video resources for Sekar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

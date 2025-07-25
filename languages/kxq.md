@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kanum, Smärky
+title: Smärky Kanum
 parent: Languages
 ---
 
-# Kanum, Smärky (kxq)
+# Smärky Kanum (kxq)
 
 ## Overview
 
-**Language**: Kanum, Smärky  
+**Language**: Smärky Kanum  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: South-Central Papuan  
-**Vitality Score**: -0.44  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: -0.44  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanum, Smärky*
+*Help us collect text resources for Smärky Kanum*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanum, Smärky*
+*Help us collect audio resources for Smärky Kanum*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanum, Smärky*
+*Help us collect video resources for Smärky Kanum*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

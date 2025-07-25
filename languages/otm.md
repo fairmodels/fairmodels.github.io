@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Otomi, Eastern Highland
+title: Eastern Highland Otomi
 parent: Languages
 ---
 
-# Otomi, Eastern Highland (otm)
+# Eastern Highland Otomi (otm)
 
 ## Overview
 
-**Language**: Otomi, Eastern Highland  
+**Language**: Eastern Highland Otomi  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.75  
-**Digitality Score**: 1.08  
+**Grassroots Presence (z-score)**: 0.75  
+**Web Presence (z-score)**: 1.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Otomi, Eastern Highland*
+*Help us collect text resources for Eastern Highland Otomi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Otomi, Eastern Highland*
+*Help us collect audio resources for Eastern Highland Otomi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Otomi, Eastern Highland*
+*Help us collect video resources for Eastern Highland Otomi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

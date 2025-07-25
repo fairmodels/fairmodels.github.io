@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Warji  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.18  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 0.18  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Warji*
+*Help us collect text resources for Warji*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Warji*
+*Help us collect audio resources for Warji*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Warji*
+*Help us collect video resources for Warji*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

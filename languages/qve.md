@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Eastern Apurímac
+title: Eastern Apurímac Quechua
 parent: Languages
 ---
 
-# Quechua, Eastern Apurímac (qve)
+# Eastern Apurímac Quechua (qve)
 
 ## Overview
 
-**Language**: Quechua, Eastern Apurímac  
+**Language**: Eastern Apurímac Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 1.25  
-**Digitality Score**: 1.44  
+**Grassroots Presence (z-score)**: 1.25  
+**Web Presence (z-score)**: 1.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Eastern Apurímac*
+*Help us collect text resources for Eastern Apurímac Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Eastern Apurímac*
+*Help us collect audio resources for Eastern Apurímac Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Eastern Apurímac*
+*Help us collect video resources for Eastern Apurímac Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

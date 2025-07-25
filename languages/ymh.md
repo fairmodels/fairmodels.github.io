@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mili  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.19  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mili*
+*Help us collect text resources for Mili*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mili*
+*Help us collect audio resources for Mili*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mili*
+*Help us collect video resources for Mili*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

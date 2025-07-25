@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bekwel  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.05  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bekwel*
+*Help us collect text resources for Bekwel*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bekwel*
+*Help us collect audio resources for Bekwel*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bekwel*
+*Help us collect video resources for Bekwel*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

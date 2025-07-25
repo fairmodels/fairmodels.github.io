@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bisaya, Brunei
+title: Brunei Bisaya
 parent: Languages
 ---
 
-# Bisaya, Brunei (bsb)
+# Brunei Bisaya (bsb)
 
 ## Overview
 
-**Language**: Bisaya, Brunei  
+**Language**: Brunei Bisaya  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.77  
-**Digitality Score**: -0.08  
+**Grassroots Presence (z-score)**: 0.77  
+**Web Presence (z-score)**: -0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bisaya, Brunei*
+*Help us collect text resources for Brunei Bisaya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bisaya, Brunei*
+*Help us collect audio resources for Brunei Bisaya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bisaya, Brunei*
+*Help us collect video resources for Brunei Bisaya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

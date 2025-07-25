@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Awyu, North
+title: North Awyu
 parent: Languages
 ---
 
-# Awyu, North (yir)
+# North Awyu (yir)
 
 ## Overview
 
-**Language**: Awyu, North  
+**Language**: North Awyu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.16  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Awyu, North*
+*Help us collect text resources for North Awyu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Awyu, North*
+*Help us collect audio resources for North Awyu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Awyu, North*
+*Help us collect video resources for North Awyu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

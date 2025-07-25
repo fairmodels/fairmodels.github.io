@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Venetian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.31  
-**Digitality Score**: 2.44  
+**Grassroots Presence (z-score)**: 1.31  
+**Web Presence (z-score)**: 2.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Venetian*
+*Help us collect text resources for Venetian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Venetian*
+*Help us collect audio resources for Venetian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Venetian*
+*Help us collect video resources for Venetian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kinnauri, Pahari
+title: Pahari Kinnauri
 parent: Languages
 ---
 
-# Kinnauri, Pahari (kjo)
+# Pahari Kinnauri (kjo)
 
 ## Overview
 
-**Language**: Kinnauri, Pahari  
+**Language**: Pahari Kinnauri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.49  
-**Digitality Score**: -0.28  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: -0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kinnauri, Pahari*
+*Help us collect text resources for Pahari Kinnauri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kinnauri, Pahari*
+*Help us collect audio resources for Pahari Kinnauri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kinnauri, Pahari*
+*Help us collect video resources for Pahari Kinnauri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

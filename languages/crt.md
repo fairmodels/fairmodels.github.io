@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chorote, Iyojwa’ja
+title: Iyojwa’ja Chorote
 parent: Languages
 ---
 
-# Chorote, Iyojwa’ja (crt)
+# Iyojwa’ja Chorote (crt)
 
 ## Overview
 
-**Language**: Chorote, Iyojwa’ja  
+**Language**: Iyojwa’ja Chorote  
 **Region/Area**: South America, Americas  
 **Family**: Matacoan  
-**Vitality Score**: -0.24  
-**Digitality Score**: 0.16  
+**Grassroots Presence (z-score)**: -0.24  
+**Web Presence (z-score)**: 0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chorote, Iyojwa’ja*
+*Help us collect text resources for Iyojwa’ja Chorote*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chorote, Iyojwa’ja*
+*Help us collect audio resources for Iyojwa’ja Chorote*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chorote, Iyojwa’ja*
+*Help us collect video resources for Iyojwa’ja Chorote*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yukaghir, Southern
+title: Southern Yukaghir
 parent: Languages
 ---
 
-# Yukaghir, Southern (yux)
+# Southern Yukaghir (yux)
 
 ## Overview
 
-**Language**: Yukaghir, Southern  
+**Language**: Southern Yukaghir  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Yukaghir  
-**Vitality Score**: -0.81  
-**Digitality Score**: -0.57  
+**Grassroots Presence (z-score)**: -0.81  
+**Web Presence (z-score)**: -0.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yukaghir, Southern*
+*Help us collect text resources for Southern Yukaghir*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yukaghir, Southern*
+*Help us collect audio resources for Southern Yukaghir*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yukaghir, Southern*
+*Help us collect video resources for Southern Yukaghir*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

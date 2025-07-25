@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Haida, Northern
+title: Northern Haida
 parent: Languages
 ---
 
-# Haida, Northern (hdn)
+# Northern Haida (hdn)
 
 ## Overview
 
-**Language**: Haida, Northern  
+**Language**: Northern Haida  
 **Region/Area**: Northern America, Americas  
 **Family**: Haida  
-**Vitality Score**: -1.32  
-**Digitality Score**: 0.47  
+**Grassroots Presence (z-score)**: -1.32  
+**Web Presence (z-score)**: 0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Haida, Northern*
+*Help us collect text resources for Northern Haida*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Haida, Northern*
+*Help us collect audio resources for Northern Haida*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Haida, Northern*
+*Help us collect video resources for Northern Haida*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

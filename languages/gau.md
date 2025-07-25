@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gadaba, Mudhili
+title: Mudhili Gadaba
 parent: Languages
 ---
 
-# Gadaba, Mudhili (gau)
+# Mudhili Gadaba (gau)
 
 ## Overview
 
-**Language**: Gadaba, Mudhili  
+**Language**: Mudhili Gadaba  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.52  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gadaba, Mudhili*
+*Help us collect text resources for Mudhili Gadaba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gadaba, Mudhili*
+*Help us collect audio resources for Mudhili Gadaba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gadaba, Mudhili*
+*Help us collect video resources for Mudhili Gadaba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kurumba, Mullu
+title: Mullu Kurumba
 parent: Languages
 ---
 
-# Kurumba, Mullu (kpb)
+# Mullu Kurumba (kpb)
 
 ## Overview
 
-**Language**: Kurumba, Mullu  
+**Language**: Mullu Kurumba  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.36  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: 0.36  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kurumba, Mullu*
+*Help us collect text resources for Mullu Kurumba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kurumba, Mullu*
+*Help us collect audio resources for Mullu Kurumba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kurumba, Mullu*
+*Help us collect video resources for Mullu Kurumba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

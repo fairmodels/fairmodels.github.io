@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gwere  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.43  
-**Digitality Score**: 1.07  
+**Grassroots Presence (z-score)**: 1.43  
+**Web Presence (z-score)**: 1.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gwere*
+*Help us collect text resources for Gwere*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gwere*
+*Help us collect audio resources for Gwere*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gwere*
+*Help us collect video resources for Gwere*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

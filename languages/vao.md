@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Vao  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.04  
-**Digitality Score**: -0.53  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: -0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Vao*
+*Help us collect text resources for Vao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Vao*
+*Help us collect audio resources for Vao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Vao*
+*Help us collect video resources for Vao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bukharic  
 **Region/Area**: Central Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.55  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bukharic*
+*Help us collect text resources for Bukharic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bukharic*
+*Help us collect audio resources for Bukharic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bukharic*
+*Help us collect video resources for Bukharic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

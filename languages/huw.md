@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hukumina  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hukumina*
+*Help us collect text resources for Hukumina*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hukumina*
+*Help us collect audio resources for Hukumina*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hukumina*
+*Help us collect video resources for Hukumina*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

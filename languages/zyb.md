@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zhuang, Yongbei
+title: Yongbei Zhuang
 parent: Languages
 ---
 
-# Zhuang, Yongbei (zyb)
+# Yongbei Zhuang (zyb)
 
 ## Overview
 
-**Language**: Zhuang, Yongbei  
+**Language**: Yongbei Zhuang  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 1.22  
-**Digitality Score**: 0.56  
+**Grassroots Presence (z-score)**: 1.22  
+**Web Presence (z-score)**: 0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zhuang, Yongbei*
+*Help us collect text resources for Yongbei Zhuang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zhuang, Yongbei*
+*Help us collect audio resources for Yongbei Zhuang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zhuang, Yongbei*
+*Help us collect video resources for Yongbei Zhuang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

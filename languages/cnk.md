@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Khumi
+title: Khumi Chin
 parent: Languages
 ---
 
-# Chin, Khumi (cnk)
+# Khumi Chin (cnk)
 
 ## Overview
 
-**Language**: Chin, Khumi  
+**Language**: Khumi Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.79  
-**Digitality Score**: 0.09  
+**Grassroots Presence (z-score)**: 0.79  
+**Web Presence (z-score)**: 0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Khumi*
+*Help us collect text resources for Khumi Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Khumi*
+*Help us collect audio resources for Khumi Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Khumi*
+*Help us collect video resources for Khumi Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

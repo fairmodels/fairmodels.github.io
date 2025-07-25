@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zaiwa  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.90  
-**Digitality Score**: 0.95  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: 0.95  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zaiwa*
+*Help us collect text resources for Zaiwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zaiwa*
+*Help us collect audio resources for Zaiwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zaiwa*
+*Help us collect video resources for Zaiwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

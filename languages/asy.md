@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Asmat, Yaosakor
+title: Yaosakor Asmat
 parent: Languages
 ---
 
-# Asmat, Yaosakor (asy)
+# Yaosakor Asmat (asy)
 
 ## Overview
 
-**Language**: Asmat, Yaosakor  
+**Language**: Yaosakor Asmat  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Asmat, Yaosakor*
+*Help us collect text resources for Yaosakor Asmat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Asmat, Yaosakor*
+*Help us collect audio resources for Yaosakor Asmat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Asmat, Yaosakor*
+*Help us collect video resources for Yaosakor Asmat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

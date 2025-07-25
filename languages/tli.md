@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tlingit  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -1.04  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: -1.04  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tlingit*
+*Help us collect text resources for Tlingit*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tlingit*
+*Help us collect audio resources for Tlingit*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tlingit*
+*Help us collect video resources for Tlingit*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

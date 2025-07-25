@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kurumba, Jennu
+title: Jennu Kurumba
 parent: Languages
 ---
 
-# Kurumba, Jennu (xuj)
+# Jennu Kurumba (xuj)
 
 ## Overview
 
-**Language**: Kurumba, Jennu  
+**Language**: Jennu Kurumba  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 0.53  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kurumba, Jennu*
+*Help us collect text resources for Jennu Kurumba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kurumba, Jennu*
+*Help us collect audio resources for Jennu Kurumba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kurumba, Jennu*
+*Help us collect video resources for Jennu Kurumba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Munggui  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.24  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.24  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Munggui*
+*Help us collect text resources for Munggui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Munggui*
+*Help us collect audio resources for Munggui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Munggui*
+*Help us collect video resources for Munggui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

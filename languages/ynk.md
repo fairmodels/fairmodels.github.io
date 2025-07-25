@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yupik, Naukan
+title: Naukan Yupik
 parent: Languages
 ---
 
-# Yupik, Naukan (ynk)
+# Naukan Yupik (ynk)
 
 ## Overview
 
-**Language**: Yupik, Naukan  
+**Language**: Naukan Yupik  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Eskimo-Aleut  
-**Vitality Score**: -1.04  
-**Digitality Score**: -0.49  
+**Grassroots Presence (z-score)**: -1.04  
+**Web Presence (z-score)**: -0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yupik, Naukan*
+*Help us collect text resources for Naukan Yupik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yupik, Naukan*
+*Help us collect audio resources for Naukan Yupik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yupik, Naukan*
+*Help us collect video resources for Naukan Yupik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

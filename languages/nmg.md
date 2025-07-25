@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kwasio  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.65  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kwasio*
+*Help us collect text resources for Kwasio*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kwasio*
+*Help us collect audio resources for Kwasio*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kwasio*
+*Help us collect video resources for Kwasio*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mongondow  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.39  
-**Digitality Score**: 0.75  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: 0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mongondow*
+*Help us collect text resources for Mongondow*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mongondow*
+*Help us collect audio resources for Mongondow*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mongondow*
+*Help us collect video resources for Mongondow*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

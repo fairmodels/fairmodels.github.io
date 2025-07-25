@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ha  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.85  
-**Digitality Score**: -0.04  
+**Grassroots Presence (z-score)**: 0.85  
+**Web Presence (z-score)**: -0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ha*
+*Help us collect text resources for Ha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ha*
+*Help us collect audio resources for Ha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ha*
+*Help us collect video resources for Ha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

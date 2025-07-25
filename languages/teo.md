@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ateso  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.61  
-**Digitality Score**: 1.83  
+**Grassroots Presence (z-score)**: 1.61  
+**Web Presence (z-score)**: 1.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ateso*
+*Help us collect text resources for Ateso*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ateso*
+*Help us collect audio resources for Ateso*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ateso*
+*Help us collect video resources for Ateso*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

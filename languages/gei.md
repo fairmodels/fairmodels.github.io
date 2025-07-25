@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gebe  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.20  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.20  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gebe*
+*Help us collect text resources for Gebe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gebe*
+*Help us collect audio resources for Gebe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gebe*
+*Help us collect video resources for Gebe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

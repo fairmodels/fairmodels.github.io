@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, North Bolivian
+title: North Bolivian Quechua
 parent: Languages
 ---
 
-# Quechua, North Bolivian (qul)
+# North Bolivian Quechua (qul)
 
 ## Overview
 
-**Language**: Quechua, North Bolivian  
+**Language**: North Bolivian Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 1.81  
-**Digitality Score**: 1.01  
+**Grassroots Presence (z-score)**: 1.81  
+**Web Presence (z-score)**: 1.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, North Bolivian*
+*Help us collect text resources for North Bolivian Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, North Bolivian*
+*Help us collect audio resources for North Bolivian Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, North Bolivian*
+*Help us collect video resources for North Bolivian Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

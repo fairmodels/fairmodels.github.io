@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Tlazoyaltepec
+title: Tlazoyaltepec Mixtec
 parent: Languages
 ---
 
-# Mixtec, Tlazoyaltepec (mqh)
+# Tlazoyaltepec Mixtec (mqh)
 
 ## Overview
 
-**Language**: Mixtec, Tlazoyaltepec  
+**Language**: Tlazoyaltepec Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.22  
-**Digitality Score**: -0.42  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: -0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Tlazoyaltepec*
+*Help us collect text resources for Tlazoyaltepec Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Tlazoyaltepec*
+*Help us collect audio resources for Tlazoyaltepec Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Tlazoyaltepec*
+*Help us collect video resources for Tlazoyaltepec Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

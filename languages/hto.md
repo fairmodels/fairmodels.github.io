@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Witoto, Minika
+title: Minika Witoto
 parent: Languages
 ---
 
-# Witoto, Minika (hto)
+# Minika Witoto (hto)
 
 ## Overview
 
-**Language**: Witoto, Minika  
+**Language**: Minika Witoto  
 **Region/Area**: South America, Americas  
 **Family**: Witotoan  
-**Vitality Score**: -0.16  
-**Digitality Score**: 0.67  
+**Grassroots Presence (z-score)**: -0.16  
+**Web Presence (z-score)**: 0.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Witoto, Minika*
+*Help us collect text resources for Minika Witoto*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Witoto, Minika*
+*Help us collect audio resources for Minika Witoto*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Witoto, Minika*
+*Help us collect video resources for Minika Witoto*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

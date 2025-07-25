@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kiwai, Northeast
+title: Northeast Kiwai
 parent: Languages
 ---
 
-# Kiwai, Northeast (kiw)
+# Northeast Kiwai (kiw)
 
 ## Overview
 
-**Language**: Kiwai, Northeast  
+**Language**: Northeast Kiwai  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.49  
-**Digitality Score**: 0.63  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: 0.63  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kiwai, Northeast*
+*Help us collect text resources for Northeast Kiwai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kiwai, Northeast*
+*Help us collect audio resources for Northeast Kiwai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kiwai, Northeast*
+*Help us collect video resources for Northeast Kiwai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

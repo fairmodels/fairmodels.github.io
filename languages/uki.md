@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kui  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Dravidian  
-**Vitality Score**: 1.10  
-**Digitality Score**: -0.31  
+**Grassroots Presence (z-score)**: 1.10  
+**Web Presence (z-score)**: -0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kui*
+*Help us collect text resources for Kui*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kui*
+*Help us collect audio resources for Kui*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kui*
+*Help us collect video resources for Kui*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

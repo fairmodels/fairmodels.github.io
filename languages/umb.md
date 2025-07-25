@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Umbundu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 2.02  
-**Digitality Score**: 2.15  
+**Grassroots Presence (z-score)**: 2.02  
+**Web Presence (z-score)**: 2.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Umbundu*
+*Help us collect text resources for Umbundu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Umbundu*
+*Help us collect audio resources for Umbundu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Umbundu*
+*Help us collect video resources for Umbundu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

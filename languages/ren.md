@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Rengao  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Rengao*
+*Help us collect text resources for Rengao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Rengao*
+*Help us collect audio resources for Rengao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Rengao*
+*Help us collect video resources for Rengao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

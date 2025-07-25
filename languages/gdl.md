@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dirasha  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.13  
-**Digitality Score**: 0.39  
+**Grassroots Presence (z-score)**: 1.13  
+**Web Presence (z-score)**: 0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dirasha*
+*Help us collect text resources for Dirasha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dirasha*
+*Help us collect audio resources for Dirasha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dirasha*
+*Help us collect video resources for Dirasha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tagbanwa, Calamian
+title: Calamian Tagbanwa
 parent: Languages
 ---
 
-# Tagbanwa, Calamian (tbk)
+# Calamian Tagbanwa (tbk)
 
 ## Overview
 
-**Language**: Tagbanwa, Calamian  
+**Language**: Calamian Tagbanwa  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.55  
-**Digitality Score**: 0.74  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 0.74  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tagbanwa, Calamian*
+*Help us collect text resources for Calamian Tagbanwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tagbanwa, Calamian*
+*Help us collect audio resources for Calamian Tagbanwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tagbanwa, Calamian*
+*Help us collect video resources for Calamian Tagbanwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

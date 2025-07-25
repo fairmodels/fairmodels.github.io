@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gizrra  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Eastern Trans-Fly  
-**Vitality Score**: 0.58  
-**Digitality Score**: 0.47  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gizrra*
+*Help us collect text resources for Gizrra*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gizrra*
+*Help us collect audio resources for Gizrra*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gizrra*
+*Help us collect video resources for Gizrra*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

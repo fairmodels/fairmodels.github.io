@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wali  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.82  
-**Digitality Score**: 0.04  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 0.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wali*
+*Help us collect text resources for Wali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wali*
+*Help us collect audio resources for Wali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wali*
+*Help us collect video resources for Wali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

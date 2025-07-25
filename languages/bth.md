@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bidayuh, Biatah
+title: Biatah Bidayuh
 parent: Languages
 ---
 
-# Bidayuh, Biatah (bth)
+# Biatah Bidayuh (bth)
 
 ## Overview
 
-**Language**: Bidayuh, Biatah  
+**Language**: Biatah Bidayuh  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.33  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.33  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bidayuh, Biatah*
+*Help us collect text resources for Biatah Bidayuh*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bidayuh, Biatah*
+*Help us collect audio resources for Biatah Bidayuh*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bidayuh, Biatah*
+*Help us collect video resources for Biatah Bidayuh*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

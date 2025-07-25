@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tinani  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.10  
-**Digitality Score**: -0.13  
+**Grassroots Presence (z-score)**: 0.10  
+**Web Presence (z-score)**: -0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tinani*
+*Help us collect text resources for Tinani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tinani*
+*Help us collect audio resources for Tinani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tinani*
+*Help us collect video resources for Tinani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Mitlatongo
+title: Mitlatongo Mixtec
 parent: Languages
 ---
 
-# Mixtec, Mitlatongo (vmm)
+# Mitlatongo Mixtec (vmm)
 
 ## Overview
 
-**Language**: Mixtec, Mitlatongo  
+**Language**: Mitlatongo Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.02  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.02  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Mitlatongo*
+*Help us collect text resources for Mitlatongo Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Mitlatongo*
+*Help us collect audio resources for Mitlatongo Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Mitlatongo*
+*Help us collect video resources for Mitlatongo Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Belhariya  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.15  
-**Digitality Score**: -0.61  
+**Grassroots Presence (z-score)**: -0.15  
+**Web Presence (z-score)**: -0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Belhariya*
+*Help us collect text resources for Belhariya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Belhariya*
+*Help us collect audio resources for Belhariya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Belhariya*
+*Help us collect video resources for Belhariya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

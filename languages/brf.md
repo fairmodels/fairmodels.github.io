@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bira  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.39  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bira*
+*Help us collect text resources for Bira*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bira*
+*Help us collect audio resources for Bira*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bira*
+*Help us collect video resources for Bira*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

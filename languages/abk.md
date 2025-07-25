@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Abkhaz  
 **Region/Area**: Western Asia, Asia  
 **Family**: Abkhaz-Adyghe  
-**Vitality Score**: 1.86  
-**Digitality Score**: 2.92  
+**Grassroots Presence (z-score)**: 1.86  
+**Web Presence (z-score)**: 2.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Abkhaz*
+*Help us collect text resources for Abkhaz*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Abkhaz*
+*Help us collect audio resources for Abkhaz*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Abkhaz*
+*Help us collect video resources for Abkhaz*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

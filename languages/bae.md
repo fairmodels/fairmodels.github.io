@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Baré  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: -1.72  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -1.72  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Baré*
+*Help us collect text resources for Baré*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Baré*
+*Help us collect audio resources for Baré*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Baré*
+*Help us collect video resources for Baré*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

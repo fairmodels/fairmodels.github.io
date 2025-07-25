@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yala  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.98  
-**Digitality Score**: 0.21  
+**Grassroots Presence (z-score)**: 0.98  
+**Web Presence (z-score)**: 0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yala*
+*Help us collect text resources for Yala*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yala*
+*Help us collect audio resources for Yala*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yala*
+*Help us collect video resources for Yala*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

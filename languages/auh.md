@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aushi  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.53  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aushi*
+*Help us collect text resources for Aushi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aushi*
+*Help us collect audio resources for Aushi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aushi*
+*Help us collect video resources for Aushi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

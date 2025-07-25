@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mawak  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -1.12  
-**Digitality Score**: -0.72  
+**Grassroots Presence (z-score)**: -1.12  
+**Web Presence (z-score)**: -0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mawak*
+*Help us collect text resources for Mawak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mawak*
+*Help us collect audio resources for Mawak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mawak*
+*Help us collect video resources for Mawak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

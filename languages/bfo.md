@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Birifor, Malba
+title: Malba Birifor
 parent: Languages
 ---
 
-# Birifor, Malba (bfo)
+# Malba Birifor (bfo)
 
 ## Overview
 
-**Language**: Birifor, Malba  
+**Language**: Malba Birifor  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.85  
-**Digitality Score**: 0.27  
+**Grassroots Presence (z-score)**: 0.85  
+**Web Presence (z-score)**: 0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Birifor, Malba*
+*Help us collect text resources for Malba Birifor*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Birifor, Malba*
+*Help us collect audio resources for Malba Birifor*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Birifor, Malba*
+*Help us collect video resources for Malba Birifor*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

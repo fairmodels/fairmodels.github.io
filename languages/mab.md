@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Yutanduchi
+title: Yutanduchi Mixtec
 parent: Languages
 ---
 
-# Mixtec, Yutanduchi (mab)
+# Yutanduchi Mixtec (mab)
 
 ## Overview
 
-**Language**: Mixtec, Yutanduchi  
+**Language**: Yutanduchi Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.49  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: -0.49  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Yutanduchi*
+*Help us collect text resources for Yutanduchi Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Yutanduchi*
+*Help us collect audio resources for Yutanduchi Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Yutanduchi*
+*Help us collect video resources for Yutanduchi Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

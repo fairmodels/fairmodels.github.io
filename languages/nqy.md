@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Akyaung Ari
+title: Akyaung Ari Naga
 parent: Languages
 ---
 
-# Naga, Akyaung Ari (nqy)
+# Akyaung Ari Naga (nqy)
 
 ## Overview
 
-**Language**: Naga, Akyaung Ari  
+**Language**: Akyaung Ari Naga  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.03  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Akyaung Ari*
+*Help us collect text resources for Akyaung Ari Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Akyaung Ari*
+*Help us collect audio resources for Akyaung Ari Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Akyaung Ari*
+*Help us collect video resources for Akyaung Ari Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

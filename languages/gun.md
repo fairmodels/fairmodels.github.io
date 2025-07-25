@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Guaraní, Mbyá
+title: Mbyá Guaraní
 parent: Languages
 ---
 
-# Guaraní, Mbyá (gun)
+# Mbyá Guaraní (gun)
 
 ## Overview
 
-**Language**: Guaraní, Mbyá  
+**Language**: Mbyá Guaraní  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: 0.64  
-**Digitality Score**: 1.32  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 1.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Guaraní, Mbyá*
+*Help us collect text resources for Mbyá Guaraní*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Guaraní, Mbyá*
+*Help us collect audio resources for Mbyá Guaraní*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Guaraní, Mbyá*
+*Help us collect video resources for Mbyá Guaraní*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

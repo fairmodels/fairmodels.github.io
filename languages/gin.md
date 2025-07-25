@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hinukh  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hinukh*
+*Help us collect text resources for Hinukh*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hinukh*
+*Help us collect audio resources for Hinukh*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hinukh*
+*Help us collect video resources for Hinukh*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

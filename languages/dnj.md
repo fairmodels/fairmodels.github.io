@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.19  
-**Digitality Score**: 1.19  
+**Grassroots Presence (z-score)**: 1.19  
+**Web Presence (z-score)**: 1.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dan*
+*Help us collect text resources for Dan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dan*
+*Help us collect audio resources for Dan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dan*
+*Help us collect video resources for Dan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

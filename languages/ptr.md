@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tapiafaru  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.15  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.15  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tapiafaru*
+*Help us collect text resources for Tapiafaru*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tapiafaru*
+*Help us collect audio resources for Tapiafaru*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tapiafaru*
+*Help us collect video resources for Tapiafaru*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

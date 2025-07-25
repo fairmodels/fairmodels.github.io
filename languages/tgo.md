@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sudest  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.37  
-**Digitality Score**: 1.08  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: 1.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sudest*
+*Help us collect text resources for Sudest*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sudest*
+*Help us collect audio resources for Sudest*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sudest*
+*Help us collect video resources for Sudest*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

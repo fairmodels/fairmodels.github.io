@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Eastern Franconian  
 **Region/Area**: Western Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: -0.93  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Eastern Franconian*
+*Help us collect text resources for Eastern Franconian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Eastern Franconian*
+*Help us collect audio resources for Eastern Franconian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Eastern Franconian*
+*Help us collect video resources for Eastern Franconian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

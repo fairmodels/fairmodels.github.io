@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wallisian  
 **Region/Area**: Polynesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.68  
-**Digitality Score**: 0.92  
+**Grassroots Presence (z-score)**: 0.68  
+**Web Presence (z-score)**: 0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wallisian*
+*Help us collect text resources for Wallisian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wallisian*
+*Help us collect audio resources for Wallisian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wallisian*
+*Help us collect video resources for Wallisian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

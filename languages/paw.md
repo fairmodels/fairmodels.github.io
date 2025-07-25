@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pawnee  
 **Region/Area**: Northern America, Americas  
 **Family**: Caddoan  
-**Vitality Score**: -1.41  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: -1.41  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pawnee*
+*Help us collect text resources for Pawnee*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pawnee*
+*Help us collect audio resources for Pawnee*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pawnee*
+*Help us collect video resources for Pawnee*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

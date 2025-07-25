@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Aja  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -1.04  
-**Digitality Score**: -0.66  
+**Grassroots Presence (z-score)**: -1.04  
+**Web Presence (z-score)**: -0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Aja*
+*Help us collect text resources for Aja*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Aja*
+*Help us collect audio resources for Aja*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Aja*
+*Help us collect video resources for Aja*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

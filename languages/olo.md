@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Livvi-Karelian  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: 0.22  
-**Digitality Score**: 1.32  
+**Grassroots Presence (z-score)**: 0.22  
+**Web Presence (z-score)**: 1.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Livvi-Karelian*
+*Help us collect text resources for Livvi-Karelian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Livvi-Karelian*
+*Help us collect audio resources for Livvi-Karelian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Livvi-Karelian*
+*Help us collect video resources for Livvi-Karelian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

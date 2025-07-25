@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tayo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Creole  
-**Vitality Score**: -0.38  
-**Digitality Score**: -0.60  
+**Grassroots Presence (z-score)**: -0.38  
+**Web Presence (z-score)**: -0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tayo*
+*Help us collect text resources for Tayo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tayo*
+*Help us collect audio resources for Tayo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tayo*
+*Help us collect video resources for Tayo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

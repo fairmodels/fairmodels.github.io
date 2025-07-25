@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Santa María Quiegolani
+title: Santa María Quiegolani Zapotec
 parent: Languages
 ---
 
-# Zapotec, Santa María Quiegolani (zpi)
+# Santa María Quiegolani Zapotec (zpi)
 
 ## Overview
 
-**Language**: Zapotec, Santa María Quiegolani  
+**Language**: Santa María Quiegolani Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.12  
-**Digitality Score**: 1.42  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: 1.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Santa María Quiegolani*
+*Help us collect text resources for Santa María Quiegolani Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Santa María Quiegolani*
+*Help us collect audio resources for Santa María Quiegolani Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Santa María Quiegolani*
+*Help us collect video resources for Santa María Quiegolani Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

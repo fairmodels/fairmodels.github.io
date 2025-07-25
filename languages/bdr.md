@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bajau, West Coast
+title: West Coast Bajau
 parent: Languages
 ---
 
-# Bajau, West Coast (bdr)
+# West Coast Bajau (bdr)
 
 ## Overview
 
-**Language**: Bajau, West Coast  
+**Language**: West Coast Bajau  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.26  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bajau, West Coast*
+*Help us collect text resources for West Coast Bajau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bajau, West Coast*
+*Help us collect audio resources for West Coast Bajau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bajau, West Coast*
+*Help us collect video resources for West Coast Bajau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

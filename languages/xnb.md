@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kanakanabu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.51  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: -1.51  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kanakanabu*
+*Help us collect text resources for Kanakanabu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kanakanabu*
+*Help us collect audio resources for Kanakanabu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kanakanabu*
+*Help us collect video resources for Kanakanabu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

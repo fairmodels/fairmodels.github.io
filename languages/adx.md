@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tibetan, Amdo
+title: Amdo Tibetan
 parent: Languages
 ---
 
-# Tibetan, Amdo (adx)
+# Amdo Tibetan (adx)
 
 ## Overview
 
-**Language**: Tibetan, Amdo  
+**Language**: Amdo Tibetan  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.89  
-**Digitality Score**: 0.49  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tibetan, Amdo*
+*Help us collect text resources for Amdo Tibetan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tibetan, Amdo*
+*Help us collect audio resources for Amdo Tibetan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tibetan, Amdo*
+*Help us collect video resources for Amdo Tibetan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

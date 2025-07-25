@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ixil  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 0.86  
-**Digitality Score**: 1.29  
+**Grassroots Presence (z-score)**: 0.86  
+**Web Presence (z-score)**: 1.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ixil*
+*Help us collect text resources for Ixil*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ixil*
+*Help us collect audio resources for Ixil*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ixil*
+*Help us collect video resources for Ixil*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

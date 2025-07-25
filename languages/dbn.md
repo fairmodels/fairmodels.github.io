@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Duriankere  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Duriankere*
+*Help us collect text resources for Duriankere*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Duriankere*
+*Help us collect audio resources for Duriankere*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Duriankere*
+*Help us collect video resources for Duriankere*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kakwa  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.07  
-**Digitality Score**: 0.64  
+**Grassroots Presence (z-score)**: 1.07  
+**Web Presence (z-score)**: 0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kakwa*
+*Help us collect text resources for Kakwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kakwa*
+*Help us collect audio resources for Kakwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kakwa*
+*Help us collect video resources for Kakwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

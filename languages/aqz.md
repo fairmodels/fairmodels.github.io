@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Akuntsu  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: -1.54  
-**Digitality Score**: 0.02  
+**Grassroots Presence (z-score)**: -1.54  
+**Web Presence (z-score)**: 0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Akuntsu*
+*Help us collect text resources for Akuntsu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Akuntsu*
+*Help us collect audio resources for Akuntsu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Akuntsu*
+*Help us collect video resources for Akuntsu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

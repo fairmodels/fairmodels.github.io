@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hakö  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.89  
-**Digitality Score**: -0.56  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: -0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hakö*
+*Help us collect text resources for Hakö*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hakö*
+*Help us collect audio resources for Hakö*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hakö*
+*Help us collect video resources for Hakö*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

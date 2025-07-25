@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malagasy, Southern Betsimisaraka
+title: Southern Betsimisaraka Malagasy
 parent: Languages
 ---
 
-# Malagasy, Southern Betsimisaraka (bzc)
+# Southern Betsimisaraka Malagasy (bzc)
 
 ## Overview
 
-**Language**: Malagasy, Southern Betsimisaraka  
+**Language**: Southern Betsimisaraka Malagasy  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Austronesian  
-**Vitality Score**: 0.91  
-**Digitality Score**: 0.86  
+**Grassroots Presence (z-score)**: 0.91  
+**Web Presence (z-score)**: 0.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malagasy, Southern Betsimisaraka*
+*Help us collect text resources for Southern Betsimisaraka Malagasy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malagasy, Southern Betsimisaraka*
+*Help us collect audio resources for Southern Betsimisaraka Malagasy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malagasy, Southern Betsimisaraka*
+*Help us collect video resources for Southern Betsimisaraka Malagasy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

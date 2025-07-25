@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Moloko  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.55  
-**Digitality Score**: 0.36  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: 0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Moloko*
+*Help us collect text resources for Moloko*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Moloko*
+*Help us collect audio resources for Moloko*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Moloko*
+*Help us collect video resources for Moloko*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

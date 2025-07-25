@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kopkaka  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.33  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.33  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kopkaka*
+*Help us collect text resources for Kopkaka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kopkaka*
+*Help us collect audio resources for Kopkaka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kopkaka*
+*Help us collect video resources for Kopkaka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

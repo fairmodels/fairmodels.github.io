@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Taa  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Tuu  
-**Vitality Score**: -0.10  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Taa*
+*Help us collect text resources for Taa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Taa*
+*Help us collect audio resources for Taa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Taa*
+*Help us collect video resources for Taa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

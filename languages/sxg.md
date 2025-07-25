@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shuhi  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.14  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shuhi*
+*Help us collect text resources for Shuhi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shuhi*
+*Help us collect audio resources for Shuhi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shuhi*
+*Help us collect video resources for Shuhi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

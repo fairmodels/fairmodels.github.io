@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kaiy  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Lakes Plain  
-**Vitality Score**: -0.40  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.40  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaiy*
+*Help us collect text resources for Kaiy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaiy*
+*Help us collect audio resources for Kaiy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaiy*
+*Help us collect video resources for Kaiy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Abu’  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.09  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: -0.09  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Abu’*
+*Help us collect text resources for Abu’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Abu’*
+*Help us collect audio resources for Abu’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Abu’*
+*Help us collect video resources for Abu’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

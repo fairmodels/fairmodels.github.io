@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lopi  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.93  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.93  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lopi*
+*Help us collect text resources for Lopi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lopi*
+*Help us collect audio resources for Lopi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lopi*
+*Help us collect video resources for Lopi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

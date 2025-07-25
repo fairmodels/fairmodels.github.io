@@ -24,3 +24,6 @@ vendor/
 
 # Data files
 *.csv
+
+# script for generated language pages
+generate_language_pages.py

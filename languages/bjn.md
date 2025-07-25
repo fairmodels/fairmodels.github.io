@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Banjar  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.93  
-**Digitality Score**: 2.48  
+**Grassroots Presence (z-score)**: 1.93  
+**Web Presence (z-score)**: 2.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Banjar*
+*Help us collect text resources for Banjar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Banjar*
+*Help us collect audio resources for Banjar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Banjar*
+*Help us collect video resources for Banjar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

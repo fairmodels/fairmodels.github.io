@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Fulu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.30  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fulu*
+*Help us collect text resources for Fulu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fulu*
+*Help us collect audio resources for Fulu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fulu*
+*Help us collect video resources for Fulu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kerewo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.07  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kerewo*
+*Help us collect text resources for Kerewo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kerewo*
+*Help us collect audio resources for Kerewo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kerewo*
+*Help us collect video resources for Kerewo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

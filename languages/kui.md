@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kuikúro-Kalapálo  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: -0.04  
-**Digitality Score**: 0.14  
+**Grassroots Presence (z-score)**: -0.04  
+**Web Presence (z-score)**: 0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kuikúro-Kalapálo*
+*Help us collect text resources for Kuikúro-Kalapálo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kuikúro-Kalapálo*
+*Help us collect audio resources for Kuikúro-Kalapálo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kuikúro-Kalapálo*
+*Help us collect video resources for Kuikúro-Kalapálo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

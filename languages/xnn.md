@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kankanay, Northern
+title: Northern Kankanay
 parent: Languages
 ---
 
-# Kankanay, Northern (xnn)
+# Northern Kankanay (xnn)
 
 ## Overview
 
-**Language**: Kankanay, Northern  
+**Language**: Northern Kankanay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.84  
-**Digitality Score**: 0.60  
+**Grassroots Presence (z-score)**: 0.84  
+**Web Presence (z-score)**: 0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kankanay, Northern*
+*Help us collect text resources for Northern Kankanay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kankanay, Northern*
+*Help us collect audio resources for Northern Kankanay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kankanay, Northern*
+*Help us collect video resources for Northern Kankanay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jara  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.43  
-**Digitality Score**: -0.43  
+**Grassroots Presence (z-score)**: 0.43  
+**Web Presence (z-score)**: -0.43  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jara*
+*Help us collect text resources for Jara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jara*
+*Help us collect audio resources for Jara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jara*
+*Help us collect video resources for Jara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

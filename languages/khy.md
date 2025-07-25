@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kele  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.90  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: 0.90  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kele*
+*Help us collect text resources for Kele*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kele*
+*Help us collect audio resources for Kele*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kele*
+*Help us collect video resources for Kele*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

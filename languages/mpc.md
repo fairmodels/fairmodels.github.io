@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mangarrayi  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.63  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: -1.63  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mangarrayi*
+*Help us collect text resources for Mangarrayi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mangarrayi*
+*Help us collect audio resources for Mangarrayi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mangarrayi*
+*Help us collect video resources for Mangarrayi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

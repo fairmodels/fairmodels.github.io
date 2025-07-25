@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kiribati  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 2.14  
-**Digitality Score**: 1.98  
+**Grassroots Presence (z-score)**: 2.14  
+**Web Presence (z-score)**: 1.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kiribati*
+*Help us collect text resources for Kiribati*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kiribati*
+*Help us collect audio resources for Kiribati*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kiribati*
+*Help us collect video resources for Kiribati*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lamalera  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lamalera*
+*Help us collect text resources for Lamalera*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lamalera*
+*Help us collect audio resources for Lamalera*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lamalera*
+*Help us collect video resources for Lamalera*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

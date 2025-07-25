@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Acholi  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 1.54  
-**Digitality Score**: 2.18  
+**Grassroots Presence (z-score)**: 1.54  
+**Web Presence (z-score)**: 2.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Acholi*
+*Help us collect text resources for Acholi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Acholi*
+*Help us collect audio resources for Acholi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Acholi*
+*Help us collect video resources for Acholi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pomo, Northern
+title: Northern Pomo
 parent: Languages
 ---
 
-# Pomo, Northern (pej)
+# Northern Pomo (pej)
 
 ## Overview
 
-**Language**: Pomo, Northern  
+**Language**: Northern Pomo  
 **Region/Area**: Northern America, Americas  
 **Family**: Pomoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.11  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pomo, Northern*
+*Help us collect text resources for Northern Pomo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pomo, Northern*
+*Help us collect audio resources for Northern Pomo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pomo, Northern*
+*Help us collect video resources for Northern Pomo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

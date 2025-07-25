@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kissi, Northern
+title: Northern Kissi
 parent: Languages
 ---
 
-# Kissi, Northern (kqs)
+# Northern Kissi (kqs)
 
 ## Overview
 
-**Language**: Kissi, Northern  
+**Language**: Northern Kissi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.06  
-**Digitality Score**: 0.44  
+**Grassroots Presence (z-score)**: 1.06  
+**Web Presence (z-score)**: 0.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kissi, Northern*
+*Help us collect text resources for Northern Kissi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kissi, Northern*
+*Help us collect audio resources for Northern Kissi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kissi, Northern*
+*Help us collect video resources for Northern Kissi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

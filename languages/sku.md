@@ -11,20 +11,20 @@ parent: Languages
 **Language**: N’kep  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.21  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for N’kep*
+*Help us collect text resources for N’kep*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for N’kep*
+*Help us collect audio resources for N’kep*
 
 ### Video Resources
-*Coming soon - help us collect video resources for N’kep*
+*Help us collect video resources for N’kep*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

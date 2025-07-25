@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Enets, Forest
+title: Forest Enets
 parent: Languages
 ---
 
-# Enets, Forest (enf)
+# Forest Enets (enf)
 
 ## Overview
 
-**Language**: Enets, Forest  
+**Language**: Forest Enets  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: -0.98  
-**Digitality Score**: -0.36  
+**Grassroots Presence (z-score)**: -0.98  
+**Web Presence (z-score)**: -0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Enets, Forest*
+*Help us collect text resources for Forest Enets*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Enets, Forest*
+*Help us collect audio resources for Forest Enets*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Enets, Forest*
+*Help us collect video resources for Forest Enets*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

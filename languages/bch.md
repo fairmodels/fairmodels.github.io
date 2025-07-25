@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bariai  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.30  
-**Digitality Score**: 0.76  
+**Grassroots Presence (z-score)**: 0.30  
+**Web Presence (z-score)**: 0.76  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bariai*
+*Help us collect text resources for Bariai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bariai*
+*Help us collect audio resources for Bariai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bariai*
+*Help us collect video resources for Bariai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

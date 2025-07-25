@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Diuxi-Tilantongo
+title: Diuxi-Tilantongo Mixtec
 parent: Languages
 ---
 
-# Mixtec, Diuxi-Tilantongo (xtd)
+# Diuxi-Tilantongo Mixtec (xtd)
 
 ## Overview
 
-**Language**: Mixtec, Diuxi-Tilantongo  
+**Language**: Diuxi-Tilantongo Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.06  
-**Digitality Score**: 0.85  
+**Grassroots Presence (z-score)**: -0.06  
+**Web Presence (z-score)**: 0.85  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Diuxi-Tilantongo*
+*Help us collect text resources for Diuxi-Tilantongo Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Diuxi-Tilantongo*
+*Help us collect audio resources for Diuxi-Tilantongo Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Diuxi-Tilantongo*
+*Help us collect video resources for Diuxi-Tilantongo Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

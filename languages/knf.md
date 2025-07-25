@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mankanya  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.83  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mankanya*
+*Help us collect text resources for Mankanya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mankanya*
+*Help us collect audio resources for Mankanya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mankanya*
+*Help us collect video resources for Mankanya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

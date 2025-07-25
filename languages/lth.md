@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Thur  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.86  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: 0.86  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Thur*
+*Help us collect text resources for Thur*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Thur*
+*Help us collect audio resources for Thur*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Thur*
+*Help us collect video resources for Thur*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

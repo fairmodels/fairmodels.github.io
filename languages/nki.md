@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Thangal
+title: Thangal Naga
 parent: Languages
 ---
 
-# Naga, Thangal (nki)
+# Thangal Naga (nki)
 
 ## Overview
 
-**Language**: Naga, Thangal  
+**Language**: Thangal Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.66  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: 0.66  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Thangal*
+*Help us collect text resources for Thangal Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Thangal*
+*Help us collect audio resources for Thangal Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Thangal*
+*Help us collect video resources for Thangal Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

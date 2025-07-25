@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quichua, Cañar Highland
+title: Cañar Highland Quichua
 parent: Languages
 ---
 
-# Quichua, Cañar Highland (qxr)
+# Cañar Highland Quichua (qxr)
 
 ## Overview
 
-**Language**: Quichua, Cañar Highland  
+**Language**: Cañar Highland Quichua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.44  
-**Digitality Score**: 1.13  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: 1.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quichua, Cañar Highland*
+*Help us collect text resources for Cañar Highland Quichua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quichua, Cañar Highland*
+*Help us collect audio resources for Cañar Highland Quichua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quichua, Cañar Highland*
+*Help us collect video resources for Cañar Highland Quichua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

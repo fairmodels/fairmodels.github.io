@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Baygo  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Baygo*
+*Help us collect text resources for Baygo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Baygo*
+*Help us collect audio resources for Baygo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Baygo*
+*Help us collect video resources for Baygo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

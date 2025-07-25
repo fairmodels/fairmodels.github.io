@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Western Neo-Aramaic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.55  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Western Neo-Aramaic*
+*Help us collect text resources for Western Neo-Aramaic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Western Neo-Aramaic*
+*Help us collect audio resources for Western Neo-Aramaic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Western Neo-Aramaic*
+*Help us collect video resources for Western Neo-Aramaic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

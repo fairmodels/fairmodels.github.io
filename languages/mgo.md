@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Meta’  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.82  
-**Digitality Score**: 1.03  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 1.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Meta’*
+*Help us collect text resources for Meta’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Meta’*
+*Help us collect audio resources for Meta’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Meta’*
+*Help us collect video resources for Meta’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

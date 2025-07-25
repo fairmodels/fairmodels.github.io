@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Karen, S’gaw
+title: S’gaw Karen
 parent: Languages
 ---
 
-# Karen, S’gaw (ksw)
+# S’gaw Karen (ksw)
 
 ## Overview
 
-**Language**: Karen, S’gaw  
+**Language**: S’gaw Karen  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.87  
-**Digitality Score**: 1.89  
+**Grassroots Presence (z-score)**: 1.87  
+**Web Presence (z-score)**: 1.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Karen, S’gaw*
+*Help us collect text resources for S’gaw Karen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Karen, S’gaw*
+*Help us collect audio resources for S’gaw Karen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Karen, S’gaw*
+*Help us collect video resources for S’gaw Karen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

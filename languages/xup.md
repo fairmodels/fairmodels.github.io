@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Upper Umpqua  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Upper Umpqua*
+*Help us collect text resources for Upper Umpqua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Upper Umpqua*
+*Help us collect audio resources for Upper Umpqua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Upper Umpqua*
+*Help us collect video resources for Upper Umpqua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

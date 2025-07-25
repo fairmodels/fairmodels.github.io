@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pashai, Southeast
+title: Southeast Pashai
 parent: Languages
 ---
 
-# Pashai, Southeast (psi)
+# Southeast Pashai (psi)
 
 ## Overview
 
-**Language**: Pashai, Southeast  
+**Language**: Southeast Pashai  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.91  
-**Digitality Score**: 0.13  
+**Grassroots Presence (z-score)**: 0.91  
+**Web Presence (z-score)**: 0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pashai, Southeast*
+*Help us collect text resources for Southeast Pashai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pashai, Southeast*
+*Help us collect audio resources for Southeast Pashai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pashai, Southeast*
+*Help us collect video resources for Southeast Pashai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

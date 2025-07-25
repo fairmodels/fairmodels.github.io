@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malay, Bukit
+title: Bukit Malay
 parent: Languages
 ---
 
-# Malay, Bukit (bvu)
+# Bukit Malay (bvu)
 
 ## Overview
 
-**Language**: Malay, Bukit  
+**Language**: Bukit Malay  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.00  
-**Digitality Score**: 0.92  
+**Grassroots Presence (z-score)**: -0.00  
+**Web Presence (z-score)**: 0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malay, Bukit*
+*Help us collect text resources for Bukit Malay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malay, Bukit*
+*Help us collect audio resources for Bukit Malay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malay, Bukit*
+*Help us collect video resources for Bukit Malay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

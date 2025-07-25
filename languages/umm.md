@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Amon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Amon*
+*Help us collect text resources for Amon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Amon*
+*Help us collect audio resources for Amon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Amon*
+*Help us collect video resources for Amon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Fulfulde, Central-Eastern Niger
+title: Central-Eastern Niger Fulfulde
 parent: Languages
 ---
 
-# Fulfulde, Central-Eastern Niger (fuq)
+# Central-Eastern Niger Fulfulde (fuq)
 
 ## Overview
 
-**Language**: Fulfulde, Central-Eastern Niger  
+**Language**: Central-Eastern Niger Fulfulde  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.13  
-**Digitality Score**: 1.10  
+**Grassroots Presence (z-score)**: 1.13  
+**Web Presence (z-score)**: 1.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fulfulde, Central-Eastern Niger*
+*Help us collect text resources for Central-Eastern Niger Fulfulde*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fulfulde, Central-Eastern Niger*
+*Help us collect audio resources for Central-Eastern Niger Fulfulde*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fulfulde, Central-Eastern Niger*
+*Help us collect video resources for Central-Eastern Niger Fulfulde*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

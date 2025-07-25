@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tagbu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tagbu*
+*Help us collect text resources for Tagbu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tagbu*
+*Help us collect audio resources for Tagbu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tagbu*
+*Help us collect video resources for Tagbu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

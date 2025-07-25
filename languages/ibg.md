@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ibanag  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.50  
-**Digitality Score**: 0.52  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: 0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ibanag*
+*Help us collect text resources for Ibanag*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ibanag*
+*Help us collect audio resources for Ibanag*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ibanag*
+*Help us collect video resources for Ibanag*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

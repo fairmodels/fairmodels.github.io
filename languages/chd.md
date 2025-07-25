@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chontal, Highland Oaxaca
+title: Highland Oaxaca Chontal
 parent: Languages
 ---
 
-# Chontal, Highland Oaxaca (chd)
+# Highland Oaxaca Chontal (chd)
 
 ## Overview
 
-**Language**: Chontal, Highland Oaxaca  
+**Language**: Highland Oaxaca Chontal  
 **Region/Area**: Central America, Americas  
 **Family**: Tequistlatecan  
-**Vitality Score**: -0.74  
-**Digitality Score**: 0.96  
+**Grassroots Presence (z-score)**: -0.74  
+**Web Presence (z-score)**: 0.96  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chontal, Highland Oaxaca*
+*Help us collect text resources for Highland Oaxaca Chontal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chontal, Highland Oaxaca*
+*Help us collect audio resources for Highland Oaxaca Chontal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chontal, Highland Oaxaca*
+*Help us collect video resources for Highland Oaxaca Chontal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

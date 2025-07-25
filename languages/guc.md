@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wayuu  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 1.02  
-**Digitality Score**: 2.37  
+**Grassroots Presence (z-score)**: 1.02  
+**Web Presence (z-score)**: 2.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wayuu*
+*Help us collect text resources for Wayuu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wayuu*
+*Help us collect audio resources for Wayuu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wayuu*
+*Help us collect video resources for Wayuu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

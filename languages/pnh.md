@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Penrhyn  
 **Region/Area**: Polynesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.57  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: -0.57  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Penrhyn*
+*Help us collect text resources for Penrhyn*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Penrhyn*
+*Help us collect audio resources for Penrhyn*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Penrhyn*
+*Help us collect video resources for Penrhyn*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

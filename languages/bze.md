@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bozo, Jenaama
+title: Jenaama Bozo
 parent: Languages
 ---
 
-# Bozo, Jenaama (bze)
+# Jenaama Bozo (bze)
 
 ## Overview
 
-**Language**: Bozo, Jenaama  
+**Language**: Jenaama Bozo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.93  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bozo, Jenaama*
+*Help us collect text resources for Jenaama Bozo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bozo, Jenaama*
+*Help us collect audio resources for Jenaama Bozo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bozo, Jenaama*
+*Help us collect video resources for Jenaama Bozo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

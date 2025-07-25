@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bolia  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.60  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bolia*
+*Help us collect text resources for Bolia*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bolia*
+*Help us collect audio resources for Bolia*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bolia*
+*Help us collect video resources for Bolia*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

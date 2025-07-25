@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Chazumba
+title: Chazumba Mixtec
 parent: Languages
 ---
 
-# Mixtec, Chazumba (xtb)
+# Chazumba Mixtec (xtb)
 
 ## Overview
 
-**Language**: Mixtec, Chazumba  
+**Language**: Chazumba Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.52  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.52  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Chazumba*
+*Help us collect text resources for Chazumba Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Chazumba*
+*Help us collect audio resources for Chazumba Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Chazumba*
+*Help us collect video resources for Chazumba Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

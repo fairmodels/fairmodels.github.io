@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lavrung  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.44  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: 0.44  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lavrung*
+*Help us collect text resources for Lavrung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lavrung*
+*Help us collect audio resources for Lavrung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lavrung*
+*Help us collect video resources for Lavrung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tepehua, Tlachichilco
+title: Tlachichilco Tepehua
 parent: Languages
 ---
 
-# Tepehua, Tlachichilco (tpt)
+# Tlachichilco Tepehua (tpt)
 
 ## Overview
 
-**Language**: Tepehua, Tlachichilco  
+**Language**: Tlachichilco Tepehua  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.41  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.41  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tepehua, Tlachichilco*
+*Help us collect text resources for Tlachichilco Tepehua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tepehua, Tlachichilco*
+*Help us collect audio resources for Tlachichilco Tepehua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tepehua, Tlachichilco*
+*Help us collect video resources for Tlachichilco Tepehua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

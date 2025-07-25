@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Girirra  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.28  
-**Digitality Score**: -1.09  
+**Grassroots Presence (z-score)**: 0.28  
+**Web Presence (z-score)**: -1.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Girirra*
+*Help us collect text resources for Girirra*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Girirra*
+*Help us collect audio resources for Girirra*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Girirra*
+*Help us collect video resources for Girirra*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

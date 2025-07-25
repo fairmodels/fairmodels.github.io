@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Palauan  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 1.89  
-**Digitality Score**: 1.86  
+**Grassroots Presence (z-score)**: 1.89  
+**Web Presence (z-score)**: 1.86  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Palauan*
+*Help us collect text resources for Palauan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Palauan*
+*Help us collect audio resources for Palauan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Palauan*
+*Help us collect video resources for Palauan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Murut, Selungai
+title: Selungai Murut
 parent: Languages
 ---
 
-# Murut, Selungai (slg)
+# Selungai Murut (slg)
 
 ## Overview
 
-**Language**: Murut, Selungai  
+**Language**: Selungai Murut  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.03  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Murut, Selungai*
+*Help us collect text resources for Selungai Murut*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Murut, Selungai*
+*Help us collect audio resources for Selungai Murut*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Murut, Selungai*
+*Help us collect video resources for Selungai Murut*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

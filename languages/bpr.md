@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Blaan, Koronadal
+title: Koronadal Blaan
 parent: Languages
 ---
 
-# Blaan, Koronadal (bpr)
+# Koronadal Blaan (bpr)
 
 ## Overview
 
-**Language**: Blaan, Koronadal  
+**Language**: Koronadal Blaan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.89  
-**Digitality Score**: 1.32  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 1.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Blaan, Koronadal*
+*Help us collect text resources for Koronadal Blaan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Blaan, Koronadal*
+*Help us collect audio resources for Koronadal Blaan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Blaan, Koronadal*
+*Help us collect video resources for Koronadal Blaan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

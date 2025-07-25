@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Xârâcùù  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.17  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.17  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Xârâcùù*
+*Help us collect text resources for Xârâcùù*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Xârâcùù*
+*Help us collect audio resources for Xârâcùù*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Xârâcùù*
+*Help us collect video resources for Xârâcùù*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

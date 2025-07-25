@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sardinian, Gallurese
+title: Gallurese Sardinian
 parent: Languages
 ---
 
-# Sardinian, Gallurese (sdn)
+# Gallurese Sardinian (sdn)
 
 ## Overview
 
-**Language**: Sardinian, Gallurese  
+**Language**: Gallurese Sardinian  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 0.37  
-**Digitality Score**: 0.37  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: 0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sardinian, Gallurese*
+*Help us collect text resources for Gallurese Sardinian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sardinian, Gallurese*
+*Help us collect audio resources for Gallurese Sardinian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sardinian, Gallurese*
+*Help us collect video resources for Gallurese Sardinian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

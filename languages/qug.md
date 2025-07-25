@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quichua, Chimborazo Highland
+title: Chimborazo Highland Quichua
 parent: Languages
 ---
 
-# Quichua, Chimborazo Highland (qug)
+# Chimborazo Highland Quichua (qug)
 
 ## Overview
 
-**Language**: Quichua, Chimborazo Highland  
+**Language**: Chimborazo Highland Quichua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 1.14  
-**Digitality Score**: 1.48  
+**Grassroots Presence (z-score)**: 1.14  
+**Web Presence (z-score)**: 1.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quichua, Chimborazo Highland*
+*Help us collect text resources for Chimborazo Highland Quichua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quichua, Chimborazo Highland*
+*Help us collect audio resources for Chimborazo Highland Quichua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quichua, Chimborazo Highland*
+*Help us collect video resources for Chimborazo Highland Quichua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

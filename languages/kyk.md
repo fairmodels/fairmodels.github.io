@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kamayo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 1.21  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: 1.21  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kamayo*
+*Help us collect text resources for Kamayo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kamayo*
+*Help us collect audio resources for Kamayo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kamayo*
+*Help us collect video resources for Kamayo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

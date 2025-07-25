@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Sénoufo, Palaka
+title: Palaka Sénoufo
 parent: Languages
 ---
 
-# Sénoufo, Palaka (plr)
+# Palaka Sénoufo (plr)
 
 ## Overview
 
-**Language**: Sénoufo, Palaka  
+**Language**: Palaka Sénoufo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.28  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.28  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sénoufo, Palaka*
+*Help us collect text resources for Palaka Sénoufo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sénoufo, Palaka*
+*Help us collect audio resources for Palaka Sénoufo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sénoufo, Palaka*
+*Help us collect video resources for Palaka Sénoufo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bierebo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.08  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bierebo*
+*Help us collect text resources for Bierebo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bierebo*
+*Help us collect audio resources for Bierebo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bierebo*
+*Help us collect video resources for Bierebo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

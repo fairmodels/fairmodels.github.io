@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Attié  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.09  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: 1.09  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Attié*
+*Help us collect text resources for Attié*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Attié*
+*Help us collect audio resources for Attié*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Attié*
+*Help us collect video resources for Attié*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

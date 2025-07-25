@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tarangan, East
+title: East Tarangan
 parent: Languages
 ---
 
-# Tarangan, East (tre)
+# East Tarangan (tre)
 
 ## Overview
 
-**Language**: Tarangan, East  
+**Language**: East Tarangan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.03  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tarangan, East*
+*Help us collect text resources for East Tarangan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tarangan, East*
+*Help us collect audio resources for East Tarangan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tarangan, East*
+*Help us collect video resources for East Tarangan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

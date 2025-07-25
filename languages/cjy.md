@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Jinyu
+title: Jinyu Chinese
 parent: Languages
 ---
 
-# Chinese, Jinyu (cjy)
+# Jinyu Chinese (cjy)
 
 ## Overview
 
-**Language**: Chinese, Jinyu  
+**Language**: Jinyu Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.63  
-**Digitality Score**: 3.59  
+**Grassroots Presence (z-score)**: 1.63  
+**Web Presence (z-score)**: 3.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Jinyu*
+*Help us collect text resources for Jinyu Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Jinyu*
+*Help us collect audio resources for Jinyu Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Jinyu*
+*Help us collect video resources for Jinyu Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

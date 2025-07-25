@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Subanon, Kolibugan
+title: Kolibugan Subanon
 parent: Languages
 ---
 
-# Subanon, Kolibugan (skn)
+# Kolibugan Subanon (skn)
 
 ## Overview
 
-**Language**: Subanon, Kolibugan  
+**Language**: Kolibugan Subanon  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.35  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Subanon, Kolibugan*
+*Help us collect text resources for Kolibugan Subanon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Subanon, Kolibugan*
+*Help us collect audio resources for Kolibugan Subanon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Subanon, Kolibugan*
+*Help us collect video resources for Kolibugan Subanon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

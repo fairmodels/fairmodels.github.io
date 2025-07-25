@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kayah, Western
+title: Western Kayah
 parent: Languages
 ---
 
-# Kayah, Western (kyu)
+# Western Kayah (kyu)
 
 ## Overview
 
-**Language**: Kayah, Western  
+**Language**: Western Kayah  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.89  
-**Digitality Score**: 0.91  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 0.91  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kayah, Western*
+*Help us collect text resources for Western Kayah*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kayah, Western*
+*Help us collect audio resources for Western Kayah*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kayah, Western*
+*Help us collect video resources for Western Kayah*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

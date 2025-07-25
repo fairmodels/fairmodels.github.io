@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bozo, Kelengaxo
+title: Kelengaxo Bozo
 parent: Languages
 ---
 
-# Bozo, Kelengaxo (bzx)
+# Kelengaxo Bozo (bzx)
 
 ## Overview
 
-**Language**: Bozo, Kelengaxo  
+**Language**: Kelengaxo Bozo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.38  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bozo, Kelengaxo*
+*Help us collect text resources for Kelengaxo Bozo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bozo, Kelengaxo*
+*Help us collect audio resources for Kelengaxo Bozo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bozo, Kelengaxo*
+*Help us collect video resources for Kelengaxo Bozo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

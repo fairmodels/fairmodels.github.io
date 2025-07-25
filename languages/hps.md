@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hawai‘i Sign Language  
 **Region/Area**: Northern America, Americas  
 **Family**: Sign language  
-**Vitality Score**: -1.25  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -1.25  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hawai‘i Sign Language*
+*Help us collect text resources for Hawai‘i Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hawai‘i Sign Language*
+*Help us collect audio resources for Hawai‘i Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hawai‘i Sign Language*
+*Help us collect video resources for Hawai‘i Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

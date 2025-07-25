@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tairora, South
+title: South Tairora
 parent: Languages
 ---
 
-# Tairora, South (omw)
+# South Tairora (omw)
 
 ## Overview
 
-**Language**: Tairora, South  
+**Language**: South Tairora  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.52  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: 0.52  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tairora, South*
+*Help us collect text resources for South Tairora*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tairora, South*
+*Help us collect audio resources for South Tairora*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tairora, South*
+*Help us collect video resources for South Tairora*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

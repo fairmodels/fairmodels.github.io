@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Totonac, Highland
+title: Highland Totonac
 parent: Languages
 ---
 
-# Totonac, Highland (tos)
+# Highland Totonac (tos)
 
 ## Overview
 
-**Language**: Totonac, Highland  
+**Language**: Highland Totonac  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: 0.87  
-**Digitality Score**: 0.68  
+**Grassroots Presence (z-score)**: 0.87  
+**Web Presence (z-score)**: 0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Totonac, Highland*
+*Help us collect text resources for Highland Totonac*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Totonac, Highland*
+*Help us collect audio resources for Highland Totonac*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Totonac, Highland*
+*Help us collect video resources for Highland Totonac*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

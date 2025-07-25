@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Alcozauca
+title: Alcozauca Mixtec
 parent: Languages
 ---
 
-# Mixtec, Alcozauca (xta)
+# Alcozauca Mixtec (xta)
 
 ## Overview
 
-**Language**: Mixtec, Alcozauca  
+**Language**: Alcozauca Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.08  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Alcozauca*
+*Help us collect text resources for Alcozauca Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Alcozauca*
+*Help us collect audio resources for Alcozauca Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Alcozauca*
+*Help us collect video resources for Alcozauca Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

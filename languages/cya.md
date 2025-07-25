@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chatino, Nopala
+title: Nopala Chatino
 parent: Languages
 ---
 
-# Chatino, Nopala (cya)
+# Nopala Chatino (cya)
 
 ## Overview
 
-**Language**: Chatino, Nopala  
+**Language**: Nopala Chatino  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.54  
-**Digitality Score**: 0.77  
+**Grassroots Presence (z-score)**: 0.54  
+**Web Presence (z-score)**: 0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chatino, Nopala*
+*Help us collect text resources for Nopala Chatino*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chatino, Nopala*
+*Help us collect audio resources for Nopala Chatino*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chatino, Nopala*
+*Help us collect video resources for Nopala Chatino*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

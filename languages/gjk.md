@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Koli, Kachi
+title: Kachi Koli
 parent: Languages
 ---
 
-# Koli, Kachi (gjk)
+# Kachi Koli (gjk)
 
 ## Overview
 
-**Language**: Koli, Kachi  
+**Language**: Kachi Koli  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.06  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 1.06  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koli, Kachi*
+*Help us collect text resources for Kachi Koli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koli, Kachi*
+*Help us collect audio resources for Kachi Koli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koli, Kachi*
+*Help us collect video resources for Kachi Koli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

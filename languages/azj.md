@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Azerbaijani, North
+title: North Azerbaijani
 parent: Languages
 ---
 
-# Azerbaijani, North (azj)
+# North Azerbaijani (azj)
 
 ## Overview
 
-**Language**: Azerbaijani, North  
+**Language**: North Azerbaijani  
 **Region/Area**: Western Asia, Asia  
 **Family**: Turkic  
-**Vitality Score**: 2.69  
-**Digitality Score**: 3.22  
+**Grassroots Presence (z-score)**: 2.69  
+**Web Presence (z-score)**: 3.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Azerbaijani, North*
+*Help us collect text resources for North Azerbaijani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Azerbaijani, North*
+*Help us collect audio resources for North Azerbaijani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Azerbaijani, North*
+*Help us collect video resources for North Azerbaijani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

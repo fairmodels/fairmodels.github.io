@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lewo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.36  
-**Digitality Score**: 0.60  
+**Grassroots Presence (z-score)**: 0.36  
+**Web Presence (z-score)**: 0.60  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lewo*
+*Help us collect text resources for Lewo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lewo*
+*Help us collect audio resources for Lewo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lewo*
+*Help us collect video resources for Lewo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

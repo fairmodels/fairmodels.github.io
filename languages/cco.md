@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Comaltepec
+title: Comaltepec Chinantec
 parent: Languages
 ---
 
-# Chinantec, Comaltepec (cco)
+# Comaltepec Chinantec (cco)
 
 ## Overview
 
-**Language**: Chinantec, Comaltepec  
+**Language**: Comaltepec Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Comaltepec*
+*Help us collect text resources for Comaltepec Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Comaltepec*
+*Help us collect audio resources for Comaltepec Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Comaltepec*
+*Help us collect video resources for Comaltepec Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tsimshian  
 **Region/Area**: Northern America, Americas  
 **Family**: Tsimshian  
-**Vitality Score**: -1.03  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: -1.03  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tsimshian*
+*Help us collect text resources for Tsimshian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tsimshian*
+*Help us collect audio resources for Tsimshian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tsimshian*
+*Help us collect video resources for Tsimshian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

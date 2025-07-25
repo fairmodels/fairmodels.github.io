@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Izii  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.10  
-**Digitality Score**: 1.04  
+**Grassroots Presence (z-score)**: 1.10  
+**Web Presence (z-score)**: 1.04  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Izii*
+*Help us collect text resources for Izii*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Izii*
+*Help us collect audio resources for Izii*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Izii*
+*Help us collect video resources for Izii*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

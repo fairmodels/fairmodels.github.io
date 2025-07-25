@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yali, Ninia
+title: Ninia Yali
 parent: Languages
 ---
 
-# Yali, Ninia (nlk)
+# Ninia Yali (nlk)
 
 ## Overview
 
-**Language**: Yali, Ninia  
+**Language**: Ninia Yali  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.56  
-**Digitality Score**: -0.34  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: -0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yali, Ninia*
+*Help us collect text resources for Ninia Yali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yali, Ninia*
+*Help us collect audio resources for Ninia Yali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yali, Ninia*
+*Help us collect video resources for Ninia Yali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

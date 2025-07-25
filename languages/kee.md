@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Keres, Eastern
+title: Eastern Keres
 parent: Languages
 ---
 
-# Keres, Eastern (kee)
+# Eastern Keres (kee)
 
 ## Overview
 
-**Language**: Keres, Eastern  
+**Language**: Eastern Keres  
 **Region/Area**: Northern America, Americas  
 **Family**: Keresan  
-**Vitality Score**: 0.03  
-**Digitality Score**: 0.02  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: 0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Keres, Eastern*
+*Help us collect text resources for Eastern Keres*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Keres, Eastern*
+*Help us collect audio resources for Eastern Keres*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Keres, Eastern*
+*Help us collect video resources for Eastern Keres*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

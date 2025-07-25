@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nengone  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.53  
-**Digitality Score**: 0.18  
+**Grassroots Presence (z-score)**: 0.53  
+**Web Presence (z-score)**: 0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nengone*
+*Help us collect text resources for Nengone*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nengone*
+*Help us collect audio resources for Nengone*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nengone*
+*Help us collect video resources for Nengone*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

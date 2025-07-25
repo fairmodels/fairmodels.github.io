@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tooro  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.46  
-**Digitality Score**: 0.47  
+**Grassroots Presence (z-score)**: 1.46  
+**Web Presence (z-score)**: 0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tooro*
+*Help us collect text resources for Tooro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tooro*
+*Help us collect audio resources for Tooro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tooro*
+*Help us collect video resources for Tooro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

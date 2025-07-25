@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dolpo  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.41  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.41  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dolpo*
+*Help us collect text resources for Dolpo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dolpo*
+*Help us collect audio resources for Dolpo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dolpo*
+*Help us collect video resources for Dolpo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

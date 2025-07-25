@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cree, Plains
+title: Plains Cree
 parent: Languages
 ---
 
-# Cree, Plains (crk)
+# Plains Cree (crk)
 
 ## Overview
 
-**Language**: Cree, Plains  
+**Language**: Plains Cree  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: 0.58  
-**Digitality Score**: 1.22  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 1.22  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cree, Plains*
+*Help us collect text resources for Plains Cree*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cree, Plains*
+*Help us collect audio resources for Plains Cree*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cree, Plains*
+*Help us collect video resources for Plains Cree*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

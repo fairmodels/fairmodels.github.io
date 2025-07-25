@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Waneci  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.58  
-**Digitality Score**: -0.55  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: -0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Waneci*
+*Help us collect text resources for Waneci*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Waneci*
+*Help us collect audio resources for Waneci*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Waneci*
+*Help us collect video resources for Waneci*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

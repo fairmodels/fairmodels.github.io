@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Olu’bo  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.70  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.70  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Olu’bo*
+*Help us collect text resources for Olu’bo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Olu’bo*
+*Help us collect audio resources for Olu’bo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Olu’bo*
+*Help us collect video resources for Olu’bo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

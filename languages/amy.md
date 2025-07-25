@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ami  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.12  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: -1.12  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ami*
+*Help us collect text resources for Ami*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ami*
+*Help us collect audio resources for Ami*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ami*
+*Help us collect video resources for Ami*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

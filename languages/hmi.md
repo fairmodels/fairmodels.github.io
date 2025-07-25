@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Miao, Northern Huishui
+title: Northern Huishui Miao
 parent: Languages
 ---
 
-# Miao, Northern Huishui (hmi)
+# Northern Huishui Miao (hmi)
 
 ## Overview
 
-**Language**: Miao, Northern Huishui  
+**Language**: Northern Huishui Miao  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.48  
-**Digitality Score**: 0.89  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: 0.89  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Miao, Northern Huishui*
+*Help us collect text resources for Northern Huishui Miao*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Miao, Northern Huishui*
+*Help us collect audio resources for Northern Huishui Miao*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Miao, Northern Huishui*
+*Help us collect video resources for Northern Huishui Miao*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

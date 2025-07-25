@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Toro Tegu
+title: Toro Tegu Dogon
 parent: Languages
 ---
 
-# Dogon, Toro Tegu (dtt)
+# Toro Tegu Dogon (dtt)
 
 ## Overview
 
-**Language**: Dogon, Toro Tegu  
+**Language**: Toro Tegu Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Toro Tegu*
+*Help us collect text resources for Toro Tegu Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Toro Tegu*
+*Help us collect audio resources for Toro Tegu Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Toro Tegu*
+*Help us collect video resources for Toro Tegu Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

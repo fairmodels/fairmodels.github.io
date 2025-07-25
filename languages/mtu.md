@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Tututepec
+title: Tututepec Mixtec
 parent: Languages
 ---
 
-# Mixtec, Tututepec (mtu)
+# Tututepec Mixtec (mtu)
 
 ## Overview
 
-**Language**: Mixtec, Tututepec  
+**Language**: Tututepec Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.68  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.68  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Tututepec*
+*Help us collect text resources for Tututepec Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Tututepec*
+*Help us collect audio resources for Tututepec Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Tututepec*
+*Help us collect video resources for Tututepec Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

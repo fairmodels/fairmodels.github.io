@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Galician  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.23  
-**Digitality Score**: 4.25  
+**Grassroots Presence (z-score)**: 2.23  
+**Web Presence (z-score)**: 4.25  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Galician*
+*Help us collect text resources for Galician*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Galician*
+*Help us collect audio resources for Galician*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Galician*
+*Help us collect video resources for Galician*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

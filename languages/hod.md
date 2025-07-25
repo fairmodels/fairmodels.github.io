@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Holma  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Holma*
+*Help us collect text resources for Holma*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Holma*
+*Help us collect audio resources for Holma*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Holma*
+*Help us collect video resources for Holma*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

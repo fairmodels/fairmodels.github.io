@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Western Bukidnon
+title: Western Bukidnon Manobo
 parent: Languages
 ---
 
-# Manobo, Western Bukidnon (mbb)
+# Western Bukidnon Manobo (mbb)
 
 ## Overview
 
-**Language**: Manobo, Western Bukidnon  
+**Language**: Western Bukidnon Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.60  
-**Digitality Score**: 1.40  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: 1.40  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Western Bukidnon*
+*Help us collect text resources for Western Bukidnon Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Western Bukidnon*
+*Help us collect audio resources for Western Bukidnon Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Western Bukidnon*
+*Help us collect video resources for Western Bukidnon Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

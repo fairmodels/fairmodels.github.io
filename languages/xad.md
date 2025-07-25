@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Adai  
 **Region/Area**: Northern America, Americas  
 **Family**: Unclassified  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Adai*
+*Help us collect text resources for Adai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Adai*
+*Help us collect audio resources for Adai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Adai*
+*Help us collect video resources for Adai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Haruai  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Piawi  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.34  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.34  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Haruai*
+*Help us collect text resources for Haruai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Haruai*
+*Help us collect audio resources for Haruai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Haruai*
+*Help us collect video resources for Haruai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sambe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sambe*
+*Help us collect text resources for Sambe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sambe*
+*Help us collect audio resources for Sambe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sambe*
+*Help us collect video resources for Sambe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

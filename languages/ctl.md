@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Tlacoatzintepec
+title: Tlacoatzintepec Chinantec
 parent: Languages
 ---
 
-# Chinantec, Tlacoatzintepec (ctl)
+# Tlacoatzintepec Chinantec (ctl)
 
 ## Overview
 
-**Language**: Chinantec, Tlacoatzintepec  
+**Language**: Tlacoatzintepec Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.01  
-**Digitality Score**: 0.08  
+**Grassroots Presence (z-score)**: 0.01  
+**Web Presence (z-score)**: 0.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Tlacoatzintepec*
+*Help us collect text resources for Tlacoatzintepec Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Tlacoatzintepec*
+*Help us collect audio resources for Tlacoatzintepec Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Tlacoatzintepec*
+*Help us collect video resources for Tlacoatzintepec Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

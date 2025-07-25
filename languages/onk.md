@@ -1,30 +1,30 @@
 ---
 layout: default
-title: One, Kabore
+title: Kabore One
 parent: Languages
 ---
 
-# One, Kabore (onk)
+# Kabore One (onk)
 
 ## Overview
 
-**Language**: One, Kabore  
+**Language**: Kabore One  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.36  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.36  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for One, Kabore*
+*Help us collect text resources for Kabore One*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for One, Kabore*
+*Help us collect audio resources for Kabore One*
 
 ### Video Resources
-*Coming soon - help us collect video resources for One, Kabore*
+*Help us collect video resources for Kabore One*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

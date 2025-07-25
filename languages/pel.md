@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pekal  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.19  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pekal*
+*Help us collect text resources for Pekal*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pekal*
+*Help us collect audio resources for Pekal*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pekal*
+*Help us collect video resources for Pekal*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

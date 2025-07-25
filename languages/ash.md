@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Awishira  
 **Region/Area**: South America, Americas  
 **Family**: Unclassified  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Awishira*
+*Help us collect text resources for Awishira*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Awishira*
+*Help us collect audio resources for Awishira*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Awishira*
+*Help us collect video resources for Awishira*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

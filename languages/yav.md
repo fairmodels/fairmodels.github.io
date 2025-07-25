@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yangben  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.00  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: -0.00  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yangben*
+*Help us collect text resources for Yangben*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yangben*
+*Help us collect audio resources for Yangben*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yangben*
+*Help us collect video resources for Yangben*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

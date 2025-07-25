@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Cree, Swampy
+title: Swampy Cree
 parent: Languages
 ---
 
-# Cree, Swampy (csw)
+# Swampy Cree (csw)
 
 ## Overview
 
-**Language**: Cree, Swampy  
+**Language**: Swampy Cree  
 **Region/Area**: Northern America, Americas  
 **Family**: Algic  
-**Vitality Score**: -0.02  
-**Digitality Score**: 0.93  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: 0.93  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cree, Swampy*
+*Help us collect text resources for Swampy Cree*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cree, Swampy*
+*Help us collect audio resources for Swampy Cree*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cree, Swampy*
+*Help us collect video resources for Swampy Cree*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

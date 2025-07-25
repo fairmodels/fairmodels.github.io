@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Santa María Zacatepec
+title: Santa María Zacatepec Mixtec
 parent: Languages
 ---
 
-# Mixtec, Santa María Zacatepec (mza)
+# Santa María Zacatepec Mixtec (mza)
 
 ## Overview
 
-**Language**: Mixtec, Santa María Zacatepec  
+**Language**: Santa María Zacatepec Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.38  
-**Digitality Score**: 0.16  
+**Grassroots Presence (z-score)**: 0.38  
+**Web Presence (z-score)**: 0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Santa María Zacatepec*
+*Help us collect text resources for Santa María Zacatepec Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Santa María Zacatepec*
+*Help us collect audio resources for Santa María Zacatepec Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Santa María Zacatepec*
+*Help us collect video resources for Santa María Zacatepec Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

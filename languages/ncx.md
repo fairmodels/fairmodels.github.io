@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Central Puebla
+title: Central Puebla Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Central Puebla (ncx)
+# Central Puebla Nahuatl (ncx)
 
 ## Overview
 
-**Language**: Nahuatl, Central Puebla  
+**Language**: Central Puebla Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.14  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: 0.14  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Central Puebla*
+*Help us collect text resources for Central Puebla Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Central Puebla*
+*Help us collect audio resources for Central Puebla Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Central Puebla*
+*Help us collect video resources for Central Puebla Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

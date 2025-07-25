@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chinook Wawa  
 **Region/Area**: Northern America, Americas  
 **Family**: Pidgin  
-**Vitality Score**: -1.87  
-**Digitality Score**: 0.55  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: 0.55  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinook Wawa*
+*Help us collect text resources for Chinook Wawa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinook Wawa*
+*Help us collect audio resources for Chinook Wawa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinook Wawa*
+*Help us collect video resources for Chinook Wawa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

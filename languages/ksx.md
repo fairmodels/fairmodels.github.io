@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kedang  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.39  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kedang*
+*Help us collect text resources for Kedang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kedang*
+*Help us collect audio resources for Kedang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kedang*
+*Help us collect video resources for Kedang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

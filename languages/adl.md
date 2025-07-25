@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Adi, Galo
+title: Galo Adi
 parent: Languages
 ---
 
-# Adi, Galo (adl)
+# Galo Adi (adl)
 
 ## Overview
 
-**Language**: Adi, Galo  
+**Language**: Galo Adi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.69  
-**Digitality Score**: 0.45  
+**Grassroots Presence (z-score)**: 0.69  
+**Web Presence (z-score)**: 0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Adi, Galo*
+*Help us collect text resources for Galo Adi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Adi, Galo*
+*Help us collect audio resources for Galo Adi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Adi, Galo*
+*Help us collect video resources for Galo Adi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

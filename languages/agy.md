@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Alta, Southern
+title: Southern Alta
 parent: Languages
 ---
 
-# Alta, Southern (agy)
+# Southern Alta (agy)
 
 ## Overview
 
-**Language**: Alta, Southern  
+**Language**: Southern Alta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.31  
-**Digitality Score**: -0.23  
+**Grassroots Presence (z-score)**: -0.31  
+**Web Presence (z-score)**: -0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Alta, Southern*
+*Help us collect text resources for Southern Alta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Alta, Southern*
+*Help us collect audio resources for Southern Alta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Alta, Southern*
+*Help us collect video resources for Southern Alta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

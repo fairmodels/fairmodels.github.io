@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Malagasy, Tesaka
+title: Tesaka Malagasy
 parent: Languages
 ---
 
-# Malagasy, Tesaka (tkg)
+# Tesaka Malagasy (tkg)
 
 ## Overview
 
-**Language**: Malagasy, Tesaka  
+**Language**: Tesaka Malagasy  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Austronesian  
-**Vitality Score**: 0.84  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: 0.84  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malagasy, Tesaka*
+*Help us collect text resources for Tesaka Malagasy*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malagasy, Tesaka*
+*Help us collect audio resources for Tesaka Malagasy*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malagasy, Tesaka*
+*Help us collect video resources for Tesaka Malagasy*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

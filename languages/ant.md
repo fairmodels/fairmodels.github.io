@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Antikarinya  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -1.45  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -1.45  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Antikarinya*
+*Help us collect text resources for Antikarinya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Antikarinya*
+*Help us collect audio resources for Antikarinya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Antikarinya*
+*Help us collect video resources for Antikarinya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

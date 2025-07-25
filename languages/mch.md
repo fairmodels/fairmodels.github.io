@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maquiritari  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: 0.18  
-**Digitality Score**: 0.11  
+**Grassroots Presence (z-score)**: 0.18  
+**Web Presence (z-score)**: 0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maquiritari*
+*Help us collect text resources for Maquiritari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maquiritari*
+*Help us collect audio resources for Maquiritari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maquiritari*
+*Help us collect video resources for Maquiritari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

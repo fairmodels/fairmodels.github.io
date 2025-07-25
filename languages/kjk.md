@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Konjo, Highland
+title: Highland Konjo
 parent: Languages
 ---
 
-# Konjo, Highland (kjk)
+# Highland Konjo (kjk)
 
 ## Overview
 
-**Language**: Konjo, Highland  
+**Language**: Highland Konjo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.39  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.39  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Konjo, Highland*
+*Help us collect text resources for Highland Konjo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Konjo, Highland*
+*Help us collect audio resources for Highland Konjo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Konjo, Highland*
+*Help us collect video resources for Highland Konjo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

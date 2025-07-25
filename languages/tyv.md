@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tuvan  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: 1.91  
-**Digitality Score**: 2.77  
+**Grassroots Presence (z-score)**: 1.91  
+**Web Presence (z-score)**: 2.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tuvan*
+*Help us collect text resources for Tuvan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tuvan*
+*Help us collect audio resources for Tuvan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tuvan*
+*Help us collect video resources for Tuvan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

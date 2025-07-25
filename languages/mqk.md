@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Rajah Kabunsuwan
+title: Rajah Kabunsuwan Manobo
 parent: Languages
 ---
 
-# Manobo, Rajah Kabunsuwan (mqk)
+# Rajah Kabunsuwan Manobo (mqk)
 
 ## Overview
 
-**Language**: Manobo, Rajah Kabunsuwan  
+**Language**: Rajah Kabunsuwan Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.20  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Rajah Kabunsuwan*
+*Help us collect text resources for Rajah Kabunsuwan Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Rajah Kabunsuwan*
+*Help us collect audio resources for Rajah Kabunsuwan Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Rajah Kabunsuwan*
+*Help us collect video resources for Rajah Kabunsuwan Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

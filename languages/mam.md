@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mam  
 **Region/Area**: Central America, Americas  
 **Family**: Mayan  
-**Vitality Score**: 1.07  
-**Digitality Score**: 2.06  
+**Grassroots Presence (z-score)**: 1.07  
+**Web Presence (z-score)**: 2.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mam*
+*Help us collect text resources for Mam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mam*
+*Help us collect audio resources for Mam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mam*
+*Help us collect video resources for Mam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

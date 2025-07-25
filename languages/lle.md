@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lele  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.02  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: -0.02  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lele*
+*Help us collect text resources for Lele*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lele*
+*Help us collect audio resources for Lele*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lele*
+*Help us collect video resources for Lele*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Lobu, Tampias
+title: Tampias Lobu
 parent: Languages
 ---
 
-# Lobu, Tampias (low)
+# Tampias Lobu (low)
 
 ## Overview
 
-**Language**: Lobu, Tampias  
+**Language**: Tampias Lobu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.09  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.09  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lobu, Tampias*
+*Help us collect text resources for Tampias Lobu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lobu, Tampias*
+*Help us collect audio resources for Tampias Lobu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lobu, Tampias*
+*Help us collect video resources for Tampias Lobu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Malango  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.20  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Malango*
+*Help us collect text resources for Malango*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Malango*
+*Help us collect audio resources for Malango*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Malango*
+*Help us collect video resources for Malango*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

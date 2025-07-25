@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Apasco-Apoala
+title: Apasco-Apoala Mixtec
 parent: Languages
 ---
 
-# Mixtec, Apasco-Apoala (mip)
+# Apasco-Apoala Mixtec (mip)
 
 ## Overview
 
-**Language**: Mixtec, Apasco-Apoala  
+**Language**: Apasco-Apoala Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.08  
-**Digitality Score**: 0.16  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: 0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Apasco-Apoala*
+*Help us collect text resources for Apasco-Apoala Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Apasco-Apoala*
+*Help us collect audio resources for Apasco-Apoala Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Apasco-Apoala*
+*Help us collect video resources for Apasco-Apoala Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

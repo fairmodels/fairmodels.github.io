@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tamajeq, Tayart
+title: Tayart Tamajeq
 parent: Languages
 ---
 
-# Tamajeq, Tayart (thz)
+# Tayart Tamajeq (thz)
 
 ## Overview
 
-**Language**: Tamajeq, Tayart  
+**Language**: Tayart Tamajeq  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.04  
-**Digitality Score**: 0.56  
+**Grassroots Presence (z-score)**: 1.04  
+**Web Presence (z-score)**: 0.56  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tamajeq, Tayart*
+*Help us collect text resources for Tayart Tamajeq*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tamajeq, Tayart*
+*Help us collect audio resources for Tayart Tamajeq*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tamajeq, Tayart*
+*Help us collect video resources for Tayart Tamajeq*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

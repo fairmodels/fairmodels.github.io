@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Temuan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -1.09  
-**Digitality Score**: 1.11  
+**Grassroots Presence (z-score)**: -1.09  
+**Web Presence (z-score)**: 1.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Temuan*
+*Help us collect text resources for Temuan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Temuan*
+*Help us collect audio resources for Temuan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Temuan*
+*Help us collect video resources for Temuan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

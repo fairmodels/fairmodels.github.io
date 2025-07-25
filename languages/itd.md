@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tidung, Southern
+title: Southern Tidung
 parent: Languages
 ---
 
-# Tidung, Southern (itd)
+# Southern Tidung (itd)
 
 ## Overview
 
-**Language**: Tidung, Southern  
+**Language**: Southern Tidung  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.36  
-**Digitality Score**: -0.14  
+**Grassroots Presence (z-score)**: 0.36  
+**Web Presence (z-score)**: -0.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tidung, Southern*
+*Help us collect text resources for Southern Tidung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tidung, Southern*
+*Help us collect audio resources for Southern Tidung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tidung, Southern*
+*Help us collect video resources for Southern Tidung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

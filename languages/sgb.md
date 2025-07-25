@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ayta, Mag-antsi
+title: Mag-antsi Ayta
 parent: Languages
 ---
 
-# Ayta, Mag-antsi (sgb)
+# Mag-antsi Ayta (sgb)
 
 ## Overview
 
-**Language**: Ayta, Mag-antsi  
+**Language**: Mag-antsi Ayta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.03  
-**Digitality Score**: 1.07  
+**Grassroots Presence (z-score)**: -0.03  
+**Web Presence (z-score)**: 1.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ayta, Mag-antsi*
+*Help us collect text resources for Mag-antsi Ayta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ayta, Mag-antsi*
+*Help us collect audio resources for Mag-antsi Ayta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ayta, Mag-antsi*
+*Help us collect video resources for Mag-antsi Ayta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

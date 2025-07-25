@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bhilali  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.10  
-**Digitality Score**: -0.23  
+**Grassroots Presence (z-score)**: 1.10  
+**Web Presence (z-score)**: -0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bhilali*
+*Help us collect text resources for Bhilali*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bhilali*
+*Help us collect audio resources for Bhilali*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bhilali*
+*Help us collect video resources for Bhilali*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

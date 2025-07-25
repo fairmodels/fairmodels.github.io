@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gbe, Saxwe
+title: Saxwe Gbe
 parent: Languages
 ---
 
-# Gbe, Saxwe (sxw)
+# Saxwe Gbe (sxw)
 
 ## Overview
 
-**Language**: Gbe, Saxwe  
+**Language**: Saxwe Gbe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.01  
-**Digitality Score**: -0.01  
+**Grassroots Presence (z-score)**: 1.01  
+**Web Presence (z-score)**: -0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbe, Saxwe*
+*Help us collect text resources for Saxwe Gbe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbe, Saxwe*
+*Help us collect audio resources for Saxwe Gbe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbe, Saxwe*
+*Help us collect video resources for Saxwe Gbe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

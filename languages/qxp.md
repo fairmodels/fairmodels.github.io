@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Puno
+title: Puno Quechua
 parent: Languages
 ---
 
-# Quechua, Puno (qxp)
+# Puno Quechua (qxp)
 
 ## Overview
 
-**Language**: Quechua, Puno  
+**Language**: Puno Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 1.43  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: 1.43  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Puno*
+*Help us collect text resources for Puno Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Puno*
+*Help us collect audio resources for Puno Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Puno*
+*Help us collect video resources for Puno Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

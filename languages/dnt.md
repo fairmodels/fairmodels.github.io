@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dani, Mid Grand Valley
+title: Mid Grand Valley Dani
 parent: Languages
 ---
 
-# Dani, Mid Grand Valley (dnt)
+# Mid Grand Valley Dani (dnt)
 
 ## Overview
 
-**Language**: Dani, Mid Grand Valley  
+**Language**: Mid Grand Valley Dani  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.76  
-**Digitality Score**: -0.66  
+**Grassroots Presence (z-score)**: 0.76  
+**Web Presence (z-score)**: -0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dani, Mid Grand Valley*
+*Help us collect text resources for Mid Grand Valley Dani*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dani, Mid Grand Valley*
+*Help us collect audio resources for Mid Grand Valley Dani*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dani, Mid Grand Valley*
+*Help us collect video resources for Mid Grand Valley Dani*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

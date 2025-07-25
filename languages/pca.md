@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Popoloca, Santa Inés Ahuatempan
+title: Santa Inés Ahuatempan Popoloca
 parent: Languages
 ---
 
-# Popoloca, Santa Inés Ahuatempan (pca)
+# Santa Inés Ahuatempan Popoloca (pca)
 
 ## Overview
 
-**Language**: Popoloca, Santa Inés Ahuatempan  
+**Language**: Santa Inés Ahuatempan Popoloca  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.19  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Popoloca, Santa Inés Ahuatempan*
+*Help us collect text resources for Santa Inés Ahuatempan Popoloca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Popoloca, Santa Inés Ahuatempan*
+*Help us collect audio resources for Santa Inés Ahuatempan Popoloca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Popoloca, Santa Inés Ahuatempan*
+*Help us collect video resources for Santa Inés Ahuatempan Popoloca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

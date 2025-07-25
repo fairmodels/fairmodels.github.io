@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Fongoro  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -1.72  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -1.72  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fongoro*
+*Help us collect text resources for Fongoro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fongoro*
+*Help us collect audio resources for Fongoro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fongoro*
+*Help us collect video resources for Fongoro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

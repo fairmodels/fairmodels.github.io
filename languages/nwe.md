@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ngwe  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.49  
-**Digitality Score**: -0.48  
+**Grassroots Presence (z-score)**: 0.49  
+**Web Presence (z-score)**: -0.48  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ngwe*
+*Help us collect text resources for Ngwe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ngwe*
+*Help us collect audio resources for Ngwe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ngwe*
+*Help us collect video resources for Ngwe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

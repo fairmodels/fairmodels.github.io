@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Matbat  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.18  
-**Digitality Score**: -0.21  
+**Grassroots Presence (z-score)**: -0.18  
+**Web Presence (z-score)**: -0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Matbat*
+*Help us collect text resources for Matbat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Matbat*
+*Help us collect audio resources for Matbat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Matbat*
+*Help us collect video resources for Matbat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

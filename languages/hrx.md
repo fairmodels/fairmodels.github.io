@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hunsrik  
 **Region/Area**: South America, Americas  
 **Family**: Indo-European  
-**Vitality Score**: 0.64  
-**Digitality Score**: 1.08  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 1.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hunsrik*
+*Help us collect text resources for Hunsrik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hunsrik*
+*Help us collect audio resources for Hunsrik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hunsrik*
+*Help us collect video resources for Hunsrik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

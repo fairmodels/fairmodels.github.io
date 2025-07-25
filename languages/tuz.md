@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Turka  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.48  
-**Digitality Score**: 0.37  
+**Grassroots Presence (z-score)**: 0.48  
+**Web Presence (z-score)**: 0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Turka*
+*Help us collect text resources for Turka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Turka*
+*Help us collect audio resources for Turka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Turka*
+*Help us collect video resources for Turka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

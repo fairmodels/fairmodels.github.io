@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Santiago Xanica
+title: Santiago Xanica Zapotec
 parent: Languages
 ---
 
-# Zapotec, Santiago Xanica (zpr)
+# Santiago Xanica Zapotec (zpr)
 
 ## Overview
 
-**Language**: Zapotec, Santiago Xanica  
+**Language**: Santiago Xanica Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.10  
-**Digitality Score**: 1.15  
+**Grassroots Presence (z-score)**: -0.10  
+**Web Presence (z-score)**: 1.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Santiago Xanica*
+*Help us collect text resources for Santiago Xanica Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Santiago Xanica*
+*Help us collect audio resources for Santiago Xanica Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Santiago Xanica*
+*Help us collect video resources for Santiago Xanica Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

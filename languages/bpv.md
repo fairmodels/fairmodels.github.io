@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Marind, Bian
+title: Bian Marind
 parent: Languages
 ---
 
-# Marind, Bian (bpv)
+# Bian Marind (bpv)
 
 ## Overview
 
-**Language**: Marind, Bian  
+**Language**: Bian Marind  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.23  
-**Digitality Score**: -0.32  
+**Grassroots Presence (z-score)**: -0.23  
+**Web Presence (z-score)**: -0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Marind, Bian*
+*Help us collect text resources for Bian Marind*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Marind, Bian*
+*Help us collect audio resources for Bian Marind*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Marind, Bian*
+*Help us collect video resources for Bian Marind*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

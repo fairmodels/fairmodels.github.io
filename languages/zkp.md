@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kaingáng, São Paulo
+title: São Paulo Kaingáng
 parent: Languages
 ---
 
-# Kaingáng, São Paulo (zkp)
+# São Paulo Kaingáng (zkp)
 
 ## Overview
 
-**Language**: Kaingáng, São Paulo  
+**Language**: São Paulo Kaingáng  
 **Region/Area**: South America, Americas  
 **Family**: Jean  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaingáng, São Paulo*
+*Help us collect text resources for São Paulo Kaingáng*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaingáng, São Paulo*
+*Help us collect audio resources for São Paulo Kaingáng*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaingáng, São Paulo*
+*Help us collect video resources for São Paulo Kaingáng*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Oniyan  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.71  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Oniyan*
+*Help us collect text resources for Oniyan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Oniyan*
+*Help us collect audio resources for Oniyan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Oniyan*
+*Help us collect video resources for Oniyan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

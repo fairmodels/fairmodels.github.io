@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hawaiian  
 **Region/Area**: Northern America, Americas  
 **Family**: Austronesian  
-**Vitality Score**: 1.29  
-**Digitality Score**: 3.14  
+**Grassroots Presence (z-score)**: 1.29  
+**Web Presence (z-score)**: 3.14  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hawaiian*
+*Help us collect text resources for Hawaiian*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hawaiian*
+*Help us collect audio resources for Hawaiian*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hawaiian*
+*Help us collect video resources for Hawaiian*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

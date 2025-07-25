@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Papora-Hoanya  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Papora-Hoanya*
+*Help us collect text resources for Papora-Hoanya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Papora-Hoanya*
+*Help us collect audio resources for Papora-Hoanya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Papora-Hoanya*
+*Help us collect video resources for Papora-Hoanya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

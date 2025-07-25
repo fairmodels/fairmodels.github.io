@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yintale  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.21  
-**Digitality Score**: -0.06  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: -0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yintale*
+*Help us collect text resources for Yintale*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yintale*
+*Help us collect audio resources for Yintale*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yintale*
+*Help us collect video resources for Yintale*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

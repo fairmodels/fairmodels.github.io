@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Agta, Pahanan
+title: Pahanan Agta
 parent: Languages
 ---
 
-# Agta, Pahanan (apf)
+# Pahanan Agta (apf)
 
 ## Overview
 
-**Language**: Agta, Pahanan  
+**Language**: Pahanan Agta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.33  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: 0.33  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Agta, Pahanan*
+*Help us collect text resources for Pahanan Agta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Agta, Pahanan*
+*Help us collect audio resources for Pahanan Agta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Agta, Pahanan*
+*Help us collect video resources for Pahanan Agta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

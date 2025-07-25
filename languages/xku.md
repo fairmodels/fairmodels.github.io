@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kaamba  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaamba*
+*Help us collect text resources for Kaamba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaamba*
+*Help us collect audio resources for Kaamba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaamba*
+*Help us collect video resources for Kaamba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

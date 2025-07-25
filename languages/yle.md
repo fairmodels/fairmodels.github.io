@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Yélî Dnye  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Yele-West New Britain  
-**Vitality Score**: 0.46  
-**Digitality Score**: 1.26  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 1.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yélî Dnye*
+*Help us collect text resources for Yélî Dnye*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yélî Dnye*
+*Help us collect audio resources for Yélî Dnye*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yélî Dnye*
+*Help us collect video resources for Yélî Dnye*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

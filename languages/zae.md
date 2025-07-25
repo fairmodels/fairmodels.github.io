@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Yareni
+title: Yareni Zapotec
 parent: Languages
 ---
 
-# Zapotec, Yareni (zae)
+# Yareni Zapotec (zae)
 
 ## Overview
 
-**Language**: Zapotec, Yareni  
+**Language**: Yareni Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.08  
-**Digitality Score**: 1.39  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: 1.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Yareni*
+*Help us collect text resources for Yareni Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Yareni*
+*Help us collect audio resources for Yareni Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Yareni*
+*Help us collect video resources for Yareni Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

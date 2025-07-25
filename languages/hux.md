@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Witoto, Nipode
+title: Nipode Witoto
 parent: Languages
 ---
 
-# Witoto, Nipode (hux)
+# Nipode Witoto (hux)
 
 ## Overview
 
-**Language**: Witoto, Nipode  
+**Language**: Nipode Witoto  
 **Region/Area**: South America, Americas  
 **Family**: Witotoan  
-**Vitality Score**: -0.54  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: -0.54  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Witoto, Nipode*
+*Help us collect text resources for Nipode Witoto*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Witoto, Nipode*
+*Help us collect audio resources for Nipode Witoto*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Witoto, Nipode*
+*Help us collect video resources for Nipode Witoto*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

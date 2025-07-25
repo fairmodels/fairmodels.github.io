@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Greek Sign Language  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Sign language  
-**Vitality Score**: 0.73  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: 0.73  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Greek Sign Language*
+*Help us collect text resources for Greek Sign Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Greek Sign Language*
+*Help us collect audio resources for Greek Sign Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Greek Sign Language*
+*Help us collect video resources for Greek Sign Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

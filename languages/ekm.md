@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nulibie  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.55  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: 0.55  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nulibie*
+*Help us collect text resources for Nulibie*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nulibie*
+*Help us collect audio resources for Nulibie*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nulibie*
+*Help us collect video resources for Nulibie*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

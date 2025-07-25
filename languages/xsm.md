@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kasem  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.29  
-**Digitality Score**: 1.26  
+**Grassroots Presence (z-score)**: 1.29  
+**Web Presence (z-score)**: 1.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kasem*
+*Help us collect text resources for Kasem*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kasem*
+*Help us collect audio resources for Kasem*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kasem*
+*Help us collect video resources for Kasem*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

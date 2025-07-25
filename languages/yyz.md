@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ayizi  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -1.22  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.22  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ayizi*
+*Help us collect text resources for Ayizi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ayizi*
+*Help us collect audio resources for Ayizi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ayizi*
+*Help us collect video resources for Ayizi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

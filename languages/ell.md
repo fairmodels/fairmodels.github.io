@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Greek  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.72  
-**Digitality Score**: 5.18  
+**Grassroots Presence (z-score)**: 2.72  
+**Web Presence (z-score)**: 5.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Greek*
+*Help us collect text resources for Greek*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Greek*
+*Help us collect audio resources for Greek*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Greek*
+*Help us collect video resources for Greek*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

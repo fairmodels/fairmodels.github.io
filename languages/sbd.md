@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Samo, Southern
+title: Southern Samo
 parent: Languages
 ---
 
-# Samo, Southern (sbd)
+# Southern Samo (sbd)
 
 ## Overview
 
-**Language**: Samo, Southern  
+**Language**: Southern Samo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.88  
-**Digitality Score**: 0.51  
+**Grassroots Presence (z-score)**: 0.88  
+**Web Presence (z-score)**: 0.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Samo, Southern*
+*Help us collect text resources for Southern Samo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Samo, Southern*
+*Help us collect audio resources for Southern Samo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Samo, Southern*
+*Help us collect video resources for Southern Samo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

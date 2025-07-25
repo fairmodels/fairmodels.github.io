@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Watiwa  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.30  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.30  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Watiwa*
+*Help us collect text resources for Watiwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Watiwa*
+*Help us collect audio resources for Watiwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Watiwa*
+*Help us collect video resources for Watiwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

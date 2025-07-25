@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Agta, Dupaninan
+title: Dupaninan Agta
 parent: Languages
 ---
 
-# Agta, Dupaninan (duo)
+# Dupaninan Agta (duo)
 
 ## Overview
 
-**Language**: Agta, Dupaninan  
+**Language**: Dupaninan Agta  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.17  
-**Digitality Score**: 0.65  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: 0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Agta, Dupaninan*
+*Help us collect text resources for Dupaninan Agta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Agta, Dupaninan*
+*Help us collect audio resources for Dupaninan Agta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Agta, Dupaninan*
+*Help us collect video resources for Dupaninan Agta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

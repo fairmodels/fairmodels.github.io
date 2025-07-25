@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Afar  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.20  
-**Digitality Score**: 3.07  
+**Grassroots Presence (z-score)**: 2.20  
+**Web Presence (z-score)**: 3.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Afar*
+*Help us collect text resources for Afar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Afar*
+*Help us collect audio resources for Afar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Afar*
+*Help us collect video resources for Afar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

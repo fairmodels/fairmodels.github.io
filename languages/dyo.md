@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jola-Fonyi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.09  
-**Digitality Score**: 1.31  
+**Grassroots Presence (z-score)**: 1.09  
+**Web Presence (z-score)**: 1.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jola-Fonyi*
+*Help us collect text resources for Jola-Fonyi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jola-Fonyi*
+*Help us collect audio resources for Jola-Fonyi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jola-Fonyi*
+*Help us collect video resources for Jola-Fonyi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

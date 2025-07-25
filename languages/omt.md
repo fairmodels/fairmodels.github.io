@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Omotik  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -1.06  
-**Digitality Score**: -0.79  
+**Grassroots Presence (z-score)**: -1.06  
+**Web Presence (z-score)**: -0.79  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Omotik*
+*Help us collect text resources for Omotik*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Omotik*
+*Help us collect audio resources for Omotik*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Omotik*
+*Help us collect video resources for Omotik*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

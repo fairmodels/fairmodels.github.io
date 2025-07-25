@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Yakkha, Chhathare
+title: Chhathare Yakkha
 parent: Languages
 ---
 
-# Yakkha, Chhathare (luu)
+# Chhathare Yakkha (luu)
 
 ## Overview
 
-**Language**: Yakkha, Chhathare  
+**Language**: Chhathare Yakkha  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Yakkha, Chhathare*
+*Help us collect text resources for Chhathare Yakkha*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Yakkha, Chhathare*
+*Help us collect audio resources for Chhathare Yakkha*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Yakkha, Chhathare*
+*Help us collect video resources for Chhathare Yakkha*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

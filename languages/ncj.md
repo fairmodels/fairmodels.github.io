@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Northern Puebla
+title: Northern Puebla Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Northern Puebla (ncj)
+# Northern Puebla Nahuatl (ncj)
 
 ## Overview
 
-**Language**: Nahuatl, Northern Puebla  
+**Language**: Northern Puebla Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.50  
-**Digitality Score**: 1.07  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: 1.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Northern Puebla*
+*Help us collect text resources for Northern Puebla Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Northern Puebla*
+*Help us collect audio resources for Northern Puebla Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Northern Puebla*
+*Help us collect video resources for Northern Puebla Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

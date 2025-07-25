@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Boko  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.33  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.33  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Boko*
+*Help us collect text resources for Boko*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Boko*
+*Help us collect audio resources for Boko*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Boko*
+*Help us collect video resources for Boko*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

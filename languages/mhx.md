@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lhao Vo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.87  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: 0.87  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lhao Vo*
+*Help us collect text resources for Lhao Vo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lhao Vo*
+*Help us collect audio resources for Lhao Vo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lhao Vo*
+*Help us collect video resources for Lhao Vo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

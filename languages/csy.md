@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Siyin
+title: Siyin Chin
 parent: Languages
 ---
 
-# Chin, Siyin (csy)
+# Siyin Chin (csy)
 
 ## Overview
 
-**Language**: Chin, Siyin  
+**Language**: Siyin Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.56  
-**Digitality Score**: 0.51  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: 0.51  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Siyin*
+*Help us collect text resources for Siyin Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Siyin*
+*Help us collect audio resources for Siyin Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Siyin*
+*Help us collect video resources for Siyin Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

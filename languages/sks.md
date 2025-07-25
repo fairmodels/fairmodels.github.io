@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maia  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.14  
-**Digitality Score**: -0.37  
+**Grassroots Presence (z-score)**: 0.14  
+**Web Presence (z-score)**: -0.37  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maia*
+*Help us collect text resources for Maia*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maia*
+*Help us collect audio resources for Maia*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maia*
+*Help us collect video resources for Maia*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

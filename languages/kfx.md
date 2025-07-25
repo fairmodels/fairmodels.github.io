@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Pahari, Kullu
+title: Kullu Pahari
 parent: Languages
 ---
 
-# Pahari, Kullu (kfx)
+# Kullu Pahari (kfx)
 
 ## Overview
 
-**Language**: Pahari, Kullu  
+**Language**: Kullu Pahari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.93  
-**Digitality Score**: 0.16  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pahari, Kullu*
+*Help us collect text resources for Kullu Pahari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pahari, Kullu*
+*Help us collect audio resources for Kullu Pahari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pahari, Kullu*
+*Help us collect video resources for Kullu Pahari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

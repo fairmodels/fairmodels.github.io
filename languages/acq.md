@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Ta’izzi-Adeni
+title: Ta’izzi-Adeni Arabic
 parent: Languages
 ---
 
-# Arabic, Ta’izzi-Adeni (acq)
+# Ta’izzi-Adeni Arabic (acq)
 
 ## Overview
 
-**Language**: Arabic, Ta’izzi-Adeni  
+**Language**: Ta’izzi-Adeni Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.08  
-**Digitality Score**: 2.20  
+**Grassroots Presence (z-score)**: 2.08  
+**Web Presence (z-score)**: 2.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Ta’izzi-Adeni*
+*Help us collect text resources for Ta’izzi-Adeni Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Ta’izzi-Adeni*
+*Help us collect audio resources for Ta’izzi-Adeni Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Ta’izzi-Adeni*
+*Help us collect video resources for Ta’izzi-Adeni Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

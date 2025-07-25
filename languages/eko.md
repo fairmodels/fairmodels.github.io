@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Koti  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.93  
-**Digitality Score**: 0.69  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koti*
+*Help us collect text resources for Koti*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koti*
+*Help us collect audio resources for Koti*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koti*
+*Help us collect video resources for Koti*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

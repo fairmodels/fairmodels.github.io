@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Korlai Portuguese Creole  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: -0.08  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -0.08  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Korlai Portuguese Creole*
+*Help us collect text resources for Korlai Portuguese Creole*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Korlai Portuguese Creole*
+*Help us collect audio resources for Korlai Portuguese Creole*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Korlai Portuguese Creole*
+*Help us collect video resources for Korlai Portuguese Creole*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

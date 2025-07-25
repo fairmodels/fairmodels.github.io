@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Abron  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.18  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: 1.18  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Abron*
+*Help us collect text resources for Abron*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Abron*
+*Help us collect audio resources for Abron*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Abron*
+*Help us collect video resources for Abron*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Godwari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.80  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Godwari*
+*Help us collect text resources for Godwari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Godwari*
+*Help us collect audio resources for Godwari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Godwari*
+*Help us collect video resources for Godwari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

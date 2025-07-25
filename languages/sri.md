@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Siriano  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: -0.41  
-**Digitality Score**: 0.44  
+**Grassroots Presence (z-score)**: -0.41  
+**Web Presence (z-score)**: 0.44  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Siriano*
+*Help us collect text resources for Siriano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Siriano*
+*Help us collect audio resources for Siriano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Siriano*
+*Help us collect video resources for Siriano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

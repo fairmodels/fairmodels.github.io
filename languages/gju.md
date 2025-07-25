@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gujari  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.20  
-**Digitality Score**: 1.21  
+**Grassroots Presence (z-score)**: 1.20  
+**Web Presence (z-score)**: 1.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gujari*
+*Help us collect text resources for Gujari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gujari*
+*Help us collect audio resources for Gujari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gujari*
+*Help us collect video resources for Gujari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

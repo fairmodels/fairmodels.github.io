@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Cuvok  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.59  
-**Digitality Score**: 0.21  
+**Grassroots Presence (z-score)**: 0.59  
+**Web Presence (z-score)**: 0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Cuvok*
+*Help us collect text resources for Cuvok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Cuvok*
+*Help us collect audio resources for Cuvok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Cuvok*
+*Help us collect video resources for Cuvok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

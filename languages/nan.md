@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinese, Min Nan
+title: Min Nan Chinese
 parent: Languages
 ---
 
-# Chinese, Min Nan (nan)
+# Min Nan Chinese (nan)
 
 ## Overview
 
-**Language**: Chinese, Min Nan  
+**Language**: Min Nan Chinese  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: Not available  
-**Digitality Score**: Not available  
+**Grassroots Presence (z-score)**: Not available  
+**Web Presence (z-score)**: Not available  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinese, Min Nan*
+*Help us collect text resources for Min Nan Chinese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinese, Min Nan*
+*Help us collect audio resources for Min Nan Chinese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinese, Min Nan*
+*Help us collect video resources for Min Nan Chinese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

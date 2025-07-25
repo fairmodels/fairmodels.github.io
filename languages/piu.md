@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pintupi-Luritja  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: 0.32  
-**Digitality Score**: 0.98  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: 0.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pintupi-Luritja*
+*Help us collect text resources for Pintupi-Luritja*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pintupi-Luritja*
+*Help us collect audio resources for Pintupi-Luritja*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pintupi-Luritja*
+*Help us collect video resources for Pintupi-Luritja*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

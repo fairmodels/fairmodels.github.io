@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tarahumara, Western
+title: Western Tarahumara
 parent: Languages
 ---
 
-# Tarahumara, Western (tac)
+# Western Tarahumara (tac)
 
 ## Overview
 
-**Language**: Tarahumara, Western  
+**Language**: Western Tarahumara  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.54  
-**Digitality Score**: 0.78  
+**Grassroots Presence (z-score)**: 0.54  
+**Web Presence (z-score)**: 0.78  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tarahumara, Western*
+*Help us collect text resources for Western Tarahumara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tarahumara, Western*
+*Help us collect audio resources for Western Tarahumara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tarahumara, Western*
+*Help us collect video resources for Western Tarahumara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

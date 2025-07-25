@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nagamese  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Creole  
-**Vitality Score**: 1.65  
-**Digitality Score**: 0.20  
+**Grassroots Presence (z-score)**: 1.65  
+**Web Presence (z-score)**: 0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nagamese*
+*Help us collect text resources for Nagamese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nagamese*
+*Help us collect audio resources for Nagamese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nagamese*
+*Help us collect video resources for Nagamese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

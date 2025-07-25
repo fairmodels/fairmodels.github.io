@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mirandese  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.55  
-**Digitality Score**: 1.39  
+**Grassroots Presence (z-score)**: 1.55  
+**Web Presence (z-score)**: 1.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mirandese*
+*Help us collect text resources for Mirandese*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mirandese*
+*Help us collect audio resources for Mirandese*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mirandese*
+*Help us collect video resources for Mirandese*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

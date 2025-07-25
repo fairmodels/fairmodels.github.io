@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Marau  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.14  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Marau*
+*Help us collect text resources for Marau*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Marau*
+*Help us collect audio resources for Marau*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Marau*
+*Help us collect video resources for Marau*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

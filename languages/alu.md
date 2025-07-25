@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Areare  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: 0.67  
-**Digitality Score**: 0.32  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: 0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Areare*
+*Help us collect text resources for Areare*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Areare*
+*Help us collect audio resources for Areare*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Areare*
+*Help us collect video resources for Areare*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

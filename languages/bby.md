@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Befang  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.07  
-**Digitality Score**: -0.20  
+**Grassroots Presence (z-score)**: 0.07  
+**Web Presence (z-score)**: -0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Befang*
+*Help us collect text resources for Befang*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Befang*
+*Help us collect audio resources for Befang*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Befang*
+*Help us collect video resources for Befang*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

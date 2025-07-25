@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Migaama  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.64  
-**Digitality Score**: 0.45  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Migaama*
+*Help us collect text resources for Migaama*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Migaama*
+*Help us collect audio resources for Migaama*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Migaama*
+*Help us collect video resources for Migaama*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Guajajára  
 **Region/Area**: South America, Americas  
 **Family**: Tupian  
-**Vitality Score**: 0.59  
-**Digitality Score**: 1.21  
+**Grassroots Presence (z-score)**: 0.59  
+**Web Presence (z-score)**: 1.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Guajajára*
+*Help us collect text resources for Guajajára*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Guajajára*
+*Help us collect audio resources for Guajajára*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Guajajára*
+*Help us collect video resources for Guajajára*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

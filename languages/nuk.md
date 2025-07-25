@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nuu-chah-nulth  
 **Region/Area**: Northern America, Americas  
 **Family**: Wakashan  
-**Vitality Score**: -1.12  
-**Digitality Score**: 0.21  
+**Grassroots Presence (z-score)**: -1.12  
+**Web Presence (z-score)**: 0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nuu-chah-nulth*
+*Help us collect text resources for Nuu-chah-nulth*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nuu-chah-nulth*
+*Help us collect audio resources for Nuu-chah-nulth*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nuu-chah-nulth*
+*Help us collect video resources for Nuu-chah-nulth*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

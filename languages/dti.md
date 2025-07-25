@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Ana Tinga
+title: Ana Tinga Dogon
 parent: Languages
 ---
 
-# Dogon, Ana Tinga (dti)
+# Ana Tinga Dogon (dti)
 
 ## Overview
 
-**Language**: Dogon, Ana Tinga  
+**Language**: Ana Tinga Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.30  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.30  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Ana Tinga*
+*Help us collect text resources for Ana Tinga Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Ana Tinga*
+*Help us collect audio resources for Ana Tinga Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Ana Tinga*
+*Help us collect video resources for Ana Tinga Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

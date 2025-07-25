@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Momuna  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Somahai  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.75  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.75  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Momuna*
+*Help us collect text resources for Momuna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Momuna*
+*Help us collect audio resources for Momuna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Momuna*
+*Help us collect video resources for Momuna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

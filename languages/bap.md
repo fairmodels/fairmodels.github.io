@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bantawa  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.47  
-**Digitality Score**: 0.70  
+**Grassroots Presence (z-score)**: 0.47  
+**Web Presence (z-score)**: 0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bantawa*
+*Help us collect text resources for Bantawa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bantawa*
+*Help us collect audio resources for Bantawa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bantawa*
+*Help us collect video resources for Bantawa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

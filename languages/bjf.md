@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Barzani-Sandu Jewish Neo-Aramaic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -1.51  
-**Digitality Score**: -0.69  
+**Grassroots Presence (z-score)**: -1.51  
+**Web Presence (z-score)**: -0.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Barzani-Sandu Jewish Neo-Aramaic*
+*Help us collect text resources for Barzani-Sandu Jewish Neo-Aramaic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Barzani-Sandu Jewish Neo-Aramaic*
+*Help us collect audio resources for Barzani-Sandu Jewish Neo-Aramaic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Barzani-Sandu Jewish Neo-Aramaic*
+*Help us collect video resources for Barzani-Sandu Jewish Neo-Aramaic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

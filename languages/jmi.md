@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jimi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: -0.95  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.95  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jimi*
+*Help us collect text resources for Jimi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jimi*
+*Help us collect audio resources for Jimi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jimi*
+*Help us collect video resources for Jimi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

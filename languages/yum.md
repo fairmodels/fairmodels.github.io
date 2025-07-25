@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Quechan  
 **Region/Area**: Northern America, Americas  
 **Family**: Cochimí-Yuman  
-**Vitality Score**: -0.84  
-**Digitality Score**: 0.23  
+**Grassroots Presence (z-score)**: -0.84  
+**Web Presence (z-score)**: 0.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechan*
+*Help us collect text resources for Quechan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechan*
+*Help us collect audio resources for Quechan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechan*
+*Help us collect video resources for Quechan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

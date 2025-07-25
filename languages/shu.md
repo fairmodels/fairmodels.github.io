@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Chadian
+title: Chadian Arabic
 parent: Languages
 ---
 
-# Arabic, Chadian (shu)
+# Chadian Arabic (shu)
 
 ## Overview
 
-**Language**: Arabic, Chadian  
+**Language**: Chadian Arabic  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 2.03  
-**Digitality Score**: 2.69  
+**Grassroots Presence (z-score)**: 2.03  
+**Web Presence (z-score)**: 2.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Chadian*
+*Help us collect text resources for Chadian Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Chadian*
+*Help us collect audio resources for Chadian Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Chadian*
+*Help us collect video resources for Chadian Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

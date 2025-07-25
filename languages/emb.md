@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Embaloh  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Embaloh*
+*Help us collect text resources for Embaloh*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Embaloh*
+*Help us collect audio resources for Embaloh*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Embaloh*
+*Help us collect video resources for Embaloh*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kodut, South
+title: South Kodut
 parent: Languages
 ---
 
-# Kodut, South (mcy)
+# South Kodut (mcy)
 
 ## Overview
 
-**Language**: Kodut, South  
+**Language**: South Kodut  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.25  
-**Digitality Score**: -0.65  
+**Grassroots Presence (z-score)**: -0.25  
+**Web Presence (z-score)**: -0.65  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kodut, South*
+*Help us collect text resources for South Kodut*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kodut, South*
+*Help us collect audio resources for South Kodut*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kodut, South*
+*Help us collect video resources for South Kodut*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

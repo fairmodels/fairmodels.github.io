@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kryts  
 **Region/Area**: Western Asia, Asia  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kryts*
+*Help us collect text resources for Kryts*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kryts*
+*Help us collect audio resources for Kryts*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kryts*
+*Help us collect video resources for Kryts*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arrarnta, Western
+title: Western Arrarnta
 parent: Languages
 ---
 
-# Arrarnta, Western (are)
+# Western Arrarnta (are)
 
 ## Overview
 
-**Language**: Arrarnta, Western  
+**Language**: Western Arrarnta  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: 0.25  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: 0.25  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arrarnta, Western*
+*Help us collect text resources for Western Arrarnta*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arrarnta, Western*
+*Help us collect audio resources for Western Arrarnta*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arrarnta, Western*
+*Help us collect video resources for Western Arrarnta*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

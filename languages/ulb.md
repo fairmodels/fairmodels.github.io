@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Olùkùmi  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.24  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.24  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Olùkùmi*
+*Help us collect text resources for Olùkùmi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Olùkùmi*
+*Help us collect audio resources for Olùkùmi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Olùkùmi*
+*Help us collect video resources for Olùkùmi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

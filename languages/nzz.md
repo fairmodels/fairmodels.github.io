@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Nanga Dama
+title: Nanga Dama Dogon
 parent: Languages
 ---
 
-# Dogon, Nanga Dama (nzz)
+# Nanga Dama Dogon (nzz)
 
 ## Overview
 
-**Language**: Dogon, Nanga Dama  
+**Language**: Nanga Dama Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Nanga Dama*
+*Help us collect text resources for Nanga Dama Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Nanga Dama*
+*Help us collect audio resources for Nanga Dama Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Nanga Dama*
+*Help us collect video resources for Nanga Dama Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

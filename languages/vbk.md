@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bontok, Southwestern
+title: Southwestern Bontok
 parent: Languages
 ---
 
-# Bontok, Southwestern (vbk)
+# Southwestern Bontok (vbk)
 
 ## Overview
 
-**Language**: Bontok, Southwestern  
+**Language**: Southwestern Bontok  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: -0.57  
-**Digitality Score**: -0.98  
+**Grassroots Presence (z-score)**: -0.57  
+**Web Presence (z-score)**: -0.98  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bontok, Southwestern*
+*Help us collect text resources for Southwestern Bontok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bontok, Southwestern*
+*Help us collect audio resources for Southwestern Bontok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bontok, Southwestern*
+*Help us collect video resources for Southwestern Bontok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

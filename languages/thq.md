@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tharu, Mid-Eastern
+title: Mid-Eastern Tharu
 parent: Languages
 ---
 
-# Tharu, Mid-Eastern (thq)
+# Mid-Eastern Tharu (thq)
 
 ## Overview
 
-**Language**: Tharu, Mid-Eastern  
+**Language**: Mid-Eastern Tharu  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.96  
-**Digitality Score**: 0.19  
+**Grassroots Presence (z-score)**: 0.96  
+**Web Presence (z-score)**: 0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tharu, Mid-Eastern*
+*Help us collect text resources for Mid-Eastern Tharu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tharu, Mid-Eastern*
+*Help us collect audio resources for Mid-Eastern Tharu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tharu, Mid-Eastern*
+*Help us collect video resources for Mid-Eastern Tharu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

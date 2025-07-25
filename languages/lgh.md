@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Laghuu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.24  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.24  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Laghuu*
+*Help us collect text resources for Laghuu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Laghuu*
+*Help us collect audio resources for Laghuu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Laghuu*
+*Help us collect video resources for Laghuu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

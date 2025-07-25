@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Capiznon  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.76  
-**Digitality Score**: -0.33  
+**Grassroots Presence (z-score)**: 0.76  
+**Web Presence (z-score)**: -0.33  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Capiznon*
+*Help us collect text resources for Capiznon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Capiznon*
+*Help us collect audio resources for Capiznon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Capiznon*
+*Help us collect video resources for Capiznon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

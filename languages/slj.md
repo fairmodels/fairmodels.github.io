@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Salumá  
 **Region/Area**: South America, Americas  
 **Family**: Cariban  
-**Vitality Score**: -0.86  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.86  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Salumá*
+*Help us collect text resources for Salumá*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Salumá*
+*Help us collect audio resources for Salumá*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Salumá*
+*Help us collect video resources for Salumá*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

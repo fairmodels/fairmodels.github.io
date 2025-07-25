@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Waray  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: 0.03  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: 0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Waray*
+*Help us collect text resources for Waray*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Waray*
+*Help us collect audio resources for Waray*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Waray*
+*Help us collect video resources for Waray*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

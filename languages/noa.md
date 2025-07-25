@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Woun Meu  
 **Region/Area**: South America, Americas  
 **Family**: Chocoan  
-**Vitality Score**: 0.56  
-**Digitality Score**: 1.16  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: 1.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Woun Meu*
+*Help us collect text resources for Woun Meu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Woun Meu*
+*Help us collect audio resources for Woun Meu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Woun Meu*
+*Help us collect video resources for Woun Meu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Olo  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: 0.12  
-**Digitality Score**: 0.49  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: 0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Olo*
+*Help us collect text resources for Olo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Olo*
+*Help us collect audio resources for Olo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Olo*
+*Help us collect video resources for Olo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

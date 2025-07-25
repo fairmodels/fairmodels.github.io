@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sause  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Tor-Kwerba  
-**Vitality Score**: -0.30  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: -0.30  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sause*
+*Help us collect text resources for Sause*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sause*
+*Help us collect audio resources for Sause*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sause*
+*Help us collect video resources for Sause*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

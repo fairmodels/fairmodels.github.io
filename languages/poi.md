@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Popoluca, Highland
+title: Highland Popoluca
 parent: Languages
 ---
 
-# Popoluca, Highland (poi)
+# Highland Popoluca (poi)
 
 ## Overview
 
-**Language**: Popoluca, Highland  
+**Language**: Highland Popoluca  
 **Region/Area**: Central America, Americas  
 **Family**: Mixe-Zoquean  
-**Vitality Score**: 0.72  
-**Digitality Score**: 1.00  
+**Grassroots Presence (z-score)**: 0.72  
+**Web Presence (z-score)**: 1.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Popoluca, Highland*
+*Help us collect text resources for Highland Popoluca*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Popoluca, Highland*
+*Help us collect audio resources for Highland Popoluca*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Popoluca, Highland*
+*Help us collect video resources for Highland Popoluca*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mari, Meadow
+title: Meadow Mari
 parent: Languages
 ---
 
-# Mari, Meadow (mhr)
+# Meadow Mari (mhr)
 
 ## Overview
 
-**Language**: Mari, Meadow  
+**Language**: Meadow Mari  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Uralic  
-**Vitality Score**: 1.28  
-**Digitality Score**: 2.53  
+**Grassroots Presence (z-score)**: 1.28  
+**Web Presence (z-score)**: 2.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mari, Meadow*
+*Help us collect text resources for Meadow Mari*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mari, Meadow*
+*Help us collect audio resources for Meadow Mari*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mari, Meadow*
+*Help us collect video resources for Meadow Mari*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

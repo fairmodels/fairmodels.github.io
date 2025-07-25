@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chiga  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.59  
-**Digitality Score**: 0.91  
+**Grassroots Presence (z-score)**: 1.59  
+**Web Presence (z-score)**: 0.91  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chiga*
+*Help us collect text resources for Chiga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chiga*
+*Help us collect audio resources for Chiga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chiga*
+*Help us collect video resources for Chiga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

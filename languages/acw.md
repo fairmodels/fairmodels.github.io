@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Hijazi
+title: Hijazi Arabic
 parent: Languages
 ---
 
-# Arabic, Hijazi (acw)
+# Hijazi Arabic (acw)
 
 ## Overview
 
-**Language**: Arabic, Hijazi  
+**Language**: Hijazi Arabic  
 **Region/Area**: Western Asia, Asia  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.45  
-**Digitality Score**: 1.97  
+**Grassroots Presence (z-score)**: 1.45  
+**Web Presence (z-score)**: 1.97  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Hijazi*
+*Help us collect text resources for Hijazi Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Hijazi*
+*Help us collect audio resources for Hijazi Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Hijazi*
+*Help us collect video resources for Hijazi Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

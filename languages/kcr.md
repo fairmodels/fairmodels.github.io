@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Katla  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.20  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Katla*
+*Help us collect text resources for Katla*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Katla*
+*Help us collect audio resources for Katla*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Katla*
+*Help us collect video resources for Katla*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

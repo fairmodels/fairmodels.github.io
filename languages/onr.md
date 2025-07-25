@@ -1,30 +1,30 @@
 ---
 layout: default
-title: One, Northern
+title: Northern One
 parent: Languages
 ---
 
-# One, Northern (onr)
+# Northern One (onr)
 
 ## Overview
 
-**Language**: One, Northern  
+**Language**: Northern One  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Torricelli  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.57  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.57  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for One, Northern*
+*Help us collect text resources for Northern One*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for One, Northern*
+*Help us collect audio resources for Northern One*
 
 ### Video Resources
-*Coming soon - help us collect video resources for One, Northern*
+*Help us collect video resources for Northern One*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

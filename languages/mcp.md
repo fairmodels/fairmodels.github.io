@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Makaa  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.82  
-**Digitality Score**: 1.08  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 1.08  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Makaa*
+*Help us collect text resources for Makaa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Makaa*
+*Help us collect audio resources for Makaa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Makaa*
+*Help us collect video resources for Makaa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

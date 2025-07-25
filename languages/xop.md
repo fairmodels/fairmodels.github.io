@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kopar  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: -1.17  
-**Digitality Score**: -0.66  
+**Grassroots Presence (z-score)**: -1.17  
+**Web Presence (z-score)**: -0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kopar*
+*Help us collect text resources for Kopar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kopar*
+*Help us collect audio resources for Kopar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kopar*
+*Help us collect video resources for Kopar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

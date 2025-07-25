@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Koli, Parkari
+title: Parkari Koli
 parent: Languages
 ---
 
-# Koli, Parkari (kvx)
+# Parkari Koli (kvx)
 
 ## Overview
 
-**Language**: Koli, Parkari  
+**Language**: Parkari Koli  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.01  
-**Digitality Score**: 0.00  
+**Grassroots Presence (z-score)**: 1.01  
+**Web Presence (z-score)**: 0.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koli, Parkari*
+*Help us collect text resources for Parkari Koli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koli, Parkari*
+*Help us collect audio resources for Parkari Koli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koli, Parkari*
+*Help us collect video resources for Parkari Koli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

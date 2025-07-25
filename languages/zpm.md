@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Mixtepec
+title: Mixtepec Zapotec
 parent: Languages
 ---
 
-# Zapotec, Mixtepec (zpm)
+# Mixtepec Zapotec (zpm)
 
 ## Overview
 
-**Language**: Zapotec, Mixtepec  
+**Language**: Mixtepec Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.51  
-**Digitality Score**: 1.47  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: 1.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Mixtepec*
+*Help us collect text resources for Mixtepec Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Mixtepec*
+*Help us collect audio resources for Mixtepec Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Mixtepec*
+*Help us collect video resources for Mixtepec Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Lalana
+title: Lalana Chinantec
 parent: Languages
 ---
 
-# Chinantec, Lalana (cnl)
+# Lalana Chinantec (cnl)
 
 ## Overview
 
-**Language**: Chinantec, Lalana  
+**Language**: Lalana Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.56  
-**Digitality Score**: 0.84  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: 0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Lalana*
+*Help us collect text resources for Lalana Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Lalana*
+*Help us collect audio resources for Lalana Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Lalana*
+*Help us collect video resources for Lalana Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

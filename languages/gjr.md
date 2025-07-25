@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gurindji Kriol  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Mixed language  
-**Vitality Score**: -0.05  
-**Digitality Score**: 0.21  
+**Grassroots Presence (z-score)**: -0.05  
+**Web Presence (z-score)**: 0.21  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gurindji Kriol*
+*Help us collect text resources for Gurindji Kriol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gurindji Kriol*
+*Help us collect audio resources for Gurindji Kriol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gurindji Kriol*
+*Help us collect video resources for Gurindji Kriol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

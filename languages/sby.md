@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Soli  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.71  
-**Digitality Score**: 0.17  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: 0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Soli*
+*Help us collect text resources for Soli*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Soli*
+*Help us collect audio resources for Soli*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Soli*
+*Help us collect video resources for Soli*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

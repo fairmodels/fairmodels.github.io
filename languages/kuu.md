@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kuskokwim, Upper
+title: Upper Kuskokwim
 parent: Languages
 ---
 
-# Kuskokwim, Upper (kuu)
+# Upper Kuskokwim (kuu)
 
 ## Overview
 
-**Language**: Kuskokwim, Upper  
+**Language**: Upper Kuskokwim  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -1.49  
-**Digitality Score**: -0.36  
+**Grassroots Presence (z-score)**: -1.49  
+**Web Presence (z-score)**: -0.36  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kuskokwim, Upper*
+*Help us collect text resources for Upper Kuskokwim*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kuskokwim, Upper*
+*Help us collect audio resources for Upper Kuskokwim*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kuskokwim, Upper*
+*Help us collect video resources for Upper Kuskokwim*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

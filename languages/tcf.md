@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Me’phaa, Malinaltepec
+title: Malinaltepec Me’phaa
 parent: Languages
 ---
 
-# Me’phaa, Malinaltepec (tcf)
+# Malinaltepec Me’phaa (tcf)
 
 ## Overview
 
-**Language**: Me’phaa, Malinaltepec  
+**Language**: Malinaltepec Me’phaa  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.72  
-**Digitality Score**: 0.31  
+**Grassroots Presence (z-score)**: 0.72  
+**Web Presence (z-score)**: 0.31  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Me’phaa, Malinaltepec*
+*Help us collect text resources for Malinaltepec Me’phaa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Me’phaa, Malinaltepec*
+*Help us collect audio resources for Malinaltepec Me’phaa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Me’phaa, Malinaltepec*
+*Help us collect video resources for Malinaltepec Me’phaa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

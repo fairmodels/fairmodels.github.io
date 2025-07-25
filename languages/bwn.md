@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bunu, Wunai
+title: Wunai Bunu
 parent: Languages
 ---
 
-# Bunu, Wunai (bwn)
+# Wunai Bunu (bwn)
 
 ## Overview
 
-**Language**: Bunu, Wunai  
+**Language**: Wunai Bunu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Hmong-Mien  
-**Vitality Score**: 0.01  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.01  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bunu, Wunai*
+*Help us collect text resources for Wunai Bunu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bunu, Wunai*
+*Help us collect audio resources for Wunai Bunu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bunu, Wunai*
+*Help us collect video resources for Wunai Bunu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

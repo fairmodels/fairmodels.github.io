@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Naro  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Khoe-Kwadi  
-**Vitality Score**: 1.27  
-**Digitality Score**: 0.72  
+**Grassroots Presence (z-score)**: 1.27  
+**Web Presence (z-score)**: 0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naro*
+*Help us collect text resources for Naro*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naro*
+*Help us collect audio resources for Naro*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naro*
+*Help us collect video resources for Naro*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Penan, Eastern
+title: Eastern Penan
 parent: Languages
 ---
 
-# Penan, Eastern (pez)
+# Eastern Penan (pez)
 
 ## Overview
 
-**Language**: Penan, Eastern  
+**Language**: Eastern Penan  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.08  
-**Digitality Score**: -0.28  
+**Grassroots Presence (z-score)**: 0.08  
+**Web Presence (z-score)**: -0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Penan, Eastern*
+*Help us collect text resources for Eastern Penan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Penan, Eastern*
+*Help us collect audio resources for Eastern Penan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Penan, Eastern*
+*Help us collect video resources for Eastern Penan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

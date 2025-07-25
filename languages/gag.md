@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Gagauz  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Turkic  
-**Vitality Score**: 0.93  
-**Digitality Score**: 1.83  
+**Grassroots Presence (z-score)**: 0.93  
+**Web Presence (z-score)**: 1.83  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gagauz*
+*Help us collect text resources for Gagauz*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gagauz*
+*Help us collect audio resources for Gagauz*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gagauz*
+*Help us collect video resources for Gagauz*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tapesena  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.17  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.17  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tapesena*
+*Help us collect text resources for Tapesena*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tapesena*
+*Help us collect audio resources for Tapesena*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tapesena*
+*Help us collect video resources for Tapesena*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

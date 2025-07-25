@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Daakaka  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.05  
-**Digitality Score**: 0.28  
+**Grassroots Presence (z-score)**: -0.05  
+**Web Presence (z-score)**: 0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Daakaka*
+*Help us collect text resources for Daakaka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Daakaka*
+*Help us collect audio resources for Daakaka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Daakaka*
+*Help us collect video resources for Daakaka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

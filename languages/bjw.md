@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bakwé  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.56  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: 0.56  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bakwé*
+*Help us collect text resources for Bakwé*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bakwé*
+*Help us collect audio resources for Bakwé*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bakwé*
+*Help us collect video resources for Bakwé*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

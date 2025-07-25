@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Luimbi  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.71  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Luimbi*
+*Help us collect text resources for Luimbi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Luimbi*
+*Help us collect audio resources for Luimbi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Luimbi*
+*Help us collect video resources for Luimbi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

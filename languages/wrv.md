@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Waruna  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.12  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.12  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Waruna*
+*Help us collect text resources for Waruna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Waruna*
+*Help us collect audio resources for Waruna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Waruna*
+*Help us collect video resources for Waruna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

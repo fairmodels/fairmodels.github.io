@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gavião, Pará
+title: Pará Gavião
 parent: Languages
 ---
 
-# Gavião, Pará (gvp)
+# Pará Gavião (gvp)
 
 ## Overview
 
-**Language**: Gavião, Pará  
+**Language**: Pará Gavião  
 **Region/Area**: South America, Americas  
 **Family**: Jean  
-**Vitality Score**: -0.37  
-**Digitality Score**: -0.35  
+**Grassroots Presence (z-score)**: -0.37  
+**Web Presence (z-score)**: -0.35  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gavião, Pará*
+*Help us collect text resources for Pará Gavião*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gavião, Pará*
+*Help us collect audio resources for Pará Gavião*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gavião, Pará*
+*Help us collect video resources for Pará Gavião*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

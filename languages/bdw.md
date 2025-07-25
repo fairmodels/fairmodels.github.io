@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Baham  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.20  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: -0.20  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Baham*
+*Help us collect text resources for Baham*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Baham*
+*Help us collect audio resources for Baham*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Baham*
+*Help us collect video resources for Baham*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

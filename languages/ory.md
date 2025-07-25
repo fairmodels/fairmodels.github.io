@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Odia  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.55  
-**Digitality Score**: 2.73  
+**Grassroots Presence (z-score)**: 2.55  
+**Web Presence (z-score)**: 2.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Odia*
+*Help us collect text resources for Odia*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Odia*
+*Help us collect audio resources for Odia*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Odia*
+*Help us collect video resources for Odia*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

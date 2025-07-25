@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Sunam  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: -0.29  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: -0.29  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Sunam*
+*Help us collect text resources for Sunam*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Sunam*
+*Help us collect audio resources for Sunam*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Sunam*
+*Help us collect video resources for Sunam*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

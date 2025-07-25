@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Xokleng  
 **Region/Area**: South America, Americas  
 **Family**: Jean  
-**Vitality Score**: -0.97  
-**Digitality Score**: -0.10  
+**Grassroots Presence (z-score)**: -0.97  
+**Web Presence (z-score)**: -0.10  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Xokleng*
+*Help us collect text resources for Xokleng*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Xokleng*
+*Help us collect audio resources for Xokleng*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Xokleng*
+*Help us collect video resources for Xokleng*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

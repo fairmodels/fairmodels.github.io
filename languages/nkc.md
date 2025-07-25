@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nkongho  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.11  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.11  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nkongho*
+*Help us collect text resources for Nkongho*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nkongho*
+*Help us collect audio resources for Nkongho*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nkongho*
+*Help us collect video resources for Nkongho*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

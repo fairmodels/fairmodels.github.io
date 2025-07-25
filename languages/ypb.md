@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Phowa, Labo
+title: Labo Phowa
 parent: Languages
 ---
 
-# Phowa, Labo (ypb)
+# Labo Phowa (ypb)
 
 ## Overview
 
-**Language**: Phowa, Labo  
+**Language**: Labo Phowa  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Phowa, Labo*
+*Help us collect text resources for Labo Phowa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Phowa, Labo*
+*Help us collect audio resources for Labo Phowa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Phowa, Labo*
+*Help us collect video resources for Labo Phowa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

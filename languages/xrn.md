@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Arin  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Yeniseian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arin*
+*Help us collect text resources for Arin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arin*
+*Help us collect audio resources for Arin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arin*
+*Help us collect video resources for Arin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

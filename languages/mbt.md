@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Manobo, Matigsalug
+title: Matigsalug Manobo
 parent: Languages
 ---
 
-# Manobo, Matigsalug (mbt)
+# Matigsalug Manobo (mbt)
 
 ## Overview
 
-**Language**: Manobo, Matigsalug  
+**Language**: Matigsalug Manobo  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.76  
-**Digitality Score**: 1.67  
+**Grassroots Presence (z-score)**: 0.76  
+**Web Presence (z-score)**: 1.67  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Manobo, Matigsalug*
+*Help us collect text resources for Matigsalug Manobo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Manobo, Matigsalug*
+*Help us collect audio resources for Matigsalug Manobo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Manobo, Matigsalug*
+*Help us collect video resources for Matigsalug Manobo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

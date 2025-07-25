@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lolopo  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.70  
-**Digitality Score**: 0.17  
+**Grassroots Presence (z-score)**: 0.70  
+**Web Presence (z-score)**: 0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lolopo*
+*Help us collect text resources for Lolopo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lolopo*
+*Help us collect audio resources for Lolopo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lolopo*
+*Help us collect video resources for Lolopo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

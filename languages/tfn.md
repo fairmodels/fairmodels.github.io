@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tanaina  
 **Region/Area**: Northern America, Americas  
 **Family**: Eyak-Athabaskan  
-**Vitality Score**: -0.67  
-**Digitality Score**: 0.30  
+**Grassroots Presence (z-score)**: -0.67  
+**Web Presence (z-score)**: 0.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tanaina*
+*Help us collect text resources for Tanaina*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tanaina*
+*Help us collect audio resources for Tanaina*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tanaina*
+*Help us collect video resources for Tanaina*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

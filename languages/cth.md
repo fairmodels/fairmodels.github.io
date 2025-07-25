@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chin, Thaiphum
+title: Thaiphum Chin
 parent: Languages
 ---
 
-# Chin, Thaiphum (cth)
+# Thaiphum Chin (cth)
 
 ## Overview
 
-**Language**: Chin, Thaiphum  
+**Language**: Thaiphum Chin  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.26  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chin, Thaiphum*
+*Help us collect text resources for Thaiphum Chin*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chin, Thaiphum*
+*Help us collect audio resources for Thaiphum Chin*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chin, Thaiphum*
+*Help us collect video resources for Thaiphum Chin*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

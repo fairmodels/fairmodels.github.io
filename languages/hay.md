@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Haya  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.25  
-**Digitality Score**: 1.00  
+**Grassroots Presence (z-score)**: 1.25  
+**Web Presence (z-score)**: 1.00  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Haya*
+*Help us collect text resources for Haya*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Haya*
+*Help us collect audio resources for Haya*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Haya*
+*Help us collect video resources for Haya*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

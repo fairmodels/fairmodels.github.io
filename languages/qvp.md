@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quechua, Pacaraos
+title: Pacaraos Quechua
 parent: Languages
 ---
 
-# Quechua, Pacaraos (qvp)
+# Pacaraos Quechua (qvp)
 
 ## Overview
 
-**Language**: Quechua, Pacaraos  
+**Language**: Pacaraos Quechua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: -1.10  
-**Digitality Score**: 0.42  
+**Grassroots Presence (z-score)**: -1.10  
+**Web Presence (z-score)**: 0.42  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quechua, Pacaraos*
+*Help us collect text resources for Pacaraos Quechua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quechua, Pacaraos*
+*Help us collect audio resources for Pacaraos Quechua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quechua, Pacaraos*
+*Help us collect video resources for Pacaraos Quechua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

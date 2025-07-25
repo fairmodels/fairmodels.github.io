@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maithili  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.44  
-**Digitality Score**: 2.99  
+**Grassroots Presence (z-score)**: 2.44  
+**Web Presence (z-score)**: 2.99  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maithili*
+*Help us collect text resources for Maithili*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maithili*
+*Help us collect audio resources for Maithili*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maithili*
+*Help us collect video resources for Maithili*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

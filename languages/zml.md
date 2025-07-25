@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Matngala  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.52  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.52  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Matngala*
+*Help us collect text resources for Matngala*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Matngala*
+*Help us collect audio resources for Matngala*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Matngala*
+*Help us collect video resources for Matngala*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

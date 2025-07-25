@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Emai-Iuleha-Ora  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.57  
-**Digitality Score**: -0.15  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: -0.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Emai-Iuleha-Ora*
+*Help us collect text resources for Emai-Iuleha-Ora*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Emai-Iuleha-Ora*
+*Help us collect audio resources for Emai-Iuleha-Ora*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Emai-Iuleha-Ora*
+*Help us collect video resources for Emai-Iuleha-Ora*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

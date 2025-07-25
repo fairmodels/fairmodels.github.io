@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mangerr  
 **Region/Area**: Australia and New Zealand, Pacific  
 **Family**: Australian  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.73  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.73  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mangerr*
+*Help us collect text resources for Mangerr*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mangerr*
+*Help us collect audio resources for Mangerr*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mangerr*
+*Help us collect video resources for Mangerr*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

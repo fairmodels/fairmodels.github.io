@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Quiotepec
+title: Quiotepec Chinantec
 parent: Languages
 ---
 
-# Chinantec, Quiotepec (chq)
+# Quiotepec Chinantec (chq)
 
 ## Overview
 
-**Language**: Chinantec, Quiotepec  
+**Language**: Quiotepec Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.21  
-**Digitality Score**: 0.91  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: 0.91  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Quiotepec*
+*Help us collect text resources for Quiotepec Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Quiotepec*
+*Help us collect audio resources for Quiotepec Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Quiotepec*
+*Help us collect video resources for Quiotepec Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Arikara  
 **Region/Area**: Northern America, Americas  
 **Family**: Caddoan  
-**Vitality Score**: -1.41  
-**Digitality Score**: -0.62  
+**Grassroots Presence (z-score)**: -1.41  
+**Web Presence (z-score)**: -0.62  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arikara*
+*Help us collect text resources for Arikara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arikara*
+*Help us collect audio resources for Arikara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arikara*
+*Help us collect video resources for Arikara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nǁng  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Tuu  
-**Vitality Score**: -1.54  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: -1.54  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nǁng*
+*Help us collect text resources for Nǁng*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nǁng*
+*Help us collect audio resources for Nǁng*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nǁng*
+*Help us collect video resources for Nǁng*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

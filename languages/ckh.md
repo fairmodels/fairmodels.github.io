@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chak  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.12  
-**Digitality Score**: -0.38  
+**Grassroots Presence (z-score)**: 0.12  
+**Web Presence (z-score)**: -0.38  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chak*
+*Help us collect text resources for Chak*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chak*
+*Help us collect audio resources for Chak*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chak*
+*Help us collect video resources for Chak*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

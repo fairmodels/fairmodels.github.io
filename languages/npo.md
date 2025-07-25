@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Naga, Pochuri
+title: Pochuri Naga
 parent: Languages
 ---
 
-# Naga, Pochuri (npo)
+# Pochuri Naga (npo)
 
 ## Overview
 
-**Language**: Naga, Pochuri  
+**Language**: Pochuri Naga  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.65  
-**Digitality Score**: -0.19  
+**Grassroots Presence (z-score)**: 0.65  
+**Web Presence (z-score)**: -0.19  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Naga, Pochuri*
+*Help us collect text resources for Pochuri Naga*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Naga, Pochuri*
+*Help us collect audio resources for Pochuri Naga*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Naga, Pochuri*
+*Help us collect video resources for Pochuri Naga*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

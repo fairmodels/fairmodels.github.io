@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Zulgo-Gemzek  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.67  
-**Digitality Score**: 1.02  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: 1.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zulgo-Gemzek*
+*Help us collect text resources for Zulgo-Gemzek*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zulgo-Gemzek*
+*Help us collect audio resources for Zulgo-Gemzek*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zulgo-Gemzek*
+*Help us collect video resources for Zulgo-Gemzek*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

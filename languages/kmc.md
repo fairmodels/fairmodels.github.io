@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dong, Southern
+title: Southern Dong
 parent: Languages
 ---
 
-# Dong, Southern (kmc)
+# Southern Dong (kmc)
 
 ## Overview
 
-**Language**: Dong, Southern  
+**Language**: Southern Dong  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Kra-Dai  
-**Vitality Score**: 1.14  
-**Digitality Score**: 0.13  
+**Grassroots Presence (z-score)**: 1.14  
+**Web Presence (z-score)**: 0.13  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dong, Southern*
+*Help us collect text resources for Southern Dong*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dong, Southern*
+*Help us collect audio resources for Southern Dong*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dong, Southern*
+*Help us collect video resources for Southern Dong*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

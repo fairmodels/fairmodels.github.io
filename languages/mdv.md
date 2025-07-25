@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Mixtec, Santa Lucía Monteverde
+title: Santa Lucía Monteverde Mixtec
 parent: Languages
 ---
 
-# Mixtec, Santa Lucía Monteverde (mdv)
+# Santa Lucía Monteverde Mixtec (mdv)
 
 ## Overview
 
-**Language**: Mixtec, Santa Lucía Monteverde  
+**Language**: Santa Lucía Monteverde Mixtec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.00  
-**Digitality Score**: -0.64  
+**Grassroots Presence (z-score)**: -0.00  
+**Web Presence (z-score)**: -0.64  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mixtec, Santa Lucía Monteverde*
+*Help us collect text resources for Santa Lucía Monteverde Mixtec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mixtec, Santa Lucía Monteverde*
+*Help us collect audio resources for Santa Lucía Monteverde Mixtec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mixtec, Santa Lucía Monteverde*
+*Help us collect video resources for Santa Lucía Monteverde Mixtec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kursav  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -1.41  
-**Digitality Score**: -0.30  
+**Grassroots Presence (z-score)**: -1.41  
+**Web Presence (z-score)**: -0.30  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kursav*
+*Help us collect text resources for Kursav*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kursav*
+*Help us collect audio resources for Kursav*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kursav*
+*Help us collect video resources for Kursav*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

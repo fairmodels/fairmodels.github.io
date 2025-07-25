@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Songo  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.15  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Songo*
+*Help us collect text resources for Songo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Songo*
+*Help us collect audio resources for Songo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Songo*
+*Help us collect video resources for Songo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Guerrero
+title: Guerrero Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Guerrero (ngu)
+# Guerrero Nahuatl (ngu)
 
 ## Overview
 
-**Language**: Nahuatl, Guerrero  
+**Language**: Guerrero Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.58  
-**Digitality Score**: 1.69  
+**Grassroots Presence (z-score)**: 0.58  
+**Web Presence (z-score)**: 1.69  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Guerrero*
+*Help us collect text resources for Guerrero Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Guerrero*
+*Help us collect audio resources for Guerrero Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Guerrero*
+*Help us collect video resources for Guerrero Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

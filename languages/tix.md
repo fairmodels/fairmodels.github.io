@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Tiwa, Southern
+title: Southern Tiwa
 parent: Languages
 ---
 
-# Tiwa, Southern (tix)
+# Southern Tiwa (tix)
 
 ## Overview
 
-**Language**: Tiwa, Southern  
+**Language**: Southern Tiwa  
 **Region/Area**: Northern America, Americas  
 **Family**: Kiowa-Tanoan  
-**Vitality Score**: -0.15  
-**Digitality Score**: 0.02  
+**Grassroots Presence (z-score)**: -0.15  
+**Web Presence (z-score)**: 0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tiwa, Southern*
+*Help us collect text resources for Southern Tiwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tiwa, Southern*
+*Help us collect audio resources for Southern Tiwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tiwa, Southern*
+*Help us collect video resources for Southern Tiwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

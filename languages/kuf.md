@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Katu, Western
+title: Western Katu
 parent: Languages
 ---
 
-# Katu, Western (kuf)
+# Western Katu (kuf)
 
 ## Overview
 
-**Language**: Katu, Western  
+**Language**: Western Katu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.37  
-**Digitality Score**: -0.68  
+**Grassroots Presence (z-score)**: 0.37  
+**Web Presence (z-score)**: -0.68  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Katu, Western*
+*Help us collect text resources for Western Katu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Katu, Western*
+*Help us collect audio resources for Western Katu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Katu, Western*
+*Help us collect video resources for Western Katu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

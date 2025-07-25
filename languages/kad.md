@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Adara  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.71  
-**Digitality Score**: -0.02  
+**Grassroots Presence (z-score)**: 0.71  
+**Web Presence (z-score)**: -0.02  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Adara*
+*Help us collect text resources for Adara*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Adara*
+*Help us collect audio resources for Adara*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Adara*
+*Help us collect video resources for Adara*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

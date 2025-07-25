@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Oti  
 **Region/Area**: South America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Oti*
+*Help us collect text resources for Oti*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Oti*
+*Help us collect audio resources for Oti*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Oti*
+*Help us collect video resources for Oti*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

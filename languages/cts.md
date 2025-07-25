@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bikol, Northern Catanduanes
+title: Northern Catanduanes Bikol
 parent: Languages
 ---
 
-# Bikol, Northern Catanduanes (cts)
+# Northern Catanduanes Bikol (cts)
 
 ## Overview
 
-**Language**: Bikol, Northern Catanduanes  
+**Language**: Northern Catanduanes Bikol  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.50  
-**Digitality Score**: 0.90  
+**Grassroots Presence (z-score)**: 0.50  
+**Web Presence (z-score)**: 0.90  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bikol, Northern Catanduanes*
+*Help us collect text resources for Northern Catanduanes Bikol*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bikol, Northern Catanduanes*
+*Help us collect audio resources for Northern Catanduanes Bikol*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bikol, Northern Catanduanes*
+*Help us collect video resources for Northern Catanduanes Bikol*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

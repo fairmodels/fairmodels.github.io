@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Dogon, Dogul Dom
+title: Dogul Dom Dogon
 parent: Languages
 ---
 
-# Dogon, Dogul Dom (dbg)
+# Dogul Dom Dogon (dbg)
 
 ## Overview
 
-**Language**: Dogon, Dogul Dom  
+**Language**: Dogul Dom Dogon  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.29  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: 0.29  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dogon, Dogul Dom*
+*Help us collect text resources for Dogul Dom Dogon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dogon, Dogul Dom*
+*Help us collect audio resources for Dogul Dom Dogon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dogon, Dogul Dom*
+*Help us collect video resources for Dogul Dom Dogon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Romkun  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: -0.11  
-**Digitality Score**: -0.66  
+**Grassroots Presence (z-score)**: -0.11  
+**Web Presence (z-score)**: -0.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Romkun*
+*Help us collect text resources for Romkun*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Romkun*
+*Help us collect audio resources for Romkun*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Romkun*
+*Help us collect video resources for Romkun*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

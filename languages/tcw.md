@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Totonac, Tecpatlán
+title: Tecpatlán Totonac
 parent: Languages
 ---
 
-# Totonac, Tecpatlán (tcw)
+# Tecpatlán Totonac (tcw)
 
 ## Overview
 
-**Language**: Totonac, Tecpatlán  
+**Language**: Tecpatlán Totonac  
 **Region/Area**: Central America, Americas  
 **Family**: Totonacan  
-**Vitality Score**: -0.29  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.29  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Totonac, Tecpatlán*
+*Help us collect text resources for Tecpatlán Totonac*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Totonac, Tecpatlán*
+*Help us collect audio resources for Tecpatlán Totonac*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Totonac, Tecpatlán*
+*Help us collect video resources for Tecpatlán Totonac*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

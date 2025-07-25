@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Magar, Western
+title: Western Magar
 parent: Languages
 ---
 
-# Magar, Western (mrd)
+# Western Magar (mrd)
 
 ## Overview
 
-**Language**: Magar, Western  
+**Language**: Western Magar  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.51  
-**Digitality Score**: -0.24  
+**Grassroots Presence (z-score)**: 0.51  
+**Web Presence (z-score)**: -0.24  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Magar, Western*
+*Help us collect text resources for Western Magar*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Magar, Western*
+*Help us collect audio resources for Western Magar*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Magar, Western*
+*Help us collect video resources for Western Magar*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

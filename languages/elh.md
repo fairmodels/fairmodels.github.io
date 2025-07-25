@@ -11,20 +11,20 @@ parent: Languages
 **Language**: El Hugeirat  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: -1.06  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.06  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for El Hugeirat*
+*Help us collect text resources for El Hugeirat*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for El Hugeirat*
+*Help us collect audio resources for El Hugeirat*
 
 ### Video Resources
-*Coming soon - help us collect video resources for El Hugeirat*
+*Help us collect video resources for El Hugeirat*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

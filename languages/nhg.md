@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Tetelcingo
+title: Tetelcingo Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Tetelcingo (nhg)
+# Tetelcingo Nahuatl (nhg)
 
 ## Overview
 
-**Language**: Nahuatl, Tetelcingo  
+**Language**: Tetelcingo Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: -0.05  
-**Digitality Score**: 1.15  
+**Grassroots Presence (z-score)**: -0.05  
+**Web Presence (z-score)**: 1.15  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Tetelcingo*
+*Help us collect text resources for Tetelcingo Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Tetelcingo*
+*Help us collect audio resources for Tetelcingo Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Tetelcingo*
+*Help us collect video resources for Tetelcingo Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

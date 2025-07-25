@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pontic  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.10  
-**Digitality Score**: 1.07  
+**Grassroots Presence (z-score)**: 1.10  
+**Web Presence (z-score)**: 1.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pontic*
+*Help us collect text resources for Pontic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pontic*
+*Help us collect audio resources for Pontic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pontic*
+*Help us collect video resources for Pontic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

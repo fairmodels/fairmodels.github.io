@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Arabic, Algerian Saharan
+title: Algerian Saharan Arabic
 parent: Languages
 ---
 
-# Arabic, Algerian Saharan (aao)
+# Algerian Saharan Arabic (aao)
 
 ## Overview
 
-**Language**: Arabic, Algerian Saharan  
+**Language**: Algerian Saharan Arabic  
 **Region/Area**: Northern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 0.67  
-**Digitality Score**: 1.70  
+**Grassroots Presence (z-score)**: 0.67  
+**Web Presence (z-score)**: 1.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Arabic, Algerian Saharan*
+*Help us collect text resources for Algerian Saharan Arabic*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Arabic, Algerian Saharan*
+*Help us collect audio resources for Algerian Saharan Arabic*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Arabic, Algerian Saharan*
+*Help us collect video resources for Algerian Saharan Arabic*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

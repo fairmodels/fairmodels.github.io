@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Petapa
+title: Petapa Zapotec
 parent: Languages
 ---
 
-# Zapotec, Petapa (zpe)
+# Petapa Zapotec (zpe)
 
 ## Overview
 
-**Language**: Zapotec, Petapa  
+**Language**: Petapa Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.21  
-**Digitality Score**: 0.88  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: 0.88  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Petapa*
+*Help us collect text resources for Petapa Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Petapa*
+*Help us collect audio resources for Petapa Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Petapa*
+*Help us collect video resources for Petapa Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

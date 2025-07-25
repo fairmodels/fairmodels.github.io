@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Quichua, Tena Lowland
+title: Tena Lowland Quichua
 parent: Languages
 ---
 
-# Quichua, Tena Lowland (quw)
+# Tena Lowland Quichua (quw)
 
 ## Overview
 
-**Language**: Quichua, Tena Lowland  
+**Language**: Tena Lowland Quichua  
 **Region/Area**: South America, Americas  
 **Family**: Quechuan  
-**Vitality Score**: 0.21  
-**Digitality Score**: 1.20  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: 1.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Quichua, Tena Lowland*
+*Help us collect text resources for Tena Lowland Quichua*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Quichua, Tena Lowland*
+*Help us collect audio resources for Tena Lowland Quichua*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Quichua, Tena Lowland*
+*Help us collect video resources for Tena Lowland Quichua*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

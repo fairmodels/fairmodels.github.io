@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kutenai  
 **Region/Area**: Northern America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: -0.86  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: -0.86  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kutenai*
+*Help us collect text resources for Kutenai*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kutenai*
+*Help us collect audio resources for Kutenai*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kutenai*
+*Help us collect video resources for Kutenai*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

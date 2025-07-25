@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kaqchikel-K’iche’ Mixed Language  
 **Region/Area**: Central America, Americas  
 **Family**: Mixed language  
-**Vitality Score**: -0.28  
-**Digitality Score**: -0.70  
+**Grassroots Presence (z-score)**: -0.28  
+**Web Presence (z-score)**: -0.70  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kaqchikel-K’iche’ Mixed Language*
+*Help us collect text resources for Kaqchikel-K’iche’ Mixed Language*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kaqchikel-K’iche’ Mixed Language*
+*Help us collect audio resources for Kaqchikel-K’iche’ Mixed Language*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kaqchikel-K’iche’ Mixed Language*
+*Help us collect video resources for Kaqchikel-K’iche’ Mixed Language*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

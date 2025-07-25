@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Koreguaje  
 **Region/Area**: South America, Americas  
 **Family**: Tucanoan  
-**Vitality Score**: 0.04  
-**Digitality Score**: 0.53  
+**Grassroots Presence (z-score)**: 0.04  
+**Web Presence (z-score)**: 0.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Koreguaje*
+*Help us collect text resources for Koreguaje*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Koreguaje*
+*Help us collect audio resources for Koreguaje*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Koreguaje*
+*Help us collect video resources for Koreguaje*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

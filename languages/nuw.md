@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nguluwan  
 **Region/Area**: Micronesia, Pacific  
 **Family**: Mixed language  
-**Vitality Score**: -1.22  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.22  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nguluwan*
+*Help us collect text resources for Nguluwan*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nguluwan*
+*Help us collect audio resources for Nguluwan*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nguluwan*
+*Help us collect video resources for Nguluwan*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

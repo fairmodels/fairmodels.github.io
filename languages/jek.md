@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Jeri Kuo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.63  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -0.63  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Jeri Kuo*
+*Help us collect text resources for Jeri Kuo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Jeri Kuo*
+*Help us collect audio resources for Jeri Kuo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Jeri Kuo*
+*Help us collect video resources for Jeri Kuo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

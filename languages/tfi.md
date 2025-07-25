@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Gbe, Tofin
+title: Tofin Gbe
 parent: Languages
 ---
 
-# Gbe, Tofin (tfi)
+# Tofin Gbe (tfi)
 
 ## Overview
 
-**Language**: Gbe, Tofin  
+**Language**: Tofin Gbe  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.60  
-**Digitality Score**: -0.26  
+**Grassroots Presence (z-score)**: 0.60  
+**Web Presence (z-score)**: -0.26  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Gbe, Tofin*
+*Help us collect text resources for Tofin Gbe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Gbe, Tofin*
+*Help us collect audio resources for Tofin Gbe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Gbe, Tofin*
+*Help us collect video resources for Tofin Gbe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

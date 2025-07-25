@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Nahuatl, Isthmus-Pajapan
+title: Isthmus-Pajapan Nahuatl
 parent: Languages
 ---
 
-# Nahuatl, Isthmus-Pajapan (nhp)
+# Isthmus-Pajapan Nahuatl (nhp)
 
 ## Overview
 
-**Language**: Nahuatl, Isthmus-Pajapan  
+**Language**: Isthmus-Pajapan Nahuatl  
 **Region/Area**: Central America, Americas  
 **Family**: Uto-Aztecan  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.09  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.09  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nahuatl, Isthmus-Pajapan*
+*Help us collect text resources for Isthmus-Pajapan Nahuatl*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nahuatl, Isthmus-Pajapan*
+*Help us collect audio resources for Isthmus-Pajapan Nahuatl*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nahuatl, Isthmus-Pajapan*
+*Help us collect video resources for Isthmus-Pajapan Nahuatl*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

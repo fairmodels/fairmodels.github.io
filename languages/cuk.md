@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Kuna, San Blas
+title: San Blas Kuna
 parent: Languages
 ---
 
-# Kuna, San Blas (cuk)
+# San Blas Kuna (cuk)
 
 ## Overview
 
-**Language**: Kuna, San Blas  
+**Language**: San Blas Kuna  
 **Region/Area**: Central America, Americas  
 **Family**: Chibchan  
-**Vitality Score**: 0.77  
-**Digitality Score**: 1.59  
+**Grassroots Presence (z-score)**: 0.77  
+**Web Presence (z-score)**: 1.59  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kuna, San Blas*
+*Help us collect text resources for San Blas Kuna*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kuna, San Blas*
+*Help us collect audio resources for San Blas Kuna*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kuna, San Blas*
+*Help us collect video resources for San Blas Kuna*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Tilquiapan
+title: Tilquiapan Zapotec
 parent: Languages
 ---
 
-# Zapotec, Tilquiapan (zts)
+# Tilquiapan Zapotec (zts)
 
 ## Overview
 
-**Language**: Zapotec, Tilquiapan  
+**Language**: Tilquiapan Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.15  
-**Digitality Score**: 1.23  
+**Grassroots Presence (z-score)**: 0.15  
+**Web Presence (z-score)**: 1.23  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Tilquiapan*
+*Help us collect text resources for Tilquiapan Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Tilquiapan*
+*Help us collect audio resources for Tilquiapan Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Tilquiapan*
+*Help us collect video resources for Tilquiapan Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

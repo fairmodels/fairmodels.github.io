@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Ashéninka, Pajonal
+title: Pajonal Ashéninka
 parent: Languages
 ---
 
-# Ashéninka, Pajonal (cjo)
+# Pajonal Ashéninka (cjo)
 
 ## Overview
 
-**Language**: Ashéninka, Pajonal  
+**Language**: Pajonal Ashéninka  
 **Region/Area**: South America, Americas  
 **Family**: Maipurean  
-**Vitality Score**: 0.57  
-**Digitality Score**: 1.05  
+**Grassroots Presence (z-score)**: 0.57  
+**Web Presence (z-score)**: 1.05  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ashéninka, Pajonal*
+*Help us collect text resources for Pajonal Ashéninka*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ashéninka, Pajonal*
+*Help us collect audio resources for Pajonal Ashéninka*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ashéninka, Pajonal*
+*Help us collect video resources for Pajonal Ashéninka*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

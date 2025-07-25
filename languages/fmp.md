@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Fe’fe’  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.89  
-**Digitality Score**: 0.32  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Fe’fe’*
+*Help us collect text resources for Fe’fe’*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Fe’fe’*
+*Help us collect audio resources for Fe’fe’*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Fe’fe’*
+*Help us collect video resources for Fe’fe’*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

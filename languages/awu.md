@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Auyu, Central
+title: Central Auyu
 parent: Languages
 ---
 
-# Auyu, Central (awu)
+# Central Auyu (awu)
 
 ## Overview
 
-**Language**: Auyu, Central  
+**Language**: Central Auyu  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Trans-New Guinea  
-**Vitality Score**: 0.04  
-**Digitality Score**: -0.29  
+**Grassroots Presence (z-score)**: 0.04  
+**Web Presence (z-score)**: -0.29  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Auyu, Central*
+*Help us collect text resources for Central Auyu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Auyu, Central*
+*Help us collect audio resources for Central Auyu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Auyu, Central*
+*Help us collect video resources for Central Auyu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

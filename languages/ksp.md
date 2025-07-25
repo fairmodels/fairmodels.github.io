@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kabba  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.89  
-**Digitality Score**: 0.32  
+**Grassroots Presence (z-score)**: 0.89  
+**Web Presence (z-score)**: 0.32  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kabba*
+*Help us collect text resources for Kabba*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kabba*
+*Help us collect audio resources for Kabba*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kabba*
+*Help us collect video resources for Kabba*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

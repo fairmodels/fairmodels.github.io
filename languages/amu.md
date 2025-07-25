@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Amuzgo, Guerrero
+title: Guerrero Amuzgo
 parent: Languages
 ---
 
-# Amuzgo, Guerrero (amu)
+# Guerrero Amuzgo (amu)
 
 ## Overview
 
-**Language**: Amuzgo, Guerrero  
+**Language**: Guerrero Amuzgo  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.74  
-**Digitality Score**: 1.66  
+**Grassroots Presence (z-score)**: 0.74  
+**Web Presence (z-score)**: 1.66  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Amuzgo, Guerrero*
+*Help us collect text resources for Guerrero Amuzgo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Amuzgo, Guerrero*
+*Help us collect audio resources for Guerrero Amuzgo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Amuzgo, Guerrero*
+*Help us collect video resources for Guerrero Amuzgo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mbowe  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.31  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.31  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mbowe*
+*Help us collect text resources for Mbowe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mbowe*
+*Help us collect audio resources for Mbowe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mbowe*
+*Help us collect video resources for Mbowe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

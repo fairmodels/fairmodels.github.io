@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Otomi, Texcatepec
+title: Texcatepec Otomi
 parent: Languages
 ---
 
-# Otomi, Texcatepec (otx)
+# Texcatepec Otomi (otx)
 
 ## Overview
 
-**Language**: Otomi, Texcatepec  
+**Language**: Texcatepec Otomi  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.26  
-**Digitality Score**: -0.50  
+**Grassroots Presence (z-score)**: 0.26  
+**Web Presence (z-score)**: -0.50  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Otomi, Texcatepec*
+*Help us collect text resources for Texcatepec Otomi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Otomi, Texcatepec*
+*Help us collect audio resources for Texcatepec Otomi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Otomi, Texcatepec*
+*Help us collect video resources for Texcatepec Otomi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

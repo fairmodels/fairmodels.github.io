@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Poyanáwa  
 **Region/Area**: South America, Americas  
 **Family**: Panoan  
-**Vitality Score**: -1.87  
-**Digitality Score**: -0.87  
+**Grassroots Presence (z-score)**: -1.87  
+**Web Presence (z-score)**: -0.87  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Poyanáwa*
+*Help us collect text resources for Poyanáwa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Poyanáwa*
+*Help us collect audio resources for Poyanáwa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Poyanáwa*
+*Help us collect video resources for Poyanáwa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

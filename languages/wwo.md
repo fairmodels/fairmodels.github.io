@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dorig  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.21  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: -0.21  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dorig*
+*Help us collect text resources for Dorig*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dorig*
+*Help us collect audio resources for Dorig*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dorig*
+*Help us collect video resources for Dorig*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

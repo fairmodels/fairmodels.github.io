@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Emberá, Northern
+title: Northern Emberá
 parent: Languages
 ---
 
-# Emberá, Northern (emp)
+# Northern Emberá (emp)
 
 ## Overview
 
-**Language**: Emberá, Northern  
+**Language**: Northern Emberá  
 **Region/Area**: Central America, Americas  
 **Family**: Chocoan  
-**Vitality Score**: 0.80  
-**Digitality Score**: 1.46  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: 1.46  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Emberá, Northern*
+*Help us collect text resources for Northern Emberá*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Emberá, Northern*
+*Help us collect audio resources for Northern Emberá*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Emberá, Northern*
+*Help us collect video resources for Northern Emberá*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

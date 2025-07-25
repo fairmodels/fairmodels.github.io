@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Dhatki  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 1.21  
-**Digitality Score**: 0.11  
+**Grassroots Presence (z-score)**: 1.21  
+**Web Presence (z-score)**: 0.11  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Dhatki*
+*Help us collect text resources for Dhatki*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Dhatki*
+*Help us collect audio resources for Dhatki*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Dhatki*
+*Help us collect video resources for Dhatki*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

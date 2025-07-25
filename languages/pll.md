@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Palaung, Shwe
+title: Shwe Palaung
 parent: Languages
 ---
 
-# Palaung, Shwe (pll)
+# Shwe Palaung (pll)
 
 ## Overview
 
-**Language**: Palaung, Shwe  
+**Language**: Shwe Palaung  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austro-Asiatic  
-**Vitality Score**: 0.95  
-**Digitality Score**: -0.06  
+**Grassroots Presence (z-score)**: 0.95  
+**Web Presence (z-score)**: -0.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Palaung, Shwe*
+*Help us collect text resources for Shwe Palaung*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Palaung, Shwe*
+*Help us collect audio resources for Shwe Palaung*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Palaung, Shwe*
+*Help us collect video resources for Shwe Palaung*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

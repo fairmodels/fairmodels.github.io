@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Subanen, Eastern
+title: Eastern Subanen
 parent: Languages
 ---
 
-# Subanen, Eastern (sfe)
+# Eastern Subanen (sfe)
 
 ## Overview
 
-**Language**: Subanen, Eastern  
+**Language**: Eastern Subanen  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.03  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.03  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Subanen, Eastern*
+*Help us collect text resources for Eastern Subanen*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Subanen, Eastern*
+*Help us collect audio resources for Eastern Subanen*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Subanen, Eastern*
+*Help us collect video resources for Eastern Subanen*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Lumbu  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.34  
-**Digitality Score**: -0.07  
+**Grassroots Presence (z-score)**: 0.34  
+**Web Presence (z-score)**: -0.07  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Lumbu*
+*Help us collect text resources for Lumbu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Lumbu*
+*Help us collect audio resources for Lumbu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Lumbu*
+*Help us collect video resources for Lumbu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

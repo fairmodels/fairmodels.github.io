@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Nubri  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.13  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Nubri*
+*Help us collect text resources for Nubri*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Nubri*
+*Help us collect audio resources for Nubri*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Nubri*
+*Help us collect video resources for Nubri*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

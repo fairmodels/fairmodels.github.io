@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Maay  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Afro-Asiatic  
-**Vitality Score**: 1.26  
-**Digitality Score**: 0.01  
+**Grassroots Presence (z-score)**: 1.26  
+**Web Presence (z-score)**: 0.01  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Maay*
+*Help us collect text resources for Maay*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Maay*
+*Help us collect audio resources for Maay*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Maay*
+*Help us collect video resources for Maay*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

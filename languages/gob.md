@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Playero  
 **Region/Area**: South America, Americas  
 **Family**: Guajiboan  
-**Vitality Score**: -0.34  
-**Digitality Score**: -0.81  
+**Grassroots Presence (z-score)**: -0.34  
+**Web Presence (z-score)**: -0.81  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Playero*
+*Help us collect text resources for Playero*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Playero*
+*Help us collect audio resources for Playero*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Playero*
+*Help us collect video resources for Playero*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

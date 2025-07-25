@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Welsh  
 **Region/Area**: Northern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 2.00  
-**Digitality Score**: 4.16  
+**Grassroots Presence (z-score)**: 2.00  
+**Web Presence (z-score)**: 4.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Welsh*
+*Help us collect text resources for Welsh*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Welsh*
+*Help us collect audio resources for Welsh*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Welsh*
+*Help us collect video resources for Welsh*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

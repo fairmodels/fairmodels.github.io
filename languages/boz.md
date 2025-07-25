@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bozo, Tieyaxo
+title: Tieyaxo Bozo
 parent: Languages
 ---
 
-# Bozo, Tieyaxo (boz)
+# Tieyaxo Bozo (boz)
 
 ## Overview
 
-**Language**: Bozo, Tieyaxo  
+**Language**: Tieyaxo Bozo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.86  
-**Digitality Score**: 0.77  
+**Grassroots Presence (z-score)**: 0.86  
+**Web Presence (z-score)**: 0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bozo, Tieyaxo*
+*Help us collect text resources for Tieyaxo Bozo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bozo, Tieyaxo*
+*Help us collect audio resources for Tieyaxo Bozo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bozo, Tieyaxo*
+*Help us collect video resources for Tieyaxo Bozo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

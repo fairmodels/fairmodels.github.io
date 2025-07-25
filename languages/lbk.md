@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Bontok, Central
+title: Central Bontok
 parent: Languages
 ---
 
-# Bontok, Central (lbk)
+# Central Bontok (lbk)
 
 ## Overview
 
-**Language**: Bontok, Central  
+**Language**: Central Bontok  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Austronesian  
-**Vitality Score**: 0.64  
-**Digitality Score**: 0.96  
+**Grassroots Presence (z-score)**: 0.64  
+**Web Presence (z-score)**: 0.96  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bontok, Central*
+*Help us collect text resources for Central Bontok*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bontok, Central*
+*Help us collect audio resources for Central Bontok*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bontok, Central*
+*Help us collect video resources for Central Bontok*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

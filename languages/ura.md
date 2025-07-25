@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Urarina  
 **Region/Area**: South America, Americas  
 **Family**: Language isolate  
-**Vitality Score**: 0.46  
-**Digitality Score**: 1.06  
+**Grassroots Presence (z-score)**: 0.46  
+**Web Presence (z-score)**: 1.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Urarina*
+*Help us collect text resources for Urarina*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Urarina*
+*Help us collect audio resources for Urarina*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Urarina*
+*Help us collect video resources for Urarina*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

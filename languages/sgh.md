@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Shughni  
 **Region/Area**: Central Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 0.82  
-**Digitality Score**: 0.28  
+**Grassroots Presence (z-score)**: 0.82  
+**Web Presence (z-score)**: 0.28  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Shughni*
+*Help us collect text resources for Shughni*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Shughni*
+*Help us collect audio resources for Shughni*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Shughni*
+*Help us collect video resources for Shughni*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

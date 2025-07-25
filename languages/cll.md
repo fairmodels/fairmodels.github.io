@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Chala  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: -0.07  
-**Digitality Score**: 0.12  
+**Grassroots Presence (z-score)**: -0.07  
+**Web Presence (z-score)**: 0.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chala*
+*Help us collect text resources for Chala*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chala*
+*Help us collect audio resources for Chala*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chala*
+*Help us collect video resources for Chala*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

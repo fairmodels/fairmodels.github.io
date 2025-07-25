@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kulfa  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Nilo-Saharan  
-**Vitality Score**: 0.19  
-**Digitality Score**: -0.18  
+**Grassroots Presence (z-score)**: 0.19  
+**Web Presence (z-score)**: -0.18  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kulfa*
+*Help us collect text resources for Kulfa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kulfa*
+*Help us collect audio resources for Kulfa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kulfa*
+*Help us collect video resources for Kulfa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

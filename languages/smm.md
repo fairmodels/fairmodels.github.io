@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Musasa  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: -1.09  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -1.09  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Musasa*
+*Help us collect text resources for Musasa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Musasa*
+*Help us collect audio resources for Musasa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Musasa*
+*Help us collect video resources for Musasa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

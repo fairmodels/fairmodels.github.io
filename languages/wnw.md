@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Wintu  
 **Region/Area**: Northern America, Americas  
 **Family**: Wintuan  
-**Vitality Score**: -2.19  
-**Digitality Score**: -0.03  
+**Grassroots Presence (z-score)**: -2.19  
+**Web Presence (z-score)**: -0.03  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Wintu*
+*Help us collect text resources for Wintu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Wintu*
+*Help us collect audio resources for Wintu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Wintu*
+*Help us collect video resources for Wintu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

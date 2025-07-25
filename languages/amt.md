@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Amto  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Amto-Musan  
-**Vitality Score**: -0.14  
-**Digitality Score**: -0.27  
+**Grassroots Presence (z-score)**: -0.14  
+**Web Presence (z-score)**: -0.27  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Amto*
+*Help us collect text resources for Amto*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Amto*
+*Help us collect audio resources for Amto*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Amto*
+*Help us collect video resources for Amto*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

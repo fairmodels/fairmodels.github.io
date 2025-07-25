@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Chinantec, Lealao
+title: Lealao Chinantec
 parent: Languages
 ---
 
-# Chinantec, Lealao (cle)
+# Lealao Chinantec (cle)
 
 ## Overview
 
-**Language**: Chinantec, Lealao  
+**Language**: Lealao Chinantec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: 0.35  
-**Digitality Score**: 0.80  
+**Grassroots Presence (z-score)**: 0.35  
+**Web Presence (z-score)**: 0.80  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Chinantec, Lealao*
+*Help us collect text resources for Lealao Chinantec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Chinantec, Lealao*
+*Help us collect audio resources for Lealao Chinantec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Chinantec, Lealao*
+*Help us collect video resources for Lealao Chinantec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

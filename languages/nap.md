@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Napoletano  
 **Region/Area**: Southern Europe, Europe  
 **Family**: Indo-European  
-**Vitality Score**: 1.36  
-**Digitality Score**: 1.94  
+**Grassroots Presence (z-score)**: 1.36  
+**Web Presence (z-score)**: 1.94  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Napoletano*
+*Help us collect text resources for Napoletano*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Napoletano*
+*Help us collect audio resources for Napoletano*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Napoletano*
+*Help us collect video resources for Napoletano*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Bun  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Yuat  
-**Vitality Score**: -0.15  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.15  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Bun*
+*Help us collect text resources for Bun*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Bun*
+*Help us collect audio resources for Bun*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Bun*
+*Help us collect video resources for Bun*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

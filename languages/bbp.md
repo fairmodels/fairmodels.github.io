@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Banda, West Central
+title: West Central Banda
 parent: Languages
 ---
 
-# Banda, West Central (bbp)
+# West Central Banda (bbp)
 
 ## Overview
 
-**Language**: Banda, West Central  
+**Language**: West Central Banda  
 **Region/Area**: Middle Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.20  
-**Digitality Score**: -0.16  
+**Grassroots Presence (z-score)**: 0.20  
+**Web Presence (z-score)**: -0.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Banda, West Central*
+*Help us collect text resources for West Central Banda*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Banda, West Central*
+*Help us collect audio resources for West Central Banda*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Banda, West Central*
+*Help us collect video resources for West Central Banda*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

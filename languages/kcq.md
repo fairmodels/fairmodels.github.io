@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kamo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.32  
-**Digitality Score**: -0.39  
+**Grassroots Presence (z-score)**: 0.32  
+**Web Presence (z-score)**: -0.39  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kamo*
+*Help us collect text resources for Kamo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kamo*
+*Help us collect audio resources for Kamo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kamo*
+*Help us collect video resources for Kamo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

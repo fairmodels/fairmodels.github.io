@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Tabasaran  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Nakh-Daghestanian  
-**Vitality Score**: 0.83  
-**Digitality Score**: 1.53  
+**Grassroots Presence (z-score)**: 0.83  
+**Web Presence (z-score)**: 1.53  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Tabasaran*
+*Help us collect text resources for Tabasaran*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Tabasaran*
+*Help us collect audio resources for Tabasaran*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Tabasaran*
+*Help us collect video resources for Tabasaran*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

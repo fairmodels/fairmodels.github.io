@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mohave  
 **Region/Area**: Northern America, Americas  
 **Family**: Cochimí-Yuman  
-**Vitality Score**: -0.89  
-**Digitality Score**: 0.61  
+**Grassroots Presence (z-score)**: -0.89  
+**Web Presence (z-score)**: 0.61  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mohave*
+*Help us collect text resources for Mohave*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mohave*
+*Help us collect audio resources for Mohave*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mohave*
+*Help us collect video resources for Mohave*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

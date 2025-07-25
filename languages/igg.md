@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Igana  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Ramu-Lower Sepik  
-**Vitality Score**: -0.42  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: -0.42  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Igana*
+*Help us collect text resources for Igana*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Igana*
+*Help us collect audio resources for Igana*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Igana*
+*Help us collect video resources for Igana*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

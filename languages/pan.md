@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Punjabi, Eastern
+title: Eastern Punjabi
 parent: Languages
 ---
 
-# Punjabi, Eastern (pan)
+# Eastern Punjabi (pan)
 
 ## Overview
 
-**Language**: Punjabi, Eastern  
+**Language**: Eastern Punjabi  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Indo-European  
-**Vitality Score**: 2.53  
-**Digitality Score**: 4.12  
+**Grassroots Presence (z-score)**: 2.53  
+**Web Presence (z-score)**: 4.12  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Punjabi, Eastern*
+*Help us collect text resources for Eastern Punjabi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Punjabi, Eastern*
+*Help us collect audio resources for Eastern Punjabi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Punjabi, Eastern*
+*Help us collect video resources for Eastern Punjabi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

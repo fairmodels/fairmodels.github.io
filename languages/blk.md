@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Pa’o  
 **Region/Area**: South-Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 1.12  
-**Digitality Score**: 0.72  
+**Grassroots Presence (z-score)**: 1.12  
+**Web Presence (z-score)**: 0.72  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Pa’o*
+*Help us collect text resources for Pa’o*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Pa’o*
+*Help us collect audio resources for Pa’o*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Pa’o*
+*Help us collect video resources for Pa’o*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

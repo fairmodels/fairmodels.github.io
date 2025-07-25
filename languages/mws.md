@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Mwimbi-Muthambi  
 **Region/Area**: Eastern Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 0.80  
-**Digitality Score**: -0.77  
+**Grassroots Presence (z-score)**: 0.80  
+**Web Presence (z-score)**: -0.77  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Mwimbi-Muthambi*
+*Help us collect text resources for Mwimbi-Muthambi*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Mwimbi-Muthambi*
+*Help us collect audio resources for Mwimbi-Muthambi*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Mwimbi-Muthambi*
+*Help us collect video resources for Mwimbi-Muthambi*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

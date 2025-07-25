@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Hlersu  
 **Region/Area**: Eastern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.13  
-**Digitality Score**: -0.92  
+**Grassroots Presence (z-score)**: 0.13  
+**Web Presence (z-score)**: -0.92  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Hlersu*
+*Help us collect text resources for Hlersu*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Hlersu*
+*Help us collect audio resources for Hlersu*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Hlersu*
+*Help us collect video resources for Hlersu*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

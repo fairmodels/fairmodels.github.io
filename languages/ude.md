@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Udihe  
 **Region/Area**: Eastern Europe, Europe  
 **Family**: Tungusic  
-**Vitality Score**: -0.89  
-**Digitality Score**: -0.49  
+**Grassroots Presence (z-score)**: -0.89  
+**Web Presence (z-score)**: -0.49  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Udihe*
+*Help us collect text resources for Udihe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Udihe*
+*Help us collect audio resources for Udihe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Udihe*
+*Help us collect video resources for Udihe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

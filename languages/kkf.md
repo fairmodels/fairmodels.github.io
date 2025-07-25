@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Monpa, Kalaktang
+title: Kalaktang Monpa
 parent: Languages
 ---
 
-# Monpa, Kalaktang (kkf)
+# Kalaktang Monpa (kkf)
 
 ## Overview
 
-**Language**: Monpa, Kalaktang  
+**Language**: Kalaktang Monpa  
 **Region/Area**: Southern Asia, Asia  
 **Family**: Sino-Tibetan  
-**Vitality Score**: 0.21  
-**Digitality Score**: -0.45  
+**Grassroots Presence (z-score)**: 0.21  
+**Web Presence (z-score)**: -0.45  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Monpa, Kalaktang*
+*Help us collect text resources for Kalaktang Monpa*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Monpa, Kalaktang*
+*Help us collect audio resources for Kalaktang Monpa*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Monpa, Kalaktang*
+*Help us collect video resources for Kalaktang Monpa*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

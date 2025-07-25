@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Leipon  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Austronesian  
-**Vitality Score**: -0.18  
-**Digitality Score**: -0.17  
+**Grassroots Presence (z-score)**: -0.18  
+**Web Presence (z-score)**: -0.17  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Leipon*
+*Help us collect text resources for Leipon*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Leipon*
+*Help us collect audio resources for Leipon*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Leipon*
+*Help us collect video resources for Leipon*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

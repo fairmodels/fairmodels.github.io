@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Kare  
 **Region/Area**: Melanesia, Pacific  
 **Family**: Trans-New Guinea  
-**Vitality Score**: -0.31  
-**Digitality Score**: -0.84  
+**Grassroots Presence (z-score)**: -0.31  
+**Web Presence (z-score)**: -0.84  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Kare*
+*Help us collect text resources for Kare*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Kare*
+*Help us collect audio resources for Kare*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Kare*
+*Help us collect video resources for Kare*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

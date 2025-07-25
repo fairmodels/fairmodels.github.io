@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Khoekhoe  
 **Region/Area**: Southern Africa, Africa  
 **Family**: Khoe-Kwadi  
-**Vitality Score**: 1.29  
-**Digitality Score**: 1.16  
+**Grassroots Presence (z-score)**: 1.29  
+**Web Presence (z-score)**: 1.16  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Khoekhoe*
+*Help us collect text resources for Khoekhoe*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Khoekhoe*
+*Help us collect audio resources for Khoekhoe*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Khoekhoe*
+*Help us collect video resources for Khoekhoe*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ikwo  
 **Region/Area**: Western Africa, Africa  
 **Family**: Niger-Congo  
-**Vitality Score**: 1.00  
-**Digitality Score**: 0.20  
+**Grassroots Presence (z-score)**: 1.00  
+**Web Presence (z-score)**: 0.20  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ikwo*
+*Help us collect text resources for Ikwo*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ikwo*
+*Help us collect audio resources for Ikwo*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ikwo*
+*Help us collect video resources for Ikwo*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

@@ -1,30 +1,30 @@
 ---
 layout: default
-title: Zapotec, Coatlán
+title: Coatlán Zapotec
 parent: Languages
 ---
 
-# Zapotec, Coatlán (zps)
+# Coatlán Zapotec (zps)
 
 ## Overview
 
-**Language**: Zapotec, Coatlán  
+**Language**: Coatlán Zapotec  
 **Region/Area**: Central America, Americas  
 **Family**: Otomanguean  
-**Vitality Score**: -0.46  
-**Digitality Score**: 1.06  
+**Grassroots Presence (z-score)**: -0.46  
+**Web Presence (z-score)**: 1.06  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Zapotec, Coatlán*
+*Help us collect text resources for Coatlán Zapotec*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Zapotec, Coatlán*
+*Help us collect audio resources for Coatlán Zapotec*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Zapotec, Coatlán*
+*Help us collect video resources for Coatlán Zapotec*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }

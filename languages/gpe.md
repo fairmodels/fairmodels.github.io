@@ -11,20 +11,20 @@ parent: Languages
 **Language**: Ghanaian Pidgin English  
 **Region/Area**: Western Africa, Africa  
 **Family**: Creole  
-**Vitality Score**: 1.97  
-**Digitality Score**: 0.47  
+**Grassroots Presence (z-score)**: 1.97  
+**Web Presence (z-score)**: 0.47  
 
 ## Resources
 
 ### Text Resources
-*Coming soon - help us collect text resources for Ghanaian Pidgin English*
+*Help us collect text resources for Ghanaian Pidgin English*
 
 ### Audio Resources
-*Coming soon - help us collect audio resources for Ghanaian Pidgin English*
+*Help us collect audio resources for Ghanaian Pidgin English*
 
 ### Video Resources
-*Coming soon - help us collect video resources for Ghanaian Pidgin English*
+*Help us collect video resources for Ghanaian Pidgin English*
 
 ---
 
-[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
+[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }
