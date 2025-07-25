@@ -4,7 +4,7 @@ title: Ghotuo
 parent: Languages
 ---
 
-# Ghotuo (aaa)
+## Ghotuo (aaa)
 
 ## Overview
 
@@ -14,11 +14,7 @@ parent: Languages
 **Grassroots Presence (z-score)**: 0.22  
 **Web Presence (z-score)**: -0.02
 
-<!-- markdownlint-disable MD033 -->
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.8529,7.0154,6.0529,7.2154&layer=mapnik&marker=7.1154,5.9529" style="border: 1px solid black"></iframe>
-<br/>
-<small><a href="https://www.openstreetmap.org/#map=12/7.1154/5.9529">View Larger Map</a></small>
-<!-- markdownlint-enable MD033 -->
+![Map of Ghotuo](https://static-maps.pro/openstreetmap/api/v1/marker?marker=lon%3A5.9529%3Blat%3A7.1154%3Bicon%3Asmall-red-cutout&zoom=8&width=800&height=400)
 
 ## Resources
 
