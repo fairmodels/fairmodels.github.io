@@ -1,0 +1,30 @@
+---
+layout: default
+title: Lucumi
+parent: Languages
+---
+
+# Lucumi (luq)
+
+## Overview
+
+**Language**: Lucumi  
+**Region/Area**: Caribbean, Americas  
+**Family**: Niger-Congo  
+**Vitality Score**: -1.87  
+**Digitality Score**: -0.87  
+
+## Resources
+
+### Text Resources
+*Coming soon - help us collect text resources for Lucumi*
+
+### Audio Resources
+*Coming soon - help us collect audio resources for Lucumi*
+
+### Video Resources
+*Coming soon - help us collect video resources for Lucumi*
+
+---
+
+[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }

@@ -1,0 +1,30 @@
+---
+layout: default
+title: Lower Burdekin
+parent: Languages
+---
+
+# Lower Burdekin (xbb)
+
+## Overview
+
+**Language**: Lower Burdekin  
+**Region/Area**: Australia and New Zealand, Pacific  
+**Family**: Australian  
+**Vitality Score**: -2.19  
+**Digitality Score**: -1.09  
+
+## Resources
+
+### Text Resources
+*Coming soon - help us collect text resources for Lower Burdekin*
+
+### Audio Resources
+*Coming soon - help us collect audio resources for Lower Burdekin*
+
+### Video Resources
+*Coming soon - help us collect video resources for Lower Burdekin*
+
+---
+
+[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }

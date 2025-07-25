@@ -1,0 +1,30 @@
+---
+layout: default
+title: Arakwal
+parent: Languages
+---
+
+# Arakwal (rkw)
+
+## Overview
+
+**Language**: Arakwal  
+**Region/Area**: Australia and New Zealand, Pacific  
+**Family**: Australian  
+**Vitality Score**: -2.19  
+**Digitality Score**: -0.81  
+
+## Resources
+
+### Text Resources
+*Coming soon - help us collect text resources for Arakwal*
+
+### Audio Resources
+*Coming soon - help us collect audio resources for Arakwal*
+
+### Video Resources
+*Coming soon - help us collect video resources for Arakwal*
+
+---
+
+[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }

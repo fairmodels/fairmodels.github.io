@@ -1,0 +1,30 @@
+---
+layout: default
+title: Wagaya
+parent: Languages
+---
+
+# Wagaya (wga)
+
+## Overview
+
+**Language**: Wagaya  
+**Region/Area**: Australia and New Zealand, Pacific  
+**Family**: Australian  
+**Vitality Score**: -2.19  
+**Digitality Score**: -0.55  
+
+## Resources
+
+### Text Resources
+*Coming soon - help us collect text resources for Wagaya*
+
+### Audio Resources
+*Coming soon - help us collect audio resources for Wagaya*
+
+### Video Resources
+*Coming soon - help us collect video resources for Wagaya*
+
+---
+
+[Contribute resources](https://fairtrain.github.io/){: .btn .btn-purple }
