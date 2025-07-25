@@ -21,3 +21,6 @@ vendor/
 
 # Thumbnails
 ._*
+
+# Data files
+*.csv
