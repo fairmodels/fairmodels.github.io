@@ -6,6 +6,9 @@ description: "Towards fairer training data"
 permalink: /
 ---
 
+{: .note }
+Development in progress
+
 <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
 
 <dotlottie-wc
@@ -17,3 +20,6 @@ permalink: /
 </dotlottie-wc>
 
 Modern AI systems are trained on datasets that exclude more than 99% of the world’s living languages. As large language models increasingly shape research, education, industry, and policy, this imbalance determines whose knowledge is visible — and whose is erased. [Fairtrain](https://fairtrain.github.io/) is envisioned as an open‑source, community‑owned project that crowdsources and curates openly licensed text, audio, and video resources across 7000+ living human languages, enabling training corpora that reflect a richer diversity of global human knowledge. By expanding linguistic representation at scale, we work towards a modeling landscape that is more equitable, reliable, and responsive to the needs of every human community.
+
+[Explore resources](https://fairtrain.github.io/resources){: .btn }
+[Contribute resource(s)](https://fairtrain.github.io/contribute){: .btn-purple }
