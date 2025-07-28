@@ -17,10 +17,10 @@ parent: Languages
 
 | Language | ISO 639-3 | Region                   | Family        | Grassroots Presence (z-score) | Web Presence (z-score) |
 | :------- | :-------- | :----------------------- | :------------ | :---------------------------- | :--------------------- |
-| Arum     | `aab`     | Western Africa, Africa   | Niger-Congo   | 0.22                          | -0.02                  |
+| Arum     | `aab`     | Western Africa, Africa   | Niger-Congo   | 0.23                          | -0.31                  |
 
 
-Learn more about [presence scores](https://theinvisiblelab.org/languages).
+Learn more about [presence scores](https://theinvisiblelab.org/languages){:target="_blank"}.
 {: .text-grey-dk-000 .fs-1 }
 
 [![Map of Arum](https://raw.githubusercontent.com/theinvisiblelab/invisible-languages/refs/heads/main/maps/aab.webp)](https://www.openstreetmap.org/?mlat=9.0164&mlon=8.612#map=9/9.0164/8.612){:target="_blank"}
