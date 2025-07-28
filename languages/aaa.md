@@ -36,6 +36,6 @@ _A map showing the approximate location of Ghotuo speakers._
 *   
 
 {: .note }
-We are actively looking for more resources in Ghotuo! If you have any text, audio, or video materials, please consider contributing.
-
-[Contribute Resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple .btn-lg }
+> We are actively looking for more resources in Ghotuo! If you have any text, audio, or video materials, please consider contributing.
+> 
+> [Contribute Resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple .btn-lg }
