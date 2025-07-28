@@ -6,6 +6,8 @@ parent: Languages
 
 # Ghotuo
 
+<br/>
+
 [Contribute Resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }
 
 | Language | ISO 639-3 | Region                   | Family        | Grassroots Presence (z-score) | Web Presence (z-score) |
@@ -17,12 +19,6 @@ parent: Languages
 _A map showing the approximate location of Ghotuo speakers._
 
 ---
-
-## Table of Contents
-{: .no_toc }
-
-* TOC
-{:toc}
 
 ## Resources
 
