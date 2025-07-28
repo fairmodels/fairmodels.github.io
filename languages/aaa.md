@@ -8,7 +8,7 @@ parent: Languages
 
 | Language | ISO 639-3 | Region                   | Family        | Grassroots Presence (z-score) | Web Presence (z-score) |
 | :------- | :-------- | :----------------------- | :------------ | :---------------------------- | :--------------------- |
-| Ghotuo   | `aaa`       | Western Africa, Africa   | Niger-Congo   | 0.22                          | -0.02                  |
+| Ghotuo   | `aaa`     | Western Africa, Africa   | Niger-Congo   | 0.22                          | -0.02                  |
 
 [Contribute Resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }
 
@@ -16,6 +16,12 @@ parent: Languages
 _A map showing the approximate location of Ghotuo speakers._
 
 ---
+
+## Table of Contents
+{: .no_toc }
+
+* TOC
+{:toc}
 
 ## Resources
 
