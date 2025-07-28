@@ -34,15 +34,29 @@ The map shows an approximate centroid of global Welsh speakers.
 
 ### Text
 
-- Awaiting first resource...  
+- [BBC Cymru Fyw](https://www.bbc.com/cymrufyw) - BBC Welsh language news
+- [Golwg360](https://golwg360.cymru/) - Welsh news and current affairs
+- [Papur Aur Bro](http://www.papuraubro.cymru/) - Local Welsh news
+- [Welsh Wikipedia](https://cy.wikipedia.org) - Welsh language Wikipedia
+- [Welsh Government](https://www.llyw.cymru/) - Official Welsh government website
+- [Hwb](https://hwb.gov.wales/) - Welsh government education portal
+- [National Eisteddfod](https://eisteddfod.cymru/) - Welsh cultural festival
+- [National Museum Wales](https://museum.wales/cy/) - National Museum of Wales
+- [Welsh Books Council](https://llyfrau.cymru/) - Welsh language literature
+- [Barddas](https://www.barddas.cymru/) - Welsh language poetry society
+- [Cymdeithas yr Iaith](https://cymdeithas.cymru/) - Welsh language preservation organization
+- [Plaid Cymru](https://www.plaid.cymru/) - Welsh political party
+- [Plaid Ifanc](https://www.plaidifanc.org/) - Young Welsh political organization
+- [Mudiad Meithrin](https://www.meithrin.cymru/) - Early childhood education in Welsh
+- [Urdd Gobaith Cymru](https://www.urdd.cymru/) - Welsh youth organization
 
 ### Audio
 
-- Awaiting first resource...
+- [S4C Clic](https://www.s4c.cymru/clic/) - Welsh-language TV channel with audio content
 
 ### Video
 
-- Awaiting first resource...
+- [S4C Clic](https://www.s4c.cymru/clic/) - Welsh-language television channel
 
 &nbsp;
 
