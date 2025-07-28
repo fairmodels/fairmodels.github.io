@@ -20,7 +20,7 @@ parent: Languages
 | Ghotuo   | `aaa`     | Western Africa, Africa   | Niger-Congo   | 0.22                          | -0.02                  |
 
 
-[![Map of Ghotuo](https://raw.githubusercontent.com/theinvisiblelab/invisible-languages/refs/heads/main/maps/aaa.webp)](https://www.openstreetmap.org/?mlat=7.591&mlon=5.845#map=7/7.591/5.845){:target="_blank"}
+[![Map of Ghotuo](https://raw.githubusercontent.com/theinvisiblelab/invisible-languages/refs/heads/main/maps/aaa.webp)](https://www.openstreetmap.org/?mlat=7.591&mlon=5.845#map=9/7.591/5.845){:target="_blank"}
 
 The map shows an approximate centroid of global Ghotuo speakers.
 {: .text-grey-dk-000 .fs-3 }
