@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://fairtrain.github.io
 
 aux_links:
-  "Fairtrain on GitHub": https://github.com/fairtrain/fairtrain.github.io
+  "GitHub": https://github.com/fairtrain/fairtrain.github.io
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -15,5 +15,5 @@ favicon_ico: "/assets/images/iceberg.ico"
 
 callouts:
   note:
-    title: "❤️ Support Us"
+    title: "🌱 Support Fairtrain"
     color: purple
