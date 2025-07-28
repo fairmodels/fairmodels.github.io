@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Arum
+title: Ari
 parent: Languages
 ---
 
-# Arum
+# Ari
 
 <br/>
 
@@ -17,15 +17,15 @@ parent: Languages
 
 | Language | ISO 639-3 | Region                   | Family        | Grassroots Presence (z-score) | Web Presence (z-score) |
 | :------- | :-------- | :----------------------- | :------------ | :---------------------------- | :--------------------- |
-| Arum     | `aab`     | Western Africa, Africa   | Niger-Congo   | 0.24                          | -0.32                  |
+| Ari      | `aac`     | Melanesia, Pacific | Trans-New Guinea | -0.74                          | -0.34                   |
 
 
 Learn more about [presence scores](https://theinvisiblelab.org/languages){:target="_blank"}.
 {: .text-grey-dk-000 .fs-1 }
 
-[![Map of Arum](https://raw.githubusercontent.com/theinvisiblelab/invisible-languages/refs/heads/main/maps/aab.webp)](https://www.openstreetmap.org/?mlat=9.0164&mlon=8.612#map=9/9.0164/8.612){:target="_blank"}
+[![Map of Ari](https://raw.githubusercontent.com/theinvisiblelab/invisible-languages/refs/heads/main/maps/aac.webp)](https://www.openstreetmap.org/?mlat=-7.9172&mlon=142.3877#map=9/-7.9172/142.3877){:target="_blank"}
 
-The map shows an approximate centroid of global Arum speakers.
+The map shows an approximate centroid of global Ari speakers.
 {: .text-grey-dk-000 .fs-3 }
 
 ---
