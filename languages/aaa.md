@@ -2,31 +2,33 @@
 layout: default
 title: Ghotuo
 parent: Languages
+toc: true
 ---
 
-## Ghotuo (aaa)
+# Ghotuo (aaa)
 
 ## Overview
 
 **Language**: Ghotuo  
-**Region/Area**: Western Africa, Africa  
+**Region**: Western Africa, Africa  
 **Family**: Niger-Congo  
 **Grassroots Presence (z-score)**: 0.22  
 **Web Presence (z-score)**: -0.02
 
-![Map of Ghotuo](https://static-maps.pro/openstreetmap/api/v1/marker?marker=lon%3A5.9529%3Blat%3A7.1154%3Bicon%3Asmall-red-cutout&zoom=8&width=800&height=400)
+[![Map of Ghotuo](https://raw.githubusercontent.com/theinvisiblelab/invisible-languages/refs/heads/main/maps/aaa.webp)](https://www.openstreetmap.org/?mlat=7.591&mlon=5.845#map=7/7.591/5.845){:target="_blank"}
+ (aaa)
 
 ## Resources
 
-### Text Resources
+### Text
 
 Help us collect text resources for Ghotuo
 
-### Audio Resources
+### Audio
 
 Help us collect audio resources for Ghotuo
 
-### Video Resources
+### Video
 
 Help us collect video resources for Ghotuo
 
