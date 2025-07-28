@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Ari
+title: Welsh
 parent: Languages
 ---
 
-# Ari
+# Welsh
 
 <br/>
 
 {: .note }
-> We are a community supported project actively looking for more resources in Ari. If you have relevant text, audio, or video materials, please consider contributing.
+> We are a community supported project actively looking for more resources in Welsh. If you have relevant text, audio, or video materials, please consider contributing.
 > 
 > [Contribute Resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple .btn-lg }
 
@@ -17,15 +17,15 @@ parent: Languages
 
 | Language | ISO 639-3 | Region                   | Family        | Grassroots Presence (z-score) | Web Presence (z-score) |
 | :------- | :-------- | :----------------------- | :------------ | :---------------------------- | :--------------------- |
-| Ari      | `aac`     | Melanesia, Pacific | Trans-New Guinea | -0.74                          | -0.34                   |
+| Welsh    | `cym`     | Northern Europe, Europe   | Indo-European | 2.00                         | 4.16                   |
 
 
 Learn more about [presence scores](https://theinvisiblelab.org/languages){:target="_blank"}.
 {: .text-grey-dk-000 .fs-1 }
 
-[![Map of Ari](https://raw.githubusercontent.com/theinvisiblelab/invisible-languages/refs/heads/main/maps/aac.webp)](https://www.openstreetmap.org/?mlat=-7.9172&mlon=142.3877#map=9/-7.9172/142.3877){:target="_blank"}
+[![Map of Welsh](https://raw.githubusercontent.com/theinvisiblelab/invisible-languages/refs/heads/main/maps/cym.webp)](https://www.openstreetmap.org/?mlat=51.9783&mlon=-4.2071#map=9/51.9783/-4.2071){:target="_blank"}
 
-The map shows an approximate centroid of global Ari speakers.
+The map shows an approximate centroid of global Welsh speakers.
 {: .text-grey-dk-000 .fs-3 }
 
 ---
