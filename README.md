@@ -1,4 +1,4 @@
-# Fairtrain
+# 🐧 Fairtrain
 
 [![License](https://img.shields.io/github/license/fairtrain/fairtrain.github.io)](LICENSE)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/fairtrain/fairtrain.github.io)
