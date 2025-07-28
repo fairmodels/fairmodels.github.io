@@ -22,8 +22,8 @@ parent: Languages
 
 [![Map of Ghotuo](https://raw.githubusercontent.com/theinvisiblelab/invisible-languages/refs/heads/main/maps/aaa.webp)](https://www.openstreetmap.org/?mlat=7.591&mlon=5.845#map=7/7.591/5.845){:target="_blank"}
 
-*The map shows an approximate centroid of global Ghotuo speakers.*
-{: .text-center .text-grey-dk-000 .fs-3 }
+The map shows an approximate centroid of global Ghotuo speakers.
+{: .text-grey-dk-000 .fs-3 }
 
 ---
 
@@ -43,4 +43,4 @@ parent: Languages
 
 &nbsp;
 
-[🌱 Contribute Resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple .btn-lg }
+[Contribute Resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple .btn-lg }
