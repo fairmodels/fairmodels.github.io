@@ -22,4 +22,4 @@ Modern AI systems are trained on datasets that exclude more than 99% of the worl
 
 <br/>
 [Explore resources](./languages){: .btn .btn-outline }
-[Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }
+[🌱 Contribute resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple }
