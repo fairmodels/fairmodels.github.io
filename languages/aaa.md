@@ -11,7 +11,7 @@ parent: Languages
 {: .note }
 > We are a community supported project actively looking for more resources in Ghotuo. If you have relevant text, audio, or video materials, please consider contributing.
 > 
-> [🌱 Contribute Resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple .btn-lg }
+> [Contribute Resources](https://forms.office.com/e/1SfLJx3u1r){: .btn .btn-purple .btn-lg }
 
 <br/>
 

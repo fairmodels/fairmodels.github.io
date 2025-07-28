@@ -15,5 +15,6 @@ favicon_ico: "/assets/images/iceberg.ico"
 
 callouts:
   note:
-    title: Note
-    color: blue
+    title: Support Fairtrain
+    color: "#f0f0f0"
+    icon: "fa-solid fa-heart"
