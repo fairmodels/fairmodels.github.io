@@ -1,11 +1,11 @@
-title: Fairtrain
-description: Towards fairer training data
+title: Fairmodels
+description: Towards fairer language models
 theme: just-the-docs
 
-url: https://fairtrain.github.io
+url: https://fairmodels.github.io
 
 aux_links:
-  "GitHub": https://github.com/fairtrain/fairtrain.github.io
+  "GitHub": https://github.com/fairmodels/fairmodels.github.io
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
