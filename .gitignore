@@ -27,3 +27,5 @@ vendor/
 
 # script for generated language pages
 generate_language_pages.py
+
+data/
